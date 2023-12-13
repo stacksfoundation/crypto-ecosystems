@@ -13,6 +13,9 @@ url = "https://github.com/withtally/abis"
 url = "https://github.com/withtally/add-governance-to-existing-tokens"
 
 [[repo]]
+url = "https://github.com/withtally/api-quickstart-app"
+
+[[repo]]
 url = "https://github.com/withtally/CC_Hackathon"
 
 [[repo]]
@@ -28,10 +31,10 @@ url = "https://github.com/withtally/dao-auto-queue"
 url = "https://github.com/withtally/dao.new"
 
 [[repo]]
-url = "https://github.com/withtally/docs"
+url = "https://github.com/withtally/delegate-metadata-sdk"
 
 [[repo]]
-url = "https://github.com/withtally/ethgen"
+url = "https://github.com/withtally/docs"
 
 [[repo]]
 url = "https://github.com/withtally/failsafe"
@@ -49,16 +52,28 @@ url = "https://github.com/withtally/Gov-Alpha-Deployer-Frontend"
 url = "https://github.com/withtally/gov_deployer"
 
 [[repo]]
+url = "https://github.com/withtally/gqlgen-opentelemetry"
+
+[[repo]]
 url = "https://github.com/withtally/graphprotocol-utils"
 
 [[repo]]
 url = "https://github.com/withtally/juice-contracts-v2"
 
 [[repo]]
+url = "https://github.com/withtally/ledger-asset-dapps"
+
+[[repo]]
+url = "https://github.com/withtally/ledger-asset-dapps-old"
+
+[[repo]]
 url = "https://github.com/withtally/my-nft-dao-project"
 
 [[repo]]
 url = "https://github.com/withtally/NFTNS"
+
+[[repo]]
+url = "https://github.com/withtally/open"
 
 [[repo]]
 url = "https://github.com/withtally/paths-to-victory"
@@ -82,6 +97,9 @@ url = "https://github.com/withtally/solidity-template"
 url = "https://github.com/withtally/synceth"
 
 [[repo]]
+url = "https://github.com/withtally/tally-api-quickstart"
+
+[[repo]]
 url = "https://github.com/withtally/Tally-Gas-Refunder"
 
 [[repo]]
@@ -101,6 +119,9 @@ url = "https://github.com/withtally/tally-mm-hackathon-frontend"
 
 [[repo]]
 url = "https://github.com/withtally/tally-publish-dao"
+
+[[repo]]
+url = "https://github.com/withtally/tally-zero"
 
 [[repo]]
 url = "https://github.com/withtally/Tutorial-Deploy-Governance"

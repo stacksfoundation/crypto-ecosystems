@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/WingsDao"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dfinance/dnode"
+
+[[repo]]
+url = "https://github.com/dfinance/dvm-proto"
+
+[[repo]]
+url = "https://github.com/dfinance/libra"
+
+[[repo]]
 url = "https://github.com/WingsDao/ABI"
 
 [[repo]]
@@ -43,9 +52,6 @@ url = "https://github.com/WingsDao/griffin-consensus-poc"
 url = "https://github.com/WingsDao/iagon-integration"
 
 [[repo]]
-url = "https://github.com/WingsDao/libra"
-
-[[repo]]
 url = "https://github.com/WingsDao/peg-cli"
 
 [[repo]]
@@ -73,13 +79,7 @@ url = "https://github.com/WingsDao/tools"
 url = "https://github.com/WingsDao/ui-kit"
 
 [[repo]]
-url = "https://github.com/WingsDao/vm-proto"
-
-[[repo]]
 url = "https://github.com/WingsDao/wb-tx-signer"
-
-[[repo]]
-url = "https://github.com/WingsDao/wings-blockchain"
 
 [[repo]]
 url = "https://github.com/WingsDao/wings-bridge"

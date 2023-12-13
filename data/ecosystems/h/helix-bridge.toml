@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/helix-bridge"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/helix-bridge/auto-test"
+
+[[repo]]
 url = "https://github.com/helix-bridge/contracts"
 
 [[repo]]
 url = "https://github.com/helix-bridge/dao"
+
+[[repo]]
+url = "https://github.com/helix-bridge/deprecated-wormhole-backend"
 
 [[repo]]
 url = "https://github.com/helix-bridge/docs"
@@ -22,10 +28,16 @@ url = "https://github.com/helix-bridge/Grants-Program"
 url = "https://github.com/helix-bridge/guard"
 
 [[repo]]
+url = "https://github.com/helix-bridge/helix-docs"
+
+[[repo]]
 url = "https://github.com/helix-bridge/helix-ui"
 
 [[repo]]
 url = "https://github.com/helix-bridge/indexer"
+
+[[repo]]
+url = "https://github.com/helix-bridge/relayer"
 
 [[repo]]
 url = "https://github.com/helix-bridge/wormhole-ui"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/accordproject"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/accordproject/.github"
+
+[[repo]]
 url = "https://github.com/accordproject/ap-slack-welcome-bot"
 
 [[repo]]
@@ -38,9 +41,6 @@ url = "https://github.com/accordproject/cicero-template-library"
 url = "https://github.com/accordproject/cicero-ui"
 
 [[repo]]
-url = "https://github.com/accordproject/cicero-vscode-extension"
-
-[[repo]]
 url = "https://github.com/accordproject/cicero-word-add-in"
 
 [[repo]]
@@ -50,10 +50,19 @@ url = "https://github.com/accordproject/cicero-word-add-in-deprecated"
 url = "https://github.com/accordproject/concerto"
 
 [[repo]]
+url = "https://github.com/accordproject/concerto-cli"
+
+[[repo]]
+url = "https://github.com/accordproject/concerto-codegen"
+
+[[repo]]
 url = "https://github.com/accordproject/concerto-docs"
 
 [[repo]]
 url = "https://github.com/accordproject/concerto-dotnet"
+
+[[repo]]
+url = "https://github.com/accordproject/concerto-metamodel"
 
 [[repo]]
 url = "https://github.com/accordproject/concerto-tools"
@@ -69,9 +78,6 @@ url = "https://github.com/accordproject/corda-accord-frontEnd"
 
 [[repo]]
 url = "https://github.com/accordproject/corda-accord-template"
-
-[[repo]]
-url = "https://github.com/accordproject/docs"
 
 [[repo]]
 url = "https://github.com/accordproject/ergo"
@@ -113,9 +119,6 @@ url = "https://github.com/accordproject/labs-cicero-classify"
 url = "https://github.com/accordproject/labs-cicero-classify-api"
 
 [[repo]]
-url = "https://github.com/accordproject/labs_cicero_classify"
-
-[[repo]]
 url = "https://github.com/accordproject/maestro"
 
 [[repo]]
@@ -147,6 +150,21 @@ url = "https://github.com/accordproject/techdocs"
 
 [[repo]]
 url = "https://github.com/accordproject/technical-steering-committee"
+
+[[repo]]
+url = "https://github.com/accordproject/template-archive"
+
+[[repo]]
+url = "https://github.com/accordproject/template-cli"
+
+[[repo]]
+url = "https://github.com/accordproject/template-compiler"
+
+[[repo]]
+url = "https://github.com/accordproject/template-engine"
+
+[[repo]]
+url = "https://github.com/accordproject/template-playground"
 
 [[repo]]
 url = "https://github.com/accordproject/template-studio"

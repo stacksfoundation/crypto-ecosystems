@@ -82,9 +82,6 @@ url = "https://github.com/polyswarm/documentation"
 url = "https://github.com/polyswarm/e2e"
 
 [[repo]]
-url = "https://github.com/polyswarm/engine-template"
-
-[[repo]]
 url = "https://github.com/polyswarm/eth-contract-metadata"
 
 [[repo]]
@@ -262,6 +259,9 @@ url = "https://github.com/polyswarm/rust-secp256k1"
 url = "https://github.com/polyswarm/rust-web3"
 
 [[repo]]
+url = "https://github.com/polyswarm/scikit-learn"
+
+[[repo]]
 url = "https://github.com/polyswarm/sd-infosec"
 
 [[repo]]
@@ -286,10 +286,16 @@ url = "https://github.com/polyswarm/snowplow-s3-loader"
 url = "https://github.com/polyswarm/stripe-rs"
 
 [[repo]]
+url = "https://github.com/polyswarm/threatconnect-jobs"
+
+[[repo]]
 url = "https://github.com/polyswarm/threatconnect-playbooks"
 
 [[repo]]
 url = "https://github.com/polyswarm/token_example"
+
+[[repo]]
+url = "https://github.com/polyswarm/Tools"
 
 [[repo]]
 url = "https://github.com/polyswarm/transaction-signer"
@@ -299,6 +305,9 @@ url = "https://github.com/polyswarm/trezor-wallet-provider"
 
 [[repo]]
 url = "https://github.com/polyswarm/trezor-web3-provider"
+
+[[repo]]
+url = "https://github.com/polyswarm/triage"
 
 [[repo]]
 url = "https://github.com/polyswarm/truffle-flattener"

@@ -7,19 +7,22 @@ github_organizations = ["https://github.com/TheRougeProject"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/TheRougeProject/legacy-v0-core"
+
+[[repo]]
+url = "https://github.com/TheRougeProject/legacy-v0-rouge.js"
+
+[[repo]]
 url = "https://github.com/TheRougeProject/rge-faucet"
 
 [[repo]]
 url = "https://github.com/TheRougeProject/rouge-coupon-demo"
 
 [[repo]]
-url = "https://github.com/TheRougeProject/rouge-protocol-solidity"
-
-[[repo]]
 url = "https://github.com/TheRougeProject/rouge.js"
 
 [[repo]]
-url = "https://github.com/TheRougeProject/RougeTokens"
+url = "https://github.com/TheRougeProject/ticket-dapp"
 
 [[repo]]
 url = "https://github.com/TheRougeProject/v0"
@@ -29,6 +32,9 @@ url = "https://github.com/TheRougeProject/v0-core"
 
 [[repo]]
 url = "https://github.com/TheRougeProject/v2-core"
+
+[[repo]]
+url = "https://github.com/TheRougeProject/v2-mono-beta"
 
 [[repo]]
 url = "https://github.com/TheRougeProject/v2-ticket-app"

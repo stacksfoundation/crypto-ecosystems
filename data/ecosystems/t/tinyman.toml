@@ -34,7 +34,16 @@ url = "https://github.com/tinymanorg/tinyman-homepage"
 url = "https://github.com/tinymanorg/tinyman-js-sdk"
 
 [[repo]]
+url = "https://github.com/tinymanorg/tinyman-misc"
+
+[[repo]]
 url = "https://github.com/tinymanorg/tinyman-mobile-sdk"
 
 [[repo]]
+url = "https://github.com/tinymanorg/tinyman-periphery-contracts-v2"
+
+[[repo]]
 url = "https://github.com/tinymanorg/tinyman-py-sdk"
+
+[[repo]]
+url = "https://github.com/tinymanorg/tinyman-swap-widget-sdk"

@@ -19,6 +19,9 @@ url = "https://github.com/Giveth/ApproveAndVoteGov"
 url = "https://github.com/Giveth/bridge-contract"
 
 [[repo]]
+url = "https://github.com/Giveth/buddy-bot"
+
+[[repo]]
 url = "https://github.com/Giveth/Campaign_Deployer"
 
 [[repo]]
@@ -106,6 +109,15 @@ url = "https://github.com/Giveth/givbacks-scripts"
 url = "https://github.com/Giveth/GIVeconomy"
 
 [[repo]]
+url = "https://github.com/Giveth/giveconomy-balance-aggregator"
+
+[[repo]]
+url = "https://github.com/Giveth/giveconomy-foundry"
+
+[[repo]]
+url = "https://github.com/Giveth/GIVeconomy-fundraising"
+
+[[repo]]
 url = "https://github.com/Giveth/giveconomy-notification-service"
 
 [[repo]]
@@ -116,9 +128,6 @@ url = "https://github.com/Giveth/giveth-1-preview"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-1-simulation"
-
-[[repo]]
-url = "https://github.com/Giveth/giveth-2"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-beta-docs"
@@ -133,10 +142,16 @@ url = "https://github.com/Giveth/giveth-bridge"
 url = "https://github.com/Giveth/giveth-bridge-monitor"
 
 [[repo]]
+url = "https://github.com/Giveth/giveth-caddy"
+
+[[repo]]
 url = "https://github.com/Giveth/giveth-claims"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-contracts-template"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-cowswap"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-dapp"
@@ -149,6 +164,9 @@ url = "https://github.com/Giveth/giveth-design-assets"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-docs"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-docs-bot"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-donations-dashboard"
@@ -172,10 +190,19 @@ url = "https://github.com/Giveth/giveth-io-typescript"
 url = "https://github.com/Giveth/giveth-landing-page"
 
 [[repo]]
+url = "https://github.com/Giveth/giveth-monitor"
+
+[[repo]]
 url = "https://github.com/Giveth/giveth-next"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-planning"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-pro"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-rewards"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-toshi-app"
@@ -187,16 +214,22 @@ url = "https://github.com/Giveth/giveth-wiki"
 url = "https://github.com/Giveth/giveth-world"
 
 [[repo]]
+url = "https://github.com/Giveth/givethai"
+
+[[repo]]
 url = "https://github.com/Giveth/givethcampaign"
 
 [[repo]]
 url = "https://github.com/Giveth/givethdirectory"
 
 [[repo]]
+url = "https://github.com/Giveth/givethGovernor"
+
+[[repo]]
 url = "https://github.com/Giveth/GIVfi"
 
 [[repo]]
-url = "https://github.com/Giveth/GIVfi-donation-handler"
+url = "https://github.com/Giveth/GIVfi-subgraph"
 
 [[repo]]
 url = "https://github.com/Giveth/givpower"
@@ -205,13 +238,16 @@ url = "https://github.com/Giveth/givpower"
 url = "https://github.com/Giveth/givpower-bot"
 
 [[repo]]
-url = "https://github.com/Giveth/givpower-subgraph"
-
-[[repo]]
 url = "https://github.com/Giveth/gov-lab"
 
 [[repo]]
+url = "https://github.com/Giveth/graph-deploy"
+
+[[repo]]
 url = "https://github.com/Giveth/impact-graph"
+
+[[repo]]
+url = "https://github.com/Giveth/langchain-ask-giveth"
 
 [[repo]]
 url = "https://github.com/Giveth/liquidity-mining-dapp"
@@ -247,6 +283,9 @@ url = "https://github.com/Giveth/milestonetracker-ui"
 url = "https://github.com/Giveth/minime"
 
 [[repo]]
+url = "https://github.com/Giveth/monoswap"
+
+[[repo]]
 url = "https://github.com/Giveth/multisig"
 
 [[repo]]
@@ -254,6 +293,9 @@ url = "https://github.com/Giveth/MVP"
 
 [[repo]]
 url = "https://github.com/Giveth/notification-center"
+
+[[repo]]
+url = "https://github.com/Giveth/PFPtest"
 
 [[repo]]
 url = "https://github.com/Giveth/pollmanager"
@@ -268,10 +310,16 @@ url = "https://github.com/Giveth/project-curation"
 url = "https://github.com/Giveth/project-nominations"
 
 [[repo]]
+url = "https://github.com/Giveth/rad-classic"
+
+[[repo]]
 url = "https://github.com/Giveth/raw-praise"
 
 [[repo]]
 url = "https://github.com/Giveth/retro-price"
+
+[[repo]]
+url = "https://github.com/Giveth/retropgf-op"
 
 [[repo]]
 url = "https://github.com/Giveth/reward-dao"

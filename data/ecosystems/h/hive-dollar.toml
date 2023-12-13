@@ -61,7 +61,13 @@ url = "https://github.com/openhive-network/jussi"
 url = "https://github.com/openhive-network/libcrypto"
 
 [[repo]]
+url = "https://github.com/openhive-network/lighthive"
+
+[[repo]]
 url = "https://github.com/openhive-network/psql_tools"
+
+[[repo]]
+url = "https://github.com/openhive-network/Rocket.Chat"
 
 [[repo]]
 url = "https://github.com/openhive-network/rpc-auth"

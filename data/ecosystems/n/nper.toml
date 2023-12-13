@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/NperProject"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/NperProject/Android_Wallet"
+url = "https://github.com/ChainusProject/Android_Wallet"
 
 [[repo]]
-url = "https://github.com/NperProject/Marketing"
+url = "https://github.com/ChainusProject/Marketing"
 
 [[repo]]
-url = "https://github.com/NperProject/SmartContract"
+url = "https://github.com/ChainusProject/SmartContract"

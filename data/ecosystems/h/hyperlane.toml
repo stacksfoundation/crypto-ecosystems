@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/hyperlane-xyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hyperlane-xyz/Awesome-Hyperlane"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/celo-ethers-provider"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/coingecko-rs"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/config-rs"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/docs"
@@ -22,7 +28,16 @@ url = "https://github.com/hyperlane-xyz/ethers-rs"
 url = "https://github.com/hyperlane-xyz/fuel-contracts"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/fuel-indexer"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/fuels-rs"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/gameboy-emulator"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/Hackathon-starterkit"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hips"
@@ -31,10 +46,19 @@ url = "https://github.com/hyperlane-xyz/hips"
 url = "https://github.com/hyperlane-xyz/hyperlane-app-template"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-content"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-controller"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-deploy"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-explorer"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-infra"
 
 [[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-monorepo"
@@ -46,4 +70,28 @@ url = "https://github.com/hyperlane-xyz/hyperlane-nft"
 url = "https://github.com/hyperlane-xyz/hyperlane-quickstart"
 
 [[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-registry"
+
+[[repo]]
 url = "https://github.com/hyperlane-xyz/hyperlane-token"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-token-fuel"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-warp-ui-template"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-widgets"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hypermint-warp-ui"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/parity-common"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/solana"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/solana-program-library"

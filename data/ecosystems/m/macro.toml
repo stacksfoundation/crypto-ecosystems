@@ -55,7 +55,25 @@ url = "https://github.com/0xMacro/erc20_lecture"
 url = "https://github.com/0xMacro/exam_processor"
 
 [[repo]]
+url = "https://github.com/0xMacro/forge-no-remappings-and-npm"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-oz-no-npm"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-oz-no-npm-no-toml-libs"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-remappings"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-remappings-and-npm"
+
+[[repo]]
 url = "https://github.com/0xMacro/gas-numbers-every-solidity-dev-should-know"
+
+[[repo]]
+url = "https://github.com/0xMacro/governance_lecture"
 
 [[repo]]
 url = "https://github.com/0xMacro/hardhat_testing_demo"
@@ -91,10 +109,22 @@ url = "https://github.com/0xMacro/mainnet-forking-lecture"
 url = "https://github.com/0xMacro/memory_storage_params"
 
 [[repo]]
+url = "https://github.com/0xMacro/Merdetoken"
+
+[[repo]]
 url = "https://github.com/0xMacro/micro_audits_lecture"
 
 [[repo]]
 url = "https://github.com/0xMacro/onchain_signatures_lecture"
+
+[[repo]]
+url = "https://github.com/0xMacro/oz_library_18"
+
+[[repo]]
+url = "https://github.com/0xMacro/oz_library_19"
+
+[[repo]]
+url = "https://github.com/0xMacro/oz_library_20"
 
 [[repo]]
 url = "https://github.com/0xMacro/parity-hack"

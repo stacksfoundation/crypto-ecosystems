@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/fuseio"]
 url = "https://github.com/fuseio/3box-onboard"
 
 [[repo]]
+url = "https://github.com/fuseio/account-abstraction"
+
+[[repo]]
 url = "https://github.com/fuseio/airnode"
 
 [[repo]]
@@ -40,7 +43,16 @@ url = "https://github.com/fuseio/assets"
 url = "https://github.com/fuseio/base-x"
 
 [[repo]]
+url = "https://github.com/fuseio/blockscout-rs"
+
+[[repo]]
 url = "https://github.com/fuseio/blockscout-terraform"
+
+[[repo]]
+url = "https://github.com/fuseio/bridge-analytics"
+
+[[repo]]
+url = "https://github.com/fuseio/bridge-api"
 
 [[repo]]
 url = "https://github.com/fuseio/bridge-contracts-archived"
@@ -58,6 +70,12 @@ url = "https://github.com/fuseio/bridge-subgraph"
 url = "https://github.com/fuseio/bridge-ui"
 
 [[repo]]
+url = "https://github.com/fuseio/bridge-v2-contracts"
+
+[[repo]]
+url = "https://github.com/fuseio/bundler"
+
+[[repo]]
 url = "https://github.com/fuseio/canonical-weth"
 
 [[repo]]
@@ -65,6 +83,9 @@ url = "https://github.com/fuseio/chainabstractionlayer"
 
 [[repo]]
 url = "https://github.com/fuseio/charge_wallet_sdk"
+
+[[repo]]
+url = "https://github.com/fuseio/console-dapp"
 
 [[repo]]
 url = "https://github.com/fuseio/contract-metadata"
@@ -106,6 +127,12 @@ url = "https://github.com/fuseio/docs"
 url = "https://github.com/fuseio/earn-sdk"
 
 [[repo]]
+url = "https://github.com/fuseio/erc20-subgraph"
+
+[[repo]]
+url = "https://github.com/fuseio/erc4337-subgraph"
+
+[[repo]]
 url = "https://github.com/fuseio/eth-block-tracker"
 
 [[repo]]
@@ -113,6 +140,12 @@ url = "https://github.com/fuseio/eth_url_parser"
 
 [[repo]]
 url = "https://github.com/fuseio/ethereum-fuse-native-bridge-subgraphs"
+
+[[repo]]
+url = "https://github.com/fuseio/ethereum-multicall"
+
+[[repo]]
+url = "https://github.com/fuseio/example-scripts"
 
 [[repo]]
 url = "https://github.com/fuseio/EZ-Flutter"
@@ -130,6 +163,9 @@ url = "https://github.com/fuseio/flutter-zendesk"
 url = "https://github.com/fuseio/flutter_svg_provider"
 
 [[repo]]
+url = "https://github.com/fuseio/frontend-assignment"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-blocks-subgraph"
 
 [[repo]]
@@ -139,10 +175,22 @@ url = "https://github.com/fuseio/fuse-bounties"
 url = "https://github.com/fuseio/fuse-bridge"
 
 [[repo]]
+url = "https://github.com/fuseio/fuse-bridge-v2"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-bridge-v2-dapp"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-cash-subgraph"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-dev-docs"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-docs"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-docs-v2"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-dollar"
@@ -184,7 +232,13 @@ url = "https://github.com/fuseio/fuse-nft-contracts"
 url = "https://github.com/fuseio/fuse-nft-subgraph"
 
 [[repo]]
+url = "https://github.com/fuseio/fuse-paymasters"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-staking"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-staking-v2"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-studio"
@@ -217,10 +271,13 @@ url = "https://github.com/fuseio/fuse.cash"
 url = "https://github.com/fuseio/Fuse_spark_test_script"
 
 [[repo]]
-url = "https://github.com/fuseio/fusefi-interface"
+url = "https://github.com/fuseio/fuse_wallet_sdk"
 
 [[repo]]
-url = "https://github.com/fuseio/fusefi-landing"
+url = "https://github.com/fuseio/fuse_wallet_sdk_web3auth_flutter_social_logins_example"
+
+[[repo]]
+url = "https://github.com/fuseio/fusefi-interface"
 
 [[repo]]
 url = "https://github.com/fuseio/fuseswap-default-token-list"
@@ -241,19 +298,28 @@ url = "https://github.com/fuseio/fuseswap-service"
 url = "https://github.com/fuseio/fuseswap-subgraph"
 
 [[repo]]
-url = "https://github.com/fuseio/fuseswap-v2-core"
-
-[[repo]]
-url = "https://github.com/fuseio/fuseswap-v2-periphery"
-
-[[repo]]
 url = "https://github.com/fuseio/graphprotocol-infrastructure"
+
+[[repo]]
+url = "https://github.com/fuseio/grouped_list"
+
+[[repo]]
+url = "https://github.com/fuseio/hardhat"
 
 [[repo]]
 url = "https://github.com/fuseio/hdwallet-provider"
 
 [[repo]]
 url = "https://github.com/fuseio/interact"
+
+[[repo]]
+url = "https://github.com/fuseio/lz-fuse-bridge"
+
+[[repo]]
+url = "https://github.com/fuseio/mainnet-testnet-bridge"
+
+[[repo]]
+url = "https://github.com/fuseio/migrate-funds-to-smart-account"
 
 [[repo]]
 url = "https://github.com/fuseio/mnid_dart"
@@ -265,22 +331,13 @@ url = "https://github.com/fuseio/monitoring-service"
 url = "https://github.com/fuseio/multi-rewards"
 
 [[repo]]
-url = "https://github.com/fuseio/nestat-node"
-
-[[repo]]
 url = "https://github.com/fuseio/nethermind"
-
-[[repo]]
-url = "https://github.com/fuseio/netstat-dashboard"
 
 [[repo]]
 url = "https://github.com/fuseio/netstats-agent"
 
 [[repo]]
 url = "https://github.com/fuseio/netstats-dashboard"
-
-[[repo]]
-url = "https://github.com/fuseio/nft-subgraph"
 
 [[repo]]
 url = "https://github.com/fuseio/node-walletconnect-bridge"
@@ -397,7 +454,16 @@ url = "https://github.com/fuseio/truffle-hdwallet-provider"
 url = "https://github.com/fuseio/uniswap-python"
 
 [[repo]]
+url = "https://github.com/fuseio/userop.dart"
+
+[[repo]]
+url = "https://github.com/fuseio/viem"
+
+[[repo]]
 url = "https://github.com/fuseio/wallet"
+
+[[repo]]
+url = "https://github.com/fuseio/wallet-backend"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet-connect-dart"
@@ -407,6 +473,9 @@ url = "https://github.com/fuseio/wallet-connect-flutter"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet-connect-poc"
+
+[[repo]]
+url = "https://github.com/fuseio/wallet_backend"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet_core"
@@ -425,3 +494,18 @@ url = "https://github.com/fuseio/web3-provider-engine"
 
 [[repo]]
 url = "https://github.com/fuseio/web3-react"
+
+[[repo]]
+url = "https://github.com/fuseio/web3dart_builders"
+
+[[repo]]
+url = "https://github.com/fuseio/wrapped-asset-bridge"
+
+[[repo]]
+url = "https://github.com/voltfinance/fuseswap-v2-periphery"
+
+[[repo]]
+url = "https://github.com/voltfinance/voltage-dex-core"
+
+[[repo]]
+url = "https://github.com/voltfinance/voltage-landing"

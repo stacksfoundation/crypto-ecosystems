@@ -19,19 +19,25 @@ url = "https://github.com/re-nft/astrocat-giveaway-twitter"
 url = "https://github.com/re-nft/collateral-contracts-polygon"
 
 [[repo]]
-url = "https://github.com/re-nft/contracts"
-
-[[repo]]
 url = "https://github.com/re-nft/contracts-sylvester"
 
 [[repo]]
 url = "https://github.com/re-nft/cryptopunks"
 
 [[repo]]
+url = "https://github.com/re-nft/dapp-e2e-example"
+
+[[repo]]
 url = "https://github.com/re-nft/docs"
 
 [[repo]]
+url = "https://github.com/re-nft/dookey-dash"
+
+[[repo]]
 url = "https://github.com/re-nft/erc-1155"
+
+[[repo]]
+url = "https://github.com/re-nft/example-stop-rent-bot"
 
 [[repo]]
 url = "https://github.com/re-nft/front"
@@ -58,9 +64,6 @@ url = "https://github.com/re-nft/mooncats-subgraph"
 url = "https://github.com/re-nft/notification-discord-bot"
 
 [[repo]]
-url = "https://github.com/re-nft/registry"
-
-[[repo]]
 url = "https://github.com/re-nft/sdk"
 
 [[repo]]
@@ -74,6 +77,9 @@ url = "https://github.com/re-nft/solana-tests"
 
 [[repo]]
 url = "https://github.com/re-nft/subgraph"
+
+[[repo]]
+url = "https://github.com/re-nft/v3-indexing"
 
 [[repo]]
 url = "https://github.com/re-nft/white-elephant-contracts"

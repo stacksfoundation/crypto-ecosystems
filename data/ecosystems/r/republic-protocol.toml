@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/republicprotocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/renproject/command-center"
+
+[[repo]]
+url = "https://github.com/renproject/darknode-cli"
+
+[[repo]]
 url = "https://github.com/republicprotocol/babble-go"
 
 [[repo]]
@@ -22,19 +28,7 @@ url = "https://github.com/republicprotocol/co-go"
 url = "https://github.com/republicprotocol/crypto-go"
 
 [[repo]]
-url = "https://github.com/republicprotocol/darknode-cli"
-
-[[repo]]
-url = "https://github.com/republicprotocol/darknode-command-center"
-
-[[repo]]
 url = "https://github.com/republicprotocol/darknode-proxy-go"
-
-[[repo]]
-url = "https://github.com/republicprotocol/eth-atomic-swap"
-
-[[repo]]
-url = "https://github.com/republicprotocol/go-do"
 
 [[repo]]
 url = "https://github.com/republicprotocol/libbtc-go"

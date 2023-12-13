@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/lidofinance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/brown-qs/avo-vault-frontend"
+
+[[repo]]
+url = "https://github.com/lidofinance/.github"
+
+[[repo]]
 url = "https://github.com/lidofinance/1559-outreach"
 
 [[repo]]
@@ -20,6 +26,12 @@ url = "https://github.com/lidofinance/aave-asteth-deployment"
 
 [[repo]]
 url = "https://github.com/lidofinance/aave-asteth-incentives-controller"
+
+[[repo]]
+url = "https://github.com/lidofinance/aave-collaterals-bot"
+
+[[repo]]
+url = "https://github.com/lidofinance/aave-liquidation-model"
 
 [[repo]]
 url = "https://github.com/lidofinance/aave-protocol-v2"
@@ -37,6 +49,9 @@ url = "https://github.com/lidofinance/action-gh-release"
 url = "https://github.com/lidofinance/action-verify-bytecode"
 
 [[repo]]
+url = "https://github.com/lidofinance/actions"
+
+[[repo]]
 url = "https://github.com/lidofinance/aip"
 
 [[repo]]
@@ -52,13 +67,16 @@ url = "https://github.com/lidofinance/alertmanager-discord"
 url = "https://github.com/lidofinance/analytic-public-projects"
 
 [[repo]]
+url = "https://github.com/lidofinance/analytics-digest-helper"
+
+[[repo]]
 url = "https://github.com/lidofinance/anchor"
 
 [[repo]]
-url = "https://github.com/lidofinance/anchor-bAsset-contracts"
+url = "https://github.com/lidofinance/anchor-collateral-steth"
 
 [[repo]]
-url = "https://github.com/lidofinance/anchor-collateral-steth"
+url = "https://github.com/lidofinance/anchor-lang"
 
 [[repo]]
 url = "https://github.com/lidofinance/anchor.js-lido-test"
@@ -70,13 +88,13 @@ url = "https://github.com/lidofinance/aragon-apps"
 url = "https://github.com/lidofinance/aragon-client"
 
 [[repo]]
-url = "https://github.com/lidofinance/arbitrum-gateway"
-
-[[repo]]
 url = "https://github.com/lidofinance/assets"
 
 [[repo]]
 url = "https://github.com/lidofinance/audits"
+
+[[repo]]
+url = "https://github.com/lidofinance/avalanche-contracts"
 
 [[repo]]
 url = "https://github.com/lidofinance/AVotesParser"
@@ -95,6 +113,9 @@ url = "https://github.com/lidofinance/contract-helpers"
 
 [[repo]]
 url = "https://github.com/lidofinance/conventional-changelog-action"
+
+[[repo]]
+url = "https://github.com/lidofinance/core"
 
 [[repo]]
 url = "https://github.com/lidofinance/cosmos-sdk"
@@ -118,6 +139,9 @@ url = "https://github.com/lidofinance/curve-merkle-oracle"
 url = "https://github.com/lidofinance/curve-rewards-manager"
 
 [[repo]]
+url = "https://github.com/lidofinance/dao-voting-ui"
+
+[[repo]]
 url = "https://github.com/lidofinance/dc4bc"
 
 [[repo]]
@@ -139,6 +163,9 @@ url = "https://github.com/lidofinance/depositor-bot"
 url = "https://github.com/lidofinance/dfunk_contracts"
 
 [[repo]]
+url = "https://github.com/lidofinance/diffyscan"
+
+[[repo]]
 url = "https://github.com/lidofinance/dispatch-workflow"
 
 [[repo]]
@@ -157,19 +184,22 @@ url = "https://github.com/lidofinance/documents-and-policies"
 url = "https://github.com/lidofinance/easy-track"
 
 [[repo]]
-url = "https://github.com/lidofinance/easy-track"
-
-[[repo]]
 url = "https://github.com/lidofinance/easy-track-ui"
 
 [[repo]]
 url = "https://github.com/lidofinance/easytrack"
 
 [[repo]]
-url = "https://github.com/lidofinance/eth2.0-deposit-cli"
+url = "https://github.com/lidofinance/eth-docker"
+
+[[repo]]
+url = "https://github.com/lidofinance/ethereum-head-watcher"
 
 [[repo]]
 url = "https://github.com/lidofinance/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/lidofinance/ethereum-staking-widget"
 
 [[repo]]
 url = "https://github.com/lidofinance/ethereum-validators-monitoring"
@@ -178,10 +208,10 @@ url = "https://github.com/lidofinance/ethereum-validators-monitoring"
 url = "https://github.com/lidofinance/evm-script-decoder"
 
 [[repo]]
-url = "https://github.com/lidofinance/EVMScriptParser"
+url = "https://github.com/lidofinance/forta-discord"
 
 [[repo]]
-url = "https://github.com/lidofinance/forta-discord"
+url = "https://github.com/lidofinance/gate-seals"
 
 [[repo]]
 url = "https://github.com/lidofinance/gh-find-current-pr"
@@ -193,7 +223,13 @@ url = "https://github.com/lidofinance/github-pages-action"
 url = "https://github.com/lidofinance/go-template"
 
 [[repo]]
+url = "https://github.com/lidofinance/gov-tech-helpers"
+
+[[repo]]
 url = "https://github.com/lidofinance/governance-crosschain-bridges"
+
+[[repo]]
+url = "https://github.com/lidofinance/governance-data-bot"
 
 [[repo]]
 url = "https://github.com/lidofinance/grafana-monitors-client"
@@ -232,7 +268,19 @@ url = "https://github.com/lidofinance/ledgerhq-connector"
 url = "https://github.com/lidofinance/ledgerhq-frame-connector"
 
 [[repo]]
-url = "https://github.com/lidofinance/lido-cosmos-docs"
+url = "https://github.com/lidofinance/lido-assistant"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-circ-supply"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-cli"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-cms"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-content"
 
 [[repo]]
 url = "https://github.com/lidofinance/lido-cosmos-hub-contracts"
@@ -251,6 +299,9 @@ url = "https://github.com/lidofinance/lido-dao"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/lidofinance/lido-ethereum-sdk"
+
+[[repo]]
 url = "https://github.com/lidofinance/lido-frontend-template"
 
 [[repo]]
@@ -263,7 +314,13 @@ url = "https://github.com/lidofinance/lido-improvement-proposals"
 url = "https://github.com/lidofinance/lido-js-sdk"
 
 [[repo]]
+url = "https://github.com/lidofinance/lido-keys-api"
+
+[[repo]]
 url = "https://github.com/lidofinance/lido-l2"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-nestjs-modules"
 
 [[repo]]
 url = "https://github.com/lidofinance/lido-node-operator-key-checker-cli"
@@ -285,6 +342,9 @@ url = "https://github.com/lidofinance/lido-retro-airdrop"
 
 [[repo]]
 url = "https://github.com/lidofinance/lido-reward-allocation-bot"
+
+[[repo]]
+url = "https://github.com/lidofinance/lido-sandbox"
 
 [[repo]]
 url = "https://github.com/lidofinance/lido-subgraph"
@@ -311,6 +371,9 @@ url = "https://github.com/lidofinance/lido-terra-staking-rewards"
 url = "https://github.com/lidofinance/lido-terra-stluna-bluna-converter-contract"
 
 [[repo]]
+url = "https://github.com/lidofinance/lido-ts-nanolib"
+
+[[repo]]
 url = "https://github.com/lidofinance/lido-vault"
 
 [[repo]]
@@ -335,6 +398,9 @@ url = "https://github.com/lidofinance/logos"
 url = "https://github.com/lidofinance/maker-integration"
 
 [[repo]]
+url = "https://github.com/lidofinance/maker-risks-bot"
+
+[[repo]]
 url = "https://github.com/lidofinance/mellow-vaults"
 
 [[repo]]
@@ -344,13 +410,13 @@ url = "https://github.com/lidofinance/mev-boost-monitoring"
 url = "https://github.com/lidofinance/mev-boost-relay-allowed-list"
 
 [[repo]]
-url = "https://github.com/lidofinance/mev-boost-relay-whitelist"
-
-[[repo]]
 url = "https://github.com/lidofinance/modelling-entry-queue-post-merge"
 
 [[repo]]
 url = "https://github.com/lidofinance/multisig"
+
+[[repo]]
+url = "https://github.com/lidofinance/node-operators-setup"
 
 [[repo]]
 url = "https://github.com/lidofinance/offline-slashing-risk"
@@ -360,6 +426,9 @@ url = "https://github.com/lidofinance/operatorportal"
 
 [[repo]]
 url = "https://github.com/lidofinance/oracle-v2-upgrade-check"
+
+[[repo]]
+url = "https://github.com/lidofinance/periphery"
 
 [[repo]]
 url = "https://github.com/lidofinance/polygon-contracts"
@@ -380,6 +449,9 @@ url = "https://github.com/lidofinance/python-base-template"
 url = "https://github.com/lidofinance/qr-scanner"
 
 [[repo]]
+url = "https://github.com/lidofinance/qr-tool"
+
+[[repo]]
 url = "https://github.com/lidofinance/rayonism-mev-hackathon"
 
 [[repo]]
@@ -392,19 +464,25 @@ url = "https://github.com/lidofinance/referral-program-integration-examples"
 url = "https://github.com/lidofinance/renovate-config"
 
 [[repo]]
-url = "https://github.com/lidofinance/rewards-manager"
-
-[[repo]]
 url = "https://github.com/lidofinance/rewards-manager-tokens-recoverer"
 
 [[repo]]
 url = "https://github.com/lidofinance/rewards-managers"
 
 [[repo]]
+url = "https://github.com/lidofinance/riseworks-batcher"
+
+[[repo]]
 url = "https://github.com/lidofinance/scripts"
 
 [[repo]]
 url = "https://github.com/lidofinance/setzer-mcd"
+
+[[repo]]
+url = "https://github.com/lidofinance/simple-dvt-module-exit-test"
+
+[[repo]]
+url = "https://github.com/lidofinance/slither-action"
 
 [[repo]]
 url = "https://github.com/lidofinance/snapshot-spaces"
@@ -417,6 +495,9 @@ url = "https://github.com/lidofinance/solana-docs-preview"
 
 [[repo]]
 url = "https://github.com/lidofinance/solana-validators-monitoring"
+
+[[repo]]
+url = "https://github.com/lidofinance/solhint-plugin-lido-csm"
 
 [[repo]]
 url = "https://github.com/lidofinance/solido"
@@ -434,7 +515,13 @@ url = "https://github.com/lidofinance/staking-rewards-manager"
 url = "https://github.com/lidofinance/staking-rewards-sushi"
 
 [[repo]]
+url = "https://github.com/lidofinance/steth-price-balancer"
+
+[[repo]]
 url = "https://github.com/lidofinance/steth-price-feed"
+
+[[repo]]
+url = "https://github.com/lidofinance/stonks"
 
 [[repo]]
 url = "https://github.com/lidofinance/storage-layout-action"
@@ -464,10 +551,19 @@ url = "https://github.com/lidofinance/terra.js"
 url = "https://github.com/lidofinance/token-list"
 
 [[repo]]
+url = "https://github.com/lidofinance/trp-ui"
+
+[[repo]]
 url = "https://github.com/lidofinance/ui"
 
 [[repo]]
 url = "https://github.com/lidofinance/uni-v3-liquidity-provider"
+
+[[repo]]
+url = "https://github.com/lidofinance/validator-ejector"
+
+[[repo]]
+url = "https://github.com/lidofinance/validator-exits-automation-snippets"
 
 [[repo]]
 url = "https://github.com/lidofinance/walletconnect-py"
@@ -494,16 +590,22 @@ url = "https://github.com/lidofinance/web3-flashbots"
 url = "https://github.com/lidofinance/web3py-multi-http-provider"
 
 [[repo]]
-url = "https://github.com/lidofinance/web3py-multinodes-middleware"
-
-[[repo]]
 url = "https://github.com/lidofinance/widget-public"
 
 [[repo]]
 url = "https://github.com/lidofinance/withdrawals-manager-stub"
 
 [[repo]]
+url = "https://github.com/lidofinance/withdrawls-analysis"
+
+[[repo]]
 url = "https://github.com/lidofinance/wsteth-eth-price-feed"
 
 [[repo]]
 url = "https://github.com/lidofinance/zapper-integration"
+
+[[repo]]
+url = "https://github.com/PancakeSwapFork/lido-frontend-template"
+
+[[repo]]
+url = "https://github.com/saurabh27-/lido-frontend-template-main"

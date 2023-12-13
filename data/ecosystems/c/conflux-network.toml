@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Conflux Network"
 
-sub_ecosystems = []
+sub_ecosystems = ["Fluent", "Goledo", "Meson", "Nucleon", "Swappi", "Trust Domains"]
 
 github_organizations = [
   "https://github.com/Conflux-Chain",
@@ -20,10 +20,16 @@ url = "https://github.com/Conflux-Chain/ant-design"
 url = "https://github.com/Conflux-Chain/API-Design-Guide"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/atom"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/bls-signatures"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/bn"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/cfx-evm"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/cfx-lib"
@@ -33,6 +39,9 @@ url = "https://github.com/Conflux-Chain/CIPs"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-abigen"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/conflux-audits"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-bounty"
@@ -65,6 +74,9 @@ url = "https://github.com/Conflux-Chain/conflux-evm-bridge"
 url = "https://github.com/Conflux-Chain/conflux-hw"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/conflux-light-contracts"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/conflux-monitor"
 
 [[repo]]
@@ -90,6 +102,10 @@ url = "https://github.com/Conflux-Chain/conflux-remix"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-rust"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/conflux-rust-dev-contracts"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-rust-test-toolkits"
@@ -131,7 +147,13 @@ url = "https://github.com/Conflux-Chain/confura"
 url = "https://github.com/Conflux-Chain/CrossChain"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/dapp-omnibus"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/design-resource-lab"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/ecosystem"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/fc-contract"
@@ -179,6 +201,9 @@ url = "https://github.com/Conflux-Chain/java-sdk-example"
 url = "https://github.com/Conflux-Chain/js-conflux-sdk"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/js-neurahive-sdk"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/jsonrpc-spec"
 
 [[repo]]
@@ -186,6 +211,21 @@ url = "https://github.com/Conflux-Chain/ledger-app-conflux"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/libcfxaddr"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-client"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-contracts"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-rust"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-scan"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/nft-viewer"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/open-cfxmine"
@@ -249,9 +289,6 @@ url = "https://github.com/Conflux-Chain/web3pay-sdk-js"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/web3pay-service"
-
-[[repo]]
-url = "https://github.com/Conflux-Chain/zh-hans.developer.conflux-chain.org"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/zh-hans.developer.confluxnetwork.org"

@@ -7,16 +7,16 @@ github_organizations = ["https://github.com/movrnetwork"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/movrnetwork/audits"
+url = "https://github.com/SocketDotTech/audits"
 
 [[repo]]
-url = "https://github.com/movrnetwork/fund-movr-core"
+url = "https://github.com/SocketDotTech/fund-movr-core"
 
 [[repo]]
-url = "https://github.com/movrnetwork/fundmovr-example"
+url = "https://github.com/SocketDotTech/fundmovr-example"
 
 [[repo]]
-url = "https://github.com/movrnetwork/fundmovr-example-UI"
+url = "https://github.com/SocketDotTech/fundmovr-example-UI"
 
 [[repo]]
-url = "https://github.com/movrnetwork/movr-landing-page"
+url = "https://github.com/SocketDotTech/movr-landing-page"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/KILTprotocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/BTE-Trusted-Entity/sporran-extension"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/.github"
 
 [[repo]]
@@ -16,16 +19,22 @@ url = "https://github.com/KILTprotocol/Acala"
 url = "https://github.com/KILTprotocol/attestations-dashboard"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/attester"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/bench-bot"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/CASA"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/CertifiedProof"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/claimed-addresses"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/command-bot"
-
-[[repo]]
-url = "https://github.com/KILTprotocol/credential-api"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/ctype-index"
@@ -49,6 +58,9 @@ url = "https://github.com/KILTprotocol/dev.kilt.io"
 url = "https://github.com/KILTprotocol/did-method-registry"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/did-spec-extensions"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/did-spec-registries"
 
 [[repo]]
@@ -61,7 +73,13 @@ url = "https://github.com/KILTprotocol/docs"
 url = "https://github.com/KILTprotocol/example-create-react-app"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/ismp-rs"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/kilt-api-client"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/kilt-community-wallet"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/kilt-did-driver"
@@ -76,6 +94,9 @@ url = "https://github.com/KILTprotocol/kilt-distillery-cli"
 url = "https://github.com/KILTprotocol/kilt-extension"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/kilt-extension-api"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/kilt-node"
 
 [[repo]]
@@ -83,6 +104,9 @@ url = "https://github.com/KILTprotocol/kilt-parachain"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/kilt-react-native-template"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/kilt-resources"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/kilt-workshop-101"
@@ -94,10 +118,10 @@ url = "https://github.com/KILTprotocol/kiltxt"
 url = "https://github.com/KILTprotocol/local-parachain-setup"
 
 [[repo]]
-url = "https://github.com/KILTprotocol/mashnet-node"
+url = "https://github.com/KILTprotocol/migrations"
 
 [[repo]]
-url = "https://github.com/KILTprotocol/migrations"
+url = "https://github.com/KILTprotocol/namespaces"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/nextjs-sporran-credential-login"
@@ -107,6 +131,9 @@ url = "https://github.com/KILTprotocol/note-authors"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/opendid"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/parachain-projects-info"
@@ -133,6 +160,9 @@ url = "https://github.com/KILTprotocol/portablegabi-pallet"
 url = "https://github.com/KILTprotocol/portablegabi-tutorial"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/ProofCheck"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/prototype-services"
 
 [[repo]]
@@ -157,10 +187,13 @@ url = "https://github.com/KILTprotocol/spec-kilt-did"
 url = "https://github.com/KILTprotocol/spec-KiltPublishedCredentialCollectionV1"
 
 [[repo]]
-url = "https://github.com/KILTprotocol/specifications"
+url = "https://github.com/KILTprotocol/spec-KiltTransferAssetRecipient"
 
 [[repo]]
-url = "https://github.com/KILTprotocol/sporran-extension"
+url = "https://github.com/KILTprotocol/spec-KiltTransferAssetRecipientV1"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/specifications"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/srtool"
@@ -172,10 +205,16 @@ url = "https://github.com/KILTprotocol/substrate"
 url = "https://github.com/KILTprotocol/substrate-api-sidecar"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/substrate-ismp"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/substrate-seminar-01-06-2021"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/substrate-telemetry"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/subwasm"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/subxt"
@@ -208,4 +247,10 @@ url = "https://github.com/KILTprotocol/wasm-version-patcher"
 url = "https://github.com/KILTprotocol/Web3-collaboration"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/web3-login-demo"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/workbench-js"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/xcm-simulator"

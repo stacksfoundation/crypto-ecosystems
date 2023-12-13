@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/Switcheo"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Switcheo/alliance"
+
+[[repo]]
+url = "https://github.com/Switcheo/arbitrum-relayer"
+
+[[repo]]
 url = "https://github.com/Switcheo/assetlists"
 
 [[repo]]
@@ -14,6 +20,21 @@ url = "https://github.com/Switcheo/assets"
 
 [[repo]]
 url = "https://github.com/Switcheo/awesome-switcheo"
+
+[[repo]]
+url = "https://github.com/Switcheo/blockscout"
+
+[[repo]]
+url = "https://github.com/Switcheo/bolt-evm-dex"
+
+[[repo]]
+url = "https://github.com/Switcheo/bolt-evm-dex-core"
+
+[[repo]]
+url = "https://github.com/Switcheo/bolt-evm-dex-sdk"
+
+[[repo]]
+url = "https://github.com/Switcheo/bolt-staking-ui"
 
 [[repo]]
 url = "https://github.com/Switcheo/bsc-relayer"
@@ -40,9 +61,6 @@ url = "https://github.com/Switcheo/carbon-polynetwork-zil"
 url = "https://github.com/Switcheo/carbon-rpc-nodes"
 
 [[repo]]
-url = "https://github.com/Switcheo/carbon-testnets"
-
-[[repo]]
 url = "https://github.com/Switcheo/carbon-wallet-go"
 
 [[repo]]
@@ -52,10 +70,19 @@ url = "https://github.com/Switcheo/carbon-website"
 url = "https://github.com/Switcheo/chain-registry"
 
 [[repo]]
+url = "https://github.com/Switcheo/chainlist"
+
+[[repo]]
+url = "https://github.com/Switcheo/chains"
+
+[[repo]]
 url = "https://github.com/Switcheo/charting-wiki"
 
 [[repo]]
 url = "https://github.com/Switcheo/code-challenge"
+
+[[repo]]
+url = "https://github.com/Switcheo/cometbft"
 
 [[repo]]
 url = "https://github.com/Switcheo/cosmjs"
@@ -73,6 +100,9 @@ url = "https://github.com/Switcheo/cosmos-relayer"
 url = "https://github.com/Switcheo/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/Switcheo/cosmprund"
+
+[[repo]]
 url = "https://github.com/Switcheo/cryptometa"
 
 [[repo]]
@@ -80,6 +110,9 @@ url = "https://github.com/Switcheo/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/Switcheo/demex-bots"
+
+[[repo]]
+url = "https://github.com/Switcheo/demex-webapp-config"
 
 [[repo]]
 url = "https://github.com/Switcheo/demex-website"
@@ -92,6 +125,9 @@ url = "https://github.com/Switcheo/eth-relayer"
 
 [[repo]]
 url = "https://github.com/Switcheo/ethermint"
+
+[[repo]]
+url = "https://github.com/Switcheo/evmos"
 
 [[repo]]
 url = "https://github.com/Switcheo/gravity-bridge"
@@ -118,6 +154,12 @@ url = "https://github.com/Switcheo/neo-relayer"
 url = "https://github.com/Switcheo/NeoModules"
 
 [[repo]]
+url = "https://github.com/Switcheo/ontology-crypto"
+
+[[repo]]
+url = "https://github.com/Switcheo/packet-forward-middleware"
+
+[[repo]]
 url = "https://github.com/Switcheo/ping-pub-explorer"
 
 [[repo]]
@@ -134,6 +176,9 @@ url = "https://github.com/Switcheo/polynetwork-cosmos"
 
 [[repo]]
 url = "https://github.com/Switcheo/polynetwork-signer"
+
+[[repo]]
+url = "https://github.com/Switcheo/rocksdb"
 
 [[repo]]
 url = "https://github.com/Switcheo/starport"
@@ -163,16 +208,10 @@ url = "https://github.com/Switcheo/switcheo-neo-token"
 url = "https://github.com/Switcheo/switcheo-python"
 
 [[repo]]
+url = "https://github.com/Switcheo/switcheo-token-icons"
+
+[[repo]]
 url = "https://github.com/Switcheo/switcheo-token-neo3"
-
-[[repo]]
-url = "https://github.com/Switcheo/switcheo-tradehub-eth"
-
-[[repo]]
-url = "https://github.com/Switcheo/switcheo-tradehub-neo"
-
-[[repo]]
-url = "https://github.com/Switcheo/switcheo-tradehub-zil"
 
 [[repo]]
 url = "https://github.com/Switcheo/switcheo-website"
@@ -182,6 +221,9 @@ url = "https://github.com/Switcheo/Switcheo.Net"
 
 [[repo]]
 url = "https://github.com/Switcheo/tendermint"
+
+[[repo]]
+url = "https://github.com/Switcheo/token-icons"
 
 [[repo]]
 url = "https://github.com/Switcheo/token-list"
@@ -215,6 +257,9 @@ url = "https://github.com/Switcheo/zilswap-token-list"
 
 [[repo]]
 url = "https://github.com/Switcheo/zilswap-webapp"
+
+[[repo]]
+url = "https://github.com/Switcheo/zilswap-webapp-V2"
 
 [[repo]]
 url = "https://github.com/Switcheo/Zion"

@@ -13,9 +13,6 @@ url = "https://github.com/Quillhash/abci"
 url = "https://github.com/Quillhash/aeternity_supply_chain_tokenisation"
 
 [[repo]]
-url = "https://github.com/Quillhash/Audit_Reports"
-
-[[repo]]
 url = "https://github.com/Quillhash/awesome-crypto-trackers"
 
 [[repo]]
@@ -65,6 +62,9 @@ url = "https://github.com/Quillhash/eosio-token"
 
 [[repo]]
 url = "https://github.com/Quillhash/ethereum-developer-tools-list"
+
+[[repo]]
+url = "https://github.com/Quillhash/EVM-Mastery"
 
 [[repo]]
 url = "https://github.com/Quillhash/FarmToFork"
@@ -154,6 +154,9 @@ url = "https://github.com/Quillhash/sample-blockchain-vehicle-lifecycle"
 url = "https://github.com/Quillhash/Smart-contract-Auditing-Methodology-mindmap"
 
 [[repo]]
+url = "https://github.com/Quillhash/Smart-Contract-Developer-Roadmap"
+
+[[repo]]
 url = "https://github.com/Quillhash/Solidity-Attack-Vectors"
 
 [[repo]]
@@ -182,3 +185,6 @@ url = "https://github.com/Quillhash/Web3-Security-Tools"
 
 [[repo]]
 url = "https://github.com/Quillhash/worker-proposals"
+
+[[repo]]
+url = "https://github.com/Quillhash/Zero-Knowledge-Mastery"

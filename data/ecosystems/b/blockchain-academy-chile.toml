@@ -7,25 +7,25 @@ github_organizations = ["https://github.com/blockchain-academy-chile"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Avalanche"
+url = "https://github.com/somos-colledge/Avalanche"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Celo"
+url = "https://github.com/somos-colledge/Celo"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/conflux-network"
+url = "https://github.com/somos-colledge/conflux-network"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Ethereum"
+url = "https://github.com/somos-colledge/Ethereum"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Hyperledger"
+url = "https://github.com/somos-colledge/Hyperledger"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Hyperledger-Basico"
+url = "https://github.com/somos-colledge/Hyperledger-Basico"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Nervos"
+url = "https://github.com/somos-colledge/Nervos"
 
 [[repo]]
-url = "https://github.com/blockchain-academy-chile/Solidity"
+url = "https://github.com/somos-colledge/Solidity"

@@ -7,10 +7,25 @@ github_organizations = ["https://github.com/Team-Kujira"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Team-Kujira/bow-crank"
+url = "https://github.com/Team-Kujira/alliance"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/assets"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/cometbft"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/core"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/crank"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/cw-query-ibc"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/developer"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/docs"
@@ -28,10 +43,16 @@ url = "https://github.com/Team-Kujira/fin-multi"
 url = "https://github.com/Team-Kujira/fin-twap"
 
 [[repo]]
-url = "https://github.com/Team-Kujira/gov"
+url = "https://github.com/Team-Kujira/gateway"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/hummingbot"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/i18n"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/ibc-apps"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/ibc-go"
@@ -52,6 +73,12 @@ url = "https://github.com/Team-Kujira/kujira.ui"
 url = "https://github.com/Team-Kujira/liquidator"
 
 [[repo]]
+url = "https://github.com/Team-Kujira/localmoney"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/localmoney-website"
+
+[[repo]]
 url = "https://github.com/Team-Kujira/networks"
 
 [[repo]]
@@ -61,10 +88,25 @@ url = "https://github.com/Team-Kujira/oracle-feeder"
 url = "https://github.com/Team-Kujira/oracle-price-feeder"
 
 [[repo]]
+url = "https://github.com/Team-Kujira/pond"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/pond-images"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/pond-ui"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/senate"
+
+[[repo]]
 url = "https://github.com/Team-Kujira/tendermint"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/terraswap-wifeswap"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/wasmd"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/woocommerce-gateway-usk"

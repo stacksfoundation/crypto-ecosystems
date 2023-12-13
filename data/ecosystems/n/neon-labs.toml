@@ -3,9 +3,66 @@ title = "Neon Labs"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/neonlabsorg"]
+github_organizations = ["https://github.com/neonevm", "https://github.com/neonlabsorg"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/neonevm/geyser-neon-filter"
+
+[[repo]]
+url = "https://github.com/neonevm/geyser-neon-plugin"
+
+[[repo]]
+url = "https://github.com/neonevm/geyser-postgres-db"
+
+[[repo]]
+url = "https://github.com/neonevm/guardians-neon-proxy"
+
+[[repo]]
+url = "https://github.com/neonevm/infrastructure-kubernetes"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-bridge-ui"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-compatibility"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-evm"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-evm.docs"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-faucet"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-faucet-ui"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-spl-governance"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-support"
+
+[[repo]]
+url = "https://github.com/neonevm/neon-tests"
+
+[[repo]]
+url = "https://github.com/neonevm/openzeppelin-contracts"
+
+[[repo]]
+url = "https://github.com/neonevm/oyster"
+
+[[repo]]
+url = "https://github.com/neonevm/proxy-model.py"
+
+[[repo]]
+url = "https://github.com/neonevm/tracer-api"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/aave-protocol-v2"
+
 [[repo]]
 url = "https://github.com/neonlabsorg/allure-report-action"
 
@@ -19,16 +76,25 @@ url = "https://github.com/neonlabsorg/bpf-profile"
 url = "https://github.com/neonlabsorg/bpf-valgrind-plugin"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/chainlist"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/chains"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/clusterfuzzlite"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/compound-finance"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/compound-protocol"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/discourse"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/docusaurus-plugin-image-zoom"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/ecrecover-bench"
@@ -49,7 +115,61 @@ url = "https://github.com/neonlabsorg/geyser-neon-filter"
 url = "https://github.com/neonlabsorg/geyser-neon-plugin"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/geyser-postgres-db"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-py-eth"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-apps-sdk"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-config-service"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-core-sdk"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-deployments"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-eth-py"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-gateway-typescript-sdk"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-modules"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-modules-deployments"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-safe-singleton-factory"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-transaction-service-latest"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-neon-ui"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-safe-apps-sdk"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-safe-infrastructure"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/gnosis-safe-modules-deployments"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/governance-ui"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/graph-node"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/guardians-neon-proxy"
@@ -58,10 +178,22 @@ url = "https://github.com/neonlabsorg/guardians-neon-proxy"
 url = "https://github.com/neonlabsorg/infrastructure-kubernetes"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/makerdao-dss"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/moonbeam-safe-react"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/multisig"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/multisig-ui"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-aave-interface"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-bridge-ui"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/neon-client-transfer"
@@ -85,10 +217,34 @@ url = "https://github.com/neonlabsorg/neon-evm"
 url = "https://github.com/neonlabsorg/neon-evm.docs"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/neon-evm.docs-1"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/neon-faucet"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/neon-faucet-ui"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-gnosis-client-gateway"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-gnosis-config-service"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-gnosis-transaction-service"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-interface"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-monitor"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-proxy"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/neon-service-framework"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/neon-spl-governance"
@@ -101,9 +257,6 @@ url = "https://github.com/neonlabsorg/neon-test-invoke-program"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/neon-tests"
-
-[[repo]]
-url = "https://github.com/neonlabsorg/neon.py"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/neon.py"
@@ -130,13 +283,22 @@ url = "https://github.com/neonlabsorg/python-logged-groups"
 url = "https://github.com/neonlabsorg/rbpf"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/robonomics_contracts"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/rust-web3"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/saddle-contract"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/safe-deployments"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/sample-bpf-tracer-plugin"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/shared-components-ui"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/solana"
@@ -155,9 +317,6 @@ url = "https://github.com/neonlabsorg/teams-notification-action"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/token-list"
-
-[[repo]]
-url = "https://github.com/neonlabsorg/token-list-1"
 
 [[repo]]
 url = "https://github.com/neonlabsorg/tracer-api"
@@ -184,4 +343,13 @@ url = "https://github.com/neonlabsorg/uniswap-v2-periphery"
 url = "https://github.com/neonlabsorg/uniswap-v2-sdk"
 
 [[repo]]
+url = "https://github.com/neonlabsorg/Uniswap-V3-NEON"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/web-core"
+
+[[repo]]
 url = "https://github.com/neonlabsorg/wormhole-relayer"
+
+[[repo]]
+url = "https://github.com/neonlabsorg/yearn-vaults"

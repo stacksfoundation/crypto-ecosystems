@@ -7,13 +7,34 @@ github_organizations = ["https://github.com/wemixarchive"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/wemixarchive/feedelegation-js"
+
+[[repo]]
 url = "https://github.com/wemixarchive/go-wemix"
 
 [[repo]]
 url = "https://github.com/wemixarchive/governance-contract"
 
 [[repo]]
+url = "https://github.com/wemixarchive/rosetta-wemix"
+
+[[repo]]
+url = "https://github.com/wemixarchive/staking-contract"
+
+[[repo]]
+url = "https://github.com/wemixarchive/stWemix-contract"
+
+[[repo]]
 url = "https://github.com/wemixarchive/tokens"
+
+[[repo]]
+url = "https://github.com/wemixarchive/vrf-generator"
+
+[[repo]]
+url = "https://github.com/wemixarchive/wc-v3-web-examples"
+
+[[repo]]
+url = "https://github.com/wemixarchive/wemix-lending-contract"
 
 [[repo]]
 url = "https://github.com/wemixarchive/wemix-wallet-sdk-android"
@@ -23,3 +44,21 @@ url = "https://github.com/wemixarchive/wemix-wallet-sdk-ios"
 
 [[repo]]
 url = "https://github.com/wemixarchive/wemix-wallet-sdk-js"
+
+[[repo]]
+url = "https://github.com/wemixarchive/wemixDollar-contract"
+
+[[repo]]
+url = "https://github.com/wemixarchive/wepublic-contract"
+
+[[repo]]
+url = "https://github.com/wemixarchive/weswap-core-contract"
+
+[[repo]]
+url = "https://github.com/wemixarchive/weswap-periphery-contract"
+
+[[repo]]
+url = "https://github.com/wemixarchive/Wonder-staking"
+
+[[repo]]
+url = "https://github.com/wemixarchive/wwemix-contract"

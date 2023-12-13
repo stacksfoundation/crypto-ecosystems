@@ -13,6 +13,9 @@ url = "https://github.com/mediafoundation/arweave"
 url = "https://github.com/mediafoundation/arweave-gateway"
 
 [[repo]]
+url = "https://github.com/mediafoundation/caddy-bandwidth"
+
+[[repo]]
 url = "https://github.com/mediafoundation/default-token-list"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/mediafoundation/hsd"
 
 [[repo]]
 url = "https://github.com/mediafoundation/media-docs"
+
+[[repo]]
+url = "https://github.com/mediafoundation/media-edge-dependencies"
 
 [[repo]]
 url = "https://github.com/mediafoundation/media-peerpool"
@@ -68,6 +74,15 @@ url = "https://github.com/mediafoundation/owncast"
 
 [[repo]]
 url = "https://github.com/mediafoundation/solana-hackathon"
+
+[[repo]]
+url = "https://github.com/mediafoundation/uniswap-v2-sdk"
+
+[[repo]]
+url = "https://github.com/mediafoundation/uniswapV2-sdk"
+
+[[repo]]
+url = "https://github.com/mediafoundation/uniswapV2-sdk-core"
 
 [[repo]]
 url = "https://github.com/mediafoundation/vartex"

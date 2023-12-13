@@ -13,6 +13,15 @@ url = "https://github.com/dappradar/.github"
 url = "https://github.com/dappradar/dapp-tools"
 
 [[repo]]
+url = "https://github.com/dappradar/dappradar-api-showcase"
+
+[[repo]]
+url = "https://github.com/dappradar/dappradar-browser-extension"
+
+[[repo]]
+url = "https://github.com/dappradar/defi-providers"
+
+[[repo]]
 url = "https://github.com/dappradar/neo-php"
 
 [[repo]]
@@ -35,3 +44,6 @@ url = "https://github.com/dappradar/tokens"
 
 [[repo]]
 url = "https://github.com/dappradar/tokens-blacklist"
+
+[[repo]]
+url = "https://github.com/dappradar/xTokens"

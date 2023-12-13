@@ -11,9 +11,6 @@ github_organizations = [
 
 # Repositories
 [[repo]]
-url = "https://github.com/edgeware-builders/anon"
-
-[[repo]]
 url = "https://github.com/edgeware-builders/awesome-edgeware"
 
 [[repo]]
@@ -21,9 +18,6 @@ url = "https://github.com/edgeware-builders/beresheet-faucet-backend"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/beresheet-faucet-frontend"
-
-[[repo]]
-url = "https://github.com/edgeware-builders/bulletproofs"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/bulletproofs-gadgets"
@@ -53,16 +47,10 @@ url = "https://github.com/edgeware-builders/edgeware-wallet"
 url = "https://github.com/edgeware-builders/edgscan"
 
 [[repo]]
-url = "https://github.com/edgeware-builders/ethash"
-
-[[repo]]
 url = "https://github.com/edgeware-builders/ethash-proof-server"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/ethash-relayer"
-
-[[repo]]
-url = "https://github.com/edgeware-builders/ethash-relyer"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/frontier"
@@ -107,9 +95,6 @@ url = "https://github.com/edgeware-builders/substrate"
 url = "https://github.com/edgeware-builders/substrate-archive"
 
 [[repo]]
-url = "https://github.com/edgeware-builders/substrate-eth-light-client"
-
-[[repo]]
 url = "https://github.com/edgeware-builders/tutorials"
 
 [[repo]]
@@ -131,6 +116,9 @@ url = "https://github.com/edgeware-network/anon"
 url = "https://github.com/edgeware-network/apps"
 
 [[repo]]
+url = "https://github.com/edgeware-network/CSP"
+
+[[repo]]
 url = "https://github.com/edgeware-network/dotdrop"
 
 [[repo]]
@@ -143,7 +131,22 @@ url = "https://github.com/edgeware-network/dotvanity"
 url = "https://github.com/edgeware-network/edg-aura"
 
 [[repo]]
+url = "https://github.com/edgeware-network/EdgeCause"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeChat"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeFlow"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeSafe"
+
+[[repo]]
 url = "https://github.com/edgeware-network/edgeware-chainlink"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-cli"
 
 [[repo]]
 url = "https://github.com/edgeware-network/edgeware-docker"
@@ -188,6 +191,9 @@ url = "https://github.com/edgeware-network/frontier"
 url = "https://github.com/edgeware-network/Governance-Proposals"
 
 [[repo]]
+url = "https://github.com/edgeware-network/hummingbot"
+
+[[repo]]
 url = "https://github.com/edgeware-network/Job-Board"
 
 [[repo]]
@@ -200,7 +206,16 @@ url = "https://github.com/edgeware-network/kabocha-parachain"
 url = "https://github.com/edgeware-network/ledger-edgeware"
 
 [[repo]]
+url = "https://github.com/edgeware-network/ledger-edgeware-new"
+
+[[repo]]
 url = "https://github.com/edgeware-network/lockdrop-data"
+
+[[repo]]
+url = "https://github.com/edgeware-network/metamask-snap-edgeware"
+
+[[repo]]
+url = "https://github.com/edgeware-network/metamask-snap-polkadot"
 
 [[repo]]
 url = "https://github.com/edgeware-network/MM-Logs"
@@ -212,10 +227,16 @@ url = "https://github.com/edgeware-network/new-edgeware-docs"
 url = "https://github.com/edgeware-network/node-tests"
 
 [[repo]]
-url = "https://github.com/edgeware-network/noobieui"
+url = "https://github.com/edgeware-network/OofMedia"
 
 [[repo]]
 url = "https://github.com/edgeware-network/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/edgeware-network/pallet_subscription"
+
+[[repo]]
+url = "https://github.com/edgeware-network/pallet_supersig"
 
 [[repo]]
 url = "https://github.com/edgeware-network/polkadot-launch"
@@ -227,7 +248,13 @@ url = "https://github.com/edgeware-network/Project-Registry"
 url = "https://github.com/edgeware-network/rosetta-node-sdk"
 
 [[repo]]
-url = "https://github.com/edgeware-network/simple-ui"
+url = "https://github.com/edgeware-network/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-config-service"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-transaction-service"
 
 [[repo]]
 url = "https://github.com/edgeware-network/SimpleUI"
@@ -246,9 +273,6 @@ url = "https://github.com/edgeware-network/Tools"
 
 [[repo]]
 url = "https://github.com/edgeware-network/Working-Groups"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/anon"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/apps"
@@ -270,9 +294,6 @@ url = "https://github.com/hicommonwealth/ce-rabbitmq-plugin"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/chain-events"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/chain-rpc-header-worker"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/ChainBridge"
@@ -297,9 +318,6 @@ url = "https://github.com/hicommonwealth/commonwealth"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/commonwealth-gatsby-novela"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/commonwealth-oss"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/commonwealth.github.io"
@@ -425,9 +443,6 @@ url = "https://github.com/hicommonwealth/hydeout"
 url = "https://github.com/hicommonwealth/identity-tcr"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/identity-worker"
-
-[[repo]]
 url = "https://github.com/hicommonwealth/ink"
 
 [[repo]]
@@ -461,16 +476,7 @@ url = "https://github.com/hicommonwealth/smoke-tester"
 url = "https://github.com/hicommonwealth/substrate"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/substrate-clsag"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/substrate-eth-light-client"
-
-[[repo]]
 url = "https://github.com/hicommonwealth/substrate-node-template"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/substrate-rainbow-bridge"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/supernova-lockdrop"
@@ -507,3 +513,15 @@ url = "https://github.com/hicommonwealth/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/web3.js"
+
+[[repo]]
+url = "https://github.com/webb-tools/anon"
+
+[[repo]]
+url = "https://github.com/webb-tools/bulletproofs"
+
+[[repo]]
+url = "https://github.com/webb-tools/ethash"
+
+[[repo]]
+url = "https://github.com/webb-tools/substrate-eth-light-client"

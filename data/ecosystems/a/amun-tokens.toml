@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/amun"]
 url = "https://github.com/amun/candidates-home-assignments"
 
 [[repo]]
+url = "https://github.com/amun/CMTAT"
+
+[[repo]]
+url = "https://github.com/amun/CMTAT-Foundry"
+
+[[repo]]
 url = "https://github.com/amun/contracts"
+
+[[repo]]
+url = "https://github.com/amun/data-science-adhocs"
 
 [[repo]]
 url = "https://github.com/amun/defi-sdk-1"

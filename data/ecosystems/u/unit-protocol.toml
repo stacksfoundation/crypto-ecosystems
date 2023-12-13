@@ -13,16 +13,25 @@ url = "https://github.com/unitprotocol/borrow-module"
 url = "https://github.com/unitprotocol/componentfinance_old_distribution"
 
 [[repo]]
+url = "https://github.com/unitprotocol/compound-protocol"
+
+[[repo]]
 url = "https://github.com/unitprotocol/core"
 
 [[repo]]
 url = "https://github.com/unitprotocol/liquidator"
 
 [[repo]]
+url = "https://github.com/unitprotocol/onetimesecret"
+
+[[repo]]
 url = "https://github.com/unitprotocol/oracles"
 
 [[repo]]
 url = "https://github.com/unitprotocol/protocol_docs"
+
+[[repo]]
+url = "https://github.com/unitprotocol/temp-cdp-list"
 
 [[repo]]
 url = "https://github.com/unitprotocol/uveDUCK"

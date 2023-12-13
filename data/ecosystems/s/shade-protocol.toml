@@ -16,6 +16,9 @@ url = "https://github.com/securesecrets/canine-mainnet-genesis"
 url = "https://github.com/securesecrets/cosmos-multisig-ui"
 
 [[repo]]
+url = "https://github.com/securesecrets/cosmos-rust"
+
+[[repo]]
 url = "https://github.com/securesecrets/cw-plus"
 
 [[repo]]
@@ -25,7 +28,10 @@ url = "https://github.com/securesecrets/ethnum-rs"
 url = "https://github.com/securesecrets/fadroma"
 
 [[repo]]
-url = "https://github.com/securesecrets/flexible-permits"
+url = "https://github.com/securesecrets/Galactic-Pools-Documentation"
+
+[[repo]]
+url = "https://github.com/securesecrets/Galactic-Pools-User-Guide"
 
 [[repo]]
 url = "https://github.com/securesecrets/GalacticPoolsTestnetFrontend"
@@ -34,7 +40,16 @@ url = "https://github.com/securesecrets/GalacticPoolsTestnetFrontend"
 url = "https://github.com/securesecrets/genesis-tools"
 
 [[repo]]
+url = "https://github.com/securesecrets/griptape.js"
+
+[[repo]]
 url = "https://github.com/securesecrets/ics20-proxy"
+
+[[repo]]
+url = "https://github.com/securesecrets/keplr-wallet"
+
+[[repo]]
+url = "https://github.com/securesecrets/metamask-permit-testing"
 
 [[repo]]
 url = "https://github.com/securesecrets/osmosis-frontend"
@@ -56,6 +71,9 @@ url = "https://github.com/securesecrets/quicksync"
 
 [[repo]]
 url = "https://github.com/securesecrets/restake"
+
+[[repo]]
+url = "https://github.com/securesecrets/Secret-Network-Hackathon"
 
 [[repo]]
 url = "https://github.com/securesecrets/secret-plus-utils"
@@ -85,6 +103,9 @@ url = "https://github.com/securesecrets/shade"
 url = "https://github.com/securesecrets/shade-oracle"
 
 [[repo]]
+url = "https://github.com/securesecrets/shade-plus"
+
+[[repo]]
 url = "https://github.com/securesecrets/shadeadmin"
 
 [[repo]]
@@ -100,6 +121,9 @@ url = "https://github.com/securesecrets/silk-pay"
 url = "https://github.com/securesecrets/sn-docker"
 
 [[repo]]
+url = "https://github.com/securesecrets/snip20-reference-impl"
+
+[[repo]]
 url = "https://github.com/securesecrets/SNIPs"
 
 [[repo]]
@@ -113,6 +137,9 @@ url = "https://github.com/securesecrets/stkd-SCRT_Constitution"
 
 [[repo]]
 url = "https://github.com/securesecrets/TediCross"
+
+[[repo]]
+url = "https://github.com/securesecrets/testnets-andromedad"
 
 [[repo]]
 url = "https://github.com/securesecrets/validator-profiles"

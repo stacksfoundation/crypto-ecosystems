@@ -88,34 +88,34 @@ url = "https://github.com/Armor-Network/xmrig"
 url = "https://github.com/Armor-Network/xmrig-amd"
 
 [[repo]]
-url = "https://github.com/ArmorFi/arCore"
+url = "https://github.com/EaseDeFi/arCore"
 
 [[repo]]
-url = "https://github.com/ArmorFi/armor-governance"
+url = "https://github.com/EaseDeFi/armor-governance"
 
 [[repo]]
-url = "https://github.com/ArmorFi/arNFT"
+url = "https://github.com/EaseDeFi/arNFT"
 
 [[repo]]
-url = "https://github.com/ArmorFi/arNXM"
+url = "https://github.com/EaseDeFi/arNXM"
 
 [[repo]]
-url = "https://github.com/ArmorFi/arShield"
+url = "https://github.com/EaseDeFi/arShield"
 
 [[repo]]
-url = "https://github.com/ArmorFi/assets"
+url = "https://github.com/EaseDeFi/assets"
 
 [[repo]]
-url = "https://github.com/ArmorFi/Audits"
+url = "https://github.com/EaseDeFi/Audits"
 
 [[repo]]
-url = "https://github.com/ArmorFi/smart-contracts"
+url = "https://github.com/EaseDeFi/smart-contracts"
 
 [[repo]]
-url = "https://github.com/ArmorFi/snapshot-spaces"
+url = "https://github.com/EaseDeFi/snapshot-spaces"
 
 [[repo]]
-url = "https://github.com/ArmorFi/synthetix-faq-bot"
+url = "https://github.com/EaseDeFi/synthetix-faq-bot"
 
 [[repo]]
-url = "https://github.com/ArmorFi/yinsure-finance"
+url = "https://github.com/EaseDeFi/yinsure-finance"

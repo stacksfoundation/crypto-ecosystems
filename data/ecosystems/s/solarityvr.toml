@@ -25,6 +25,9 @@ url = "https://github.com/SolarityVR/react-solarity-twitter-extension"
 url = "https://github.com/SolarityVR/sgn-new-landing"
 
 [[repo]]
+url = "https://github.com/SolarityVR/skillbet-web3"
+
+[[repo]]
 url = "https://github.com/SolarityVR/solarity-backend"
 
 [[repo]]
@@ -38,6 +41,9 @@ url = "https://github.com/SolarityVR/solarity-landing-frontend"
 
 [[repo]]
 url = "https://github.com/SolarityVR/solarity-new-frontend"
+
+[[repo]]
+url = "https://github.com/SolarityVR/Solarity-NFT"
 
 [[repo]]
 url = "https://github.com/SolarityVR/solgods"

@@ -13,6 +13,9 @@ url = "https://github.com/DecentralCardGame/Cardchain"
 url = "https://github.com/DecentralCardGame/cardchainClient"
 
 [[repo]]
+url = "https://github.com/DecentralCardGame/CardchainCs"
+
+[[repo]]
 url = "https://github.com/DecentralCardGame/CardMinter"
 
 [[repo]]
@@ -22,7 +25,13 @@ url = "https://github.com/DecentralCardGame/cardobject"
 url = "https://github.com/DecentralCardGame/cards"
 
 [[repo]]
+url = "https://github.com/DecentralCardGame/cosmcs"
+
+[[repo]]
 url = "https://github.com/DecentralCardGame/cosmonauts-world"
+
+[[repo]]
+url = "https://github.com/DecentralCardGame/CrowdControlLauncher"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/DecentralCardGame-Cardchain-client-ts"
@@ -37,19 +46,22 @@ url = "https://github.com/DecentralCardGame/frontend"
 url = "https://github.com/DecentralCardGame/go-faucet"
 
 [[repo]]
+url = "https://github.com/DecentralCardGame/hackathon-gon"
+
+[[repo]]
 url = "https://github.com/DecentralCardGame/hottub"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/landing-page"
 
 [[repo]]
+url = "https://github.com/DecentralCardGame/protoc-gen-cosmosCsharp"
+
+[[repo]]
 url = "https://github.com/DecentralCardGame/SignCosmosTx"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/Testnet"
-
-[[repo]]
-url = "https://github.com/DecentralCardGame/Testnet1"
 
 [[repo]]
 url = "https://github.com/DecentralCardGame/whitepaper"

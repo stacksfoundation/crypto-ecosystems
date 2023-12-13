@@ -7,4 +7,4 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/celo-tools/mento-fi"
+url = "https://github.com/mento-protocol/mento-web"

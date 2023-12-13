@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/CherryNetwork"]
 url = "https://github.com/CherryNetwork/.github"
 
 [[repo]]
+url = "https://github.com/CherryNetwork/address-converter"
+
+[[repo]]
 url = "https://github.com/CherryNetwork/apps"
 
 [[repo]]
@@ -52,10 +55,25 @@ url = "https://github.com/CherryNetwork/cherry-relay-node"
 url = "https://github.com/CherryNetwork/cherry-ui-iris"
 
 [[repo]]
+url = "https://github.com/CherryNetwork/cherryscan"
+
+[[repo]]
 url = "https://github.com/CherryNetwork/docs"
 
 [[repo]]
+url = "https://github.com/CherryNetwork/ethereum-explorer"
+
+[[repo]]
 url = "https://github.com/CherryNetwork/evm-parachain"
+
+[[repo]]
+url = "https://github.com/CherryNetwork/explorer"
+
+[[repo]]
+url = "https://github.com/CherryNetwork/explorer-api"
+
+[[repo]]
+url = "https://github.com/CherryNetwork/explorer-ui"
 
 [[repo]]
 url = "https://github.com/CherryNetwork/faucet-bot-testnet"
@@ -70,6 +88,9 @@ url = "https://github.com/CherryNetwork/forest"
 url = "https://github.com/CherryNetwork/go-substrate-rpc-client"
 
 [[repo]]
+url = "https://github.com/CherryNetwork/harvester"
+
+[[repo]]
 url = "https://github.com/CherryNetwork/kubernetes-bitwarden_rs"
 
 [[repo]]
@@ -79,7 +100,7 @@ url = "https://github.com/CherryNetwork/oss-project-template"
 url = "https://github.com/CherryNetwork/parity-bridges-common"
 
 [[repo]]
-url = "https://github.com/CherryNetwork/polkadot"
+url = "https://github.com/CherryNetwork/polkadapt"
 
 [[repo]]
 url = "https://github.com/CherryNetwork/rust-ipfs"

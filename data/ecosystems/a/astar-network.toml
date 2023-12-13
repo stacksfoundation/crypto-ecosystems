@@ -1,19 +1,58 @@
 # Ecosystem Level Information
 title = "Astar Network"
 
-sub_ecosystems = ["SiO2", "Starfish Finance", "Starlay Finance"]
+sub_ecosystems = [
+  "ACryptoS",
+  "adaotop",
+  "ArthSwap",
+  "Artzero",
+  "AstridDao",
+  "Celer Network cBridge",
+  "JPY Coin",
+  "Kodadot",
+  "Multichain (Anyswap)",
+  "O3 Swap",
+  "Octopus Network",
+  "Paras",
+  "PolkaEx",
+  "Poly Network",
+  "Rubic",
+  "SiO2",
+  "Sirius Finance",
+  "Starfish Finance",
+  "Starlay Finance",
+  "StellaSwap",
+  "Wanchain",
+  "XDAO",
+]
 
 github_organizations = ["https://github.com/AstarNetwork", "https://github.com/PlasmNetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AlgemDeFi/algem-contracts"
+
+[[repo]]
+url = "https://github.com/astardegens/astardegens"
+
+[[repo]]
+url = "https://github.com/AstarDomains/SmartContractEVM"
+
+[[repo]]
+url = "https://github.com/astarexchange/Contracts"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/api"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/app-substrate-common"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/apps"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/Astar"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/AstarNetwork/astar-alerts"
@@ -43,16 +82,19 @@ url = "https://github.com/AstarNetwork/astar-frame"
 url = "https://github.com/AstarNetwork/astar-homepage"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/astar-lp"
+url = "https://github.com/AstarNetwork/astar-ink-sdk"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/astar-newdocs"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/astar-runtime-overrides"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/astar-token-api"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/astar-wasm-contracts-examples"
-
-[[repo]]
-url = "https://github.com/AstarNetwork/astar-xcm-tools"
+url = "https://github.com/AstarNetwork/astar-ui"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/astar.js"
@@ -67,19 +109,31 @@ url = "https://github.com/AstarNetwork/astarbase"
 url = "https://github.com/AstarNetwork/AstarBounties"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/AstarUniversity"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/AstarWebPage_V2"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/astarwebsite_v2"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/astarwebsite_v2_korean"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/astarwebsite_v2_unstoppable"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/astress"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/astress-js"
+url = "https://github.com/AstarNetwork/aWASoMe"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/aWASoMe"
+url = "https://github.com/AstarNetwork/Benchmark-evm-wasm"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/blockstats"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/bls12_381"
@@ -124,6 +178,12 @@ url = "https://github.com/AstarNetwork/dApp-Staking-Workshop"
 url = "https://github.com/AstarNetwork/dapps-staking-indexer"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/dapps-staking-indexer-v3"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/dapps-staking-v3-indexer"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/default-token-list"
 
 [[repo]]
@@ -134,9 +194,6 @@ url = "https://github.com/AstarNetwork/defillama-app"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/defillama-sdk"
-
-[[repo]]
-url = "https://github.com/AstarNetwork/docs"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/dsa-connectors"
@@ -152,6 +209,15 @@ url = "https://github.com/AstarNetwork/ethereum-bridge-old"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/evm"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/evm-nft-contract-poc"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/evm-nft-contract-poc-ui"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/EVM-XCM-Examples"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/frontend-interview-task"
@@ -184,7 +250,16 @@ url = "https://github.com/AstarNetwork/hardhat-astar-plugin"
 url = "https://github.com/AstarNetwork/icons"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/ink-docs"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/ink-playground"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/ink-redible-nft"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/ink-test-contracts"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/ink-xvm-sdk"
@@ -211,7 +286,13 @@ url = "https://github.com/AstarNetwork/metamask-extension"
 url = "https://github.com/AstarNetwork/metamask-mobile"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/metamask-snap-astar"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/minting-dapp"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/nearweek-astar-collab-minter"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/network-status"
@@ -232,10 +313,10 @@ url = "https://github.com/AstarNetwork/ovmi"
 url = "https://github.com/AstarNetwork/pallet-assets-chain-extension"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/parachain-projects-info"
+url = "https://github.com/AstarNetwork/pallet-contracts-xcm"
 
 [[repo]]
-url = "https://github.com/AstarNetwork/ParisDOT-Governor-Workshop"
+url = "https://github.com/AstarNetwork/parachain-projects-info"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/parity-scale-codec"
@@ -262,6 +343,9 @@ url = "https://github.com/AstarNetwork/plonk"
 url = "https://github.com/AstarNetwork/polkadot"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/polkadot-scripts"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/polkadotjs-ecdsa-hardware"
 
 [[repo]]
@@ -271,6 +355,12 @@ url = "https://github.com/AstarNetwork/polkawallet"
 url = "https://github.com/AstarNetwork/polkawallet_plugin_plasm"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/PSP-Nesting"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/PSPs"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/rmrk-substrate"
 
 [[repo]]
@@ -278,6 +368,9 @@ url = "https://github.com/AstarNetwork/rngs"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/safe-client-gateway-rust"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/safe-config-service"
@@ -310,6 +403,9 @@ url = "https://github.com/AstarNetwork/solidity-examples"
 url = "https://github.com/AstarNetwork/ss58-registry"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/starlay-ui"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/subql-starter"
 
 [[repo]]
@@ -329,6 +425,9 @@ url = "https://github.com/AstarNetwork/sushiswap-sdk"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/swanky-cli"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/swanky-dev-container"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/swanky-node"
@@ -355,7 +454,16 @@ url = "https://github.com/AstarNetwork/wasm-flipper"
 url = "https://github.com/AstarNetwork/WASM-Governor-Workshop"
 
 [[repo]]
+url = "https://github.com/AstarNetwork/wasm-lottery"
+
+[[repo]]
 url = "https://github.com/AstarNetwork/wasm-showcase-dapps"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/wasm-tutorial-dex"
+
+[[repo]]
+url = "https://github.com/AstarNetwork/zkbridge-code-examples"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/ZKRollups"
@@ -364,172 +472,79 @@ url = "https://github.com/AstarNetwork/ZKRollups"
 url = "https://github.com/AstarNetwork/ZKRollups-CLI"
 
 [[repo]]
+url = "https://github.com/AVaultFinance/avault-astar-web"
+
+[[repo]]
+url = "https://github.com/bluez-app/nft-drop-contracts"
+
+[[repo]]
+url = "https://github.com/BrainDexAggregator/BrainDex-Contracts"
+
+[[repo]]
+url = "https://github.com/colorfulnotion/polkaholic"
+
+[[repo]]
+url = "https://github.com/DAM-Finance/dReservoir_EVM"
+
+[[repo]]
+url = "https://github.com/grabberofficial/polkapad-app"
+
+[[repo]]
+url = "https://github.com/GuiGou12358/lucky-contracts"
+
+[[repo]]
+url = "https://github.com/hirodefi/StarSwap"
+
+[[repo]]
+url = "https://github.com/hoonsubin/astar-xcm-tools"
+
+[[repo]]
+url = "https://github.com/InsureDAO/pool-contracts"
+
+[[repo]]
+url = "https://github.com/kagla-finance/kagla-contract"
+
+[[repo]]
+url = "https://github.com/mandalaverse/bakon-maker"
+
+[[repo]]
+url = "https://github.com/muuu-finance/protocol"
+
+[[repo]]
+url = "https://github.com/OrcusFinance/Orcus-Finance"
+
+[[repo]]
+url = "https://github.com/PaimaStudios/landscapeapp"
+
+[[repo]]
+url = "https://github.com/pentaworld/penta-swap"
+
+[[repo]]
 url = "https://github.com/perpdex/perpdex-lite"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/api"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/apps"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/Astar"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/astar-apps"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/astar-faucet-bot"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/astar-lp"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/bls12_381"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/builders-program"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/chainbridge-interface"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/chainbridge-ui"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/chains"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/crowdloan-app"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/crowdstaking"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/cumulus"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/default-token-list"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/DefiLlama-Adapters"
+url = "https://github.com/Phala-Network/subbridge.js"
 
 [[repo]]
 url = "https://github.com/PlasmNetwork/defillama-app"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/dsa-connectors"
+url = "https://github.com/realGhostChain/ERC721Envious"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/dusk-plonk"
+url = "https://github.com/sygmaprotocol/sygma-solidity"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/ethereum"
+url = "https://github.com/TeamSTEP/witch-one-p2p-name"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/ethereum-bridge-old"
+url = "https://github.com/versa-finance-dev/versa-contracts"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/evm"
+url = "https://github.com/web3alert/substrate-client"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/frontier"
+url = "https://github.com/XY-Finance/xy-protocol"
 
 [[repo]]
-url = "https://github.com/PlasmNetwork/grandpa-bridge-gadget"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/Grant-Milestone-Delivery"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/graph-node"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/growth-program"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/icons"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/ink-playground"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/jubjub"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/lockdrop-api-server"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/lockdrop-ui"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/metamask-extension"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/metamask-mobile"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/Open-Grants-Program"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/ovmi"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/parachain-projects-info"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/parity-scale-codec"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plasm-apps"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plasm-apps-vue"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plasmdocs"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plasmnet.io"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plo-script"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/plonk"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/polkadot"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/polkawallet_plugin_plasm"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/rngs"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/shiden-lp"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/snapshot.js"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/substrate"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/substrate-api-sidecar"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/subtle"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/sushiswap-sdk"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/tutorials"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/ZKRollups"
-
-[[repo]]
-url = "https://github.com/PlasmNetwork/ZKRollups-CLI"
+url = "https://github.com/zenlinkpro/zenlink-wasm-v1"

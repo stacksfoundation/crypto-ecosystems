@@ -16,13 +16,19 @@ url = "https://github.com/rainbow-me/assets"
 url = "https://github.com/rainbow-me/assets-uploader"
 
 [[repo]]
+url = "https://github.com/rainbow-me/bpp"
+
+[[repo]]
+url = "https://github.com/rainbow-me/browser-extension"
+
+[[repo]]
 url = "https://github.com/rainbow-me/clipboard"
 
 [[repo]]
-url = "https://github.com/rainbow-me/echo-server"
+url = "https://github.com/rainbow-me/directus"
 
 [[repo]]
-url = "https://github.com/rainbow-me/eip-1559-fee-suggestions-ethers"
+url = "https://github.com/rainbow-me/echo-server"
 
 [[repo]]
 url = "https://github.com/rainbow-me/eslint-config-rainbow"
@@ -41,6 +47,9 @@ url = "https://github.com/rainbow-me/genqlient"
 
 [[repo]]
 url = "https://github.com/rainbow-me/github-tag-action"
+
+[[repo]]
+url = "https://github.com/rainbow-me/go-ens"
 
 [[repo]]
 url = "https://github.com/rainbow-me/make-color-more-chill"

@@ -19,6 +19,9 @@ url = "https://github.com/Ricochet-Exchange/business-development"
 url = "https://github.com/Ricochet-Exchange/docs"
 
 [[repo]]
+url = "https://github.com/Ricochet-Exchange/LedgerHQ-app-plugin-ricochet"
+
+[[repo]]
 url = "https://github.com/Ricochet-Exchange/protocol-monorepo"
 
 [[repo]]
@@ -26,6 +29,12 @@ url = "https://github.com/Ricochet-Exchange/rex-bank"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/rex-bank-frontend"
+
+[[repo]]
+url = "https://github.com/Ricochet-Exchange/rex-liquidity-network"
+
+[[repo]]
+url = "https://github.com/Ricochet-Exchange/rex-lite"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/rexforce"
@@ -47,6 +56,9 @@ url = "https://github.com/Ricochet-Exchange/ricochet-frontend"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/ricochet-keeper"
+
+[[repo]]
+url = "https://github.com/Ricochet-Exchange/ricochet-pro-app"
 
 [[repo]]
 url = "https://github.com/Ricochet-Exchange/ricochet-protocol"

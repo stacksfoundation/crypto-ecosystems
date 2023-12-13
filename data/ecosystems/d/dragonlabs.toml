@@ -16,6 +16,9 @@ url = "https://github.com/DragonProtocol/conditional-tokens-market-makers"
 url = "https://github.com/DragonProtocol/contract-proxy-kit"
 
 [[repo]]
+url = "https://github.com/DragonProtocol/cscan"
+
+[[repo]]
 url = "https://github.com/DragonProtocol/enchanft"
 
 [[repo]]
@@ -25,10 +28,16 @@ url = "https://github.com/DragonProtocol/enchaNFT-landing-page"
 url = "https://github.com/DragonProtocol/ethereum-etl"
 
 [[repo]]
+url = "https://github.com/DragonProtocol/js-ceramic"
+
+[[repo]]
 url = "https://github.com/DragonProtocol/metaplex-program-library"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/nestjs-appsignal-example"
+
+[[repo]]
+url = "https://github.com/DragonProtocol/nolvena"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/olympus-contracts"
@@ -44,6 +53,9 @@ url = "https://github.com/DragonProtocol/passport"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/right-clik-contract"
+
+[[repo]]
+url = "https://github.com/DragonProtocol/s3-sdk-demo"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/signoz"
@@ -77,6 +89,9 @@ url = "https://github.com/DragonProtocol/terraform-aws-ceramic"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/token-list"
+
+[[repo]]
+url = "https://github.com/DragonProtocol/userscan"
 
 [[repo]]
 url = "https://github.com/DragonProtocol/vaults"

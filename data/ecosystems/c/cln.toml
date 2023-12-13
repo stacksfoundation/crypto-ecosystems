@@ -7,4 +7,4 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/colucom/CLN-solidity"
+url = "https://github.com/ColuLocalNetwork/CLN-solidity"

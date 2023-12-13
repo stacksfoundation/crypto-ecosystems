@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/lensterxyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/lensterxyz/.github"
+
+[[repo]]
 url = "https://github.com/lensterxyz/assets"
+
+[[repo]]
+url = "https://github.com/lensterxyz/hex"
 
 [[repo]]
 url = "https://github.com/lensterxyz/imgproxy"

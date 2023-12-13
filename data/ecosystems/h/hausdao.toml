@@ -16,7 +16,19 @@ url = "https://github.com/HausDAO/baal-docs"
 url = "https://github.com/HausDAO/baal-shamans"
 
 [[repo]]
+url = "https://github.com/HausDAO/baal-tokens"
+
+[[repo]]
+url = "https://github.com/HausDAO/baal-tokens-old"
+
+[[repo]]
 url = "https://github.com/HausDAO/bolton-onboarder"
+
+[[repo]]
+url = "https://github.com/HausDAO/comment-emitter"
+
+[[repo]]
+url = "https://github.com/HausDAO/dao-app-starter-vite"
 
 [[repo]]
 url = "https://github.com/HausDAO/dao-books"
@@ -85,10 +97,25 @@ url = "https://github.com/HausDAO/daohaus-website"
 url = "https://github.com/HausDAO/daohaus-yeeter-v2"
 
 [[repo]]
+url = "https://github.com/HausDAO/dev-docs"
+
+[[repo]]
 url = "https://github.com/HausDAO/dGov-Hackathon"
 
 [[repo]]
+url = "https://github.com/HausDAO/dh-nftclaim-onboarder-app"
+
+[[repo]]
+url = "https://github.com/HausDAO/dh-signal-tcr-app"
+
+[[repo]]
+url = "https://github.com/HausDAO/dh-signal-tcr-subgraph"
+
+[[repo]]
 url = "https://github.com/HausDAO/DHIPs"
+
+[[repo]]
+url = "https://github.com/HausDAO/docs"
 
 [[repo]]
 url = "https://github.com/HausDAO/erc-1155-subgraph"
@@ -98,6 +125,12 @@ url = "https://github.com/HausDAO/erc-721-subgraph"
 
 [[repo]]
 url = "https://github.com/HausDAO/ERC20-Zap-Minion"
+
+[[repo]]
+url = "https://github.com/HausDAO/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/HausDAO/example-simple-eth-onboarder"
 
 [[repo]]
 url = "https://github.com/HausDAO/farmhaus"
@@ -113,6 +146,9 @@ url = "https://github.com/HausDAO/Grant-Seekers"
 
 [[repo]]
 url = "https://github.com/HausDAO/Grant-Seekersv2"
+
+[[repo]]
+url = "https://github.com/HausDAO/hats-demo"
 
 [[repo]]
 url = "https://github.com/HausDAO/haus-report"
@@ -145,7 +181,7 @@ url = "https://github.com/HausDAO/Molochv2.1"
 url = "https://github.com/HausDAO/molochv3-cra-starter"
 
 [[repo]]
-url = "https://github.com/HausDAO/molochv3-vite-starter"
+url = "https://github.com/HausDAO/molochv3-vite-starter-DEPRECATED"
 
 [[repo]]
 url = "https://github.com/HausDAO/monorepo"
@@ -154,10 +190,22 @@ url = "https://github.com/HausDAO/monorepo"
 url = "https://github.com/HausDAO/NiftyMInionSummoner"
 
 [[repo]]
-url = "https://github.com/HausDAO/pokemol-web"
+url = "https://github.com/HausDAO/onboarder-app"
+
+[[repo]]
+url = "https://github.com/HausDAO/protocol-guild"
+
+[[repo]]
+url = "https://github.com/HausDAO/protocol-guild-contracts"
 
 [[repo]]
 url = "https://github.com/HausDAO/pubhaus"
+
+[[repo]]
+url = "https://github.com/HausDAO/publichaus"
+
+[[repo]]
+url = "https://github.com/HausDAO/raddad-ethdenver-checkin"
 
 [[repo]]
 url = "https://github.com/HausDAO/sdk-docs"
@@ -181,7 +229,13 @@ url = "https://github.com/HausDAO/UberHaus-Minion"
 url = "https://github.com/HausDAO/unipool"
 
 [[repo]]
+url = "https://github.com/HausDAO/user-guide"
+
+[[repo]]
 url = "https://github.com/HausDAO/wc"
+
+[[repo]]
+url = "https://github.com/HausDAO/website"
 
 [[repo]]
 url = "https://github.com/HausDAO/wrap-n-zap"

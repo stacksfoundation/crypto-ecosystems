@@ -22,6 +22,9 @@ url = "https://github.com/berty/berty"
 url = "https://github.com/berty/berty-bot-metamask-connect"
 
 [[repo]]
+url = "https://github.com/berty/berty.app"
+
+[[repo]]
 url = "https://github.com/berty/ble-prototype-v1"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/berty/community"
 url = "https://github.com/berty/emitter-go"
 
 [[repo]]
+url = "https://github.com/berty/gno"
+
+[[repo]]
 url = "https://github.com/berty/go-dns"
 
 [[repo]]
@@ -50,6 +56,12 @@ url = "https://github.com/berty/go-ipfs-repo-afero"
 
 [[repo]]
 url = "https://github.com/berty/go-ipfs-repo-encrypted"
+
+[[repo]]
+url = "https://github.com/berty/go-libp2p-mock"
+
+[[repo]]
+url = "https://github.com/berty/go-libp2p-pubsub"
 
 [[repo]]
 url = "https://github.com/berty/go-libp2p-quic-transport"
@@ -76,10 +88,7 @@ url = "https://github.com/berty/go-orbit-db"
 url = "https://github.com/berty/go-sqlcipher"
 
 [[repo]]
-url = "https://github.com/berty/go-tor-transport"
-
-[[repo]]
-url = "https://github.com/berty/gomobile-ipfs"
+url = "https://github.com/berty/gorm-sqlcipher"
 
 [[repo]]
 url = "https://github.com/berty/gormfs"
@@ -92,9 +101,6 @@ url = "https://github.com/berty/ipfs-webui-packed"
 
 [[repo]]
 url = "https://github.com/berty/labs"
-
-[[repo]]
-url = "https://github.com/berty/mgmt"
 
 [[repo]]
 url = "https://github.com/berty/mobile"
@@ -121,10 +127,25 @@ url = "https://github.com/berty/repo-template"
 url = "https://github.com/berty/uptime"
 
 [[repo]]
+url = "https://github.com/berty/weshnet"
+
+[[repo]]
+url = "https://github.com/berty/weshnet-expo"
+
+[[repo]]
+url = "https://github.com/berty/weshnet-expo-examples"
+
+[[repo]]
 url = "https://github.com/berty/www.berty.tech"
+
+[[repo]]
+url = "https://github.com/berty/www.wesh.network"
 
 [[repo]]
 url = "https://github.com/berty/yolo"
 
 [[repo]]
 url = "https://github.com/berty/zero-push"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/gomobile-ipfs"

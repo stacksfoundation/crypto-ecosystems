@@ -13,6 +13,9 @@ url = "https://github.com/ZigZagExchange/arweave-bridge"
 url = "https://github.com/ZigZagExchange/backend"
 
 [[repo]]
+url = "https://github.com/ZigZagExchange/bip-199-node-js"
+
+[[repo]]
 url = "https://github.com/ZigZagExchange/frontend"
 
 [[repo]]
@@ -23,6 +26,9 @@ url = "https://github.com/ZigZagExchange/InvisibL3"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/landing-site"
+
+[[repo]]
+url = "https://github.com/ZigZagExchange/lightning-dex"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/mammoth_UI"
@@ -50,6 +56,9 @@ url = "https://github.com/ZigZagExchange/token"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/zigzag-v3"
+
+[[repo]]
+url = "https://github.com/ZigZagExchange/zigzag_swap"
 
 [[repo]]
 url = "https://github.com/ZigZagExchange/zznft"

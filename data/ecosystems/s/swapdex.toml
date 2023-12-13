@@ -7,7 +7,19 @@ github_organizations = ["https://github.com/Swapdex-Protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Swapdex-Protocol/Dashboard"
+
+[[repo]]
+url = "https://github.com/Swapdex-Protocol/documentation"
+
+[[repo]]
 url = "https://github.com/Swapdex-Protocol/swapdex-documentation"
 
 [[repo]]
+url = "https://github.com/Swapdex-Protocol/swapdex-install-script"
+
+[[repo]]
 url = "https://github.com/Swapdex-Protocol/swapdex-node"
+
+[[repo]]
+url = "https://github.com/Swapdex-Protocol/webpage-dev"

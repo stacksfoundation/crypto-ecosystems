@@ -49,10 +49,19 @@ url = "https://github.com/phantom-labs/serum-dex-ui"
 url = "https://github.com/phantom-labs/sol-wallet-adapter"
 
 [[repo]]
+url = "https://github.com/phantom-labs/synpress"
+
+[[repo]]
 url = "https://github.com/phantom-labs/token-list"
 
 [[repo]]
+url = "https://github.com/phantom-labs/toolbox"
+
+[[repo]]
 url = "https://github.com/phantom-labs/validators"
+
+[[repo]]
+url = "https://github.com/phantom-labs/Web3-Onboard-Integration"
 
 [[repo]]
 url = "https://github.com/phantom-labs/yarn-lock-changes"

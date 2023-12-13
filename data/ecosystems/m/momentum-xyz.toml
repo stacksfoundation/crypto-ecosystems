@@ -10,6 +10,21 @@ github_organizations = ["https://github.com/momentum-xyz"]
 url = "https://github.com/momentum-xyz/api"
 
 [[repo]]
+url = "https://github.com/momentum-xyz/bot-creator-openai"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/bot-nodejs-example"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/bot-nodejs-ts-example"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/bot-sdk-nodejs"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/contracts"
+
+[[repo]]
 url = "https://github.com/momentum-xyz/controller"
 
 [[repo]]
@@ -20,6 +35,9 @@ url = "https://github.com/momentum-xyz/docker-build-action"
 
 [[repo]]
 url = "https://github.com/momentum-xyz/docs"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/go-contracts"
 
 [[repo]]
 url = "https://github.com/momentum-xyz/Grants-Program"
@@ -40,16 +58,40 @@ url = "https://github.com/momentum-xyz/media-manager"
 url = "https://github.com/momentum-xyz/mysql-client"
 
 [[repo]]
+url = "https://github.com/momentum-xyz/nft-minting-service-nodejs"
+
+[[repo]]
 url = "https://github.com/momentum-xyz/odyssey.org"
 
 [[repo]]
 url = "https://github.com/momentum-xyz/plugin-hello-world"
 
 [[repo]]
+url = "https://github.com/momentum-xyz/plugin_creator_openai"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/posbus-client"
+
+[[repo]]
 url = "https://github.com/momentum-xyz/posbus-protocol"
 
 [[repo]]
 url = "https://github.com/momentum-xyz/postgresql-client"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/python-client"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/restore-nft-eth-util"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/restore-nfts-util"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/runner-docker-compose"
+
+[[repo]]
+url = "https://github.com/momentum-xyz/stress_test_nodejs"
 
 [[repo]]
 url = "https://github.com/momentum-xyz/timer-service"

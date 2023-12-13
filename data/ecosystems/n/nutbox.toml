@@ -13,6 +13,9 @@ url = "https://github.com/nutbox-dao/2021Wanxiang-Blockchain-Hackathon-Walnut"
 url = "https://github.com/nutbox-dao/cosmostation_token_resource"
 
 [[repo]]
+url = "https://github.com/nutbox-dao/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/nutbox-dao/docs"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/nutbox-dao/hackathon-2021-spring"
 
 [[repo]]
 url = "https://github.com/nutbox-dao/hackathon-2021-summer"
+
+[[repo]]
+url = "https://github.com/nutbox-dao/hackathon-2022-winter"
 
 [[repo]]
 url = "https://github.com/nutbox-dao/MultiSend"
@@ -85,4 +91,10 @@ url = "https://github.com/nutbox-dao/substrate-development-docker"
 url = "https://github.com/nutbox-dao/walnut-graph"
 
 [[repo]]
-url = "https://github.com/nutbox-dao/warmhole-ui"
+url = "https://github.com/nutbox-dao/wormhole-ui"
+
+[[repo]]
+url = "https://github.com/nutbox-dao/wormhole3-official-website"
+
+[[repo]]
+url = "https://github.com/nutbox-dao/wormhole3-register"

@@ -16,13 +16,34 @@ url = "https://github.com/0xPolygonHermez/blockscout"
 url = "https://github.com/0xPolygonHermez/clabot-config"
 
 [[repo]]
-url = "https://github.com/0xPolygonHermez/eslint-config-hermez"
+url = "https://github.com/0xPolygonHermez/code-examples"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/ethereum-tests"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/ethereumjs-monorepo"
 
 [[repo]]
 url = "https://github.com/0xPolygonHermez/goldilocks"
 
 [[repo]]
+url = "https://github.com/0xPolygonHermez/l2beat"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/pil-fflonk"
+
+[[repo]]
 url = "https://github.com/0xPolygonHermez/pil-stark"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/pil2-compiler"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/pil2-proofman-js"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/pil2-stark-js"
 
 [[repo]]
 url = "https://github.com/0xPolygonHermez/pilcom"
@@ -32,6 +53,12 @@ url = "https://github.com/0xPolygonHermez/pilcom-vscode"
 
 [[repo]]
 url = "https://github.com/0xPolygonHermez/piltools"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/shplonkjs"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/spearbit-ethereum-state-tests"
 
 [[repo]]
 url = "https://github.com/0xPolygonHermez/zkasmcom"
@@ -55,6 +82,9 @@ url = "https://github.com/0xPolygonHermez/zkevm-comms-protocol"
 url = "https://github.com/0xPolygonHermez/zkevm-contracts"
 
 [[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-data-streamer"
+
+[[repo]]
 url = "https://github.com/0xPolygonHermez/zkevm-doc"
 
 [[repo]]
@@ -73,7 +103,25 @@ url = "https://github.com/0xPolygonHermez/zkevm-proverjs"
 url = "https://github.com/0xPolygonHermez/zkevm-rom"
 
 [[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-rpc-server"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-statedb"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-statedb-legacy"
+
+[[repo]]
 url = "https://github.com/0xPolygonHermez/zkevm-storage-rom"
 
 [[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-techdocs"
+
+[[repo]]
 url = "https://github.com/0xPolygonHermez/zkevm-testvectors"
+
+[[repo]]
+url = "https://github.com/iden3/eslint-config-react-ts"
+
+[[repo]]
+url = "https://github.com/QuickSwap/perps-frontend"

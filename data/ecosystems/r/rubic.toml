@@ -17,6 +17,7 @@ url = "https://github.com/Cryptorubic/contract-metadata"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/CrossChainTokenSwapNear"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cryptorubic/DeFi-Pulse-Adapters"
@@ -34,7 +35,13 @@ url = "https://github.com/Cryptorubic/matic.js"
 url = "https://github.com/Cryptorubic/merkle-distributor"
 
 [[repo]]
+url = "https://github.com/Cryptorubic/multi-proxy-rubic"
+
+[[repo]]
 url = "https://github.com/Cryptorubic/Multichain-proxy"
+
+[[repo]]
+url = "https://github.com/Cryptorubic/NFT-metadata"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/only-source-cross-chain-proxy"
@@ -79,10 +86,13 @@ url = "https://github.com/Cryptorubic/rubic-validator"
 url = "https://github.com/Cryptorubic/rubic-widget"
 
 [[repo]]
-url = "https://github.com/Cryptorubic/rubic_frontend"
+url = "https://github.com/Cryptorubic/rubic_test_staking_script"
 
 [[repo]]
-url = "https://github.com/Cryptorubic/rubic_test_staking_script"
+url = "https://github.com/Cryptorubic/staking"
+
+[[repo]]
+url = "https://github.com/Cryptorubic/treasury-in-arbitrum"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/Ve-Staking"

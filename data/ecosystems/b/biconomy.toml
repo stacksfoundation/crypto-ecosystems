@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/bcnmy"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bcnmy/aave-interface"
+
+[[repo]]
 url = "https://github.com/bcnmy/account-abstraction"
 
 [[repo]]
 url = "https://github.com/bcnmy/assets"
+
+[[repo]]
+url = "https://github.com/bcnmy/bico-vesting"
 
 [[repo]]
 url = "https://github.com/bcnmy/biconomy-careers"
@@ -19,13 +25,22 @@ url = "https://github.com/bcnmy/biconomy-careers"
 url = "https://github.com/bcnmy/biconomy-client-sdk"
 
 [[repo]]
+url = "https://github.com/bcnmy/biconomy-client-sdk-1"
+
+[[repo]]
 url = "https://github.com/bcnmy/biconomy-contracts"
 
 [[repo]]
 url = "https://github.com/bcnmy/biconomy-helpers"
 
 [[repo]]
+url = "https://github.com/bcnmy/biconomy-paymasters"
+
+[[repo]]
 url = "https://github.com/bcnmy/biconomy-sdk-dashboard"
+
+[[repo]]
+url = "https://github.com/bcnmy/biconomy-sdk-demo-angular"
 
 [[repo]]
 url = "https://github.com/bcnmy/biconomy-sdk-starter-kit"
@@ -37,6 +52,12 @@ url = "https://github.com/bcnmy/biconomy-subgraph"
 url = "https://github.com/bcnmy/biconomy-wallet"
 
 [[repo]]
+url = "https://github.com/bcnmy/BRB-hack-submissions"
+
+[[repo]]
+url = "https://github.com/bcnmy/brn-contracts"
+
+[[repo]]
 url = "https://github.com/bcnmy/ccmp-contracts"
 
 [[repo]]
@@ -46,10 +67,19 @@ url = "https://github.com/bcnmy/compound-demo"
 url = "https://github.com/bcnmy/dapp-demo"
 
 [[repo]]
+url = "https://github.com/bcnmy/data-utils"
+
+[[repo]]
 url = "https://github.com/bcnmy/default-token-list"
 
 [[repo]]
+url = "https://github.com/bcnmy/docs"
+
+[[repo]]
 url = "https://github.com/bcnmy/erc20-forwarder-demo"
+
+[[repo]]
+url = "https://github.com/bcnmy/fallback-gastank"
 
 [[repo]]
 url = "https://github.com/bcnmy/fee-management"
@@ -62,6 +92,9 @@ url = "https://github.com/bcnmy/gasless-minting-demo"
 
 [[repo]]
 url = "https://github.com/bcnmy/gasless-playground"
+
+[[repo]]
+url = "https://github.com/bcnmy/gasless-sdk-tester"
 
 [[repo]]
 url = "https://github.com/bcnmy/go-ethereum"
@@ -103,6 +136,9 @@ url = "https://github.com/bcnmy/instaexit-dashboard"
 url = "https://github.com/bcnmy/InstaExitDemo"
 
 [[repo]]
+url = "https://github.com/bcnmy/interface-uniswap"
+
+[[repo]]
 url = "https://github.com/bcnmy/manual-exit"
 
 [[repo]]
@@ -118,6 +154,9 @@ url = "https://github.com/bcnmy/mexa-examples"
 url = "https://github.com/bcnmy/mexa-sdk"
 
 [[repo]]
+url = "https://github.com/bcnmy/mexa-sdk-react-native-example"
+
+[[repo]]
 url = "https://github.com/bcnmy/mexa-sdk-v2"
 
 [[repo]]
@@ -125,6 +164,15 @@ url = "https://github.com/bcnmy/mexa-tezos"
 
 [[repo]]
 url = "https://github.com/bcnmy/moonShot"
+
+[[repo]]
+url = "https://github.com/bcnmy/op-geth"
+
+[[repo]]
+url = "https://github.com/bcnmy/quickstart"
+
+[[repo]]
+url = "https://github.com/bcnmy/react-native-smart-account-example"
 
 [[repo]]
 url = "https://github.com/bcnmy/relayer-node"

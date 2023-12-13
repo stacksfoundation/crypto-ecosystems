@@ -7,7 +7,25 @@ github_organizations = ["https://github.com/etherisc"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/etherisc-legacy/chatbot"
+
+[[repo]]
+url = "https://github.com/etherisc-legacy/flightDelay-legacy"
+
+[[repo]]
+url = "https://github.com/etherisc-legacy/flightdelay-monitor"
+
+[[repo]]
+url = "https://github.com/etherisc-legacy/hackathon"
+
+[[repo]]
+url = "https://github.com/etherisc-legacy/slides"
+
+[[repo]]
 url = "https://github.com/etherisc/1password-teams-open-source"
+
+[[repo]]
+url = "https://github.com/etherisc/accounts-oauth-aws-cognito"
 
 [[repo]]
 url = "https://github.com/etherisc/arc2-server"
@@ -19,19 +37,22 @@ url = "https://github.com/etherisc/arc2api"
 url = "https://github.com/etherisc/bima-bolt-api"
 
 [[repo]]
+url = "https://github.com/etherisc/boilerplate-contracts"
+
+[[repo]]
 url = "https://github.com/etherisc/chainlink-and-etherisc-grants"
 
 [[repo]]
 url = "https://github.com/etherisc/chainlink-node-setup"
 
 [[repo]]
-url = "https://github.com/etherisc/chatbot"
-
-[[repo]]
 url = "https://github.com/etherisc/crop-contracts"
 
 [[repo]]
 url = "https://github.com/etherisc/crop-frontend"
+
+[[repo]]
+url = "https://github.com/etherisc/depeg-backend-processor"
 
 [[repo]]
 url = "https://github.com/etherisc/depeg-contracts"
@@ -43,7 +64,7 @@ url = "https://github.com/etherisc/depeg-ui"
 url = "https://github.com/etherisc/DIPs"
 
 [[repo]]
-url = "https://github.com/etherisc/flightDelay"
+url = "https://github.com/etherisc/docs.etherisc.com"
 
 [[repo]]
 url = "https://github.com/etherisc/flightdelay-contracts"
@@ -53,12 +74,6 @@ url = "https://github.com/etherisc/flightdelay-fs-api"
 
 [[repo]]
 url = "https://github.com/etherisc/flightdelay-interface"
-
-[[repo]]
-url = "https://github.com/etherisc/flightDelay-legacy"
-
-[[repo]]
-url = "https://github.com/etherisc/flightdelay-monitor"
 
 [[repo]]
 url = "https://github.com/etherisc/flightdelay-oracles"
@@ -82,6 +97,9 @@ url = "https://github.com/etherisc/gif-interface"
 url = "https://github.com/etherisc/gif-monitor"
 
 [[repo]]
+url = "https://github.com/etherisc/gif-next"
+
+[[repo]]
 url = "https://github.com/etherisc/gif-sandbox"
 
 [[repo]]
@@ -89,9 +107,6 @@ url = "https://github.com/etherisc/global-staking"
 
 [[repo]]
 url = "https://github.com/etherisc/govhack"
-
-[[repo]]
-url = "https://github.com/etherisc/hackathon"
 
 [[repo]]
 url = "https://github.com/etherisc/HurricaneGuard"
@@ -106,13 +121,28 @@ url = "https://github.com/etherisc/poc-chainlink-pricefeed"
 url = "https://github.com/etherisc/poc-wallet-access"
 
 [[repo]]
-url = "https://github.com/etherisc/slides"
+url = "https://github.com/etherisc/registry-contracts"
+
+[[repo]]
+url = "https://github.com/etherisc/rest-api-with-auth"
+
+[[repo]]
+url = "https://github.com/etherisc/rest-api-with-auth-py"
+
+[[repo]]
+url = "https://github.com/etherisc/rest-client-with-auth"
+
+[[repo]]
+url = "https://github.com/etherisc/staking-background-processor"
 
 [[repo]]
 url = "https://github.com/etherisc/staking-prototypes"
 
 [[repo]]
 url = "https://github.com/etherisc/staking-ui"
+
+[[repo]]
+url = "https://github.com/etherisc/terraguard-ui"
 
 [[repo]]
 url = "https://github.com/etherisc/tokensale"

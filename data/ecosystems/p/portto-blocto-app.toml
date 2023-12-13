@@ -19,7 +19,13 @@ url = "https://github.com/portto/aptos-demo"
 url = "https://github.com/portto/aptos-go-sdk"
 
 [[repo]]
+url = "https://github.com/portto/aptos-labs-aptos-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/portto/aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/portto/aptos-wallet-adapter-plugin"
 
 [[repo]]
 url = "https://github.com/portto/assets"
@@ -88,6 +94,12 @@ url = "https://github.com/portto/CocoaDebug"
 url = "https://github.com/portto/contenthash.kotlin"
 
 [[repo]]
+url = "https://github.com/portto/dappauth"
+
+[[repo]]
+url = "https://github.com/portto/dappauth.js"
+
+[[repo]]
 url = "https://github.com/portto/eslint-config-portto"
 
 [[repo]]
@@ -124,6 +136,9 @@ url = "https://github.com/portto/flow"
 url = "https://github.com/portto/flow-dapp-demo"
 
 [[repo]]
+url = "https://github.com/portto/flow-event-scraper"
+
+[[repo]]
 url = "https://github.com/portto/flow-hello-world"
 
 [[repo]]
@@ -157,19 +172,22 @@ url = "https://github.com/portto/go-tangerine"
 url = "https://github.com/portto/grpc-swift"
 
 [[repo]]
+url = "https://github.com/portto/interface"
+
+[[repo]]
 url = "https://github.com/portto/Macaw"
 
 [[repo]]
 url = "https://github.com/portto/metamask-extension"
 
 [[repo]]
-url = "https://github.com/portto/prize"
-
-[[repo]]
 url = "https://github.com/portto/QRCodeReader.swift"
 
 [[repo]]
 url = "https://github.com/portto/quiz"
+
+[[repo]]
+url = "https://github.com/portto/rainbowkit"
 
 [[repo]]
 url = "https://github.com/portto/raydium-ui"
@@ -223,6 +241,9 @@ url = "https://github.com/portto/sportsicon-contracts"
 url = "https://github.com/portto/SPStorkController"
 
 [[repo]]
+url = "https://github.com/portto/stackup-bundler"
+
+[[repo]]
 url = "https://github.com/portto/SVGKit"
 
 [[repo]]
@@ -241,7 +262,13 @@ url = "https://github.com/portto/wallet-adapter"
 url = "https://github.com/portto/wallet-web-ui"
 
 [[repo]]
+url = "https://github.com/portto/web3-onboard"
+
+[[repo]]
 url = "https://github.com/portto/web3-react"
+
+[[repo]]
+url = "https://github.com/portto/web3.js"
 
 [[repo]]
 url = "https://github.com/portto/web3.swift"

@@ -13,13 +13,7 @@ url = "https://github.com/vitelabs/birfrost"
 url = "https://github.com/vitelabs/bounties"
 
 [[repo]]
-url = "https://github.com/vitelabs/bridge"
-
-[[repo]]
 url = "https://github.com/vitelabs/ccxt"
-
-[[repo]]
-url = "https://github.com/vitelabs/contracts"
 
 [[repo]]
 url = "https://github.com/vitelabs/country_pickers"
@@ -41,12 +35,6 @@ url = "https://github.com/vitelabs/dms"
 
 [[repo]]
 url = "https://github.com/vitelabs/document"
-
-[[repo]]
-url = "https://github.com/vitelabs/erc2vite_contract"
-
-[[repo]]
-url = "https://github.com/vitelabs/eth-bridge"
 
 [[repo]]
 url = "https://github.com/vitelabs/go-vite"
@@ -109,9 +97,6 @@ url = "https://github.com/vitelabs/qrcode-generator"
 url = "https://github.com/vitelabs/slips"
 
 [[repo]]
-url = "https://github.com/vitelabs/solc-js"
-
-[[repo]]
 url = "https://github.com/vitelabs/soliditypp"
 
 [[repo]]
@@ -142,9 +127,6 @@ url = "https://github.com/vitelabs/SwiftBinanceChain"
 url = "https://github.com/vitelabs/token-profile"
 
 [[repo]]
-url = "https://github.com/vitelabs/trezor-crypto-ed25519-with-blake2b-ios"
-
-[[repo]]
 url = "https://github.com/vitelabs/typedoc-default-themes"
 
 [[repo]]
@@ -160,13 +142,13 @@ url = "https://github.com/vitelabs/vite-app-ios"
 url = "https://github.com/vitelabs/vite-asset-bridge"
 
 [[repo]]
+url = "https://github.com/vitelabs/vite-bounty-archive"
+
+[[repo]]
 url = "https://github.com/vitelabs/vite-bridge"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-business-ios"
-
-[[repo]]
-url = "https://github.com/vitelabs/vite-connect-bridge"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-connect-client"
@@ -175,16 +157,10 @@ url = "https://github.com/vitelabs/vite-connect-client"
 url = "https://github.com/vitelabs/vite-connect-server"
 
 [[repo]]
-url = "https://github.com/vitelabs/Vite-Contract"
-
-[[repo]]
 url = "https://github.com/vitelabs/vite-contracts"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-crypto-ios"
-
-[[repo]]
-url = "https://github.com/vitelabs/vite-dapp-template"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-docs"
@@ -217,7 +193,13 @@ url = "https://github.com/vitelabs/vite-java-client"
 url = "https://github.com/vitelabs/vite-javasdk"
 
 [[repo]]
+url = "https://github.com/vitelabs/vite-org-new"
+
+[[repo]]
 url = "https://github.com/vitelabs/vite-passport"
+
+[[repo]]
+url = "https://github.com/vitelabs/vite-portal"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-sdk"
@@ -238,9 +220,6 @@ url = "https://github.com/vitelabs/vite-wallet"
 url = "https://github.com/vitelabs/vite-wallet-android"
 
 [[repo]]
-url = "https://github.com/vitelabs/vite-wallet-ios"
-
-[[repo]]
 url = "https://github.com/vitelabs/vite-web-wallet"
 
 [[repo]]
@@ -259,15 +238,6 @@ url = "https://github.com/vitelabs/vite.net"
 url = "https://github.com/vitelabs/vite.org"
 
 [[repo]]
-url = "https://github.com/vitelabs/Vite_GrinWallet"
-
-[[repo]]
-url = "https://github.com/vitelabs/Vite_GrinWallet-android"
-
-[[repo]]
-url = "https://github.com/vitelabs/Vite_HDWalletKit"
-
-[[repo]]
 url = "https://github.com/vitelabs/vitebridge-frontend"
 
 [[repo]]
@@ -281,9 +251,6 @@ url = "https://github.com/vitelabs/vitejs-docs"
 
 [[repo]]
 url = "https://github.com/vitelabs/vitelabs_contracts"
-
-[[repo]]
-url = "https://github.com/vitelabs/viteshop"
 
 [[repo]]
 url = "https://github.com/vitelabs/vitex-java-sdk"
@@ -307,16 +274,7 @@ url = "https://github.com/vitelabs/vuilder"
 url = "https://github.com/vitelabs/vuilder-docs"
 
 [[repo]]
-url = "https://github.com/vitelabs/walletconnect-monorepo"
-
-[[repo]]
 url = "https://github.com/vitelabs/web3swift"
-
-[[repo]]
-url = "https://github.com/vitelabs/website"
-
-[[repo]]
-url = "https://github.com/vitelabs/website-vite.net"
 
 [[repo]]
 url = "https://github.com/vitelabs/whitepaper"

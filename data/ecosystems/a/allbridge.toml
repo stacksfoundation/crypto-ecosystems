@@ -13,7 +13,13 @@ url = "https://github.com/allbridge-io/allbridge-contract-docs"
 url = "https://github.com/allbridge-io/allbridge-core-docs"
 
 [[repo]]
+url = "https://github.com/allbridge-io/allbridge-core-evm-contracts"
+
+[[repo]]
 url = "https://github.com/allbridge-io/allbridge-core-js-sdk"
+
+[[repo]]
+url = "https://github.com/allbridge-io/allbridge-core-widget"
 
 [[repo]]
 url = "https://github.com/allbridge-io/allbridge-master-contract"
@@ -23,6 +29,9 @@ url = "https://github.com/allbridge-io/assets"
 
 [[repo]]
 url = "https://github.com/allbridge-io/bridge-assets"
+
+[[repo]]
+url = "https://github.com/allbridge-io/bridge-stacks-contract-public"
 
 [[repo]]
 url = "https://github.com/allbridge-io/bridge-tezos-contract"
@@ -37,6 +46,9 @@ url = "https://github.com/allbridge-io/bridges-server"
 url = "https://github.com/allbridge-io/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/allbridge-io/defiyield-self-integrations"
+
+[[repo]]
 url = "https://github.com/allbridge-io/ecosystem"
 
 [[repo]]
@@ -44,6 +56,9 @@ url = "https://github.com/allbridge-io/joe-tokenlists"
 
 [[repo]]
 url = "https://github.com/allbridge-io/media"
+
+[[repo]]
+url = "https://github.com/allbridge-io/neon-evm"
 
 [[repo]]
 url = "https://github.com/allbridge-io/token-list"

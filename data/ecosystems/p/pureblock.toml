@@ -7,4 +7,4 @@ github_organizations = ["https://github.com/pure-block"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/pure-block/pureblock-near-contracts"
+url = "https://github.com/purecube/purecube-near-contracts"

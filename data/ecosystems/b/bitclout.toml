@@ -7,55 +7,55 @@ github_organizations = ["https://github.com/bitclout"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/bitclout/backend"
+url = "https://github.com/deso-protocol/backend"
 
 [[repo]]
-url = "https://github.com/bitclout/cips"
+url = "https://github.com/deso-protocol/confetti-js"
 
 [[repo]]
-url = "https://github.com/bitclout/confetti-js"
+url = "https://github.com/deso-protocol/core"
 
 [[repo]]
-url = "https://github.com/bitclout/core"
+url = "https://github.com/deso-protocol/desktop"
 
 [[repo]]
-url = "https://github.com/bitclout/desktop"
+url = "https://github.com/deso-protocol/dips"
 
 [[repo]]
-url = "https://github.com/bitclout/docs"
+url = "https://github.com/deso-protocol/docs"
 
 [[repo]]
-url = "https://github.com/bitclout/explorer"
+url = "https://github.com/deso-protocol/explorer"
 
 [[repo]]
-url = "https://github.com/bitclout/frontend"
+url = "https://github.com/deso-protocol/frontend"
 
 [[repo]]
-url = "https://github.com/bitclout/glog"
+url = "https://github.com/deso-protocol/glog"
 
 [[repo]]
-url = "https://github.com/bitclout/go-deadlock"
+url = "https://github.com/deso-protocol/go-deadlock"
 
 [[repo]]
-url = "https://github.com/bitclout/go-merkle-tree"
+url = "https://github.com/deso-protocol/go-merkle-tree"
 
 [[repo]]
-url = "https://github.com/bitclout/hdkey"
+url = "https://github.com/deso-protocol/hdkey"
 
 [[repo]]
-url = "https://github.com/bitclout/identity"
+url = "https://github.com/deso-protocol/identity"
 
 [[repo]]
-url = "https://github.com/bitclout/identity-android"
+url = "https://github.com/deso-protocol/identity-android"
 
 [[repo]]
-url = "https://github.com/bitclout/identity-swift"
+url = "https://github.com/deso-protocol/identity-swift"
 
 [[repo]]
-url = "https://github.com/bitclout/mongodb-dumper"
+url = "https://github.com/deso-protocol/mongodb-dumper"
 
 [[repo]]
-url = "https://github.com/bitclout/rosetta-bitclout"
+url = "https://github.com/deso-protocol/rosetta-deso"
 
 [[repo]]
-url = "https://github.com/bitclout/run"
+url = "https://github.com/deso-protocol/run"

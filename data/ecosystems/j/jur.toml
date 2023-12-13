@@ -7,10 +7,25 @@ github_organizations = ["https://github.com/jurteam"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/jurteam/app-astar"
+
+[[repo]]
 url = "https://github.com/jurteam/app-hub"
 
 [[repo]]
 url = "https://github.com/jurteam/apps"
+
+[[repo]]
+url = "https://github.com/jurteam/ashu-homework"
+
+[[repo]]
+url = "https://github.com/jurteam/crowdloan-rewards"
+
+[[repo]]
+url = "https://github.com/jurteam/explorer"
+
+[[repo]]
+url = "https://github.com/jurteam/Grants-Program"
 
 [[repo]]
 url = "https://github.com/jurteam/jur-documentation"
@@ -19,13 +34,37 @@ url = "https://github.com/jurteam/jur-documentation"
 url = "https://github.com/jurteam/jur-sourcecred"
 
 [[repo]]
+url = "https://github.com/jurteam/keyshtool"
+
+[[repo]]
 url = "https://github.com/jurteam/ledger-app-vet"
 
 [[repo]]
 url = "https://github.com/jurteam/lfnj-freelancer-agreement"
 
 [[repo]]
+url = "https://github.com/jurteam/moonkit"
+
+[[repo]]
 url = "https://github.com/jurteam/mvp-smart-contract"
 
 [[repo]]
+url = "https://github.com/jurteam/Network-State-Doc"
+
+[[repo]]
+url = "https://github.com/jurteam/recruitment-somnath"
+
+[[repo]]
+url = "https://github.com/jurteam/recrutiment-mammadali"
+
+[[repo]]
+url = "https://github.com/jurteam/substrate-account-filter"
+
+[[repo]]
+url = "https://github.com/jurteam/thor"
+
+[[repo]]
 url = "https://github.com/jurteam/token-registry"
+
+[[repo]]
+url = "https://github.com/jurteam/tools"

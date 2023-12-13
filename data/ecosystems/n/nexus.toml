@@ -19,16 +19,10 @@ url = "https://github.com/Nexusoft/GenesisWhitepaper"
 url = "https://github.com/Nexusoft/Legacy"
 
 [[repo]]
-url = "https://github.com/Nexusoft/LLL-HPP"
-
-[[repo]]
 url = "https://github.com/Nexusoft/LLL-LISP"
 
 [[repo]]
 url = "https://github.com/Nexusoft/LLL-MCT"
-
-[[repo]]
-url = "https://github.com/Nexusoft/LLL-OS"
 
 [[repo]]
 url = "https://github.com/Nexusoft/LLL-SQL"
@@ -43,12 +37,6 @@ url = "https://github.com/Nexusoft/LLP-PHP-Client"
 url = "https://github.com/Nexusoft/LX-OS"
 
 [[repo]]
-url = "https://github.com/Nexusoft/market-data-module"
-
-[[repo]]
-url = "https://github.com/Nexusoft/minimal_module_example"
-
-[[repo]]
 url = "https://github.com/Nexusoft/minimal_module_template"
 
 [[repo]]
@@ -61,7 +49,13 @@ url = "https://github.com/Nexusoft/nexcore"
 url = "https://github.com/Nexusoft/nexcore-node"
 
 [[repo]]
-url = "https://github.com/Nexusoft/Nexus"
+url = "https://github.com/Nexusoft/nexus-alert-bot"
+
+[[repo]]
+url = "https://github.com/Nexusoft/nexus-explorer-backend"
+
+[[repo]]
+url = "https://github.com/Nexusoft/nexus-explorer-next"
 
 [[repo]]
 url = "https://github.com/Nexusoft/nexus-hash-fpga-verilog"
@@ -73,16 +67,19 @@ url = "https://github.com/Nexusoft/nexus-hash-fpga-vhdl"
 url = "https://github.com/Nexusoft/nexus-interface-history-module"
 
 [[repo]]
-url = "https://github.com/Nexusoft/Nexus-Interface-Invoice-Module"
+url = "https://github.com/Nexusoft/nexus-invoice-module"
 
 [[repo]]
-url = "https://github.com/Nexusoft/nexus-invoice-module"
+url = "https://github.com/Nexusoft/nexus-market-cap"
 
 [[repo]]
 url = "https://github.com/Nexusoft/nexus-market-data-module"
 
 [[repo]]
 url = "https://github.com/Nexusoft/nexus-mobile"
+
+[[repo]]
+url = "https://github.com/Nexusoft/nexus-transaction-history-module"
 
 [[repo]]
 url = "https://github.com/Nexusoft/nexus-wallet-server"
@@ -109,12 +106,6 @@ url = "https://github.com/Nexusoft/NP-WP"
 url = "https://github.com/Nexusoft/nw-modules-documentation"
 
 [[repo]]
-url = "https://github.com/Nexusoft/nwm-market-data"
-
-[[repo]]
-url = "https://github.com/Nexusoft/PrimePool"
-
-[[repo]]
 url = "https://github.com/Nexusoft/PrimePool--DEPRECATED"
 
 [[repo]]
@@ -127,13 +118,7 @@ url = "https://github.com/Nexusoft/PrimeSoloMiner"
 url = "https://github.com/Nexusoft/react_module_template"
 
 [[repo]]
-url = "https://github.com/Nexusoft/react_redux_module_example"
-
-[[repo]]
 url = "https://github.com/Nexusoft/react_redux_module_template"
-
-[[repo]]
-url = "https://github.com/Nexusoft/simple_react_module_example"
 
 [[repo]]
 url = "https://github.com/Nexusoft/static-resources"

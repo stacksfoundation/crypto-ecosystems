@@ -16,13 +16,16 @@ url = "https://github.com/tokenbankteam/bitcoinwhitepaper"
 url = "https://github.com/tokenbankteam/btcutil"
 
 [[repo]]
-url = "https://github.com/tokenbankteam/cpu_powerup"
-
-[[repo]]
 url = "https://github.com/tokenbankteam/defi-detail"
 
 [[repo]]
+url = "https://github.com/tokenbankteam/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/tokenbankteam/demo_solc_test"
+
+[[repo]]
+url = "https://github.com/tokenbankteam/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/tokenbankteam/docs"
@@ -175,6 +178,9 @@ url = "https://github.com/tokenbankteam/tb_android_information"
 url = "https://github.com/tokenbankteam/tb_common"
 
 [[repo]]
+url = "https://github.com/tokenbankteam/tb_hardware_certificate_auth_server"
+
+[[repo]]
 url = "https://github.com/tokenbankteam/tb_read_log"
 
 [[repo]]
@@ -202,6 +208,12 @@ url = "https://github.com/TP-Lab/acctexchange"
 url = "https://github.com/TP-Lab/airgrab"
 
 [[repo]]
+url = "https://github.com/TP-Lab/alto"
+
+[[repo]]
+url = "https://github.com/TP-Lab/aptos-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/TP-Lab/assets"
 
 [[repo]]
@@ -209,6 +221,9 @@ url = "https://github.com/TP-Lab/awesome-lightning-network"
 
 [[repo]]
 url = "https://github.com/TP-Lab/awesome-makerdao"
+
+[[repo]]
+url = "https://github.com/TP-Lab/awesome-nostr"
 
 [[repo]]
 url = "https://github.com/TP-Lab/bankreserves"
@@ -271,6 +286,9 @@ url = "https://github.com/TP-Lab/bsc"
 url = "https://github.com/TP-Lab/btcd"
 
 [[repo]]
+url = "https://github.com/TP-Lab/btcutil"
+
+[[repo]]
 url = "https://github.com/TP-Lab/btex-mobile"
 
 [[repo]]
@@ -278,6 +296,9 @@ url = "https://github.com/TP-Lab/chain.tools"
 
 [[repo]]
 url = "https://github.com/TP-Lab/chasm"
+
+[[repo]]
+url = "https://github.com/TP-Lab/connectkit"
 
 [[repo]]
 url = "https://github.com/TP-Lab/cpu_powerup"
@@ -409,6 +430,9 @@ url = "https://github.com/TP-Lab/jingtumMask"
 url = "https://github.com/TP-Lab/kafka_plugin"
 
 [[repo]]
+url = "https://github.com/TP-Lab/key-generator"
+
+[[repo]]
 url = "https://github.com/TP-Lab/KylinDappSpec"
 
 [[repo]]
@@ -422,6 +446,9 @@ url = "https://github.com/TP-Lab/Nervos-Key-Generator"
 
 [[repo]]
 url = "https://github.com/TP-Lab/networklist-org"
+
+[[repo]]
+url = "https://github.com/TP-Lab/nips"
 
 [[repo]]
 url = "https://github.com/TP-Lab/okexchain"
@@ -443,6 +470,9 @@ url = "https://github.com/TP-Lab/patroneos"
 
 [[repo]]
 url = "https://github.com/TP-Lab/polkadot-wiki"
+
+[[repo]]
+url = "https://github.com/TP-Lab/provider-document"
 
 [[repo]]
 url = "https://github.com/TP-Lab/repurchase"
@@ -470,6 +500,9 @@ url = "https://github.com/TP-Lab/SimpleWallet"
 
 [[repo]]
 url = "https://github.com/TP-Lab/ssss"
+
+[[repo]]
+url = "https://github.com/TP-Lab/stackup-bundler"
 
 [[repo]]
 url = "https://github.com/TP-Lab/sushiswap-classic-interface"
@@ -554,6 +587,9 @@ url = "https://github.com/TP-Lab/votertracker-backend"
 
 [[repo]]
 url = "https://github.com/TP-Lab/wallet-adapter"
+
+[[repo]]
+url = "https://github.com/TP-Lab/wallet-kit"
 
 [[repo]]
 url = "https://github.com/TP-Lab/walletconnect-monorepo"

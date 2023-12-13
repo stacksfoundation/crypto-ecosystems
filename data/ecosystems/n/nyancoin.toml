@@ -13,9 +13,6 @@ url = "https://github.com/Nyancoins/.github"
 url = "https://github.com/Nyancoins/bitcoin-abe"
 
 [[repo]]
-url = "https://github.com/Nyancoins/blocktools"
-
-[[repo]]
 url = "https://github.com/Nyancoins/docker"
 
 [[repo]]
@@ -34,15 +31,6 @@ url = "https://github.com/Nyancoins/electrumx"
 url = "https://github.com/Nyancoins/explorer"
 
 [[repo]]
-url = "https://github.com/Nyancoins/litecoin-nyan-fork"
-
-[[repo]]
-url = "https://github.com/Nyancoins/nyan.space"
-
-[[repo]]
-url = "https://github.com/Nyancoins/nyanblock"
-
-[[repo]]
 url = "https://github.com/Nyancoins/nyancha.in"
 
 [[repo]]
@@ -55,13 +43,25 @@ url = "https://github.com/Nyancoins/Nyancoin-Improvement-Proposals"
 url = "https://github.com/Nyancoins/nyancoind-snap"
 
 [[repo]]
-url = "https://github.com/Nyancoins/NyanFaucet"
+url = "https://github.com/SharkyRawr/blocktools"
 
 [[repo]]
-url = "https://github.com/Nyancoins/NyanPaw"
+url = "https://github.com/SharkyRawr/litecoin-nyan-fork"
 
 [[repo]]
-url = "https://github.com/Nyancoins/NyanTX"
+url = "https://github.com/SharkyRawr/nyan.space"
 
 [[repo]]
-url = "https://github.com/Nyancoins/ZeroTips"
+url = "https://github.com/SharkyRawr/nyanblock"
+
+[[repo]]
+url = "https://github.com/SharkyRawr/NyanFaucet"
+
+[[repo]]
+url = "https://github.com/SharkyRawr/NyanPaw"
+
+[[repo]]
+url = "https://github.com/SharkyRawr/NyanTX"
+
+[[repo]]
+url = "https://github.com/SharkyRawr/ZeroTips"

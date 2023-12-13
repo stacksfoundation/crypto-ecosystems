@@ -49,10 +49,19 @@ url = "https://github.com/intfoundation/IIPs"
 url = "https://github.com/intfoundation/int"
 
 [[repo]]
+url = "https://github.com/intfoundation/INT-Shared-Powerbank"
+
+[[repo]]
+url = "https://github.com/intfoundation/INT-Smartwatch"
+
+[[repo]]
 url = "https://github.com/intfoundation/int-wallet"
 
 [[repo]]
 url = "https://github.com/intfoundation/int4.js"
+
+[[repo]]
+url = "https://github.com/intfoundation/intbox"
 
 [[repo]]
 url = "https://github.com/intfoundation/intchain"
@@ -80,6 +89,9 @@ url = "https://github.com/intfoundation/prometheus-flock"
 
 [[repo]]
 url = "https://github.com/intfoundation/set.v0"
+
+[[repo]]
+url = "https://github.com/intfoundation/songofrising-defi"
 
 [[repo]]
 url = "https://github.com/intfoundation/test"

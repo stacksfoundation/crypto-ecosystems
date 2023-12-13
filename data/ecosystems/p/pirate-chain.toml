@@ -31,6 +31,9 @@ url = "https://github.com/PirateNetwork/btcpayserver-docker"
 url = "https://github.com/PirateNetwork/cordova-plugin-litewallet"
 
 [[repo]]
+url = "https://github.com/PirateNetwork/Dependencies"
+
+[[repo]]
 url = "https://github.com/PirateNetwork/docs"
 
 [[repo]]
@@ -95,6 +98,9 @@ url = "https://github.com/PirateNetwork/PirateWallet-Lite"
 
 [[repo]]
 url = "https://github.com/PirateNetwork/PirateWalletManagement"
+
+[[repo]]
+url = "https://github.com/PirateNetwork/reddsa"
 
 [[repo]]
 url = "https://github.com/PirateNetwork/SevenSeas"

@@ -7,10 +7,13 @@ github_organizations = ["https://github.com/capsule-corp-ternoa"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/capsule-corp-ternoa/bsc-eth-bridge-front"
+url = "https://github.com/capsule-corp-ternoa-ops/grafana"
 
 [[repo]]
-url = "https://github.com/capsule-corp-ternoa/chain"
+url = "https://github.com/capsule-corp-ternoa/AH-ledger-ternoa"
+
+[[repo]]
+url = "https://github.com/capsule-corp-ternoa/bsc-eth-bridge-front"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/chain-deploy"
@@ -52,13 +55,10 @@ url = "https://github.com/capsule-corp-ternoa/erc20"
 url = "https://github.com/capsule-corp-ternoa/explorer"
 
 [[repo]]
-url = "https://github.com/capsule-corp-ternoa/fork-off-substrate"
+url = "https://github.com/capsule-corp-ternoa/frontier"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/go-ds-s3"
-
-[[repo]]
-url = "https://github.com/capsule-corp-ternoa/grafana"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/incubator-teaclave-trustzone-sdk"
@@ -106,10 +106,10 @@ url = "https://github.com/capsule-corp-ternoa/sdk_testnet"
 url = "https://github.com/capsule-corp-ternoa/sentry"
 
 [[repo]]
-url = "https://github.com/capsule-corp-ternoa/sgx-keyvault"
+url = "https://github.com/capsule-corp-ternoa/sgx-runtime"
 
 [[repo]]
-url = "https://github.com/capsule-corp-ternoa/sgx-runtime"
+url = "https://github.com/capsule-corp-ternoa/sssa-js"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/subql"
@@ -121,10 +121,16 @@ url = "https://github.com/capsule-corp-ternoa/substrate"
 url = "https://github.com/capsule-corp-ternoa/substrate-api-client"
 
 [[repo]]
+url = "https://github.com/capsule-corp-ternoa/ternoa-connect"
+
+[[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-doc"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-docs"
+
+[[repo]]
+url = "https://github.com/capsule-corp-ternoa/ternoa-enclaves"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-fork-off-substrate"
@@ -134,9 +140,6 @@ url = "https://github.com/capsule-corp-ternoa/ternoa-hub"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-hub-dapp"
-
-[[repo]]
-url = "https://github.com/capsule-corp-ternoa/ternoa-hub-legacy"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-js"
@@ -160,6 +163,9 @@ url = "https://github.com/capsule-corp-ternoa/ternoa-pallets"
 url = "https://github.com/capsule-corp-ternoa/ternoa-proposals"
 
 [[repo]]
+url = "https://github.com/capsule-corp-ternoa/ternoa-sdk-starter"
+
+[[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-subql"
 
 [[repo]]
@@ -179,6 +185,9 @@ url = "https://github.com/capsule-corp-ternoa/ternoa-wallet"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/ternoa-workshop"
+
+[[repo]]
+url = "https://github.com/capsule-corp-ternoa/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/capsule-corp-ternoa/wc-dapp-test"

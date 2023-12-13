@@ -73,6 +73,9 @@ url = "https://github.com/EveripediaNetwork/ep-api"
 url = "https://github.com/EveripediaNetwork/ep-contract"
 
 [[repo]]
+url = "https://github.com/EveripediaNetwork/ep-template"
+
+[[repo]]
 url = "https://github.com/EveripediaNetwork/ep-ui"
 
 [[repo]]
@@ -106,7 +109,25 @@ url = "https://github.com/EveripediaNetwork/hashlips_art_engine"
 url = "https://github.com/EveripediaNetwork/iq-bridge-ui"
 
 [[repo]]
+url = "https://github.com/EveripediaNetwork/iq-code-codellama-banana"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/iq-code-ui"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/iq-code-worker-exllamav2"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/iq-code-worker-tgi"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/iq-code-worker-vllm"
+
+[[repo]]
 url = "https://github.com/EveripediaNetwork/iq-ethereum"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/iq-search"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/iq-ui"
@@ -119,6 +140,9 @@ url = "https://github.com/EveripediaNetwork/issues"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/jan-2021-senate-runoffs"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/langchainjs"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/Language-Translations"
@@ -140,9 +164,6 @@ url = "https://github.com/EveripediaNetwork/oraqle"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/oraqles-ui"
-
-[[repo]]
-url = "https://github.com/EveripediaNetwork/oraqles-website"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/payout-ui"
@@ -181,6 +202,9 @@ url = "https://github.com/EveripediaNetwork/prediqt_telegram_bot"
 url = "https://github.com/EveripediaNetwork/Raffles-Graph"
 
 [[repo]]
+url = "https://github.com/EveripediaNetwork/runpod-serverless-summary"
+
+[[repo]]
 url = "https://github.com/EveripediaNetwork/scatter-js"
 
 [[repo]]
@@ -191,6 +215,9 @@ url = "https://github.com/EveripediaNetwork/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/snapshot.js"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/summary-banana-template"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/ual-mykey"
@@ -206,6 +233,9 @@ url = "https://github.com/EveripediaNetwork/VisualEditor"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/wagmi-magic-connector"
+
+[[repo]]
+url = "https://github.com/EveripediaNetwork/web3-sign"
 
 [[repo]]
 url = "https://github.com/EveripediaNetwork/wikipedia-importer"

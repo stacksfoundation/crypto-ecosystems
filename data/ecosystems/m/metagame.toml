@@ -22,6 +22,9 @@ url = "https://github.com/metagame-xyz/evm-translator"
 url = "https://github.com/metagame-xyz/evm-translator-demo"
 
 [[repo]]
+url = "https://github.com/metagame-xyz/generic-avatar-nft"
+
+[[repo]]
 url = "https://github.com/metagame-xyz/heartbeat-nft"
 
 [[repo]]
@@ -59,6 +62,9 @@ url = "https://github.com/metagame-xyz/sig-check-address-bound-nft"
 
 [[repo]]
 url = "https://github.com/metagame-xyz/standard-earned-nft"
+
+[[repo]]
+url = "https://github.com/metagame-xyz/t3-siwe"
 
 [[repo]]
 url = "https://github.com/metagame-xyz/the-metagame"

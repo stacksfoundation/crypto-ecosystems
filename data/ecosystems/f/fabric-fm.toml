@@ -88,10 +88,10 @@ url = "https://github.com/FabricLabs/fabric-github"
 url = "https://github.com/FabricLabs/fabric-http"
 
 [[repo]]
-url = "https://github.com/FabricLabs/fabric-hub"
+url = "https://github.com/FabricLabs/fabric-matrix"
 
 [[repo]]
-url = "https://github.com/FabricLabs/fabric-matrix"
+url = "https://github.com/FabricLabs/fabric-nostr"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-turntable"
@@ -175,9 +175,6 @@ url = "https://github.com/FabricLabs/jsdoc"
 url = "https://github.com/FabricLabs/keyhub"
 
 [[repo]]
-url = "https://github.com/FabricLabs/light-client"
-
-[[repo]]
 url = "https://github.com/FabricLabs/maki"
 
 [[repo]]
@@ -199,7 +196,13 @@ url = "https://github.com/FabricLabs/matrix-react-sdk"
 url = "https://github.com/FabricLabs/matrix-static"
 
 [[repo]]
+url = "https://github.com/FabricLabs/ministark"
+
+[[repo]]
 url = "https://github.com/FabricLabs/mjolnir"
+
+[[repo]]
+url = "https://github.com/FabricLabs/mux"
 
 [[repo]]
 url = "https://github.com/FabricLabs/nebulet"
@@ -208,10 +211,16 @@ url = "https://github.com/FabricLabs/nebulet"
 url = "https://github.com/FabricLabs/nixpkgs"
 
 [[repo]]
+url = "https://github.com/FabricLabs/node-nat-upnp"
+
+[[repo]]
 url = "https://github.com/FabricLabs/node-os-initramfs"
 
 [[repo]]
 url = "https://github.com/FabricLabs/nodeOS"
+
+[[repo]]
+url = "https://github.com/FabricLabs/nostream"
 
 [[repo]]
 url = "https://github.com/FabricLabs/open-ssl-kit-universal"
@@ -271,7 +280,7 @@ url = "https://github.com/FabricLabs/sync"
 url = "https://github.com/FabricLabs/to.fabric.pub"
 
 [[repo]]
-url = "https://github.com/FabricLabs/web"
+url = "https://github.com/FabricLabs/verse"
 
 [[repo]]
 url = "https://github.com/FabricLabs/whitepaper"

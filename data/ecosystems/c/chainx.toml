@@ -49,6 +49,9 @@ url = "https://github.com/chainx-org/awesome-taproot"
 url = "https://github.com/chainx-org/bda-issue"
 
 [[repo]]
+url = "https://github.com/chainx-org/bevm-erc20-factory"
+
+[[repo]]
 url = "https://github.com/chainx-org/bit-vec"
 
 [[repo]]
@@ -88,16 +91,10 @@ url = "https://github.com/chainx-org/cfgBuilder"
 url = "https://github.com/chainx-org/Chain-X"
 
 [[repo]]
-url = "https://github.com/chainx-org/Chain-X"
-
-[[repo]]
 url = "https://github.com/chainx-org/chainbridge-substrate"
 
 [[repo]]
 url = "https://github.com/chainx-org/chainmint"
-
-[[repo]]
-url = "https://github.com/chainx-org/ChainX"
 
 [[repo]]
 url = "https://github.com/chainx-org/ChainX"
@@ -248,9 +245,6 @@ url = "https://github.com/chainx-org/CXBridge"
 
 [[repo]]
 url = "https://github.com/chainx-org/daistats"
-
-[[repo]]
-url = "https://github.com/chainx-org/dapp-list"
 
 [[repo]]
 url = "https://github.com/chainx-org/documentation"

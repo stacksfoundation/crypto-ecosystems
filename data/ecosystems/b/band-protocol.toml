@@ -43,22 +43,25 @@ url = "https://github.com/bandprotocol/band-std-reference-contracts-icon-java"
 url = "https://github.com/bandprotocol/band-std-reference-contracts-solidity"
 
 [[repo]]
-url = "https://github.com/bandprotocol/band-stdreference-contracts-cosmwasm"
-
-[[repo]]
-url = "https://github.com/bandprotocol/band-stdreference-contracts-solidity"
-
-[[repo]]
 url = "https://github.com/bandprotocol/band-terra-oracle"
 
 [[repo]]
 url = "https://github.com/bandprotocol/band.js"
 
 [[repo]]
+url = "https://github.com/bandprotocol/BandBridgeConsumer"
+
+[[repo]]
 url = "https://github.com/bandprotocol/bandchain"
 
 [[repo]]
 url = "https://github.com/bandprotocol/bandchain-docs"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-docs-archived"
+
+[[repo]]
+url = "https://github.com/bandprotocol/bandchain-docs-v2"
 
 [[repo]]
 url = "https://github.com/bandprotocol/bandchain-legacy"
@@ -104,6 +107,9 @@ url = "https://github.com/bandprotocol/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/bandprotocol/cosmoscan"
+
+[[repo]]
+url = "https://github.com/bandprotocol/cosmoscan-rescript"
 
 [[repo]]
 url = "https://github.com/bandprotocol/cosmprund"
@@ -160,6 +166,9 @@ url = "https://github.com/bandprotocol/js-client"
 url = "https://github.com/bandprotocol/kava"
 
 [[repo]]
+url = "https://github.com/bandprotocol/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/bandprotocol/kovan-stdref-subgraph"
 
 [[repo]]
@@ -184,6 +193,9 @@ url = "https://github.com/bandprotocol/monitoring-config"
 url = "https://github.com/bandprotocol/near-poc"
 
 [[repo]]
+url = "https://github.com/bandprotocol/oracle-consumer"
+
+[[repo]]
 url = "https://github.com/bandprotocol/oracle-feeder"
 
 [[repo]]
@@ -200,6 +212,9 @@ url = "https://github.com/bandprotocol/owasm-boilerplate"
 
 [[repo]]
 url = "https://github.com/bandprotocol/pd-gateway"
+
+[[repo]]
+url = "https://github.com/bandprotocol/pds-gateway"
 
 [[repo]]
 url = "https://github.com/bandprotocol/pyband"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/getAlby"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/getAlby/.github"
+
+[[repo]]
 url = "https://github.com/getAlby/alby-companion-rs"
 
 [[repo]]
@@ -25,6 +28,15 @@ url = "https://github.com/getAlby/alby-js-sdk"
 url = "https://github.com/getAlby/alby-tools"
 
 [[repo]]
+url = "https://github.com/getAlby/bitcoin-connect"
+
+[[repo]]
+url = "https://github.com/getAlby/bitcoin-wallet"
+
+[[repo]]
+url = "https://github.com/getAlby/boost-button"
+
+[[repo]]
 url = "https://github.com/getAlby/build-powered-by"
 
 [[repo]]
@@ -34,13 +46,46 @@ url = "https://github.com/getAlby/docker-bitcoind"
 url = "https://github.com/getAlby/echo-lsat"
 
 [[repo]]
+url = "https://github.com/getAlby/eclair"
+
+[[repo]]
+url = "https://github.com/getAlby/eclair-alarmbot-plugin"
+
+[[repo]]
+url = "https://github.com/getAlby/eclair-plugins"
+
+[[repo]]
+url = "https://github.com/getAlby/eclair-rabbitmq"
+
+[[repo]]
+url = "https://github.com/getAlby/eclair-with-plugins"
+
+[[repo]]
+url = "https://github.com/getAlby/electrs"
+
+[[repo]]
 url = "https://github.com/getAlby/getalby.github.io"
+
+[[repo]]
+url = "https://github.com/getAlby/go-nostr"
 
 [[repo]]
 url = "https://github.com/getAlby/go-oauth2-gorm"
 
 [[repo]]
+url = "https://github.com/getAlby/http-nostr-publisher"
+
+[[repo]]
+url = "https://github.com/getAlby/js-lightning-tools"
+
+[[repo]]
+url = "https://github.com/getAlby/js-sdk"
+
+[[repo]]
 url = "https://github.com/getAlby/lightning-address-details-proxy"
+
+[[repo]]
+url = "https://github.com/getAlby/lightning-benchmark"
 
 [[repo]]
 url = "https://github.com/getAlby/lightning-browser-extension"
@@ -52,7 +97,13 @@ url = "https://github.com/getAlby/lightning-node-connect"
 url = "https://github.com/getAlby/lightning-publisher-wordpress"
 
 [[repo]]
+url = "https://github.com/getAlby/lightning-wallet-connect"
+
+[[repo]]
 url = "https://github.com/getAlby/liquimercado"
+
+[[repo]]
+url = "https://github.com/getAlby/ln-event-publisher"
 
 [[repo]]
 url = "https://github.com/getAlby/ln-ws-proxy"
@@ -88,16 +139,40 @@ url = "https://github.com/getAlby/lsatplayer-demo"
 url = "https://github.com/getAlby/media"
 
 [[repo]]
-url = "https://github.com/getAlby/mercado-liquiditad"
+url = "https://github.com/getAlby/n8n-heroku"
+
+[[repo]]
+url = "https://github.com/getAlby/n8n-nodes-l402-request"
 
 [[repo]]
 url = "https://github.com/getAlby/nginx-default-backend"
 
 [[repo]]
+url = "https://github.com/getAlby/nips"
+
+[[repo]]
+url = "https://github.com/getAlby/nostr-photobooth"
+
+[[repo]]
+url = "https://github.com/getAlby/nostr-wallet-connect"
+
+[[repo]]
+url = "https://github.com/getAlby/npm-fund-ln"
+
+[[repo]]
+url = "https://github.com/getAlby/oauth2"
+
+[[repo]]
 url = "https://github.com/getAlby/oauth2server"
 
 [[repo]]
+url = "https://github.com/getAlby/pkgzap"
+
+[[repo]]
 url = "https://github.com/getAlby/regtest-website"
+
+[[repo]]
+url = "https://github.com/getAlby/relayer"
 
 [[repo]]
 url = "https://github.com/getAlby/secret-satsa"
@@ -109,10 +184,22 @@ url = "https://github.com/getAlby/sell-lsat-files"
 url = "https://github.com/getAlby/simple-boost"
 
 [[repo]]
+url = "https://github.com/getAlby/splitaddress"
+
+[[repo]]
 url = "https://github.com/getAlby/taro"
 
 [[repo]]
 url = "https://github.com/getAlby/trustedcoin"
+
+[[repo]]
+url = "https://github.com/getAlby/umbrel-apps"
+
+[[repo]]
+url = "https://github.com/getAlby/umbrel-community-app-store"
+
+[[repo]]
+url = "https://github.com/getAlby/user-research-repository"
 
 [[repo]]
 url = "https://github.com/getAlby/webln"
@@ -125,3 +212,12 @@ url = "https://github.com/getAlby/webln-oauth-simple-demo"
 
 [[repo]]
 url = "https://github.com/getAlby/website"
+
+[[repo]]
+url = "https://github.com/getAlby/zapdos"
+
+[[repo]]
+url = "https://github.com/getAlby/ZapPlanner"
+
+[[repo]]
+url = "https://github.com/getAlby/ZapSplitter"

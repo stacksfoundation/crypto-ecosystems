@@ -28,7 +28,7 @@ url = "https://github.com/blockworks-foundation/event-scraper-v3"
 url = "https://github.com/blockworks-foundation/example-python-marketmaker"
 
 [[repo]]
-url = "https://github.com/blockworks-foundation/governance-registry"
+url = "https://github.com/blockworks-foundation/fixed"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/governance-ui"
@@ -38,6 +38,9 @@ url = "https://github.com/blockworks-foundation/heroku-buildpack-python"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/ido-pool"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/jito-points"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/liquidatable-accounts-feed"
@@ -82,7 +85,19 @@ url = "https://github.com/blockworks-foundation/mango-explorer"
 url = "https://github.com/blockworks-foundation/mango-explorer-examples"
 
 [[repo]]
+url = "https://github.com/blockworks-foundation/mango-explorer-v4"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-feeds"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-router"
+
+[[repo]]
 url = "https://github.com/blockworks-foundation/mango-simple-client-ts"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-simulation"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/mango-stats-v3"
@@ -127,6 +142,21 @@ url = "https://github.com/blockworks-foundation/mango-v3-reimbursement-ui"
 url = "https://github.com/blockworks-foundation/mango-v3-service"
 
 [[repo]]
+url = "https://github.com/blockworks-foundation/mango-v4"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-v4-mm"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-v4-reference-ui"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-v4-settings"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/mango-v4-ui"
+
+[[repo]]
 url = "https://github.com/blockworks-foundation/mango-web"
 
 [[repo]]
@@ -136,7 +166,13 @@ url = "https://github.com/blockworks-foundation/mangolana"
 url = "https://github.com/blockworks-foundation/market-maker-ts"
 
 [[repo]]
-url = "https://github.com/blockworks-foundation/market-marker-ts"
+url = "https://github.com/blockworks-foundation/mevcamp"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/node-fetch"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/octane"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/og-image"
@@ -145,7 +181,16 @@ url = "https://github.com/blockworks-foundation/og-image"
 url = "https://github.com/blockworks-foundation/omega"
 
 [[repo]]
+url = "https://github.com/blockworks-foundation/openbook-candles"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/openbook-cranker"
+
+[[repo]]
 url = "https://github.com/blockworks-foundation/oyster"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/pyopenbook"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/react-native-animated-charts"
@@ -157,6 +202,9 @@ url = "https://github.com/blockworks-foundation/react-native-phone-number-input"
 url = "https://github.com/blockworks-foundation/realms-stats"
 
 [[repo]]
+url = "https://github.com/blockworks-foundation/saveload_backend"
+
+[[repo]]
 url = "https://github.com/blockworks-foundation/sbv2-solana"
 
 [[repo]]
@@ -164,6 +212,9 @@ url = "https://github.com/blockworks-foundation/serum-dex"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/serum-history"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/simulate_mango_v3"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/solana"
@@ -175,7 +226,16 @@ url = "https://github.com/blockworks-foundation/solana-accountsdb-connector"
 url = "https://github.com/blockworks-foundation/solana-flux-aggregator"
 
 [[repo]]
+url = "https://github.com/blockworks-foundation/solana-improvement-documents"
+
+[[repo]]
 url = "https://github.com/blockworks-foundation/solana-program-library"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/solana-rpc-testing"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/solana-rpc-v2"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/solray"
@@ -188,6 +248,9 @@ url = "https://github.com/blockworks-foundation/voter-stake-registry"
 
 [[repo]]
 url = "https://github.com/blockworks-foundation/voter-stake-registry-client"
+
+[[repo]]
+url = "https://github.com/blockworks-foundation/yellowstone-grpc"
 
 [[repo]]
 url = "https://github.com/mango-run/mango-run-app"

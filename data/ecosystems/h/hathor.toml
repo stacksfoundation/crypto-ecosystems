@@ -28,6 +28,9 @@ url = "https://github.com/HathorNetwork/examples"
 url = "https://github.com/HathorNetwork/exchange-integration-example"
 
 [[repo]]
+url = "https://github.com/HathorNetwork/hathor-atomic-swap-service"
+
+[[repo]]
 url = "https://github.com/HathorNetwork/hathor-core"
 
 [[repo]]
@@ -64,7 +67,13 @@ url = "https://github.com/HathorNetwork/hathor-wallet-mobile"
 url = "https://github.com/HathorNetwork/hathor-wallet-service"
 
 [[repo]]
+url = "https://github.com/HathorNetwork/hathor-wallet-service-sync-daemon"
+
+[[repo]]
 url = "https://github.com/HathorNetwork/hathor-wallet-service-sync_daemon"
+
+[[repo]]
+url = "https://github.com/HathorNetwork/hathor-wallet-web"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/hathor-white-paper"
@@ -74,6 +83,9 @@ url = "https://github.com/HathorNetwork/hathordice-bot"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/helm-charts"
+
+[[repo]]
+url = "https://github.com/HathorNetwork/htrsnap"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/ledger-app-hathor"
@@ -104,6 +116,9 @@ url = "https://github.com/HathorNetwork/twitter-hathor-bot"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/tx-mining-service"
+
+[[repo]]
+url = "https://github.com/HathorNetwork/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/HathorNetwork/yiimp"

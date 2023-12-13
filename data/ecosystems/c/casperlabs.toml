@@ -7,6 +7,45 @@ github_organizations = ["https://github.com/CasperLabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/casper-ecosystem/cargo-casper"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/casper-client-rs"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/cep18"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/counter"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/erc20"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/signer"
+
+[[repo]]
+url = "https://github.com/casper-network/casper-monitoring"
+
+[[repo]]
+url = "https://github.com/casper-network/casper-node"
+
+[[repo]]
+url = "https://github.com/casper-network/casper-node-launcher"
+
+[[repo]]
+url = "https://github.com/casper-network/ceps"
+
+[[repo]]
+url = "https://github.com/casper-network/docs-archive"
+
+[[repo]]
+url = "https://github.com/casper-network/highway"
+
+[[repo]]
+url = "https://github.com/casper-network/wasmi"
+
+[[repo]]
 url = "https://github.com/CasperLabs/actus-core-py"
 
 [[repo]]
@@ -16,13 +55,7 @@ url = "https://github.com/CasperLabs/actus-mp"
 url = "https://github.com/CasperLabs/buildenv"
 
 [[repo]]
-url = "https://github.com/CasperLabs/cargo-casper"
-
-[[repo]]
 url = "https://github.com/CasperLabs/CaskNFT"
-
-[[repo]]
-url = "https://github.com/CasperLabs/casper-client-rs"
 
 [[repo]]
 url = "https://github.com/CasperLabs/Casper-economics-paper"
@@ -31,22 +64,10 @@ url = "https://github.com/CasperLabs/Casper-economics-paper"
 url = "https://github.com/CasperLabs/casper-kube"
 
 [[repo]]
-url = "https://github.com/CasperLabs/casper-monitoring"
-
-[[repo]]
-url = "https://github.com/CasperLabs/casper-node"
-
-[[repo]]
-url = "https://github.com/CasperLabs/casper-node-launcher"
-
-[[repo]]
 url = "https://github.com/CasperLabs/casper-private-auction"
 
 [[repo]]
 url = "https://github.com/CasperLabs/CasperLabs"
-
-[[repo]]
-url = "https://github.com/CasperLabs/casperlabs-counter"
 
 [[repo]]
 url = "https://github.com/CasperLabs/casperlabs-kv-storage"
@@ -59,9 +80,6 @@ url = "https://github.com/CasperLabs/casperlabs.github.io"
 
 [[repo]]
 url = "https://github.com/CasperLabs/casperlabs_contract_macro"
-
-[[repo]]
-url = "https://github.com/CasperLabs/ceps"
 
 [[repo]]
 url = "https://github.com/CasperLabs/civic-contract"
@@ -82,9 +100,6 @@ url = "https://github.com/CasperLabs/contract-based-payment"
 url = "https://github.com/CasperLabs/contract-examples"
 
 [[repo]]
-url = "https://github.com/CasperLabs/counter"
-
-[[repo]]
 url = "https://github.com/CasperLabs/counter-webapp"
 
 [[repo]]
@@ -94,16 +109,10 @@ url = "https://github.com/CasperLabs/dapps"
 url = "https://github.com/CasperLabs/datasize-rs"
 
 [[repo]]
-url = "https://github.com/CasperLabs/docs"
-
-[[repo]]
 url = "https://github.com/CasperLabs/drone-bintray"
 
 [[repo]]
 url = "https://github.com/CasperLabs/envoy"
-
-[[repo]]
-url = "https://github.com/CasperLabs/erc20"
 
 [[repo]]
 url = "https://github.com/CasperLabs/event-store"
@@ -119,9 +128,6 @@ url = "https://github.com/CasperLabs/Governance"
 
 [[repo]]
 url = "https://github.com/CasperLabs/Hartford"
-
-[[repo]]
-url = "https://github.com/CasperLabs/highway"
 
 [[repo]]
 url = "https://github.com/CasperLabs/highway-economic-simulator"
@@ -145,10 +151,13 @@ url = "https://github.com/CasperLabs/nctl-js"
 url = "https://github.com/CasperLabs/opbench"
 
 [[repo]]
-url = "https://github.com/CasperLabs/sfbw-2019"
+url = "https://github.com/CasperLabs/product_to_public"
 
 [[repo]]
-url = "https://github.com/CasperLabs/signer"
+url = "https://github.com/CasperLabs/remote_node_utilities"
+
+[[repo]]
+url = "https://github.com/CasperLabs/sfbw-2019"
 
 [[repo]]
 url = "https://github.com/CasperLabs/stests"
@@ -173,6 +182,3 @@ url = "https://github.com/CasperLabs/vesting"
 
 [[repo]]
 url = "https://github.com/CasperLabs/voting-dapp"
-
-[[repo]]
-url = "https://github.com/CasperLabs/wasmi"

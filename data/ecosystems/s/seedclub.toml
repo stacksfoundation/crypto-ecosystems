@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/seedclub"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/seedclub/claim-club"
+url = "https://github.com/seedclub/avedissian"
 
 [[repo]]
-url = "https://github.com/seedclub/club"
+url = "https://github.com/seedclub/claim-club"
 
 [[repo]]
 url = "https://github.com/seedclub/seed-club-hacks"

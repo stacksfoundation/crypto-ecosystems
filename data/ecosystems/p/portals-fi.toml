@@ -10,7 +10,19 @@ github_organizations = ["https://github.com/portals-fi"]
 url = "https://github.com/portals-fi/0x-api"
 
 [[repo]]
+url = "https://github.com/portals-fi/ethers-rs"
+
+[[repo]]
+url = "https://github.com/portals-fi/graph-node"
+
+[[repo]]
+url = "https://github.com/portals-fi/graph-tooling"
+
+[[repo]]
 url = "https://github.com/portals-fi/interface"
+
+[[repo]]
+url = "https://github.com/portals-fi/json"
 
 [[repo]]
 url = "https://github.com/portals-fi/portals-boilerplate"
@@ -19,4 +31,10 @@ url = "https://github.com/portals-fi/portals-boilerplate"
 url = "https://github.com/portals-fi/serverless-webpack-prisma"
 
 [[repo]]
+url = "https://github.com/portals-fi/terraform-aws-cloudflare-security-group"
+
+[[repo]]
 url = "https://github.com/portals-fi/TypeChain-Portals"
+
+[[repo]]
+url = "https://github.com/portals-fi/yearn.fi"

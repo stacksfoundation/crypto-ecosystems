@@ -45,13 +45,13 @@ url = "https://github.com/am-work/terra-homework"
 url = "https://github.com/amrosaeed/Terra-Challenge"
 
 [[repo]]
-url = "https://github.com/andromedaprotocol/andromeda-contracts"
+url = "https://github.com/andromedaprotocol/andromeda-core"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astro-generator-proxy-contracts"
 
 [[repo]]
-url = "https://github.com/astroport-fi/astroport-periphery"
+url = "https://github.com/astroport-fi/astroport-bootstrapping"
 
 [[repo]]
 url = "https://github.com/bharath-123/anchor-escrow"
@@ -63,13 +63,16 @@ url = "https://github.com/bigeyestudios/Pixy"
 url = "https://github.com/buithanhtoan1999/astro-nft"
 
 [[repo]]
-url = "https://github.com/buithanhtoan1999/astro_contracts"
-
-[[repo]]
 url = "https://github.com/buithanhtoan1999/nft-marketplace"
 
 [[repo]]
 url = "https://github.com/Capapult/contracts"
+
+[[repo]]
+url = "https://github.com/classic-terra/finder"
+
+[[repo]]
+url = "https://github.com/classic-terra/station"
 
 [[repo]]
 url = "https://github.com/collectxyz/collectxyz-guestbook-tutorial-contract"
@@ -88,9 +91,6 @@ url = "https://github.com/dakom/hello-terra"
 
 [[repo]]
 url = "https://github.com/Delorean-Protocol/smartcontract"
-
-[[repo]]
-url = "https://github.com/digitalnativeinc/quasar-cosmwasm"
 
 [[repo]]
 url = "https://github.com/duguorong009/terra-cosmwasm-test-contract"
@@ -135,6 +135,15 @@ url = "https://github.com/kasimte/terra-send-to-burn-address"
 url = "https://github.com/lidofinance/lido-terra-stluna-bluna-converter-contract"
 
 [[repo]]
+url = "https://github.com/Local-Money/lbp-price-indexer"
+
+[[repo]]
+url = "https://github.com/Local-Money/localmoney-lbp-deploy"
+
+[[repo]]
+url = "https://github.com/Local-Money/localmoney-website"
+
+[[repo]]
 url = "https://github.com/Local-Terra/assets"
 
 [[repo]]
@@ -147,9 +156,6 @@ url = "https://github.com/Local-Terra/docs"
 url = "https://github.com/Local-Terra/joe-tokenlists"
 
 [[repo]]
-url = "https://github.com/Local-Terra/lbp-price-indexer"
-
-[[repo]]
 url = "https://github.com/Local-Terra/Local-Terra.github.io"
 
 [[repo]]
@@ -159,13 +165,7 @@ url = "https://github.com/Local-Terra/localterra-contracts"
 url = "https://github.com/Local-Terra/localterra-integration-tests"
 
 [[repo]]
-url = "https://github.com/Local-Terra/localterra-lbp-deploy"
-
-[[repo]]
 url = "https://github.com/Local-Terra/localterra-page"
-
-[[repo]]
-url = "https://github.com/Local-Terra/localterra-roadmap"
 
 [[repo]]
 url = "https://github.com/Local-Terra/localterra-testsuit"
@@ -180,7 +180,7 @@ url = "https://github.com/luigi311/ArBluna"
 url = "https://github.com/mars-protocol/manifesto-contract"
 
 [[repo]]
-url = "https://github.com/mars-protocol/mars-core"
+url = "https://github.com/mars-protocol/v1-core"
 
 [[repo]]
 url = "https://github.com/miaw-cat/assets"
@@ -201,6 +201,18 @@ url = "https://github.com/PFC-Validator/actor-discord"
 url = "https://github.com/PFC-Validator/assets"
 
 [[repo]]
+url = "https://github.com/PFC-Validator/automation-versions"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/chain-registry-ibc"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/chihuahua"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/connect"
+
+[[repo]]
 url = "https://github.com/PFC-Validator/constellation"
 
 [[repo]]
@@ -217,6 +229,9 @@ url = "https://github.com/PFC-Validator/constellation-shared"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/constellation-web-socket"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/cosmos-cluster"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/cw-nfts"
@@ -237,13 +252,22 @@ url = "https://github.com/PFC-Validator/GoFund-UST-contracts"
 url = "https://github.com/PFC-Validator/GoFundUST"
 
 [[repo]]
+url = "https://github.com/PFC-Validator/horcrux-container"
+
+[[repo]]
 url = "https://github.com/PFC-Validator/ibc-fees"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/kujira-core"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/luna-rewards"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/oe4"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/PFC-Cluster"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/PFC-CW20-Frac"
@@ -253,6 +277,9 @@ url = "https://github.com/PFC-Validator/PFC-fee-split"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/pfc-mint2reserve"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/PFC-Notes"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/pfc-reservations"
@@ -265,9 +292,6 @@ url = "https://github.com/PFC-Validator/PFC-Validator.github.io"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/playalongs"
-
-[[repo]]
-url = "https://github.com/PFC-Validator/pylon-core-contracts"
 
 [[repo]]
 url = "https://github.com/PFC-Validator/rand"
@@ -327,6 +351,12 @@ url = "https://github.com/PFC-Validator/terrand-contract-step1"
 url = "https://github.com/PFC-Validator/terrand-contract-step2"
 
 [[repo]]
+url = "https://github.com/PFC-Validator/Ts-and-Cs"
+
+[[repo]]
+url = "https://github.com/PFC-Validator/validator-tools-bindings"
+
+[[repo]]
 url = "https://github.com/R-E-S-T/rest-nft"
 
 [[repo]]
@@ -363,49 +393,209 @@ url = "https://github.com/SpaceCamp-Leverage-Tokens/leveraged_pools"
 url = "https://github.com/stader-labs/stader-terra-kyv"
 
 [[repo]]
+url = "https://github.com/standardweb3/quasar-cosmwasm"
+
+[[repo]]
 url = "https://github.com/steven4354/terracamp-delta0x"
 
 [[repo]]
 url = "https://github.com/tero0x/galactic-punks-nft-scraping"
 
 [[repo]]
-url = "https://github.com/Terra-Former/terraformer-launchpad"
+url = "https://github.com/terra-money/amino-decoder"
+
+[[repo]]
+url = "https://github.com/terra-money/amino-js"
+
+[[repo]]
+url = "https://github.com/terra-money/apidoc-swagger"
+
+[[repo]]
+url = "https://github.com/terra-money/assets"
 
 [[repo]]
 url = "https://github.com/terra-money/awesome-terra"
 
 [[repo]]
+url = "https://github.com/terra-money/bridge-web-app"
+
+[[repo]]
+url = "https://github.com/terra-money/classic-core"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/terra-money/classic-docs"
+
+[[repo]]
+url = "https://github.com/terra-money/classic-mainnet"
+
+[[repo]]
+url = "https://github.com/terra-money/classic-testnet"
+
+[[repo]]
+url = "https://github.com/terra-money/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/terra-money/cosmwasm"
+
+[[repo]]
+url = "https://github.com/terra-money/cosmwasm-contracts"
+
+[[repo]]
 url = "https://github.com/terra-money/cosmwasm-plus"
+
+[[repo]]
+url = "https://github.com/terra-money/delegations"
+
+[[repo]]
+url = "https://github.com/terra-money/deposit-tracker"
+
+[[repo]]
+url = "https://github.com/terra-money/docs"
+
+[[repo]]
+url = "https://github.com/terra-money/documentation"
+
+[[repo]]
+url = "https://github.com/terra-money/faucet"
+
+[[repo]]
+url = "https://github.com/terra-money/fcd-classic"
+
+[[repo]]
+url = "https://github.com/terra-money/finder"
+
+[[repo]]
+url = "https://github.com/terra-money/gitcoin-onboarding"
+
+[[repo]]
+url = "https://github.com/terra-money/houston"
+
+[[repo]]
+url = "https://github.com/terra-money/jigu"
+
+[[repo]]
+url = "https://github.com/terra-money/key-utils"
+
+[[repo]]
+url = "https://github.com/terra-money/keyserver"
+
+[[repo]]
+url = "https://github.com/terra-money/ledger-app-terra"
+
+[[repo]]
+url = "https://github.com/terra-money/ledger-terra-go"
+
+[[repo]]
+url = "https://github.com/terra-money/ledger-terra-js"
+
+[[repo]]
+url = "https://github.com/terra-money/LocalTerra"
+
+[[repo]]
+url = "https://github.com/terra-money/mantle"
+
+[[repo]]
+url = "https://github.com/terra-money/mantle-compatibility"
+
+[[repo]]
+url = "https://github.com/terra-money/mantle-sdk"
+
+[[repo]]
+url = "https://github.com/terra-money/my-terra-token"
+
+[[repo]]
+url = "https://github.com/terra-money/oracle-feeder"
+
+[[repo]]
+url = "https://github.com/terra-money/orbit-bridge-dockerize"
+
+[[repo]]
+url = "https://github.com/terra-money/react-native-mnemonic-key"
+
+[[repo]]
+url = "https://github.com/terra-money/research"
+
+[[repo]]
+url = "https://github.com/terra-money/santa"
+
+[[repo]]
+url = "https://github.com/terra-money/screening-test-backend"
+
+[[repo]]
+url = "https://github.com/terra-money/screening-test-frontend"
+
+[[repo]]
+url = "https://github.com/terra-money/shuttle"
+
+[[repo]]
+url = "https://github.com/terra-money/station-desktop"
+
+[[repo]]
+url = "https://github.com/terra-money/station-extension"
+
+[[repo]]
+url = "https://github.com/terra-money/station-legacy"
 
 [[repo]]
 url = "https://github.com/terra-money/station-mobile"
 
 [[repo]]
+url = "https://github.com/terra-money/synthetic-assets"
+
+[[repo]]
 url = "https://github.com/terra-money/tendermint"
+
+[[repo]]
+url = "https://github.com/terra-money/terra-cosmwasm"
+
+[[repo]]
+url = "https://github.com/terra-money/terra-wallet-ios"
+
+[[repo]]
+url = "https://github.com/terra-money/terra-wallet-java"
+
+[[repo]]
+url = "https://github.com/terra-money/terra-walletconnect-bridge"
+
+[[repo]]
+url = "https://github.com/terra-money/terra-walletconnect-v2-monorepo"
+
+[[repo]]
+url = "https://github.com/terra-money/terra.go"
+
+[[repo]]
+url = "https://github.com/terra-money/terra.js"
+
+[[repo]]
+url = "https://github.com/terra-money/terra.py"
+
+[[repo]]
+url = "https://github.com/terra-money/TIPs"
+
+[[repo]]
+url = "https://github.com/terra-money/tm-db"
+
+[[repo]]
+url = "https://github.com/terra-money/trust-wallet-profile"
+
+[[repo]]
+url = "https://github.com/terra-money/use-station"
+
+[[repo]]
+url = "https://github.com/terra-money/validator-profiles"
+
+[[repo]]
+url = "https://github.com/terra-money/wallet-provider"
+
+[[repo]]
+url = "https://github.com/terra-money/wasmer"
 
 [[repo]]
 url = "https://github.com/terra-money/wasmvm"
 
 [[repo]]
-url = "https://github.com/terra-project/amino-decoder"
-
-[[repo]]
-url = "https://github.com/terra-project/amino-js"
-
-[[repo]]
-url = "https://github.com/terra-project/apidoc-swagger"
-
-[[repo]]
-url = "https://github.com/terra-project/app-terra"
-
-[[repo]]
-url = "https://github.com/terra-project/assets"
-
-[[repo]]
-url = "https://github.com/terra-project/awesome-terra"
-
-[[repo]]
-url = "https://github.com/terra-project/bridge-web-app"
+url = "https://github.com/terra-money/wormhole"
 
 [[repo]]
 url = "https://github.com/terra-project/ccxt"
@@ -414,70 +604,10 @@ url = "https://github.com/terra-project/ccxt"
 url = "https://github.com/terra-project/client-api-docs"
 
 [[repo]]
-url = "https://github.com/terra-project/core"
-
-[[repo]]
-url = "https://github.com/terra-project/cosmos-sdk"
-
-[[repo]]
-url = "https://github.com/terra-project/cosmwasm"
-
-[[repo]]
-url = "https://github.com/terra-project/cosmwasm-contracts"
-
-[[repo]]
-url = "https://github.com/terra-project/cosmwasm-plus"
-
-[[repo]]
-url = "https://github.com/terra-project/delegations"
-
-[[repo]]
-url = "https://github.com/terra-project/deposit-tracker"
-
-[[repo]]
-url = "https://github.com/terra-project/docs"
-
-[[repo]]
-url = "https://github.com/terra-project/documentation"
-
-[[repo]]
-url = "https://github.com/terra-project/faucet"
-
-[[repo]]
-url = "https://github.com/terra-project/fcd"
-
-[[repo]]
-url = "https://github.com/terra-project/finder"
-
-[[repo]]
 url = "https://github.com/terra-project/finder-leagcy"
 
 [[repo]]
 url = "https://github.com/terra-project/finder-legacy"
-
-[[repo]]
-url = "https://github.com/terra-project/gitcoin-onboarding"
-
-[[repo]]
-url = "https://github.com/terra-project/go-cosmwasm"
-
-[[repo]]
-url = "https://github.com/terra-project/houston"
-
-[[repo]]
-url = "https://github.com/terra-project/jigu"
-
-[[repo]]
-url = "https://github.com/terra-project/key-utils"
-
-[[repo]]
-url = "https://github.com/terra-project/keyserver"
-
-[[repo]]
-url = "https://github.com/terra-project/launch"
-
-[[repo]]
-url = "https://github.com/terra-project/ledger-cosmos-go"
 
 [[repo]]
 url = "https://github.com/terra-project/ledger-terra"
@@ -486,91 +616,13 @@ url = "https://github.com/terra-project/ledger-terra"
 url = "https://github.com/terra-project/ledger-terra-app"
 
 [[repo]]
-url = "https://github.com/terra-project/ledger-terra-go"
-
-[[repo]]
-url = "https://github.com/terra-project/ledger-terra-js"
-
-[[repo]]
 url = "https://github.com/terra-project/ledger-validator-app"
-
-[[repo]]
-url = "https://github.com/terra-project/LocalTerra"
-
-[[repo]]
-url = "https://github.com/terra-project/mainnet"
-
-[[repo]]
-url = "https://github.com/terra-project/mantle"
-
-[[repo]]
-url = "https://github.com/terra-project/mantle-compatibility"
-
-[[repo]]
-url = "https://github.com/terra-project/mantle-compatibility-layer"
-
-[[repo]]
-url = "https://github.com/terra-project/mantle-db"
-
-[[repo]]
-url = "https://github.com/terra-project/mantle-sdk"
 
 [[repo]]
 url = "https://github.com/terra-project/mirror-web"
 
 [[repo]]
-url = "https://github.com/terra-project/my-terra-token"
-
-[[repo]]
-url = "https://github.com/terra-project/networks"
-
-[[repo]]
-url = "https://github.com/terra-project/oracle-feeder"
-
-[[repo]]
-url = "https://github.com/terra-project/orbit-bridge-dockerize"
-
-[[repo]]
-url = "https://github.com/terra-project/react-native-mnemonic-key"
-
-[[repo]]
-url = "https://github.com/terra-project/research"
-
-[[repo]]
-url = "https://github.com/terra-project/reward-distributor"
-
-[[repo]]
-url = "https://github.com/terra-project/santa"
-
-[[repo]]
-url = "https://github.com/terra-project/screening-test-backend"
-
-[[repo]]
 url = "https://github.com/terra-project/screening-test-devops"
-
-[[repo]]
-url = "https://github.com/terra-project/screening-test-frontend"
-
-[[repo]]
-url = "https://github.com/terra-project/shuttle"
-
-[[repo]]
-url = "https://github.com/terra-project/station"
-
-[[repo]]
-url = "https://github.com/terra-project/station-electron"
-
-[[repo]]
-url = "https://github.com/terra-project/synthetic-assets"
-
-[[repo]]
-url = "https://github.com/terra-project/tendermint"
-
-[[repo]]
-url = "https://github.com/terra-project/terra-cosmwasm"
-
-[[repo]]
-url = "https://github.com/terra-project/terra-cosmwasm-bindings"
 
 [[repo]]
 url = "https://github.com/terra-project/terra-docs-old"
@@ -582,55 +634,10 @@ url = "https://github.com/terra-project/terra-js"
 url = "https://github.com/terra-project/terra-py"
 
 [[repo]]
-url = "https://github.com/terra-project/terra-sdk-python"
-
-[[repo]]
 url = "https://github.com/terra-project/terra-wallet"
 
 [[repo]]
-url = "https://github.com/terra-project/terra-wallet-ios"
-
-[[repo]]
-url = "https://github.com/terra-project/terra-wallet-java"
-
-[[repo]]
-url = "https://github.com/terra-project/terra-walletconnect-bridge"
-
-[[repo]]
-url = "https://github.com/terra-project/terra-walletconnect-v2-monorepo"
-
-[[repo]]
-url = "https://github.com/terra-project/terra.go"
-
-[[repo]]
-url = "https://github.com/terra-project/terra.js"
-
-[[repo]]
-url = "https://github.com/terra-project/Terrarium"
-
-[[repo]]
-url = "https://github.com/terra-project/testnet"
-
-[[repo]]
-url = "https://github.com/terra-project/TIPs"
-
-[[repo]]
-url = "https://github.com/terra-project/tm-db"
-
-[[repo]]
-url = "https://github.com/terra-project/trust-wallet-profile"
-
-[[repo]]
-url = "https://github.com/terra-project/use-station"
-
-[[repo]]
-url = "https://github.com/terra-project/validator-profiles"
-
-[[repo]]
-url = "https://github.com/terra-project/wasmer"
-
-[[repo]]
-url = "https://github.com/terra-project/wormhole"
+url = "https://github.com/terra-rebels/station"
 
 [[repo]]
 url = "https://github.com/TerraMoon/terra-moon-forever-locking-contract"
@@ -639,13 +646,25 @@ url = "https://github.com/TerraMoon/terra-moon-forever-locking-contract"
 url = "https://github.com/terrashiba/terrajs-examples"
 
 [[repo]]
+url = "https://github.com/terraswap/classic-terraswap-web-app"
+
+[[repo]]
 url = "https://github.com/terraswap/terraswap"
 
 [[repo]]
+url = "https://github.com/tfm-com/terraformer-launchpad"
+
+[[repo]]
 url = "https://github.com/TheWineSeller/winswap"
+
+[[repo]]
+url = "https://github.com/toanbt173404/astro_contracts"
 
 [[repo]]
 url = "https://github.com/unl1k3ly/AnchorHODL"
 
 [[repo]]
 url = "https://github.com/vladjdk/terra-toolbox-webapp"
+
+[[repo]]
+url = "https://github.com/White-Whale-Defi-Platform/white-whale-frontend"

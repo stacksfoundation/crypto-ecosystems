@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/gen-dot-art"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/gen-dot-art/collection-contracts"
-
-[[repo]]
 url = "https://github.com/gen-dot-art/contracts"
 
 [[repo]]
-url = "https://github.com/gen-dot-art/genart-ERC721"
+url = "https://github.com/gen-dot-art/eclipse-contracts"
+
+[[repo]]
+url = "https://github.com/gen-dot-art/eclipse-starter-simple"
 
 [[repo]]
 url = "https://github.com/gen-dot-art/governance"

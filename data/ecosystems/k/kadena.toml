@@ -1,13 +1,159 @@
 # Ecosystem Level Information
 title = "Kadena"
 
-sub_ecosystems = []
+sub_ecosystems = ["Docushield", "Kaddex"]
 
-github_organizations = ["https://github.com/kadena-io"]
+github_organizations = [
+  "https://github.com/Docushield",
+  "https://github.com/kaddex-org",
+  "https://github.com/kadena-community",
+  "https://github.com/kadena-io",
+]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Docushield/doc-bonding-staking"
+
+[[repo]]
+url = "https://github.com/Docushield/doc-bonding-staking-contracts"
+
+[[repo]]
+url = "https://github.com/Docushield/docushield-app-backend"
+
+[[repo]]
+url = "https://github.com/Docushield/mintit-backend"
+
+[[repo]]
+url = "https://github.com/Docushield/MintIt-Front"
+
+[[repo]]
+url = "https://github.com/Docushield/mintit-policy-pact"
+
+[[repo]]
+url = "https://github.com/Docushield/nft-generator-tool"
+
+[[repo]]
+url = "https://github.com/Docushield/pact"
+
+[[repo]]
+url = "https://github.com/Docushield/pact-airdrop-contracts"
+
+[[repo]]
+url = "https://github.com/kaddex-org/home-page"
+
+[[repo]]
+url = "https://github.com/kaddex-org/smart-contracts"
+
+[[repo]]
+url = "https://github.com/kaddex-org/swap-v2"
+
+[[repo]]
+url = "https://github.com/kaddex-org/x-wallet"
+
+[[repo]]
+url = "https://github.com/kaddex-org/x-wallet-landing"
+
+[[repo]]
+url = "https://github.com/kaddex-org/x-wallet-mobile"
+
+[[repo]]
+url = "https://github.com/kadena-community/.github"
+
+[[repo]]
+url = "https://github.com/kadena-community/7-docs-demo"
+
+[[repo]]
+url = "https://github.com/kadena-community/bag-of-holding"
+
+[[repo]]
+url = "https://github.com/kadena-community/bigolchungus"
+
+[[repo]]
+url = "https://github.com/kadena-community/chainweb-forks"
+
+[[repo]]
+url = "https://github.com/kadena-community/create-kadena-app"
+
+[[repo]]
+url = "https://github.com/kadena-community/crowdfund"
+
+[[repo]]
+url = "https://github.com/kadena-community/docs"
+
+[[repo]]
+url = "https://github.com/kadena-community/getting-started"
+
+[[repo]]
+url = "https://github.com/kadena-community/glacierprotocol.github.io"
+
+[[repo]]
+url = "https://github.com/kadena-community/hello-dapp"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadena-balance"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadena-fonts"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadena-tools"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadena-transfer-js"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadena.js"
+
+[[repo]]
+url = "https://github.com/kadena-community/kadenachan"
+
+[[repo]]
+url = "https://github.com/kadena-community/keychain"
+
+[[repo]]
+url = "https://github.com/kadena-community/mainnet-utils"
+
+[[repo]]
+url = "https://github.com/kadena-community/marmalade-minter"
+
+[[repo]]
+url = "https://github.com/kadena-community/nix-kda-cli"
+
+[[repo]]
+url = "https://github.com/kadena-community/node-setup"
+
+[[repo]]
+url = "https://github.com/kadena-community/pact-vscode"
+
+[[repo]]
+url = "https://github.com/kadena-community/pykadena"
+
+[[repo]]
+url = "https://github.com/kadena-community/rock-paper-scissors"
+
+[[repo]]
+url = "https://github.com/kadena-community/saved-by-kadena"
+
+[[repo]]
+url = "https://github.com/kadena-community/secure-keygen"
+
+[[repo]]
+url = "https://github.com/kadena-community/stake-for-steak"
+
+[[repo]]
+url = "https://github.com/kadena-community/torus-wallet"
+
+[[repo]]
+url = "https://github.com/kadena-community/tx-tester"
+
+[[repo]]
+url = "https://github.com/kadena-community/voting-dapp"
+
+[[repo]]
 url = "https://github.com/kadena-io/assetchain"
+
+[[repo]]
+url = "https://github.com/kadena-io/base64-bytestring-kadena"
 
 [[repo]]
 url = "https://github.com/kadena-io/beam"
@@ -26,6 +172,9 @@ url = "https://github.com/kadena-io/cabal"
 
 [[repo]]
 url = "https://github.com/kadena-io/cacophony"
+
+[[repo]]
+url = "https://github.com/kadena-io/CAIP-namespaces"
 
 [[repo]]
 url = "https://github.com/kadena-io/cardano-crypto"
@@ -61,7 +210,13 @@ url = "https://github.com/kadena-io/chainweb-node"
 url = "https://github.com/kadena-io/chainweb-node-chart"
 
 [[repo]]
+url = "https://github.com/kadena-io/chainweb-node-devops"
+
+[[repo]]
 url = "https://github.com/kadena-io/chainweb-node-docker"
+
+[[repo]]
+url = "https://github.com/kadena-io/chainweb-node-nixos-module"
 
 [[repo]]
 url = "https://github.com/kadena-io/chainweb-openapi"
@@ -77,6 +232,12 @@ url = "https://github.com/kadena-io/chainweb-sse"
 
 [[repo]]
 url = "https://github.com/kadena-io/chainweb-storage"
+
+[[repo]]
+url = "https://github.com/kadena-io/chainweb-stream"
+
+[[repo]]
+url = "https://github.com/kadena-io/chainweb-stream-server"
 
 [[repo]]
 url = "https://github.com/kadena-io/chainweb.js"
@@ -103,10 +264,16 @@ url = "https://github.com/kadena-io/dao-module"
 url = "https://github.com/kadena-io/dao.init-frontend"
 
 [[repo]]
+url = "https://github.com/kadena-io/decimal-arithmetic"
+
+[[repo]]
 url = "https://github.com/kadena-io/deeproute"
 
 [[repo]]
 url = "https://github.com/kadena-io/developer-scripts"
+
+[[repo]]
+url = "https://github.com/kadena-io/devenv"
 
 [[repo]]
 url = "https://github.com/kadena-io/devnet"
@@ -121,19 +288,25 @@ url = "https://github.com/kadena-io/docker-compose-chainweb-node"
 url = "https://github.com/kadena-io/ekg-prometheus-adapter"
 
 [[repo]]
+url = "https://github.com/kadena-io/empty"
+
+[[repo]]
 url = "https://github.com/kadena-io/equihash-bindings"
 
 [[repo]]
 url = "https://github.com/kadena-io/flycheck-pact"
 
 [[repo]]
+url = "https://github.com/kadena-io/hackage.nix"
+
+[[repo]]
 url = "https://github.com/kadena-io/hashable"
 
 [[repo]]
-url = "https://github.com/kadena-io/hft"
+url = "https://github.com/kadena-io/homebrew-pact"
 
 [[repo]]
-url = "https://github.com/kadena-io/homebrew-pact"
+url = "https://github.com/kadena-io/hs-nix-infra"
 
 [[repo]]
 url = "https://github.com/kadena-io/hs-yet-another-logger"
@@ -150,6 +323,9 @@ url = "https://github.com/kadena-io/jsaddle"
 [[repo]]
 url = "https://github.com/kadena-io/juno"
 tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/kadena-io/kadena-crypto"
 
 [[repo]]
 url = "https://github.com/kadena-io/kadena-docs"
@@ -204,6 +380,9 @@ url = "https://github.com/kadena-io/memory-wall"
 url = "https://github.com/kadena-io/merkle-log"
 
 [[repo]]
+url = "https://github.com/kadena-io/namespaces"
+
+[[repo]]
 url = "https://github.com/kadena-io/neat-interpolation"
 
 [[repo]]
@@ -226,7 +405,13 @@ tags = ["Protocol"]
 url = "https://github.com/kadena-io/pact-atom"
 
 [[repo]]
+url = "https://github.com/kadena-io/pact-corpus"
+
+[[repo]]
 url = "https://github.com/kadena-io/pact-examples"
+
+[[repo]]
+url = "https://github.com/kadena-io/pact-json"
 
 [[repo]]
 url = "https://github.com/kadena-io/pact-lang-api"
@@ -236,6 +421,9 @@ url = "https://github.com/kadena-io/pact-lang.org"
 
 [[repo]]
 url = "https://github.com/kadena-io/pact-lang.org-code"
+
+[[repo]]
+url = "https://github.com/kadena-io/pact-lsp"
 
 [[repo]]
 url = "https://github.com/kadena-io/pact-manual"
@@ -263,6 +451,9 @@ url = "https://github.com/kadena-io/peso-stablecoin"
 
 [[repo]]
 url = "https://github.com/kadena-io/pypact"
+
+[[repo]]
+url = "https://github.com/kadena-io/ralist"
 
 [[repo]]
 url = "https://github.com/kadena-io/raspberrypi-blockchain"
@@ -295,6 +486,9 @@ url = "https://github.com/kadena-io/servant-github"
 url = "https://github.com/kadena-io/servant-jsaddle"
 
 [[repo]]
+url = "https://github.com/kadena-io/setup-nix-with-cache"
+
+[[repo]]
 url = "https://github.com/kadena-io/signing-api"
 
 [[repo]]
@@ -319,6 +513,9 @@ url = "https://github.com/kadena-io/thyme"
 url = "https://github.com/kadena-io/trifecta"
 
 [[repo]]
+url = "https://github.com/kadena-io/ts-interview-playground"
+
+[[repo]]
 url = "https://github.com/kadena-io/tx-template"
 
 [[repo]]
@@ -334,6 +531,9 @@ url = "https://github.com/kadena-io/verifier-contract-benchmarking"
 url = "https://github.com/kadena-io/wai-middleware-validation"
 
 [[repo]]
+url = "https://github.com/kadena-io/wallet-connect-example"
+
+[[repo]]
 url = "https://github.com/kadena-io/wallet-connect-web-examples"
 
 [[repo]]
@@ -344,6 +544,9 @@ url = "https://github.com/kadena-io/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/kadena-io/walletconnect-utils"
+
+[[repo]]
+url = "https://github.com/kadena-io/x509-self-signed"
 
 [[repo]]
 url = "https://github.com/kadena-io/zoo-lotto"

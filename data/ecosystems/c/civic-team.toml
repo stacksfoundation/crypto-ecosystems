@@ -25,6 +25,9 @@ url = "https://github.com/civicteam/candy-machine-v2-responsive-ui"
 url = "https://github.com/civicteam/Candy-Machine-V3-UI"
 
 [[repo]]
+url = "https://github.com/civicteam/casper-did"
+
+[[repo]]
 url = "https://github.com/civicteam/civic-link"
 
 [[repo]]
@@ -32,6 +35,15 @@ url = "https://github.com/civicteam/civic-login-lambdas"
 
 [[repo]]
 url = "https://github.com/civicteam/civic-login-redux"
+
+[[repo]]
+url = "https://github.com/civicteam/civic-multichain-connect-react"
+
+[[repo]]
+url = "https://github.com/civicteam/civic-pass-eth-template"
+
+[[repo]]
+url = "https://github.com/civicteam/civic-pass-sol-template"
 
 [[repo]]
 url = "https://github.com/civicteam/civic-pass-template"
@@ -46,7 +58,13 @@ url = "https://github.com/civicteam/civic-schemas"
 url = "https://github.com/civicteam/cloudfront-auth"
 
 [[repo]]
+url = "https://github.com/civicteam/cloudfront-jwt-auth"
+
+[[repo]]
 url = "https://github.com/civicteam/credential-commons"
+
+[[repo]]
+url = "https://github.com/civicteam/cucumber-playwright"
 
 [[repo]]
 url = "https://github.com/civicteam/dialect"
@@ -76,10 +94,16 @@ url = "https://github.com/civicteam/DynamoDbExportCsv"
 url = "https://github.com/civicteam/dynamoose"
 
 [[repo]]
+url = "https://github.com/civicteam/eth-relay"
+
+[[repo]]
 url = "https://github.com/civicteam/express-gateway-plugin-body-modifier"
 
 [[repo]]
 url = "https://github.com/civicteam/feathers-amqp-client"
+
+[[repo]]
+url = "https://github.com/civicteam/gated-forwarder"
 
 [[repo]]
 url = "https://github.com/civicteam/gateway-derive"
@@ -103,7 +127,19 @@ url = "https://github.com/civicteam/identity-swap"
 url = "https://github.com/civicteam/idv-commons"
 
 [[repo]]
+url = "https://github.com/civicteam/issuer-node"
+
+[[repo]]
+url = "https://github.com/civicteam/js-did"
+
+[[repo]]
+url = "https://github.com/civicteam/js-multiformats"
+
+[[repo]]
 url = "https://github.com/civicteam/jsonschema2graphql"
+
+[[repo]]
+url = "https://github.com/civicteam/kyc-token-client"
 
 [[repo]]
 url = "https://github.com/civicteam/lambda-auth-tester"
@@ -121,13 +157,22 @@ url = "https://github.com/civicteam/local-kinesis-lambda-runner"
 url = "https://github.com/civicteam/metaplex"
 
 [[repo]]
+url = "https://github.com/civicteam/metaplex-docs"
+
+[[repo]]
 url = "https://github.com/civicteam/middy"
+
+[[repo]]
+url = "https://github.com/civicteam/mpl-candy-machine"
 
 [[repo]]
 url = "https://github.com/civicteam/newrelic_pivotal_agent"
 
 [[repo]]
 url = "https://github.com/civicteam/nextjs-candy-machine-v2"
+
+[[repo]]
+url = "https://github.com/civicteam/nextjs-profile-sample"
 
 [[repo]]
 url = "https://github.com/civicteam/node-jsonwebtoken"
@@ -142,7 +187,19 @@ url = "https://github.com/civicteam/node-webhooks"
 url = "https://github.com/civicteam/npm-civic-sip-api"
 
 [[repo]]
+url = "https://github.com/civicteam/openapi-docs"
+
+[[repo]]
+url = "https://github.com/civicteam/passport"
+
+[[repo]]
+url = "https://github.com/civicteam/passport-devs-access"
+
+[[repo]]
 url = "https://github.com/civicteam/penv"
+
+[[repo]]
+url = "https://github.com/civicteam/quicknode-jwt-tutorial"
 
 [[repo]]
 url = "https://github.com/civicteam/reliquary"
@@ -160,10 +217,16 @@ url = "https://github.com/civicteam/saml-toolkit"
 url = "https://github.com/civicteam/serverless-apigw-sqs-plugin"
 
 [[repo]]
+url = "https://github.com/civicteam/serverless-esbuild"
+
+[[repo]]
 url = "https://github.com/civicteam/serverless-layers"
 
 [[repo]]
 url = "https://github.com/civicteam/serverless-offline-direct-lambda"
+
+[[repo]]
+url = "https://github.com/civicteam/serverless-plugins"
 
 [[repo]]
 url = "https://github.com/civicteam/shapes-mint-page-cm-v2"
@@ -179,6 +242,9 @@ url = "https://github.com/civicteam/sjcl"
 
 [[repo]]
 url = "https://github.com/civicteam/solana-candy-factory"
+
+[[repo]]
+url = "https://github.com/civicteam/solana-gateway-next-demo"
 
 [[repo]]
 url = "https://github.com/civicteam/solana-program-library"
@@ -202,7 +268,13 @@ url = "https://github.com/civicteam/symmetrical-barnacle"
 url = "https://github.com/civicteam/token-guard"
 
 [[repo]]
+url = "https://github.com/civicteam/token2022-transfer-hook"
+
+[[repo]]
 url = "https://github.com/civicteam/uca"
+
+[[repo]]
+url = "https://github.com/civicteam/uniswap-v4-hook"
 
 [[repo]]
 url = "https://github.com/civicteam/wallet-provider"
@@ -212,6 +284,12 @@ url = "https://github.com/civicteam/web3admin"
 
 [[repo]]
 url = "https://github.com/civicteam/winston-loggly-bulk"
+
+[[repo]]
+url = "https://github.com/civicteam/workshop-evm-lottery"
+
+[[repo]]
+url = "https://github.com/civicteam/workshop-solana-lottery"
 
 [[repo]]
 url = "https://github.com/civicteam/zendesk-theme"

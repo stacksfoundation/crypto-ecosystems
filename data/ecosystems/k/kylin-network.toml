@@ -49,6 +49,9 @@ url = "https://github.com/Kylin-Network/kylin-api"
 url = "https://github.com/Kylin-Network/kylin-collator"
 
 [[repo]]
+url = "https://github.com/Kylin-Network/kylin-collator-backend"
+
+[[repo]]
 url = "https://github.com/Kylin-Network/kylin-contracts"
 
 [[repo]]
@@ -59,9 +62,6 @@ url = "https://github.com/Kylin-Network/kylin-front-end"
 
 [[repo]]
 url = "https://github.com/Kylin-Network/kylin-market-frontend"
-
-[[repo]]
-url = "https://github.com/Kylin-Network/kylin-node"
 
 [[repo]]
 url = "https://github.com/Kylin-Network/kylin-ocw-module"
@@ -110,6 +110,12 @@ url = "https://github.com/Kylin-Network/subql-dictionary"
 
 [[repo]]
 url = "https://github.com/Kylin-Network/substrate"
+
+[[repo]]
+url = "https://github.com/Kylin-Network/substrate-balance-snapshot"
+
+[[repo]]
+url = "https://github.com/Kylin-Network/substrate-etl"
 
 [[repo]]
 url = "https://github.com/Kylin-Network/substrate-matrix-faucet"

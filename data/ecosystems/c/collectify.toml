@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/CollectifyApp"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/CollectifyApp/Collectify-WordPress-Plugin"
+
+[[repo]]
+url = "https://github.com/CollectifyApp/ERC1155"
+
+[[repo]]
 url = "https://github.com/CollectifyApp/ERC20"
 
 [[repo]]
@@ -20,6 +26,12 @@ url = "https://github.com/CollectifyApp/ERC721A"
 
 [[repo]]
 url = "https://github.com/CollectifyApp/ERC721S"
+
+[[repo]]
+url = "https://github.com/CollectifyApp/evmGPT"
+
+[[repo]]
+url = "https://github.com/CollectifyApp/OpenEdition"
 
 [[repo]]
 url = "https://github.com/CollectifyApp/PlayGroundNFT"

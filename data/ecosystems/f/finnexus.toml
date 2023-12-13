@@ -7,172 +7,136 @@ github_organizations = ["https://github.com/FinNexus"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/FinNexus/assets"
-
-[[repo]]
-url = "https://github.com/FinNexus/bandBridge"
-
-[[repo]]
-url = "https://github.com/FinNexus/BscChainLinkBridge"
-
-[[repo]]
-url = "https://github.com/FinNexus/BSCFinNexusSwapLpMine"
-
-[[repo]]
-url = "https://github.com/FinNexus/BSCOptionsV1.0"
-
-[[repo]]
-url = "https://github.com/FinNexus/BSCOptionsV1.0_MinePool"
-
-[[repo]]
-url = "https://github.com/FinNexus/chainLinkBridge"
-
-[[repo]]
-url = "https://github.com/FinNexus/DeFi-Pulse-Adapters"
-
-[[repo]]
-url = "https://github.com/FinNexus/defi-sdk"
-
-[[repo]]
 url = "https://github.com/FinNexus/DefiLlama-Adapters"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Documentation"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Documentation-CN"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Empty"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Eth-Token"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Gov-Bakcend"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Snapshot-Contract"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Sushi-DoubleMine"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-SushiSwap-Mine"
 
 [[repo]]
 url = "https://github.com/FinNexus/FinNexus-token"
 
 [[repo]]
-url = "https://github.com/FinNexus/finnexus-ui"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Uniswap-Mine"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexus-Vote"
-
-[[repo]]
-url = "https://github.com/FinNexus/finNexusLiquidity"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexusMineDebankApi"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOption_V2_MinePool"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexusOptions"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOptions_V2"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexusOptionSubgraph"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOptionsV0.1"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOptionsV1"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOptionsV1.0"
-
-[[repo]]
 url = "https://github.com/FinNexus/FinnexusOptionsWeb"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinnexusOptionV1.0_MinePool"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexusSubgraph"
-
-[[repo]]
-url = "https://github.com/FinNexus/FinNexusUnlockSC"
 
 [[repo]]
 url = "https://github.com/FinNexus/fnx-homepage"
 
 [[repo]]
-url = "https://github.com/FinNexus/fnx_api"
+url = "https://github.com/Phoenix-Finance/assets"
 
 [[repo]]
-url = "https://github.com/FinNexus/FNXCrossChainPool"
+url = "https://github.com/Phoenix-Finance/bandBridge"
 
 [[repo]]
-url = "https://github.com/FinNexus/HecoFinNexusSwapLpMine"
+url = "https://github.com/Phoenix-Finance/BscChainLinkBridge"
 
 [[repo]]
-url = "https://github.com/FinNexus/HecoFinNexusToken"
+url = "https://github.com/Phoenix-Finance/BSCOptionsV1.0"
 
 [[repo]]
-url = "https://github.com/FinNexus/HecoOptionsV1.0"
+url = "https://github.com/Phoenix-Finance/BSCOptionsV1.0_MinePool"
 
 [[repo]]
-url = "https://github.com/FinNexus/HecoOptionsV1.0_MinePool"
+url = "https://github.com/Phoenix-Finance/chainLinkBridge"
 
 [[repo]]
-url = "https://github.com/FinNexus/insights.finnexus_web"
+url = "https://github.com/Phoenix-Finance/DeFi-Pulse-Adapters"
 
 [[repo]]
-url = "https://github.com/FinNexus/jackpot-smart-contracts"
+url = "https://github.com/Phoenix-Finance/defi-sdk"
 
 [[repo]]
-url = "https://github.com/FinNexus/LeveragedPoolSubgraph"
+url = "https://github.com/Phoenix-Finance/FinNexus-Documentation-CN"
 
 [[repo]]
-url = "https://github.com/FinNexus/offline_wallet"
+url = "https://github.com/Phoenix-Finance/FinNexus-Eth-Token"
 
 [[repo]]
-url = "https://github.com/FinNexus/OptionsContract"
+url = "https://github.com/Phoenix-Finance/finnexus-ui"
 
 [[repo]]
-url = "https://github.com/FinNexus/OptionStatisticsAPI"
+url = "https://github.com/Phoenix-Finance/finNexusLiquidity"
 
 [[repo]]
-url = "https://github.com/FinNexus/Pdfs"
+url = "https://github.com/Phoenix-Finance/FinNexusMineDebankApi"
 
 [[repo]]
-url = "https://github.com/FinNexus/PhxUnlockSC"
+url = "https://github.com/Phoenix-Finance/FinNexusOptions"
 
 [[repo]]
-url = "https://github.com/FinNexus/PNX_TOKEN"
+url = "https://github.com/Phoenix-Finance/FinNexusOptionSubgraph"
 
 [[repo]]
-url = "https://github.com/FinNexus/protocol-proposals"
+url = "https://github.com/Phoenix-Finance/FinnexusOptionsV0.1"
 
 [[repo]]
-url = "https://github.com/FinNexus/snapshot-spaces"
+url = "https://github.com/Phoenix-Finance/FinnexusOptionV1.0_MinePool"
 
 [[repo]]
-url = "https://github.com/FinNexus/token-profile"
+url = "https://github.com/Phoenix-Finance/fnx_api"
 
 [[repo]]
-url = "https://github.com/FinNexus/UI-2.0"
+url = "https://github.com/Phoenix-Finance/FNXCrossChainPool"
 
 [[repo]]
-url = "https://github.com/FinNexus/wan-hdwallet-provider"
+url = "https://github.com/Phoenix-Finance/HecoFinNexusToken"
 
 [[repo]]
-url = "https://github.com/FinNexus/wandora-box-smart-contracts"
+url = "https://github.com/Phoenix-Finance/insights.finnexus_web"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/jackpot-smart-contracts"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/LpMinePool"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/offline_wallet"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/OptionsContract"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/OptionStatisticsAPI"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/Pdfs"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/Phoenix-Documentation"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/PhoenixOptionsV1.0"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/Phx-Snapshot-Contract"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/Phx-Uniswap-Mine"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/PHX-WASP-DoubleMine"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/PhxSubgraph"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/PhxUnlockSC"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/PNX_TOKEN"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/protocol-proposals"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/token-profile"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/UI-2.0"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/wan-hdwallet-provider"
+
+[[repo]]
+url = "https://github.com/Phoenix-Finance/wandora-box-smart-contracts"

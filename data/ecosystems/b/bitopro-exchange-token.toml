@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/bitoex"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bitoex/bitopro-api-csharp"
+
+[[repo]]
 url = "https://github.com/bitoex/bitopro-api-go"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/bitoex/bitopro-api-java"
 
 [[repo]]
 url = "https://github.com/bitoex/bitopro-api-node"
+
+[[repo]]
+url = "https://github.com/bitoex/bitopro-api-python"
 
 [[repo]]
 url = "https://github.com/bitoex/bitopro-api-ruby"

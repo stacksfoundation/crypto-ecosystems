@@ -52,12 +52,6 @@ tags = ["Dapp"]
 url = "https://github.com/alex-osman/nowplaying"
 
 [[repo]]
-url = "https://github.com/AlphaGriffin/boiler"
-
-[[repo]]
-url = "https://github.com/andreistalker/steemcasino"
-
-[[repo]]
 url = "https://github.com/appetizermonster/steempages"
 
 [[repo]]
@@ -71,18 +65,6 @@ url = "https://github.com/blockbrothers/nozzle"
 
 [[repo]]
 url = "https://github.com/bonustrack/api.steemjs.com"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect-api"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect-registry"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect.js"
 
 [[repo]]
 url = "https://github.com/bonustrack/steemscript"
@@ -110,6 +92,9 @@ url = "https://github.com/code-with-sam/finallynetwork"
 url = "https://github.com/code-with-sam/moveclub"
 
 [[repo]]
+url = "https://github.com/coogger/steemconnect_auth"
+
+[[repo]]
 url = "https://github.com/cross-apps/SteemitApp"
 
 [[repo]]
@@ -125,9 +110,6 @@ url = "https://github.com/dawn-network/dartsteem"
 
 [[repo]]
 url = "https://github.com/dfroberg/dailybrief"
-
-[[repo]]
-url = "https://github.com/djangoapps/steemconnect_auth"
 
 [[repo]]
 url = "https://github.com/DoctorLai/steem-guess-game"
@@ -146,14 +128,13 @@ tags = ["Dapp"]
 url = "https://github.com/dragosroua/php-steem-tools"
 
 [[repo]]
-url = "https://github.com/drov0/Steem-reward-manager"
+url = "https://github.com/drov0/exxp"
+
+[[repo]]
+url = "https://github.com/drov0/hive-reward-manager"
 
 [[repo]]
 url = "https://github.com/drov0/steemgifts"
-
-[[repo]]
-url = "https://github.com/drov0/steempress"
-tags = ["Dapp"]
 
 [[repo]]
 url = "https://github.com/drov0/steemsnippets"
@@ -185,6 +166,9 @@ url = "https://github.com/harpagon210/sscjs"
 
 [[repo]]
 url = "https://github.com/harpagon210/steemsmartcontracts"
+
+[[repo]]
+url = "https://github.com/hateofhades/steemcasino"
 
 [[repo]]
 url = "https://github.com/holgern/beem"
@@ -219,14 +203,26 @@ url = "https://github.com/jonblack/steemduino"
 url = "https://github.com/joticajulian/eftg-send"
 
 [[repo]]
-url = "https://github.com/karimation/react-native-steem-signin"
-
-[[repo]]
 url = "https://github.com/knacksteem/knacksteem.org"
 tags = ["Dapp"]
 
 [[repo]]
+url = "https://github.com/lannocc/boiler"
+
+[[repo]]
 url = "https://github.com/learnsteem/steemit-posts"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect-api"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect-registry"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect.js"
 
 [[repo]]
 url = "https://github.com/liyingxuan/steemit-api-cms"
@@ -275,10 +271,13 @@ url = "https://github.com/Netherdrake/conductor"
 url = "https://github.com/Netherdrake/steem-python"
 
 [[repo]]
-url = "https://github.com/nicholas-2/steem-state"
+url = "https://github.com/nicholascc/steem-state"
 
 [[repo]]
 url = "https://github.com/nirvanaitsolutions/swapsteem"
+
+[[repo]]
+url = "https://github.com/nutbox-dao/wormhole-ui"
 
 [[repo]]
 url = "https://github.com/ocrdu/share-on-steemit-button"
@@ -336,14 +335,16 @@ url = "https://github.com/RagePeanut/SteemDM"
 url = "https://github.com/RagePeanut/Tweem"
 
 [[repo]]
-url = "https://github.com/roelandp/steemwallet"
-tags = ["Dapp"]
+url = "https://github.com/roelandp/hivewallet"
 
 [[repo]]
 url = "https://github.com/sarasate/steemdocs"
 
 [[repo]]
 url = "https://github.com/selabie68/steem-notify"
+
+[[repo]]
+url = "https://github.com/selmi-karim/react-native-steem-signin"
 
 [[repo]]
 url = "https://github.com/skzap/steemwhales"
@@ -688,10 +689,16 @@ url = "https://github.com/steemit/steemconnect"
 url = "https://github.com/steemit/steemdb"
 
 [[repo]]
+url = "https://github.com/steemit/steemgosdk"
+
+[[repo]]
 url = "https://github.com/steemit/steemit-render"
 
 [[repo]]
 url = "https://github.com/steemit/steemnotify"
+
+[[repo]]
+url = "https://github.com/steemit/steemutil"
 
 [[repo]]
 url = "https://github.com/steemit/swift-secp256k1"

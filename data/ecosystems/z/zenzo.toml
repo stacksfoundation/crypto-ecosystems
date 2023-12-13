@@ -16,7 +16,13 @@ url = "https://github.com/ZENZO-Ecosystem/Blockchain-Specifications"
 url = "https://github.com/ZENZO-Ecosystem/clicker_gsp"
 
 [[repo]]
+url = "https://github.com/ZENZO-Ecosystem/Documents"
+
+[[repo]]
 url = "https://github.com/ZENZO-Ecosystem/forge-validator"
+
+[[repo]]
+url = "https://github.com/ZENZO-Ecosystem/game"
 
 [[repo]]
 url = "https://github.com/ZENZO-Ecosystem/Guides"
@@ -37,6 +43,9 @@ url = "https://github.com/ZENZO-Ecosystem/ZENZO-Core-Archive"
 url = "https://github.com/ZENZO-Ecosystem/zenzo-forge"
 
 [[repo]]
+url = "https://github.com/ZENZO-Ecosystem/zenzo-forge-v2"
+
+[[repo]]
 url = "https://github.com/ZENZO-Ecosystem/zenzo-gachapon"
 
 [[repo]]
@@ -50,3 +59,6 @@ url = "https://github.com/ZENZO-Ecosystem/ZENZO-Web-Wallet"
 
 [[repo]]
 url = "https://github.com/ZENZO-Ecosystem/zenzo-web3"
+
+[[repo]]
+url = "https://github.com/ZENZO-Ecosystem/znz-js"

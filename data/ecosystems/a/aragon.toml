@@ -19,6 +19,9 @@ url = "https://github.com/aragon/AIPs"
 url = "https://github.com/aragon/AN-DAO-UI"
 
 [[repo]]
+url = "https://github.com/aragon/an-delay-app"
+
+[[repo]]
 url = "https://github.com/aragon/anj.aragon.org"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/aragon/apm.js"
 url = "https://github.com/aragon/apollo"
 
 [[repo]]
+url = "https://github.com/aragon/app"
+
+[[repo]]
 url = "https://github.com/aragon/apps"
 
 [[repo]]
@@ -49,9 +55,6 @@ url = "https://github.com/aragon/Aracred"
 url = "https://github.com/aragon/aragen"
 
 [[repo]]
-url = "https://github.com/aragon/aragon"
-
-[[repo]]
 url = "https://github.com/aragon/aragon-app-dx"
 
 [[repo]]
@@ -59,9 +62,6 @@ url = "https://github.com/aragon/aragon-apps"
 
 [[repo]]
 url = "https://github.com/aragon/aragon-bare-boilerplate"
-
-[[repo]]
-url = "https://github.com/aragon/aragon-blog"
 
 [[repo]]
 url = "https://github.com/aragon/aragon-buidler-boilerplate"
@@ -82,6 +82,9 @@ url = "https://github.com/aragon/aragon-court"
 url = "https://github.com/aragon/aragon-court-testing"
 
 [[repo]]
+url = "https://github.com/aragon/aragon-dao"
+
+[[repo]]
 url = "https://github.com/aragon/aragon-desktop"
 
 [[repo]]
@@ -95,6 +98,9 @@ url = "https://github.com/aragon/aragon-factory"
 
 [[repo]]
 url = "https://github.com/aragon/aragon-id"
+
+[[repo]]
+url = "https://github.com/aragon/aragon-manager"
 
 [[repo]]
 url = "https://github.com/aragon/aragon-minime"
@@ -145,22 +151,25 @@ url = "https://github.com/aragon/aragondac-community"
 url = "https://github.com/aragon/aragonOS"
 
 [[repo]]
+url = "https://github.com/aragon/aragonosx-manager"
+
+[[repo]]
 url = "https://github.com/aragon/autobounty"
 
 [[repo]]
+url = "https://github.com/aragon/backend"
+
+[[repo]]
 url = "https://github.com/aragon/blog.aragon.org"
-
-[[repo]]
-url = "https://github.com/aragon/bonding.aragon.org"
-
-[[repo]]
-url = "https://github.com/aragon/bridge-ui"
 
 [[repo]]
 url = "https://github.com/aragon/buidler-aragon"
 
 [[repo]]
 url = "https://github.com/aragon/builders-portal"
+
+[[repo]]
+url = "https://github.com/aragon/cli"
 
 [[repo]]
 url = "https://github.com/aragon/client"
@@ -205,13 +214,16 @@ url = "https://github.com/aragon/court-precedence-campaign"
 url = "https://github.com/aragon/court-subgraph"
 
 [[repo]]
-url = "https://github.com/aragon/court.aragon.org"
-
-[[repo]]
 url = "https://github.com/aragon/create-react-app"
 
 [[repo]]
 url = "https://github.com/aragon/dao-global-hackaton"
+
+[[repo]]
+url = "https://github.com/aragon/dao-registration-poap-api"
+
+[[repo]]
+url = "https://github.com/aragon/dao-registration-poap-app"
 
 [[repo]]
 url = "https://github.com/aragon/dao-subgraph"
@@ -235,6 +247,9 @@ url = "https://github.com/aragon/design"
 url = "https://github.com/aragon/dev-cli-govern-docs"
 
 [[repo]]
+url = "https://github.com/aragon/developer-portal"
+
+[[repo]]
 url = "https://github.com/aragon/docs"
 
 [[repo]]
@@ -244,13 +259,13 @@ url = "https://github.com/aragon/documentation"
 url = "https://github.com/aragon/Docusaurus"
 
 [[repo]]
+url = "https://github.com/aragon/EIPs"
+
+[[repo]]
 url = "https://github.com/aragon/epics"
 
 [[repo]]
 url = "https://github.com/aragon/ERC23"
-
-[[repo]]
-url = "https://github.com/aragon/erc3k"
 
 [[repo]]
 url = "https://github.com/aragon/erc3k-legacy"
@@ -271,16 +286,19 @@ url = "https://github.com/aragon/evm-storage-proofs"
 url = "https://github.com/aragon/faucet"
 
 [[repo]]
-url = "https://github.com/aragon/flock"
+url = "https://github.com/aragon/finance-aragon-app"
 
 [[repo]]
-url = "https://github.com/aragon/forum"
+url = "https://github.com/aragon/flock"
 
 [[repo]]
 url = "https://github.com/aragon/forum.aragon.org"
 
 [[repo]]
 url = "https://github.com/aragon/fundraising"
+
+[[repo]]
+url = "https://github.com/aragon/geo-browser-contracts"
 
 [[repo]]
 url = "https://github.com/aragon/geth-devnet"
@@ -295,7 +313,13 @@ url = "https://github.com/aragon/govern"
 url = "https://github.com/aragon/governance"
 
 [[repo]]
+url = "https://github.com/aragon/governance-plugin-boilerplate"
+
+[[repo]]
 url = "https://github.com/aragon/graphql-events"
+
+[[repo]]
+url = "https://github.com/aragon/greeter-plugin-tutorial"
 
 [[repo]]
 url = "https://github.com/aragon/hack"
@@ -325,12 +349,6 @@ url = "https://github.com/aragon/ipfs-api-proxy"
 url = "https://github.com/aragon/issues"
 
 [[repo]]
-url = "https://github.com/aragon/js-sdk"
-
-[[repo]]
-url = "https://github.com/aragon/jurors-microsite"
-
-[[repo]]
 url = "https://github.com/aragon/KeybaseRegistry"
 
 [[repo]]
@@ -349,9 +367,6 @@ url = "https://github.com/aragon/metamask-plugin"
 url = "https://github.com/aragon/meteor-build-client"
 
 [[repo]]
-url = "https://github.com/aragon/migrate"
-
-[[repo]]
 url = "https://github.com/aragon/minime"
 
 [[repo]]
@@ -368,6 +383,24 @@ url = "https://github.com/aragon/network-dao-charter"
 
 [[repo]]
 url = "https://github.com/aragon/network-dashboard"
+
+[[repo]]
+url = "https://github.com/aragon/ods"
+
+[[repo]]
+url = "https://github.com/aragon/osx"
+
+[[repo]]
+url = "https://github.com/aragon/osx-cli"
+
+[[repo]]
+url = "https://github.com/aragon/osx-commons"
+
+[[repo]]
+url = "https://github.com/aragon/osx-plugin-template-foundry"
+
+[[repo]]
+url = "https://github.com/aragon/osx-plugin-template-hardhat"
 
 [[repo]]
 url = "https://github.com/aragon/ovote"
@@ -424,10 +457,13 @@ url = "https://github.com/aragon/signature-registry"
 url = "https://github.com/aragon/simple-multisig"
 
 [[repo]]
-url = "https://github.com/aragon/simple_bonding_curve"
+url = "https://github.com/aragon/simple-storage-example-plugin"
 
 [[repo]]
 url = "https://github.com/aragon/slack-bot"
+
+[[repo]]
+url = "https://github.com/aragon/smart-guardian"
 
 [[repo]]
 url = "https://github.com/aragon/solidity-inspector"
@@ -448,16 +484,22 @@ url = "https://github.com/aragon/strategy-governance-hyperstructure"
 url = "https://github.com/aragon/svrp"
 
 [[repo]]
+url = "https://github.com/aragon/tao-voting-aragon-app"
+
+[[repo]]
 url = "https://github.com/aragon/testrpc"
 
 [[repo]]
 url = "https://github.com/aragon/token-amount"
 
 [[repo]]
-url = "https://github.com/aragon/Tokens"
+url = "https://github.com/aragon/token-distribution-plugins"
 
 [[repo]]
-url = "https://github.com/aragon/toolkit"
+url = "https://github.com/aragon/token-wrapper-aragon-app"
+
+[[repo]]
+url = "https://github.com/aragon/Tokens"
 
 [[repo]]
 url = "https://github.com/aragon/ui"
@@ -496,7 +538,7 @@ url = "https://github.com/aragon/v2-datafeed"
 url = "https://github.com/aragon/v2-migrator"
 
 [[repo]]
-url = "https://github.com/aragon/website"
+url = "https://github.com/aragon/valid-hash-condition-plugin"
 
 [[repo]]
 url = "https://github.com/aragon/whitepaper"
@@ -505,19 +547,16 @@ url = "https://github.com/aragon/whitepaper"
 url = "https://github.com/aragon/your-first-aragon-app"
 
 [[repo]]
-url = "https://github.com/aragon/Zaragoza"
-
-[[repo]]
 url = "https://github.com/aragon/zeppelin-solidity"
 
 [[repo]]
 url = "https://github.com/aragon/zk-circuits-artifacts"
 
 [[repo]]
-url = "https://github.com/aragon/zkmultisig"
+url = "https://github.com/aragonone/simple-bonding-curve"
 
 [[repo]]
-url = "https://github.com/aragon/zkmultisig-node"
+url = "https://github.com/aragonzkresearch/anon-voting-demo"
 
 [[repo]]
 url = "https://github.com/aragonzkresearch/ark-anon-vote"
@@ -538,6 +577,15 @@ url = "https://github.com/aragonzkresearch/blind-ovote"
 url = "https://github.com/aragonzkresearch/blog"
 
 [[repo]]
+url = "https://github.com/aragonzkresearch/noir-storage-proofs"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/noir-trie-proofs"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/nouns-anonymous-voting"
+
+[[repo]]
 url = "https://github.com/aragonzkresearch/ovote"
 
 [[repo]]
@@ -547,4 +595,28 @@ url = "https://github.com/aragonzkresearch/ovote-node"
 url = "https://github.com/aragonzkresearch/research"
 
 [[repo]]
+url = "https://github.com/aragonzkresearch/rovote"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/sum-argument"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/tlcs"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/tlcs-c"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/tlcs-chain"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/tlcs-rust"
+
+[[repo]]
 url = "https://github.com/aragonzkresearch/web"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/zk-circuits-artifacts"
+
+[[repo]]
+url = "https://github.com/aragonzkresearch/zk-registry-ui-demo"

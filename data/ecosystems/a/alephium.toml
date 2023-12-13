@@ -16,7 +16,7 @@ url = "https://github.com/alephium/alephium"
 url = "https://github.com/alephium/alephium-brand-guide"
 
 [[repo]]
-url = "https://github.com/alephium/alephium-js"
+url = "https://github.com/alephium/alephium-dex"
 
 [[repo]]
 url = "https://github.com/alephium/alephium-miner-getting-started"
@@ -31,13 +31,16 @@ url = "https://github.com/alephium/alephium-ops-legacy"
 url = "https://github.com/alephium/alephium-stack"
 
 [[repo]]
-url = "https://github.com/alephium/alephium-ts"
-
-[[repo]]
-url = "https://github.com/alephium/alephium-wallet"
+url = "https://github.com/alephium/alephium-toolkit"
 
 [[repo]]
 url = "https://github.com/alephium/alephium-web3"
+
+[[repo]]
+url = "https://github.com/alephium/alephium-web3-react"
+
+[[repo]]
+url = "https://github.com/alephium/alephium.github.io"
 
 [[repo]]
 url = "https://github.com/alephium/amd-miner"
@@ -46,10 +49,16 @@ url = "https://github.com/alephium/amd-miner"
 url = "https://github.com/alephium/awesome-alephium"
 
 [[repo]]
+url = "https://github.com/alephium/beer-demo"
+
+[[repo]]
 url = "https://github.com/alephium/blake3"
 
 [[repo]]
 url = "https://github.com/alephium/blake3-jni"
+
+[[repo]]
+url = "https://github.com/alephium/cargo-ledger"
 
 [[repo]]
 url = "https://github.com/alephium/community"
@@ -59,6 +68,12 @@ url = "https://github.com/alephium/cpu-miner"
 
 [[repo]]
 url = "https://github.com/alephium/desktop-wallet"
+
+[[repo]]
+url = "https://github.com/alephium/dev-workshop-01"
+
+[[repo]]
+url = "https://github.com/alephium/dev-workshop-02"
 
 [[repo]]
 url = "https://github.com/alephium/devnet.alephium.org"
@@ -94,6 +109,9 @@ url = "https://github.com/alephium/gpu-miner"
 url = "https://github.com/alephium/js-sdk"
 
 [[repo]]
+url = "https://github.com/alephium/ledger-alephium"
+
+[[repo]]
 url = "https://github.com/alephium/memes"
 
 [[repo]]
@@ -109,7 +127,7 @@ url = "https://github.com/alephium/mining-proxy"
 url = "https://github.com/alephium/mobile-wallet"
 
 [[repo]]
-url = "https://github.com/alephium/new-wiki"
+url = "https://github.com/alephium/nextjs-template"
 
 [[repo]]
 url = "https://github.com/alephium/nft-platform"
@@ -122,6 +140,9 @@ url = "https://github.com/alephium/old-wiki"
 
 [[repo]]
 url = "https://github.com/alephium/old-www"
+
+[[repo]]
+url = "https://github.com/alephium/ralph-example"
 
 [[repo]]
 url = "https://github.com/alephium/ralph-vscode"
@@ -137,6 +158,9 @@ url = "https://github.com/alephium/scala-common"
 
 [[repo]]
 url = "https://github.com/alephium/slips"
+
+[[repo]]
+url = "https://github.com/alephium/token-list"
 
 [[repo]]
 url = "https://github.com/alephium/voting-demo"

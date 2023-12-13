@@ -13,10 +13,16 @@ url = "https://github.com/thesandboxgame/.github"
 url = "https://github.com/thesandboxgame/assetbug"
 
 [[repo]]
+url = "https://github.com/thesandboxgame/contracts"
+
+[[repo]]
 url = "https://github.com/thesandboxgame/contracts_common"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/dappeteer"
+
+[[repo]]
+url = "https://github.com/thesandboxgame/ecosystem-automation-challenge"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/github-action-cherry-pick"
@@ -25,10 +31,21 @@ url = "https://github.com/thesandboxgame/github-action-cherry-pick"
 url = "https://github.com/thesandboxgame/hardhat-docgen"
 
 [[repo]]
+url = "https://github.com/thesandboxgame/jenkins-trigger"
+
+[[repo]]
+url = "https://github.com/thesandboxgame/Keycloak-demo"
+
+[[repo]]
+url = "https://github.com/thesandboxgame/sandbox-collection-configurator"
+
+[[repo]]
 url = "https://github.com/thesandboxgame/sandbox-smart-contracts"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/thesandboxgame/sandbox-smart-contracts-old"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/thesandboxgame/sandbox-stats-subgraph"
@@ -38,6 +55,9 @@ url = "https://github.com/thesandboxgame/sandbox-subgraph"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/steve-aoki-subgraph"
+
+[[repo]]
+url = "https://github.com/thesandboxgame/synthetic-monitoring-wpt"
 
 [[repo]]
 url = "https://github.com/thesandboxgame/thesandbox-contracts"

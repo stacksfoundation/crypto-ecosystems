@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Modular Cloud"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/modularcloud"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/modularcloud/explorer"
+
+[[repo]]
+url = "https://github.com/modularcloud/sourcify"

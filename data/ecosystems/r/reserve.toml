@@ -13,6 +13,9 @@ url = "https://github.com/reserve-protocol/0x-monorepo"
 url = "https://github.com/reserve-protocol/basiscash-protocol"
 
 [[repo]]
+url = "https://github.com/reserve-protocol/brand-assets"
+
+[[repo]]
 url = "https://github.com/reserve-protocol/brownie"
 
 [[repo]]
@@ -32,6 +35,9 @@ url = "https://github.com/reserve-protocol/elm-iso3166-data"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/emacs-solidity"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/evm-semantics"
@@ -85,9 +91,6 @@ url = "https://github.com/reserve-protocol/rsr"
 url = "https://github.com/reserve-protocol/rsr-mainnet"
 
 [[repo]]
-url = "https://github.com/reserve-protocol/rsv-beta"
-
-[[repo]]
 url = "https://github.com/reserve-protocol/rsv-v2"
 
 [[repo]]
@@ -109,6 +112,9 @@ url = "https://github.com/reserve-protocol/solstice"
 url = "https://github.com/reserve-protocol/tiny39"
 
 [[repo]]
+url = "https://github.com/reserve-protocol/token-zapper"
+
+[[repo]]
 url = "https://github.com/reserve-protocol/trezor"
 
 [[repo]]
@@ -116,3 +122,6 @@ url = "https://github.com/reserve-protocol/vesting"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/Vulcan"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/zapper-studio"

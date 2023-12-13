@@ -16,6 +16,9 @@ url = "https://github.com/SwissBorg/akka-persistence-postgres"
 url = "https://github.com/SwissBorg/alpakka-kafka"
 
 [[repo]]
+url = "https://github.com/SwissBorg/borg-token"
+
+[[repo]]
 url = "https://github.com/SwissBorg/Business"
 
 [[repo]]
@@ -35,6 +38,12 @@ url = "https://github.com/SwissBorg/payment-forwarder"
 
 [[repo]]
 url = "https://github.com/SwissBorg/prometheus-akka-http"
+
+[[repo]]
+url = "https://github.com/SwissBorg/proof-of-liabilities"
+
+[[repo]]
+url = "https://github.com/SwissBorg/proof-of-solvency"
 
 [[repo]]
 url = "https://github.com/SwissBorg/pub"

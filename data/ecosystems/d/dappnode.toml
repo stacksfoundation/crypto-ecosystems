@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/dappnode"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/dappnode/-DAppNodePackage-Nethermind-Chiado"
-
-[[repo]]
 url = "https://github.com/dappnode/.github"
 
 [[repo]]
@@ -17,9 +14,6 @@ url = "https://github.com/dappnode/apm-subgraph"
 
 [[repo]]
 url = "https://github.com/dappnode/aragon"
-
-[[repo]]
-url = "https://github.com/dappnode/bot-discord"
 
 [[repo]]
 url = "https://github.com/dappnode/bot-discord-check-in"
@@ -43,6 +37,9 @@ url = "https://github.com/dappnode/compose"
 url = "https://github.com/dappnode/DAppNode"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNode-Alt-Releases"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNode-announcements-bot"
 
 [[repo]]
@@ -59,15 +56,6 @@ url = "https://github.com/dappnode/dappnode-pioneers"
 
 [[repo]]
 url = "https://github.com/dappnode/dappnode-portal-template"
-
-[[repo]]
-url = "https://github.com/dappnode/dappnode-sp-contracts"
-
-[[repo]]
-url = "https://github.com/dappnode/dappnode-sp-oracle"
-
-[[repo]]
-url = "https://github.com/dappnode/dappnode-sp-trees"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNode_Installer"
@@ -89,9 +77,6 @@ url = "https://github.com/dappnode/DAppNodePackage-bee"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-Besu"
-
-[[repo]]
-url = "https://github.com/dappnode/DAppNodePackage-Besu-Goerli"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-bitcoin"
@@ -124,6 +109,9 @@ url = "https://github.com/dappnode/DAppNodePackage-ethereum-classic"
 url = "https://github.com/dappnode/DAppNodePackage-ethereum-optimism"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-ethical-metrics"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-execution-multicaster"
 
 [[repo]]
@@ -133,13 +121,13 @@ url = "https://github.com/dappnode/DAppNodePackage-exporter"
 url = "https://github.com/dappnode/DAppNodePackage-geth"
 
 [[repo]]
-url = "https://github.com/dappnode/DAppNodePackage-Gnosis-Beacon-Chain"
-
-[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-Gnosis-Beacon-Chain-Prysm"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-Gnosis-Beacon-Chain-Testnet"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-Gnosis-Chain-Erigon"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-goerli-besu"
@@ -181,6 +169,12 @@ url = "https://github.com/dappnode/DAppNodePackage-ipfs-pinner"
 url = "https://github.com/dappnode/DAppNodePackage-kovan"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-kusama"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-kzg-ceremony"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-lighthouse"
 
 [[repo]]
@@ -211,6 +205,9 @@ url = "https://github.com/dappnode/DAppNodePackage-Lodestar"
 url = "https://github.com/dappnode/DAppNodePackage-lodestar-chiado"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-Lodestar-Gnosis"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-lodestar-prater"
 
 [[repo]]
@@ -233,9 +230,6 @@ url = "https://github.com/dappnode/DAppNodePackage-mev-boost-gnosis"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-mev-boost-goerli"
-
-[[repo]]
-url = "https://github.com/dappnode/DAppNodePackage-mev-boost-prater"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-monero"
@@ -268,6 +262,15 @@ url = "https://github.com/dappnode/DAppNodePackage-nimbus-prater"
 url = "https://github.com/dappnode/DAppNodePackage-node-dashboard"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-obol-distributed-validator-goerli"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-obol-goerli-etherfi"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-op-erigon"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-openethereum"
 
 [[repo]]
@@ -278,6 +281,9 @@ url = "https://github.com/dappnode/DAppNodePackage-owncloud"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-pokt"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-polkadot"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-prysm"
@@ -325,6 +331,12 @@ url = "https://github.com/dappnode/DAppnodePackage-raiden-testnet"
 url = "https://github.com/dappnode/DAppNodePackage-rinkeby"
 
 [[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-rocketpool"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-rocketpool-testnet"
+
+[[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-ropsten"
 
 [[repo]]
@@ -344,9 +356,6 @@ url = "https://github.com/dappnode/DAppNodePackage-SSV-Goerli-Shifu"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-SSV-Shifu"
-
-[[repo]]
-url = "https://github.com/dappnode/DAppNodePackage-Stake-Beacon-Chain"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-storj"
@@ -410,6 +419,9 @@ url = "https://github.com/dappnode/DAppNodePackage-web3signer-kiln"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-web3signer-lukso"
+
+[[repo]]
+url = "https://github.com/dappnode/DAppNodePackage-web3signer-lukso-POC"
 
 [[repo]]
 url = "https://github.com/dappnode/DAppNodePackage-web3signer-prater"
@@ -535,10 +547,25 @@ url = "https://github.com/dappnode/merkle-distributor"
 url = "https://github.com/dappnode/mev-sp-contracts"
 
 [[repo]]
+url = "https://github.com/dappnode/mev-sp-fe"
+
+[[repo]]
 url = "https://github.com/dappnode/mev-sp-oracle"
 
 [[repo]]
 url = "https://github.com/dappnode/mev-sp-trees"
+
+[[repo]]
+url = "https://github.com/dappnode/monitor-aggregator"
+
+[[repo]]
+url = "https://github.com/dappnode/monitor-dashboards"
+
+[[repo]]
+url = "https://github.com/dappnode/monitor-proxy"
+
+[[repo]]
+url = "https://github.com/dappnode/monitor-service"
 
 [[repo]]
 url = "https://github.com/dappnode/MultiSigWallet"
@@ -553,16 +580,19 @@ url = "https://github.com/dappnode/oasis-direct"
 url = "https://github.com/dappnode/otp.github.io"
 
 [[repo]]
+url = "https://github.com/dappnode/packages-status"
+
+[[repo]]
 url = "https://github.com/dappnode/panvala-bot"
 
 [[repo]]
 url = "https://github.com/dappnode/prune-slashing"
 
 [[repo]]
-url = "https://github.com/dappnode/prune-slashing-protection"
+url = "https://github.com/dappnode/QA"
 
 [[repo]]
-url = "https://github.com/dappnode/QA"
+url = "https://github.com/dappnode/schemas"
 
 [[repo]]
 url = "https://github.com/dappnode/sdk-publish"
@@ -577,6 +607,15 @@ url = "https://github.com/dappnode/see-and-pin-v2"
 url = "https://github.com/dappnode/snapshot.js"
 
 [[repo]]
+url = "https://github.com/dappnode/stakehouse-cli"
+
+[[repo]]
+url = "https://github.com/dappnode/staker-configs"
+
+[[repo]]
+url = "https://github.com/dappnode/StakingBrain"
+
+[[repo]]
 url = "https://github.com/dappnode/tcr"
 
 [[repo]]
@@ -589,6 +628,12 @@ url = "https://github.com/dappnode/template-instance"
 url = "https://github.com/dappnode/token-service"
 
 [[repo]]
+url = "https://github.com/dappnode/toolkit"
+
+[[repo]]
+url = "https://github.com/dappnode/types"
+
+[[repo]]
 url = "https://github.com/dappnode/usbmount"
 
 [[repo]]
@@ -596,9 +641,6 @@ url = "https://github.com/dappnode/wagyu-key-gen"
 
 [[repo]]
 url = "https://github.com/dappnode/web3signer-import-one-by-one"
-
-[[repo]]
-url = "https://github.com/dappnode/web3signer-modules"
 
 [[repo]]
 url = "https://github.com/dappnode/welcome"

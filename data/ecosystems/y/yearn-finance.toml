@@ -7,44 +7,10 @@ github_organizations = ["https://github.com/iearn-finance", "https://github.com/
 
 # Repositories
 [[repo]]
-url = "https://github.com/iearn-finance/api.yuni.finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/apr-oracle"
-
-[[repo]]
-url = "https://github.com/iearn-finance/audit"
-
-[[repo]]
-url = "https://github.com/iearn-finance/audits"
-
-[[repo]]
-url = "https://github.com/iearn-finance/balancer-gov"
-
-[[repo]]
-url = "https://github.com/iearn-finance/brownie-strategy-mix"
-
-[[repo]]
-url = "https://github.com/iearn-finance/contracts"
-
-[[repo]]
-url = "https://github.com/iearn-finance/docs"
+url = "https://github.com/banteg/strategy-uni-lp-pickle"
 
 [[repo]]
 url = "https://github.com/iearn-finance/faq"
-
-[[repo]]
-url = "https://github.com/iearn-finance/governance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/iborrow-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/iearn-finance"
-tags = ["Protocol"]
-
-[[repo]]
-url = "https://github.com/iearn-finance/ileverage-finance"
 
 [[repo]]
 url = "https://github.com/iearn-finance/ilhedge.finance"
@@ -53,136 +19,13 @@ url = "https://github.com/iearn-finance/ilhedge.finance"
 url = "https://github.com/iearn-finance/ilinsure.finance"
 
 [[repo]]
-url = "https://github.com/iearn-finance/iliquidate-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/itoken"
-
-[[repo]]
-url = "https://github.com/iearn-finance/keep3r-jobs"
-
-[[repo]]
-url = "https://github.com/iearn-finance/strategy-uni-lp-pickle"
-
-[[repo]]
-url = "https://github.com/iearn-finance/timeloans.finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/uniswap-roi"
-
-[[repo]]
-url = "https://github.com/iearn-finance/vaults"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ychad-audit"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ycredit-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ycredit.finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-api"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-assets"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-audits"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-docs"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-exporter"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-keeper"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-meta"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-pm"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-protocol"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-recycle"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-safe-app"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-sdk"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-security"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-starter-pack"
-
-[[repo]]
 url = "https://github.com/iearn-finance/yearn-strategies"
 
 [[repo]]
-url = "https://github.com/iearn-finance/yearn-subgraph"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-token"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-treasury"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-ui-components"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-vaults"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yearn-vaults-v2-subgraph"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ygift"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ygift-ui"
-
-[[repo]]
-url = "https://github.com/iearn-finance/ygov-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yinsure-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yip_validator"
-
-[[repo]]
-url = "https://github.com/iearn-finance/YIPS"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yoracle.link"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yswap-finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/yuni.finance"
-
-[[repo]]
-url = "https://github.com/iearn-finance/zap"
-
-[[repo]]
-url = "https://github.com/iearn-finance/zaps"
-
-[[repo]]
 url = "https://github.com/sambacha/yearn-protocol-nodejs"
+
+[[repo]]
+url = "https://github.com/uniloan-finance/timeloans.finance"
 
 [[repo]]
 url = "https://github.com/yearn/ape-alerts"
@@ -201,6 +44,9 @@ url = "https://github.com/yearn/apr-oracle"
 
 [[repo]]
 url = "https://github.com/yearn/audit"
+
+[[repo]]
+url = "https://github.com/yearn/b2b-dashboard"
 
 [[repo]]
 url = "https://github.com/yearn/balancer-gov"
@@ -272,6 +118,18 @@ url = "https://github.com/yearn/macarena-finance"
 url = "https://github.com/yearn/NFTreasury"
 
 [[repo]]
+url = "https://github.com/yearn/risk-framework"
+
+[[repo]]
+url = "https://github.com/yearn/risk-framework-subgraph"
+
+[[repo]]
+url = "https://github.com/yearn/safe-swap"
+
+[[repo]]
+url = "https://github.com/yearn/seafood"
+
+[[repo]]
 url = "https://github.com/yearn/serpentor"
 
 [[repo]]
@@ -284,13 +142,31 @@ url = "https://github.com/yearn/stealth-txs"
 url = "https://github.com/yearn/strategies-keep3r"
 
 [[repo]]
+url = "https://github.com/yearn/tbtc-alerts"
+
+[[repo]]
 url = "https://github.com/yearn/thegraph-yfi-buyback"
+
+[[repo]]
+url = "https://github.com/yearn/tokenized-strategy"
+
+[[repo]]
+url = "https://github.com/yearn/tokenized-strategy-ape-mix"
+
+[[repo]]
+url = "https://github.com/yearn/tokenized-strategy-foundry-mix"
+
+[[repo]]
+url = "https://github.com/yearn/tokenized-strategy-periphery"
 
 [[repo]]
 url = "https://github.com/yearn/tokenlist"
 
 [[repo]]
 url = "https://github.com/yearn/uniswap-roi"
+
+[[repo]]
+url = "https://github.com/yearn/vault-periphery"
 
 [[repo]]
 url = "https://github.com/yearn/vaults"
@@ -335,6 +211,9 @@ url = "https://github.com/yearn/ydaemon"
 url = "https://github.com/yearn/ydata"
 
 [[repo]]
+url = "https://github.com/yearn/yDiscount"
+
+[[repo]]
 url = "https://github.com/yearn/yearn-allowlist"
 
 [[repo]]
@@ -359,12 +238,6 @@ url = "https://github.com/yearn/yearn-comms"
 url = "https://github.com/yearn/yearn-data"
 
 [[repo]]
-url = "https://github.com/yearn/yearn-data-analytics"
-
-[[repo]]
-url = "https://github.com/yearn/yearn-data-sync"
-
-[[repo]]
 url = "https://github.com/yearn/yearn-devdocs"
 
 [[repo]]
@@ -384,6 +257,7 @@ url = "https://github.com/yearn/yearn-finance"
 
 [[repo]]
 url = "https://github.com/yearn/yearn-finance-v3"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/yearn/yearn-gnosis-safe"
@@ -470,6 +344,15 @@ url = "https://github.com/yearn/yearn-vaults-descriptions"
 url = "https://github.com/yearn/yearn-vaults-v2-subgraph"
 
 [[repo]]
+url = "https://github.com/yearn/yearn-vaults-v3"
+
+[[repo]]
+url = "https://github.com/yearn/yearn-vesting-escrow"
+
+[[repo]]
+url = "https://github.com/yearn/yearn-veyfi-subgraph"
+
+[[repo]]
 url = "https://github.com/yearn/yearn-watch"
 
 [[repo]]
@@ -491,10 +374,25 @@ url = "https://github.com/yearn/yearn-ybribe-subgraph"
 url = "https://github.com/yearn/yearn.fi"
 
 [[repo]]
+url = "https://github.com/yearn/yETH"
+
+[[repo]]
+url = "https://github.com/yearn/yETH-bootstrap"
+
+[[repo]]
+url = "https://github.com/yearn/yETH-periphery"
+
+[[repo]]
 url = "https://github.com/yearn/yfi-experience"
 
 [[repo]]
 url = "https://github.com/yearn/yFuTemple"
+
+[[repo]]
+url = "https://github.com/yearn/ygenius-brain"
+
+[[repo]]
+url = "https://github.com/yearn/ygenius-webui"
 
 [[repo]]
 url = "https://github.com/yearn/ygift"
@@ -521,7 +419,16 @@ url = "https://github.com/yearn/YIPS"
 url = "https://github.com/yearn/yIssues"
 
 [[repo]]
+url = "https://github.com/yearn/yLSTeth"
+
+[[repo]]
+url = "https://github.com/yearn/ymonitor"
+
+[[repo]]
 url = "https://github.com/yearn/yoracle.link"
+
+[[repo]]
+url = "https://github.com/yearn/yPartners"
 
 [[repo]]
 url = "https://github.com/yearn/ySprout"

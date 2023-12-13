@@ -13,9 +13,6 @@ url = "https://github.com/solendprotocol/.github"
 url = "https://github.com/solendprotocol/backpack"
 
 [[repo]]
-url = "https://github.com/solendprotocol/common"
-
-[[repo]]
 url = "https://github.com/solendprotocol/common-DEPRECATED"
 
 [[repo]]
@@ -37,6 +34,9 @@ url = "https://github.com/solendprotocol/ido-ui"
 url = "https://github.com/solendprotocol/liquidator"
 
 [[repo]]
+url = "https://github.com/solendprotocol/marinade-widget"
+
+[[repo]]
 url = "https://github.com/solendprotocol/multisig"
 
 [[repo]]
@@ -53,6 +53,9 @@ url = "https://github.com/solendprotocol/solend-lite"
 
 [[repo]]
 url = "https://github.com/solendprotocol/solend-sdk"
+
+[[repo]]
+url = "https://github.com/solendprotocol/suilend"
 
 [[repo]]
 url = "https://github.com/solendprotocol/token-list"

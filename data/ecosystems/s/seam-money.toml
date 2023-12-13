@@ -7,10 +7,19 @@ github_organizations = ["https://github.com/SeamMoney"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/SeamMoney/.github"
+
+[[repo]]
 url = "https://github.com/SeamMoney/docs"
 
 [[repo]]
 url = "https://github.com/SeamMoney/landing-page"
+
+[[repo]]
+url = "https://github.com/SeamMoney/MoveGPT"
+
+[[repo]]
+url = "https://github.com/SeamMoney/seam-backend"
 
 [[repo]]
 url = "https://github.com/SeamMoney/seam-contracts"
@@ -19,4 +28,7 @@ url = "https://github.com/SeamMoney/seam-contracts"
 url = "https://github.com/SeamMoney/seam-frontend"
 
 [[repo]]
-url = "https://github.com/SeamMoney/sidewinder"
+url = "https://github.com/SeamMoney/SeamAMM"
+
+[[repo]]
+url = "https://github.com/SeamMoney/strategy-builder"

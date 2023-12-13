@@ -13,6 +13,9 @@ url = "https://github.com/umee-network/amino-js"
 url = "https://github.com/umee-network/bech32-ibc"
 
 [[repo]]
+url = "https://github.com/umee-network/chainlist"
+
+[[repo]]
 url = "https://github.com/umee-network/cli"
 
 [[repo]]
@@ -31,7 +34,16 @@ url = "https://github.com/umee-network/cosmos-proposal-tools"
 url = "https://github.com/umee-network/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/umee-network/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/umee-network/defillama-server"
+
+[[repo]]
 url = "https://github.com/umee-network/docs"
+
+[[repo]]
+url = "https://github.com/umee-network/erc20-gmp"
 
 [[repo]]
 url = "https://github.com/umee-network/explorer"
@@ -56,6 +68,9 @@ url = "https://github.com/umee-network/ibc-rs"
 
 [[repo]]
 url = "https://github.com/umee-network/interchain-accounts-cosmos-046"
+
+[[repo]]
+url = "https://github.com/umee-network/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/umee-network/keplr-experiments"
@@ -88,7 +103,16 @@ url = "https://github.com/umee-network/peggo"
 url = "https://github.com/umee-network/peggy-bak"
 
 [[repo]]
+url = "https://github.com/umee-network/ping-pub-testnet"
+
+[[repo]]
 url = "https://github.com/umee-network/qa-integration"
+
+[[repo]]
+url = "https://github.com/umee-network/Scripts"
+
+[[repo]]
+url = "https://github.com/umee-network/stride"
 
 [[repo]]
 url = "https://github.com/umee-network/testnets"
@@ -103,16 +127,19 @@ url = "https://github.com/umee-network/umee-contracts"
 url = "https://github.com/umee-network/umee-cosmwasm"
 
 [[repo]]
+url = "https://github.com/umee-network/umee-erc20"
+
+[[repo]]
 url = "https://github.com/umee-network/umee-ethereum-contracts"
+
+[[repo]]
+url = "https://github.com/umee-network/umee-gmp-erc20"
 
 [[repo]]
 url = "https://github.com/umee-network/umee-installer"
 
 [[repo]]
 url = "https://github.com/umee-network/Umee-js"
-
-[[repo]]
-url = "https://github.com/umee-network/umee-v1-contracts"
 
 [[repo]]
 url = "https://github.com/umee-network/umee-vuepress-docs"

@@ -10,13 +10,25 @@ github_organizations = ["https://github.com/staratlasmeta"]
 url = "https://github.com/staratlasmeta/anchor"
 
 [[repo]]
+url = "https://github.com/staratlasmeta/discourse"
+
+[[repo]]
 url = "https://github.com/staratlasmeta/factory"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/FoundationKit"
 
 [[repo]]
+url = "https://github.com/staratlasmeta/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words"
+
+[[repo]]
+url = "https://github.com/staratlasmeta/node-lz4"
+
+[[repo]]
 url = "https://github.com/staratlasmeta/player_profile"
+
+[[repo]]
+url = "https://github.com/staratlasmeta/proc-macro-error"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/react-image-gallery"
@@ -31,7 +43,13 @@ url = "https://github.com/staratlasmeta/solana"
 url = "https://github.com/staratlasmeta/solana-web3.js"
 
 [[repo]]
+url = "https://github.com/staratlasmeta/solflare-sdk"
+
+[[repo]]
 url = "https://github.com/staratlasmeta/star-atlas-arcade"
+
+[[repo]]
+url = "https://github.com/staratlasmeta/sunspot"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/token-list"
@@ -44,3 +62,9 @@ url = "https://github.com/staratlasmeta/tribeca"
 
 [[repo]]
 url = "https://github.com/staratlasmeta/wallet-adapter"
+
+[[repo]]
+url = "https://github.com/staratlasmeta/wasm-bindgen"
+
+[[repo]]
+url = "https://github.com/staratlasmeta/wasm-pack"

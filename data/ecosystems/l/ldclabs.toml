@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ldclabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ldclabs/.github"
+
+[[repo]]
 url = "https://github.com/ldclabs/Blockchain-dark-forest-selfguard-handbook"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/ldclabs/cbor-patch"
 
 [[repo]]
 url = "https://github.com/ldclabs/cose"
+
+[[repo]]
+url = "https://github.com/ldclabs/creditchain"
 
 [[repo]]
 url = "https://github.com/ldclabs/go-ipld-prime"
@@ -34,7 +40,7 @@ url = "https://github.com/ldclabs/LIP"
 url = "https://github.com/ldclabs/pdvm"
 
 [[repo]]
-url = "https://github.com/ldclabs/site"
+url = "https://github.com/ldclabs/spin"
 
 [[repo]]
 url = "https://github.com/ldclabs/website"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ingenuity-build"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ingenuity-build/assetlists"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/audits"
 
 [[repo]]
@@ -16,7 +19,19 @@ url = "https://github.com/ingenuity-build/bdjuno"
 url = "https://github.com/ingenuity-build/chain-registry"
 
 [[repo]]
+url = "https://github.com/ingenuity-build/chainlist"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/cosmostation-chrome-extension"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/evince"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/faucet"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/ibc-go"
@@ -31,13 +46,31 @@ url = "https://github.com/ingenuity-build/interchain-accounts"
 url = "https://github.com/ingenuity-build/interchain-queries"
 
 [[repo]]
+url = "https://github.com/ingenuity-build/keplr-chain-registry"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/keplr-wallet"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/lens"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/liquidity-staking-module"
 
 [[repo]]
+url = "https://github.com/ingenuity-build/liquidity-staking-module-v47"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/mainnet"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/multierror"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/osmosis"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/quicksilver"
@@ -58,6 +91,12 @@ url = "https://github.com/ingenuity-build/quicksilverjs"
 url = "https://github.com/ingenuity-build/relayer"
 
 [[repo]]
+url = "https://github.com/ingenuity-build/security-reports"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/slips"
+
+[[repo]]
 url = "https://github.com/ingenuity-build/tendermint-rs"
 
 [[repo]]
@@ -65,3 +104,6 @@ url = "https://github.com/ingenuity-build/testnets"
 
 [[repo]]
 url = "https://github.com/ingenuity-build/tm-db"
+
+[[repo]]
+url = "https://github.com/ingenuity-build/web-wallet-ts-react"

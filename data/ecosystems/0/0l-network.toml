@@ -7,34 +7,40 @@ github_organizations = ["https://github.com/OLSF"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/OLSF/aptos-core"
+url = "https://github.com/0LNetworkCommunity/aptos-core"
 
 [[repo]]
-url = "https://github.com/OLSF/carpe"
+url = "https://github.com/0LNetworkCommunity/carpe"
 
 [[repo]]
-url = "https://github.com/OLSF/dev-epoch-archive"
+url = "https://github.com/0LNetworkCommunity/dev-epoch-archive"
 
 [[repo]]
-url = "https://github.com/OLSF/dev-genesis"
+url = "https://github.com/0LNetworkCommunity/dev-genesis"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/discord-server-rules"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/epoch-archive"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/genesis-registration"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/libra"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/seed-peers"
+
+[[repo]]
+url = "https://github.com/0LNetworkCommunity/version-six"
 
 [[repo]]
 url = "https://github.com/OLSF/diem"
 
 [[repo]]
-url = "https://github.com/OLSF/discord-server-rules"
-
-[[repo]]
-url = "https://github.com/OLSF/epoch-archive"
-
-[[repo]]
-url = "https://github.com/OLSF/genesis-registration"
-
-[[repo]]
 url = "https://github.com/OLSF/genesis-registration-depr"
-
-[[repo]]
-url = "https://github.com/OLSF/libra"
 
 [[repo]]
 url = "https://github.com/OLSF/move"
@@ -43,10 +49,4 @@ url = "https://github.com/OLSF/move"
 url = "https://github.com/OLSF/move-0L"
 
 [[repo]]
-url = "https://github.com/OLSF/seed-peers"
-
-[[repo]]
 url = "https://github.com/OLSF/tool-scrubbers-guild"
-
-[[repo]]
-url = "https://github.com/OLSF/version-six"

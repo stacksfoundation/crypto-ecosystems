@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/mises-id"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mises-id/1inch-study"
+
+[[repo]]
 url = "https://github.com/mises-id/browser"
 
 [[repo]]
@@ -43,7 +46,7 @@ url = "https://github.com/mises-id/metamask-mobile"
 url = "https://github.com/mises-id/mises-airdropsvc"
 
 [[repo]]
-url = "https://github.com/mises-id/mises-browser"
+url = "https://github.com/mises-id/mises-bonuses"
 
 [[repo]]
 url = "https://github.com/mises-id/mises-browser-chromium"
@@ -52,22 +55,58 @@ url = "https://github.com/mises-id/mises-browser-chromium"
 url = "https://github.com/mises-id/mises-browser-core"
 
 [[repo]]
-url = "https://github.com/mises-id/mises-browser-ios"
+url = "https://github.com/mises-id/mises-browser-kiwi"
 
 [[repo]]
-url = "https://github.com/mises-id/mises-browser-kiwi"
+url = "https://github.com/mises-id/mises-fiat"
 
 [[repo]]
 url = "https://github.com/mises-id/mises-gw"
 
 [[repo]]
+url = "https://github.com/mises-id/mises-miningsvc"
+
+[[repo]]
+url = "https://github.com/mises-id/mises-swap"
+
+[[repo]]
+url = "https://github.com/mises-id/mises-swapsvc"
+
+[[repo]]
 url = "https://github.com/mises-id/mises-tm"
+
+[[repo]]
+url = "https://github.com/mises-id/mises-wallet"
 
 [[repo]]
 url = "https://github.com/mises-id/mises-web3"
 
 [[repo]]
 url = "https://github.com/mises-id/mises-websitesvc"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-ADC"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-Dashboard-Server"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-Dashboard-UI"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-Dtask"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-SC-Task"
+
+[[repo]]
+url = "https://github.com/mises-id/OM-Server"
+
+[[repo]]
+url = "https://github.com/mises-id/OpenMediation-Android"
+
+[[repo]]
+url = "https://github.com/mises-id/OpenMediation-iOS"
 
 [[repo]]
 url = "https://github.com/mises-id/portal"
@@ -77,6 +116,9 @@ url = "https://github.com/mises-id/react-native-sdk-bridge"
 
 [[repo]]
 url = "https://github.com/mises-id/redis"
+
+[[repo]]
+url = "https://github.com/mises-id/RemoteLogger"
 
 [[repo]]
 url = "https://github.com/mises-id/sdk"
@@ -104,6 +146,9 @@ url = "https://github.com/mises-id/src.next"
 
 [[repo]]
 url = "https://github.com/mises-id/tendermint"
+
+[[repo]]
+url = "https://github.com/mises-id/test-web3"
 
 [[repo]]
 url = "https://github.com/mises-id/tm-db"

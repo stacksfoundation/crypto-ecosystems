@@ -25,6 +25,12 @@ url = "https://github.com/bugout-dev/autocorns"
 url = "https://github.com/bugout-dev/bazaar"
 
 [[repo]]
+url = "https://github.com/bugout-dev/blobs3"
+
+[[repo]]
+url = "https://github.com/bugout-dev/boss-battle"
+
+[[repo]]
 url = "https://github.com/bugout-dev/brood"
 
 [[repo]]
@@ -64,6 +70,9 @@ url = "https://github.com/bugout-dev/dao"
 url = "https://github.com/bugout-dev/darkforest-eth"
 
 [[repo]]
+url = "https://github.com/bugout-dev/discord-bots"
+
+[[repo]]
 url = "https://github.com/bugout-dev/djangorestframework-queryfields"
 
 [[repo]]
@@ -80,6 +89,9 @@ url = "https://github.com/bugout-dev/entity"
 
 [[repo]]
 url = "https://github.com/bugout-dev/frontend_template"
+
+[[repo]]
+url = "https://github.com/bugout-dev/g7dao-contracts"
 
 [[repo]]
 url = "https://github.com/bugout-dev/game-experiments"
@@ -154,6 +166,9 @@ url = "https://github.com/bugout-dev/polygon-launch"
 url = "https://github.com/bugout-dev/polygon-node-ansible"
 
 [[repo]]
+url = "https://github.com/bugout-dev/portal"
+
+[[repo]]
 url = "https://github.com/bugout-dev/pycompgen"
 
 [[repo]]
@@ -167,6 +182,9 @@ url = "https://github.com/bugout-dev/shnorky"
 
 [[repo]]
 url = "https://github.com/bugout-dev/simiotics-s3"
+
+[[repo]]
+url = "https://github.com/bugout-dev/solface"
 
 [[repo]]
 url = "https://github.com/bugout-dev/spire"
@@ -191,6 +209,9 @@ url = "https://github.com/bugout-dev/terminus"
 
 [[repo]]
 url = "https://github.com/bugout-dev/testnet.bash"
+
+[[repo]]
+url = "https://github.com/bugout-dev/thorax"
 
 [[repo]]
 url = "https://github.com/bugout-dev/thumbsup"

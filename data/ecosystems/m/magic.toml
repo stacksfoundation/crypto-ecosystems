@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/magiclabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/magiclabs/apple-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/magiclabs/bitbucket-oauth-demo"
+
+[[repo]]
 url = "https://github.com/magiclabs/blockchain-mobile-signer"
 
 [[repo]]
@@ -17,6 +26,9 @@ url = "https://github.com/magiclabs/conflux-guide"
 
 [[repo]]
 url = "https://github.com/magiclabs/create-magic-app"
+
+[[repo]]
+url = "https://github.com/magiclabs/discord-oauth-demo"
 
 [[repo]]
 url = "https://github.com/magiclabs/documentation"
@@ -35,6 +47,9 @@ url = "https://github.com/magiclabs/example-algorand"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-apple-oauth"
+
+[[repo]]
+url = "https://github.com/magiclabs/example-aptos"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-arbitrum-guide"
@@ -68,6 +83,9 @@ url = "https://github.com/magiclabs/example-cosmos"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-cronos"
+
+[[repo]]
+url = "https://github.com/magiclabs/example-custom-email-otp"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-discord-oauth"
@@ -136,6 +154,9 @@ url = "https://github.com/magiclabs/example-linkedin-oauth"
 url = "https://github.com/magiclabs/example-login-form"
 
 [[repo]]
+url = "https://github.com/magiclabs/example-loopring"
+
+[[repo]]
 url = "https://github.com/magiclabs/example-mfa"
 
 [[repo]]
@@ -143,6 +164,12 @@ url = "https://github.com/magiclabs/example-microsoft-oauth"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-moonbeam"
+
+[[repo]]
+url = "https://github.com/magiclabs/example-mws-firebase"
+
+[[repo]]
+url = "https://github.com/magiclabs/example-mws-google"
 
 [[repo]]
 url = "https://github.com/magiclabs/example-near"
@@ -202,7 +229,28 @@ url = "https://github.com/magiclabs/example-webauthn"
 url = "https://github.com/magiclabs/example-zilliqa"
 
 [[repo]]
+url = "https://github.com/magiclabs/facebook-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/fortmatic-dashboard-api"
+
+[[repo]]
+url = "https://github.com/magiclabs/fortmatic-ios-pod"
+
+[[repo]]
 url = "https://github.com/magiclabs/gatsby-magic-starter"
+
+[[repo]]
+url = "https://github.com/magiclabs/github-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/gitlab-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/google-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/linkedin-oauth-demo"
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-admin-go"
@@ -221,6 +269,21 @@ url = "https://github.com/magiclabs/magic-admin-ruby"
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-admin-ruby-starter-kit"
+
+[[repo]]
+url = "https://github.com/magiclabs/magic-android"
+
+[[repo]]
+url = "https://github.com/magiclabs/magic-connect-admin-sdk-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/magic-connect-flow-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/magic-connect-verification-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/magic-demo-react-web3"
 
 [[repo]]
 url = "https://github.com/magiclabs/magic-extension-ios-pod"
@@ -253,6 +316,9 @@ url = "https://github.com/magiclabs/magic-laravel"
 url = "https://github.com/magiclabs/magic-near-guide"
 
 [[repo]]
+url = "https://github.com/magiclabs/magic-nft-template"
+
+[[repo]]
 url = "https://github.com/magiclabs/magic-pet-shop-demo"
 
 [[repo]]
@@ -271,10 +337,31 @@ url = "https://github.com/magiclabs/magic-unity-template"
 url = "https://github.com/magiclabs/magic-unity-template-archived"
 
 [[repo]]
-url = "https://github.com/magiclabs/magic-web3-ios-pod"
+url = "https://github.com/magiclabs/magic-webview"
+
+[[repo]]
+url = "https://github.com/magiclabs/microsoft-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/mws-auth0-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/mws-cognito-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/mws-okta-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/mws-supabase-demo"
 
 [[repo]]
 url = "https://github.com/magiclabs/next-css"
+
+[[repo]]
+url = "https://github.com/magiclabs/oidc-auth0-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/oidc-cognito-demo"
 
 [[repo]]
 url = "https://github.com/magiclabs/passport-magic"
@@ -293,6 +380,42 @@ url = "https://github.com/magiclabs/scrappy-twitter-api-server"
 
 [[repo]]
 url = "https://github.com/magiclabs/terraform-tenable-nessus-scanner-aws"
+
+[[repo]]
+url = "https://github.com/magiclabs/twitch-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/twitter-oauth-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/vercel-magic-guide"
+
+[[repo]]
+url = "https://github.com/magiclabs/vercel-magic-guide-boilerplate"
+
+[[repo]]
+url = "https://github.com/magiclabs/vercel-magic-guide-starter-template"
+
+[[repo]]
+url = "https://github.com/magiclabs/wagmi-magic-auth-connector"
+
+[[repo]]
+url = "https://github.com/magiclabs/wagmi-magic-connect"
+
+[[repo]]
+url = "https://github.com/magiclabs/wagmi-magic-connector"
+
+[[repo]]
+url = "https://github.com/magiclabs/wagmi-magic-connector-demo"
+
+[[repo]]
+url = "https://github.com/magiclabs/web3-react"
+
+[[repo]]
+url = "https://github.com/magiclabs/web3-react-magic-connect"
+
+[[repo]]
+url = "https://github.com/magiclabs/web3.js"
 
 [[repo]]
 url = "https://github.com/magiclabs/Web3.swift"

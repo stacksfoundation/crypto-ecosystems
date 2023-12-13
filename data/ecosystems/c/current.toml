@@ -7,55 +7,55 @@ github_organizations = ["https://github.com/CurrentMediaNetwork"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/apnotic"
+url = "https://github.com/CurrentMobile/apnotic"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/arty"
+url = "https://github.com/CurrentMobile/arty"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/hamper"
+url = "https://github.com/CurrentMobile/hamper"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/ios-picker"
+url = "https://github.com/CurrentMobile/ios-picker"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/LemonadeHomepage"
+url = "https://github.com/CurrentMobile/LemonadeHomepage"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/MobileXLabs.github.io"
+url = "https://github.com/CurrentMobile/MobileXLabs.github.io"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/musicbrainz"
+url = "https://github.com/CurrentMobile/musicbrainz"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/MXLFriendlyError"
+url = "https://github.com/CurrentMobile/MXLFriendlyError"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/MXLSupersonic"
+url = "https://github.com/CurrentMobile/MXLSupersonic"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/NTVHackDay"
+url = "https://github.com/CurrentMobile/NTVHackDay"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/objective-c-style-guide"
+url = "https://github.com/CurrentMobile/objective-c-style-guide"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/OrderedDictionary"
+url = "https://github.com/CurrentMobile/OrderedDictionary"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/PaymentKit"
+url = "https://github.com/CurrentMobile/PaymentKit"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/PHFComposeBarView"
+url = "https://github.com/CurrentMobile/PHFComposeBarView"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/sidekiq_queue_metrics"
+url = "https://github.com/CurrentMobile/sidekiq_queue_metrics"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/SOZOChromoplast"
+url = "https://github.com/CurrentMobile/SOZOChromoplast"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/SWFrameButton"
+url = "https://github.com/CurrentMobile/SWFrameButton"
 
 [[repo]]
-url = "https://github.com/CurrentMediaNetwork/UIBarButtonItem-Badge"
+url = "https://github.com/CurrentMobile/UIBarButtonItem-Badge"

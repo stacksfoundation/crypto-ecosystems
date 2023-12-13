@@ -34,6 +34,9 @@ url = "https://github.com/MinterTeam/docker-explorer-web-minter"
 url = "https://github.com/MinterTeam/docker-status-minter-network"
 
 [[repo]]
+url = "https://github.com/MinterTeam/etf-rebalancer-contract"
+
+[[repo]]
 url = "https://github.com/MinterTeam/eth-rebalancer-front"
 
 [[repo]]
@@ -76,7 +79,13 @@ url = "https://github.com/MinterTeam/iavl"
 url = "https://github.com/MinterTeam/ledger-app-minter"
 
 [[repo]]
-url = "https://github.com/MinterTeam/mhub"
+url = "https://github.com/MinterTeam/metagarden-landing-web"
+
+[[repo]]
+url = "https://github.com/MinterTeam/metagarden-mainnet"
+
+[[repo]]
+url = "https://github.com/MinterTeam/mg-pokerhero-grpc-web-client"
 
 [[repo]]
 url = "https://github.com/MinterTeam/mhub2"
@@ -190,7 +199,13 @@ url = "https://github.com/MinterTeam/minter-js-org"
 url = "https://github.com/MinterTeam/minter-js-sdk"
 
 [[repo]]
+url = "https://github.com/MinterTeam/minter-js-web3-sdk"
+
+[[repo]]
 url = "https://github.com/MinterTeam/minter-link-protocol"
+
+[[repo]]
+url = "https://github.com/MinterTeam/minter-loans-contracts"
 
 [[repo]]
 url = "https://github.com/MinterTeam/minter-merchants-protocol"

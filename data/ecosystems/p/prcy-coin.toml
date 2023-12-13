@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/PRCYCoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/PRCYCoin/.github"
+
+[[repo]]
 url = "https://github.com/PRCYCoin/bitcoin-core"
 
 [[repo]]
@@ -16,6 +19,9 @@ url = "https://github.com/PRCYCoin/Bitcoin-Node-Api"
 url = "https://github.com/PRCYCoin/bitcoin-wallet-ui-vue"
 
 [[repo]]
+url = "https://github.com/PRCYCoin/btc-rpc-explorer"
+
+[[repo]]
 url = "https://github.com/PRCYCoin/ccminer"
 
 [[repo]]
@@ -23,6 +29,9 @@ url = "https://github.com/PRCYCoin/contract-metadata"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/eiquidus"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/electrumx"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/generic-seeder"
@@ -52,6 +61,9 @@ url = "https://github.com/PRCYCoin/PRCY-iOS"
 url = "https://github.com/PRCYCoin/PRCY-mn-installer"
 
 [[repo]]
+url = "https://github.com/PRCYCoin/prcy-rpc-rs"
+
+[[repo]]
 url = "https://github.com/PRCYCoin/prcy-seeder"
 
 [[repo]]
@@ -68,3 +80,9 @@ url = "https://github.com/PRCYCoin/PRCYJS"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/Scripts"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/TelegramDiscordRelay"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/web3privacy"

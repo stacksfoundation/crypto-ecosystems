@@ -16,16 +16,26 @@ url = "https://github.com/Constellation-Labs/awesome-constellation"
 url = "https://github.com/Constellation-Labs/block_explorer"
 
 [[repo]]
+url = "https://github.com/Constellation-Labs/cli-tools"
+
+[[repo]]
 url = "https://github.com/Constellation-Labs/cllb"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/constellation"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/constellation-cli"
 
 [[repo]]
+url = "https://github.com/Constellation-Labs/constellation-metagraph"
+
+[[repo]]
 url = "https://github.com/Constellation-Labs/constellation-node-aws-ami"
+
+[[repo]]
+url = "https://github.com/Constellation-Labs/currency.g8"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/dashboard-server"
@@ -40,6 +50,15 @@ url = "https://github.com/Constellation-Labs/documentation-hub"
 url = "https://github.com/Constellation-Labs/economic-model"
 
 [[repo]]
+url = "https://github.com/Constellation-Labs/euclid-development-environment"
+
+[[repo]]
+url = "https://github.com/Constellation-Labs/github-action-metagraph-test"
+
+[[repo]]
+url = "https://github.com/Constellation-Labs/HIPs"
+
+[[repo]]
 url = "https://github.com/Constellation-Labs/hylochain"
 
 [[repo]]
@@ -52,10 +71,16 @@ url = "https://github.com/Constellation-Labs/Lattice"
 url = "https://github.com/Constellation-Labs/Light-Paper"
 
 [[repo]]
+url = "https://github.com/Constellation-Labs/metagraph-examples"
+
+[[repo]]
 url = "https://github.com/Constellation-Labs/proof-of-meme"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/PYBIP44"
+
+[[repo]]
+url = "https://github.com/Constellation-Labs/sdk-developer-dashboard"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/snapshot-streaming"
@@ -77,3 +102,6 @@ url = "https://github.com/Constellation-Labs/whitepaper-business"
 
 [[repo]]
 url = "https://github.com/Constellation-Labs/whitepaper-technical"
+
+[[repo]]
+url = "https://github.com/StardustCollective/dag4.js"

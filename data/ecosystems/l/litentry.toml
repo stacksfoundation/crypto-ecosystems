@@ -16,13 +16,16 @@ url = "https://github.com/litentry/admeta-hackathon"
 url = "https://github.com/litentry/akropolis-polkadot"
 
 [[repo]]
-url = "https://github.com/litentry/api-gateway"
+url = "https://github.com/litentry/app-substrate-common"
 
 [[repo]]
-url = "https://github.com/litentry/apps"
+url = "https://github.com/litentry/astar-frame"
 
 [[repo]]
 url = "https://github.com/litentry/ChainBridge"
+
+[[repo]]
+url = "https://github.com/litentry/chainbridge-solidity"
 
 [[repo]]
 url = "https://github.com/litentry/chainbridge-substrate"
@@ -35,6 +38,12 @@ url = "https://github.com/litentry/data-analysis"
 
 [[repo]]
 url = "https://github.com/litentry/dotreasury"
+
+[[repo]]
+url = "https://github.com/litentry/ethereum"
+
+[[repo]]
+url = "https://github.com/litentry/ethereum-tee"
 
 [[repo]]
 url = "https://github.com/litentry/europa"
@@ -52,7 +61,13 @@ url = "https://github.com/litentry/fork-off-substrate"
 url = "https://github.com/litentry/governance2-testnet"
 
 [[repo]]
+url = "https://github.com/litentry/hackathons"
+
+[[repo]]
 url = "https://github.com/litentry/incubator-mesatee-sgx"
+
+[[repo]]
+url = "https://github.com/litentry/integritee-dev"
 
 [[repo]]
 url = "https://github.com/litentry/integritee-frontier"
@@ -112,6 +127,9 @@ url = "https://github.com/litentry/litentry-node"
 url = "https://github.com/litentry/litentry-offchain-worker"
 
 [[repo]]
+url = "https://github.com/litentry/litentry-oracle"
+
+[[repo]]
 url = "https://github.com/litentry/litentry-pallets"
 
 [[repo]]
@@ -140,6 +158,9 @@ url = "https://github.com/litentry/litentry-web-app"
 
 [[repo]]
 url = "https://github.com/litentry/litentry-web-app-yew"
+
+[[repo]]
+url = "https://github.com/litentry/litentry-website-large-pages"
 
 [[repo]]
 url = "https://github.com/litentry/nft-scanner"
@@ -172,6 +193,9 @@ url = "https://github.com/litentry/polkadot_api_cpp"
 url = "https://github.com/litentry/PolkaSignIn"
 
 [[repo]]
+url = "https://github.com/litentry/projects-info"
+
+[[repo]]
 url = "https://github.com/litentry/push-notification"
 
 [[repo]]
@@ -187,9 +211,6 @@ url = "https://github.com/litentry/RustCrypto-RSA"
 url = "https://github.com/litentry/sgx-runtime"
 
 [[repo]]
-url = "https://github.com/litentry/SignerVerify"
-
-[[repo]]
 url = "https://github.com/litentry/squid"
 
 [[repo]]
@@ -203,12 +224,6 @@ url = "https://github.com/litentry/ss58-registry"
 
 [[repo]]
 url = "https://github.com/litentry/staking-payouts"
-
-[[repo]]
-url = "https://github.com/litentry/subsquid-mappings"
-
-[[repo]]
-url = "https://github.com/litentry/subsquid-mappings-khala"
 
 [[repo]]
 url = "https://github.com/litentry/substrate-api-client"
@@ -229,13 +244,16 @@ url = "https://github.com/litentry/tee-microservice"
 url = "https://github.com/litentry/tee-worker"
 
 [[repo]]
+url = "https://github.com/litentry/token-bridge-transaction-monitor"
+
+[[repo]]
 url = "https://github.com/litentry/token-migration-node"
 
 [[repo]]
-url = "https://github.com/litentry/Web3-collaboration"
+url = "https://github.com/litentry/vc-jsonschema"
 
 [[repo]]
-url = "https://github.com/litentry/worker"
+url = "https://github.com/litentry/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/litentry/xcm-demo"

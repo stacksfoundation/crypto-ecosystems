@@ -13,9 +13,6 @@ url = "https://github.com/ampleforth/aave-aip"
 url = "https://github.com/ampleforth/aave-ui"
 
 [[repo]]
-url = "https://github.com/ampleforth/aip"
-
-[[repo]]
 url = "https://github.com/ampleforth/AIPs"
 
 [[repo]]
@@ -40,9 +37,6 @@ url = "https://github.com/ampleforth/ampleforth-core"
 url = "https://github.com/ampleforth/Ampleforth-Wiki"
 
 [[repo]]
-url = "https://github.com/ampleforth/balancer-frontend-v2"
-
-[[repo]]
 url = "https://github.com/ampleforth/balancer-sor"
 
 [[repo]]
@@ -64,6 +58,9 @@ url = "https://github.com/ampleforth/chainbridge-solidity"
 url = "https://github.com/ampleforth/chainbridge-ui"
 
 [[repo]]
+url = "https://github.com/ampleforth/community-data"
+
+[[repo]]
 url = "https://github.com/ampleforth/cross-chain-ample"
 
 [[repo]]
@@ -74,6 +71,9 @@ url = "https://github.com/ampleforth/eth-contract-metadata"
 
 [[repo]]
 url = "https://github.com/ampleforth/ethereum-etl-airflow"
+
+[[repo]]
+url = "https://github.com/ampleforth/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/ampleforth/Forth"
@@ -89,12 +89,6 @@ url = "https://github.com/ampleforth/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/ampleforth/protocol-Info"
-
-[[repo]]
-url = "https://github.com/ampleforth/protocol-v2"
-
-[[repo]]
-url = "https://github.com/ampleforth/RFCs"
 
 [[repo]]
 url = "https://github.com/ampleforth/snapshot-spaces"
@@ -121,7 +115,7 @@ url = "https://github.com/ampleforth/token-whitepapers"
 url = "https://github.com/ampleforth/tokenlists"
 
 [[repo]]
-url = "https://github.com/ampleforth/uFragments"
+url = "https://github.com/ampleforth/uFragments-security-tests"
 
 [[repo]]
-url = "https://github.com/ampleforth/uFragments-security-tests"
+url = "https://github.com/ampleforth/wrapper-ui"

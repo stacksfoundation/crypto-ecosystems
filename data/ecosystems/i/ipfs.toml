@@ -18,6 +18,294 @@ github_organizations = ["https://github.com/ipfs", "https://github.com/ipfs-ship
 url = "https://github.com/aashutoshrathi/dcart"
 
 [[repo]]
+url = "https://github.com/dnslink-std/dnslink-website"
+
+[[repo]]
+url = "https://github.com/ipfs-cluster/ipfs-cluster"
+
+[[repo]]
+url = "https://github.com/ipfs-cluster/ipfs-cluster-website"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/2016-IPFS-Workshop-Lisbon"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/aegir-test-repo"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/archive-format"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/archives"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/astralboot"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/badgerds-upgrade"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/benchmark-js.ipfs.io"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/bitswap-ml"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/blog"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/browser-process-platform"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ci-sync"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ci-websites"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/community-call-helper"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/community-calls-reminder"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/conf"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/conf.ipfs.io"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/connections-globe"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/datatogether"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/dev-team-enablement"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/developer-meetings"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/docs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/dweblink-infra"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/dynamic-data-and-capabilities"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/eslint-config-aegir"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/examples"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/faq"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/file-browser"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/fs-stress-test"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/glossary"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-blocks"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-car"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-commands"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-ds-lru"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-ipfs-addr"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-ipfs-flags"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-iprs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-key"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/go-waffle"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/gx-workspace"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/http-api-docs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/http-api-spec"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/interface-js-ipfs-core"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/interface-pull-blob-store"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-mans"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-metrics"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-nodeschool"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-pages"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-performance-profiling"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-postmsg-proxy"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-sharness-tests"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-ui-style-guide"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs-web-app"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ipfs.js"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/jenkins"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/jenkins-libs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/jest-environment-aegir"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-docker-base"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-http-client"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-mfs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-multipart"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-name"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-unixfs-engine"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-unixfs-exporter"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-ipfs-unixfs-importer"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-libp2p-ipfs-browser"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-libp2p-ipfs-nodejs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/js-waffle"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/kubernetes-ipfs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/logo"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/node-github-issue-bot"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/npm-go-ipfs-dep"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/ops-requests"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/package-managers"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/pdd"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/pm-test-lab"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/POST"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/project-operations"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/project-repos"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/reading-list"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/refs"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/research"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/research-bitswap"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/research-CRDT"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/research-p2p-video"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/RFC"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/sig-blockchain-data"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/sprint-helper-bot"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/starlog"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/support"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/user-research"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/webrtcsupport"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/website"
+
+[[repo]]
+url = "https://github.com/ipfs-inactive/websiter"
+
+[[repo]]
 url = "https://github.com/ipfs-shipyard/apt-on-ipfs"
 
 [[repo]]
@@ -90,10 +378,13 @@ url = "https://github.com/ipfs-shipyard/ecosystem-directory"
 url = "https://github.com/ipfs-shipyard/electron-mocha-main"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/experiments.peerpad.net"
+url = "https://github.com/ipfs-shipyard/empty-repository"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/gateway-monitor"
+url = "https://github.com/ipfs-shipyard/equinix-billing-tools"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/experiments.peerpad.net"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/gateway-prime"
@@ -108,6 +399,9 @@ url = "https://github.com/ipfs-shipyard/git-remote-ipld"
 url = "https://github.com/ipfs-shipyard/github-mgmt"
 
 [[repo]]
+url = "https://github.com/ipfs-shipyard/go-ds-gcs"
+
+[[repo]]
 url = "https://github.com/ipfs-shipyard/go-ds-remote-ipfs"
 
 [[repo]]
@@ -120,9 +414,6 @@ url = "https://github.com/ipfs-shipyard/go-ipfs-desktop"
 url = "https://github.com/ipfs-shipyard/go-ipfs-docker-examples"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/go-ipfs-redirects"
-
-[[repo]]
 url = "https://github.com/ipfs-shipyard/go-libp2p-kitsune"
 
 [[repo]]
@@ -130,6 +421,15 @@ url = "https://github.com/ipfs-shipyard/gomobile-ipfs"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/gutenberg-to-ipfs"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/helia-contributors"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/helia-css"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/helia-service-worker-gateway"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/hubot-ipfs"
@@ -162,9 +462,6 @@ url = "https://github.com/ipfs-shipyard/ipfs-check"
 url = "https://github.com/ipfs-shipyard/ipfs-cohost"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/ipfs-companion"
-
-[[repo]]
 url = "https://github.com/ipfs-shipyard/ipfs-counter"
 
 [[repo]]
@@ -175,9 +472,6 @@ url = "https://github.com/ipfs-shipyard/ipfs-dag-builder-vis"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/ipfs-deploy"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/ipfs-desktop"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/ipfs-dns-deploy"
@@ -225,9 +519,6 @@ url = "https://github.com/ipfs-shipyard/ipfs-or-gateway"
 url = "https://github.com/ipfs-shipyard/ipfs-pack"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/ipfs-postmsg-proxy"
-
-[[repo]]
 url = "https://github.com/ipfs-shipyard/ipfs-primer"
 
 [[repo]]
@@ -273,10 +564,7 @@ url = "https://github.com/ipfs-shipyard/ipfs-stats"
 url = "https://github.com/ipfs-shipyard/ipfs-thing-2022"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/ipfs-ui-style-guide"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/ipfs-webui"
+url = "https://github.com/ipfs-shipyard/ipfs-thing-2023"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/ipfs-webui-next"
@@ -286,12 +574,6 @@ url = "https://github.com/ipfs-shipyard/ipfs_dht_explorer"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/ipfsx"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/ipld-explorer"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/ipld-explorer-components"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/ipscend"
@@ -310,9 +592,6 @@ url = "https://github.com/ipfs-shipyard/js-did-ipid"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/js-dnslink-dnsimple"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/js-hamt-sharding"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/js-human-crypto-keys"
@@ -357,13 +636,13 @@ url = "https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service"
 url = "https://github.com/ipfs-shipyard/js-pinning-service-http-client"
 
 [[repo]]
+url = "https://github.com/ipfs-shipyard/js-streams-benchmark"
+
+[[repo]]
 url = "https://github.com/ipfs-shipyard/js-versidag"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/kipster"
-
-[[repo]]
-url = "https://github.com/ipfs-shipyard/mobile-share"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/mynifest"
@@ -378,9 +657,6 @@ url = "https://github.com/ipfs-shipyard/net-ipfs-http-client"
 url = "https://github.com/ipfs-shipyard/nft-school-examples"
 
 [[repo]]
-url = "https://github.com/ipfs-shipyard/nft.storage"
-
-[[repo]]
 url = "https://github.com/ipfs-shipyard/nomios-web"
 
 [[repo]]
@@ -388,6 +664,9 @@ url = "https://github.com/ipfs-shipyard/nomios-web-uikit"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/nomios.io"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/nopfs"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/npm-ipfs-registry-fetch"
@@ -462,6 +741,9 @@ url = "https://github.com/ipfs-shipyard/pm-idm"
 url = "https://github.com/ipfs-shipyard/pm-peer-pad"
 
 [[repo]]
+url = "https://github.com/ipfs-shipyard/protons-gossipsub-benchmark"
+
+[[repo]]
 url = "https://github.com/ipfs-shipyard/py-datastore"
 
 [[repo]]
@@ -484,6 +766,9 @@ url = "https://github.com/ipfs-shipyard/react-ipfs-url"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/react-native-ipfs-demo"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/release-please-ipfs-plugin"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/scala-ipfs-api"
@@ -531,13 +816,25 @@ url = "https://github.com/ipfs-shipyard/workshop-idm-chat-dapp"
 url = "https://github.com/ipfs-shipyard/workshop-todo-dapp"
 
 [[repo]]
+url = "https://github.com/ipfs-shipyard/www-helia-identify"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/www-helia-io"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/www-libp2p-webtransport-sessions"
+
+[[repo]]
+url = "https://github.com/ipfs-shipyard/www-webtransport-pending-sessions"
+
+[[repo]]
 url = "https://github.com/ipfs-shipyard/y-ipfs-connector"
 
 [[repo]]
 url = "https://github.com/ipfs-shipyard/zarr-examples"
 
 [[repo]]
-url = "https://github.com/ipfs/2016-IPFS-Workshop-Lisbon"
+url = "https://github.com/ipfs/.github"
 
 [[repo]]
 url = "https://github.com/ipfs/2019.ipfs.camp"
@@ -546,25 +843,13 @@ url = "https://github.com/ipfs/2019.ipfs.camp"
 url = "https://github.com/ipfs/aegir"
 
 [[repo]]
-url = "https://github.com/ipfs/aegir-test-repo"
-
-[[repo]]
 url = "https://github.com/ipfs/aegir-typedoc-theme"
 
 [[repo]]
 url = "https://github.com/ipfs/apps"
 
 [[repo]]
-url = "https://github.com/ipfs/archive-format"
-
-[[repo]]
-url = "https://github.com/ipfs/archives"
-
-[[repo]]
 url = "https://github.com/ipfs/artwork"
-
-[[repo]]
-url = "https://github.com/ipfs/astralboot"
 
 [[repo]]
 url = "https://github.com/ipfs/auto-assign"
@@ -573,34 +858,22 @@ url = "https://github.com/ipfs/auto-assign"
 url = "https://github.com/ipfs/awesome-ipfs"
 
 [[repo]]
-url = "https://github.com/ipfs/badgerds-upgrade"
-
-[[repo]]
 url = "https://github.com/ipfs/bbloom"
-
-[[repo]]
-url = "https://github.com/ipfs/benchmark-js.ipfs.io"
 
 [[repo]]
 url = "https://github.com/ipfs/benchmarks"
 
 [[repo]]
-url = "https://github.com/ipfs/bitswap-ml"
+url = "https://github.com/ipfs/bifrost-gateway"
 
 [[repo]]
-url = "https://github.com/ipfs/blog"
+url = "https://github.com/ipfs/boxo"
 
 [[repo]]
 url = "https://github.com/ipfs/browser-design-guidelines"
 
 [[repo]]
-url = "https://github.com/ipfs/browser-process-platform"
-
-[[repo]]
 url = "https://github.com/ipfs/camp"
-
-[[repo]]
-url = "https://github.com/ipfs/camp.ipfs.io"
 
 [[repo]]
 url = "https://github.com/ipfs/choco-go-ipfs"
@@ -609,52 +882,10 @@ url = "https://github.com/ipfs/choco-go-ipfs"
 url = "https://github.com/ipfs/ci-helpers"
 
 [[repo]]
-url = "https://github.com/ipfs/ci-sync"
-
-[[repo]]
-url = "https://github.com/ipfs/ci-websites"
-
-[[repo]]
 url = "https://github.com/ipfs/community"
 
 [[repo]]
-url = "https://github.com/ipfs/community-call-helper"
-
-[[repo]]
-url = "https://github.com/ipfs/community-calls-reminder"
-
-[[repo]]
-url = "https://github.com/ipfs/conf"
-
-[[repo]]
-url = "https://github.com/ipfs/conf.ipfs.io"
-
-[[repo]]
-url = "https://github.com/ipfs/connections-globe"
-
-[[repo]]
-url = "https://github.com/ipfs/contributors"
-
-[[repo]]
-url = "https://github.com/ipfs/contributors-hex-grid"
-
-[[repo]]
-url = "https://github.com/ipfs/DAGger"
-
-[[repo]]
-url = "https://github.com/ipfs/datatogether"
-
-[[repo]]
-url = "https://github.com/ipfs/dataviz"
-
-[[repo]]
 url = "https://github.com/ipfs/decentralized-data-stewardship"
-
-[[repo]]
-url = "https://github.com/ipfs/dev-team-enablement"
-
-[[repo]]
-url = "https://github.com/ipfs/developer-meetings"
 
 [[repo]]
 url = "https://github.com/ipfs/devgrants"
@@ -672,34 +903,10 @@ url = "https://github.com/ipfs/distributed-wikipedia-mirror"
 url = "https://github.com/ipfs/distributions"
 
 [[repo]]
-url = "https://github.com/ipfs/dnslink-deploy"
-
-[[repo]]
-url = "https://github.com/ipfs/dnslink-dnsimple"
-
-[[repo]]
-url = "https://github.com/ipfs/dnslink-website"
-
-[[repo]]
-url = "https://github.com/ipfs/dnslink.dev"
-
-[[repo]]
-url = "https://github.com/ipfs/docs"
-
-[[repo]]
 url = "https://github.com/ipfs/download-ipfs-distribution-action"
 
 [[repo]]
-url = "https://github.com/ipfs/dweblink-infra"
-
-[[repo]]
-url = "https://github.com/ipfs/dynamic-data-and-capabilities"
-
-[[repo]]
 url = "https://github.com/ipfs/ecosystem-directory"
-
-[[repo]]
-url = "https://github.com/ipfs/eslint-config-aegir"
 
 [[repo]]
 url = "https://github.com/ipfs/eslint-config-ipfs"
@@ -708,34 +915,16 @@ url = "https://github.com/ipfs/eslint-config-ipfs"
 url = "https://github.com/ipfs/example-plugin"
 
 [[repo]]
-url = "https://github.com/ipfs/examples"
-
-[[repo]]
-url = "https://github.com/ipfs/explore.ipld.io"
-
-[[repo]]
-url = "https://github.com/ipfs/faq"
-
-[[repo]]
-url = "https://github.com/ipfs/file-browser"
-
-[[repo]]
 url = "https://github.com/ipfs/fs-repo-migrations"
 
 [[repo]]
-url = "https://github.com/ipfs/fs-stress-test"
-
-[[repo]]
-url = "https://github.com/ipfs/get-gh-contributors"
+url = "https://github.com/ipfs/gateway-conformance"
 
 [[repo]]
 url = "https://github.com/ipfs/gh-issue-form-test"
 
 [[repo]]
 url = "https://github.com/ipfs/github-mgmt"
-
-[[repo]]
-url = "https://github.com/ipfs/glossary"
 
 [[repo]]
 url = "https://github.com/ipfs/go-bitfield"
@@ -747,28 +936,16 @@ url = "https://github.com/ipfs/go-bitswap"
 url = "https://github.com/ipfs/go-block-format"
 
 [[repo]]
-url = "https://github.com/ipfs/go-blocks"
-
-[[repo]]
 url = "https://github.com/ipfs/go-blockservice"
 
 [[repo]]
 url = "https://github.com/ipfs/go-bs-sqlite3"
 
 [[repo]]
-url = "https://github.com/ipfs/go-car"
-
-[[repo]]
 url = "https://github.com/ipfs/go-cid"
 
 [[repo]]
 url = "https://github.com/ipfs/go-cidutil"
-
-[[repo]]
-url = "https://github.com/ipfs/go-commands"
-
-[[repo]]
-url = "https://github.com/ipfs/go-dagservice"
 
 [[repo]]
 url = "https://github.com/ipfs/go-dagwriter"
@@ -798,6 +975,9 @@ url = "https://github.com/ipfs/go-ds-badger2"
 url = "https://github.com/ipfs/go-ds-badger3"
 
 [[repo]]
+url = "https://github.com/ipfs/go-ds-badger4"
+
+[[repo]]
 url = "https://github.com/ipfs/go-ds-bench"
 
 [[repo]]
@@ -817,9 +997,6 @@ url = "https://github.com/ipfs/go-ds-flatfs"
 
 [[repo]]
 url = "https://github.com/ipfs/go-ds-leveldb"
-
-[[repo]]
-url = "https://github.com/ipfs/go-ds-lru"
 
 [[repo]]
 url = "https://github.com/ipfs/go-ds-measure"
@@ -853,12 +1030,6 @@ url = "https://github.com/ipfs/go-graphsync"
 
 [[repo]]
 url = "https://github.com/ipfs/go-hamt-ipld"
-
-[[repo]]
-url = "https://github.com/ipfs/go-ipfs"
-
-[[repo]]
-url = "https://github.com/ipfs/go-ipfs-addr"
 
 [[repo]]
 url = "https://github.com/ipfs/go-ipfs-api"
@@ -903,9 +1074,6 @@ url = "https://github.com/ipfs/go-ipfs-exchange-offline"
 url = "https://github.com/ipfs/go-ipfs-files"
 
 [[repo]]
-url = "https://github.com/ipfs/go-ipfs-flags"
-
-[[repo]]
 url = "https://github.com/ipfs/go-ipfs-gateway"
 
 [[repo]]
@@ -939,9 +1107,6 @@ url = "https://github.com/ipfs/go-ipfs-routing"
 url = "https://github.com/ipfs/go-ipfs-util"
 
 [[repo]]
-url = "https://github.com/ipfs/go-ipld-btc"
-
-[[repo]]
 url = "https://github.com/ipfs/go-ipld-cbor"
 
 [[repo]]
@@ -966,16 +1131,13 @@ url = "https://github.com/ipfs/go-ipld-zcash"
 url = "https://github.com/ipfs/go-ipns"
 
 [[repo]]
-url = "https://github.com/ipfs/go-iprs"
-
-[[repo]]
 url = "https://github.com/ipfs/go-jaeger-plugin"
 
 [[repo]]
-url = "https://github.com/ipfs/go-key"
+url = "https://github.com/ipfs/go-libipfs"
 
 [[repo]]
-url = "https://github.com/ipfs/go-libipfs"
+url = "https://github.com/ipfs/go-libipfs-rapide"
 
 [[repo]]
 url = "https://github.com/ipfs/go-libp2p-dns-router"
@@ -1014,6 +1176,9 @@ url = "https://github.com/ipfs/go-poll-endpoint"
 url = "https://github.com/ipfs/go-prompt"
 
 [[repo]]
+url = "https://github.com/ipfs/go-protocolnetwork"
+
+[[repo]]
 url = "https://github.com/ipfs/go-qringbuf"
 
 [[repo]]
@@ -1032,13 +1197,7 @@ url = "https://github.com/ipfs/go-unixfsnode"
 url = "https://github.com/ipfs/go-verifcid"
 
 [[repo]]
-url = "https://github.com/ipfs/go-waffle"
-
-[[repo]]
 url = "https://github.com/ipfs/gomod"
-
-[[repo]]
-url = "https://github.com/ipfs/gx-workspace"
 
 [[repo]]
 url = "https://github.com/ipfs/hang-fds"
@@ -1047,13 +1206,40 @@ url = "https://github.com/ipfs/hang-fds"
 url = "https://github.com/ipfs/helia"
 
 [[repo]]
-url = "https://github.com/ipfs/http-api-docs"
+url = "https://github.com/ipfs/helia-car"
 
 [[repo]]
-url = "https://github.com/ipfs/http-api-spec"
+url = "https://github.com/ipfs/helia-cli"
 
 [[repo]]
-url = "https://github.com/ipfs/i18n"
+url = "https://github.com/ipfs/helia-dag-cbor"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-dag-json"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-docker"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-ipns"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-json"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-mfs"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-remote-pinning"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-routing-v1-http-api"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-strings"
+
+[[repo]]
+url = "https://github.com/ipfs/helia-unixfs"
 
 [[repo]]
 url = "https://github.com/ipfs/in-web-browsers"
@@ -1065,9 +1251,6 @@ url = "https://github.com/ipfs/infra"
 url = "https://github.com/ipfs/install-go-ipfs"
 
 [[repo]]
-url = "https://github.com/ipfs/integration-mini-projects"
-
-[[repo]]
 url = "https://github.com/ipfs/integrations"
 
 [[repo]]
@@ -1075,12 +1258,6 @@ url = "https://github.com/ipfs/interface-datastore"
 
 [[repo]]
 url = "https://github.com/ipfs/interface-go-ipfs-core"
-
-[[repo]]
-url = "https://github.com/ipfs/interface-js-ipfs-core"
-
-[[repo]]
-url = "https://github.com/ipfs/interface-pull-blob-store"
 
 [[repo]]
 url = "https://github.com/ipfs/interop"
@@ -1095,12 +1272,6 @@ url = "https://github.com/ipfs/ipfs-blog"
 url = "https://github.com/ipfs/ipfs-camp-2022"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs-cluster"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-cluster-website"
-
-[[repo]]
 url = "https://github.com/ipfs/ipfs-companion"
 
 [[repo]]
@@ -1110,43 +1281,16 @@ url = "https://github.com/ipfs/ipfs-desktop"
 url = "https://github.com/ipfs/ipfs-docs"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs-docs-v2"
-
-[[repo]]
 url = "https://github.com/ipfs/ipfs-ds-convert"
 
 [[repo]]
 url = "https://github.com/ipfs/ipfs-ds-postgres"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs-geoip"
-
-[[repo]]
 url = "https://github.com/ipfs/ipfs-gui"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs-hubot"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-mans"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-metrics"
-
-[[repo]]
 url = "https://github.com/ipfs/ipfs-netjournal"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-nodeschool"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-pack"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-pages"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-performance-profiling"
 
 [[repo]]
 url = "https://github.com/ipfs/ipfs-project.org"
@@ -1155,13 +1299,7 @@ url = "https://github.com/ipfs/ipfs-project.org"
 url = "https://github.com/ipfs/ipfs-repository-template"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs-sharness-tests"
-
-[[repo]]
 url = "https://github.com/ipfs/ipfs-update"
-
-[[repo]]
-url = "https://github.com/ipfs/ipfs-web-app"
 
 [[repo]]
 url = "https://github.com/ipfs/ipfs-website"
@@ -1173,13 +1311,7 @@ url = "https://github.com/ipfs/ipfs-webui"
 url = "https://github.com/ipfs/ipfs.fyi"
 
 [[repo]]
-url = "https://github.com/ipfs/ipfs.js"
-
-[[repo]]
 url = "https://github.com/ipfs/ipget"
-
-[[repo]]
-url = "https://github.com/ipfs/ipld-explorer"
 
 [[repo]]
 url = "https://github.com/ipfs/ipld-explorer-components"
@@ -1191,25 +1323,19 @@ url = "https://github.com/ipfs/iptb"
 url = "https://github.com/ipfs/iptb-plugins"
 
 [[repo]]
-url = "https://github.com/ipfs/is-ipfs"
-
-[[repo]]
-url = "https://github.com/ipfs/java-ipfs-http-client"
-
-[[repo]]
-url = "https://github.com/ipfs/jenkins"
-
-[[repo]]
-url = "https://github.com/ipfs/jenkins-libs"
-
-[[repo]]
-url = "https://github.com/ipfs/jest-environment-aegir"
-
-[[repo]]
 url = "https://github.com/ipfs/js-blockstore-core"
 
 [[repo]]
 url = "https://github.com/ipfs/js-blockstore-datastore-adapter"
+
+[[repo]]
+url = "https://github.com/ipfs/js-blockstore-fs"
+
+[[repo]]
+url = "https://github.com/ipfs/js-blockstore-idb"
+
+[[repo]]
+url = "https://github.com/ipfs/js-blockstore-level"
 
 [[repo]]
 url = "https://github.com/ipfs/js-core"
@@ -1236,9 +1362,6 @@ url = "https://github.com/ipfs/js-datastore-pubsub"
 url = "https://github.com/ipfs/js-datastore-s3"
 
 [[repo]]
-url = "https://github.com/ipfs/js-docker-base"
-
-[[repo]]
 url = "https://github.com/ipfs/js-fs-pull-blob-store"
 
 [[repo]]
@@ -1257,9 +1380,6 @@ url = "https://github.com/ipfs/js-ipfs-bitswap"
 url = "https://github.com/ipfs/js-ipfs-block-service"
 
 [[repo]]
-url = "https://github.com/ipfs/js-ipfs-http-client"
-
-[[repo]]
 url = "https://github.com/ipfs/js-ipfs-http-response"
 
 [[repo]]
@@ -1269,15 +1389,6 @@ url = "https://github.com/ipfs/js-ipfs-interfaces"
 url = "https://github.com/ipfs/js-ipfs-merkle-dag"
 
 [[repo]]
-url = "https://github.com/ipfs/js-ipfs-mfs"
-
-[[repo]]
-url = "https://github.com/ipfs/js-ipfs-multipart"
-
-[[repo]]
-url = "https://github.com/ipfs/js-ipfs-name"
-
-[[repo]]
 url = "https://github.com/ipfs/js-ipfs-repo"
 
 [[repo]]
@@ -1285,15 +1396,6 @@ url = "https://github.com/ipfs/js-ipfs-repo-migrations"
 
 [[repo]]
 url = "https://github.com/ipfs/js-ipfs-unixfs"
-
-[[repo]]
-url = "https://github.com/ipfs/js-ipfs-unixfs-engine"
-
-[[repo]]
-url = "https://github.com/ipfs/js-ipfs-unixfs-exporter"
-
-[[repo]]
-url = "https://github.com/ipfs/js-ipfs-unixfs-importer"
 
 [[repo]]
 url = "https://github.com/ipfs/js-ipfs-utils"
@@ -1311,25 +1413,16 @@ url = "https://github.com/ipfs/js-kubo-rpc-client"
 url = "https://github.com/ipfs/js-level-pull-blob-store"
 
 [[repo]]
-url = "https://github.com/ipfs/js-libp2p-ipfs-browser"
-
-[[repo]]
-url = "https://github.com/ipfs/js-libp2p-ipfs-nodejs"
-
-[[repo]]
-url = "https://github.com/ipfs/js-waffle"
-
-[[repo]]
-url = "https://github.com/ipfs/js.ipfs.io"
+url = "https://github.com/ipfs/js-stores"
 
 [[repo]]
 url = "https://github.com/ipfs/js.ipfs.tech"
 
 [[repo]]
-url = "https://github.com/ipfs/kubernetes-ipfs"
+url = "https://github.com/ipfs/kubo"
 
 [[repo]]
-url = "https://github.com/ipfs/kubo"
+url = "https://github.com/ipfs/kuboreleaser"
 
 [[repo]]
 url = "https://github.com/ipfs/launchpad-forks"
@@ -1344,12 +1437,6 @@ url = "https://github.com/ipfs/lightning-storm"
 url = "https://github.com/ipfs/local-offline-collab"
 
 [[repo]]
-url = "https://github.com/ipfs/log-ipfs-dependencies"
-
-[[repo]]
-url = "https://github.com/ipfs/logo"
-
-[[repo]]
 url = "https://github.com/ipfs/machine-learning"
 
 [[repo]]
@@ -1362,31 +1449,16 @@ url = "https://github.com/ipfs/mobile-design-guidelines"
 url = "https://github.com/ipfs/newsletter"
 
 [[repo]]
-url = "https://github.com/ipfs/node-github-issue-bot"
-
-[[repo]]
 url = "https://github.com/ipfs/notes"
 
 [[repo]]
 url = "https://github.com/ipfs/npm-go-ipfs"
 
 [[repo]]
-url = "https://github.com/ipfs/npm-go-ipfs-dep"
-
-[[repo]]
-url = "https://github.com/ipfs/ops-requests"
-
-[[repo]]
-url = "https://github.com/ipfs/package-managers"
-
-[[repo]]
-url = "https://github.com/ipfs/paperhub"
+url = "https://github.com/ipfs/npm-kubo"
 
 [[repo]]
 url = "https://github.com/ipfs/papers"
-
-[[repo]]
-url = "https://github.com/ipfs/pdd"
 
 [[repo]]
 url = "https://github.com/ipfs/pinbot-irc"
@@ -1395,19 +1467,7 @@ url = "https://github.com/ipfs/pinbot-irc"
 url = "https://github.com/ipfs/pinning-services-api-spec"
 
 [[repo]]
-url = "https://github.com/ipfs/pm-test-lab"
-
-[[repo]]
 url = "https://github.com/ipfs/pomegranate"
-
-[[repo]]
-url = "https://github.com/ipfs/POST"
-
-[[repo]]
-url = "https://github.com/ipfs/project-operations"
-
-[[repo]]
-url = "https://github.com/ipfs/project-repos"
 
 [[repo]]
 url = "https://github.com/ipfs/protons"
@@ -1416,25 +1476,7 @@ url = "https://github.com/ipfs/protons"
 url = "https://github.com/ipfs/public-gateway-checker"
 
 [[repo]]
-url = "https://github.com/ipfs/py-datastore"
-
-[[repo]]
-url = "https://github.com/ipfs/py-datastore.leveldb"
-
-[[repo]]
-url = "https://github.com/ipfs/py-ipfs"
-
-[[repo]]
-url = "https://github.com/ipfs/py-ipfs-http-client"
-
-[[repo]]
 url = "https://github.com/ipfs/rainbow"
-
-[[repo]]
-url = "https://github.com/ipfs/reading-list"
-
-[[repo]]
-url = "https://github.com/ipfs/refs"
 
 [[repo]]
 url = "https://github.com/ipfs/refs-denylists-dmca"
@@ -1443,49 +1485,19 @@ url = "https://github.com/ipfs/refs-denylists-dmca"
 url = "https://github.com/ipfs/refs-solarnet-storage"
 
 [[repo]]
-url = "https://github.com/ipfs/research"
-
-[[repo]]
-url = "https://github.com/ipfs/research-bitswap"
-
-[[repo]]
-url = "https://github.com/ipfs/research-CRDT"
-
-[[repo]]
-url = "https://github.com/ipfs/research-p2p-video"
-
-[[repo]]
-url = "https://github.com/ipfs/RFC"
-
-[[repo]]
 url = "https://github.com/ipfs/roadmap"
 
 [[repo]]
-url = "https://github.com/ipfs/scala-ipfs-api"
-
-[[repo]]
-url = "https://github.com/ipfs/sig-blockchain-data"
+url = "https://github.com/ipfs/spec-generator"
 
 [[repo]]
 url = "https://github.com/ipfs/specs"
 
 [[repo]]
-url = "https://github.com/ipfs/sprint-helper-bot"
-
-[[repo]]
-url = "https://github.com/ipfs/starlog"
+url = "https://github.com/ipfs/stargate"
 
 [[repo]]
 url = "https://github.com/ipfs/start-ipfs-daemon-action"
-
-[[repo]]
-url = "https://github.com/ipfs/support"
-
-[[repo]]
-url = "https://github.com/ipfs/swift-ipfs-api"
-
-[[repo]]
-url = "https://github.com/ipfs/swift-ipfs-http-client"
 
 [[repo]]
 url = "https://github.com/ipfs/tar-utils"
@@ -1494,34 +1506,40 @@ url = "https://github.com/ipfs/tar-utils"
 url = "https://github.com/ipfs/team-mgmt"
 
 [[repo]]
-url = "https://github.com/ipfs/test-lab"
-
-[[repo]]
-url = "https://github.com/ipfs/test-pipeline"
-
-[[repo]]
 url = "https://github.com/ipfs/test-plans"
 
 [[repo]]
-url = "https://github.com/ipfs/testground"
+url = "https://github.com/ipfs/uci"
 
 [[repo]]
-url = "https://github.com/ipfs/unixfs-v2"
+url = "https://github.com/ipld/explore.ipld.io"
 
 [[repo]]
-url = "https://github.com/ipfs/user-research"
+url = "https://github.com/ipld/go-ipld-btc"
 
 [[repo]]
-url = "https://github.com/ipfs/webrtcsupport"
+url = "https://github.com/ipld/legacy-unixfs-v2"
 
 [[repo]]
-url = "https://github.com/ipfs/website"
+url = "https://github.com/kikomicevski/Minted-AI-DApp"
 
 [[repo]]
-url = "https://github.com/ipfs/websiter"
+url = "https://github.com/nftstorage/nft.storage"
 
 [[repo]]
 url = "https://github.com/npfoss/gravity-protocol"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Satellite-Absolute"
+url = "https://github.com/oops-moment/Decentralised-File-System"
+
+[[repo]]
+url = "https://github.com/protocol/gateway-monitor"
+
+[[repo]]
+url = "https://github.com/saRvaGnyA/SofToken"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Core-PWA"
+
+[[repo]]
+url = "https://github.com/testground/testground"

@@ -34,6 +34,9 @@ url = "https://github.com/sorare/anyway_config"
 url = "https://github.com/sorare/api"
 
 [[repo]]
+url = "https://github.com/sorare/apollo-federation-ruby"
+
+[[repo]]
 url = "https://github.com/sorare/charts"
 
 [[repo]]
@@ -49,13 +52,25 @@ url = "https://github.com/sorare/crypto"
 url = "https://github.com/sorare/crypto-cpp"
 
 [[repo]]
+url = "https://github.com/sorare/dd-trace-go"
+
+[[repo]]
 url = "https://github.com/sorare/devise-two-factor"
+
+[[repo]]
+url = "https://github.com/sorare/eslint-plugin-graphql"
 
 [[repo]]
 url = "https://github.com/sorare/ethereumjs-wallet"
 
 [[repo]]
 url = "https://github.com/sorare/graphql-anycable"
+
+[[repo]]
+url = "https://github.com/sorare/graphql-code-generator"
+
+[[repo]]
+url = "https://github.com/sorare/graphql-tools"
 
 [[repo]]
 url = "https://github.com/sorare/graphql-typescript-factories"
@@ -67,13 +82,25 @@ url = "https://github.com/sorare/gruf"
 url = "https://github.com/sorare/interactor"
 
 [[repo]]
+url = "https://github.com/sorare/knip"
+
+[[repo]]
 url = "https://github.com/sorare/loom-js"
+
+[[repo]]
+url = "https://github.com/sorare/router"
+
+[[repo]]
+url = "https://github.com/sorare/seadrop"
 
 [[repo]]
 url = "https://github.com/sorare/serverless-chrome"
 
 [[repo]]
 url = "https://github.com/sorare/sidekiq-scheduler"
+
+[[repo]]
+url = "https://github.com/sorare/tapioca"
 
 [[repo]]
 url = "https://github.com/sorare/tonic_helm_charts"
@@ -83,3 +110,6 @@ url = "https://github.com/sorare/use-font-face-observer"
 
 [[repo]]
 url = "https://github.com/sorare/vonage-ruby-sdk"
+
+[[repo]]
+url = "https://github.com/sorare/xml-sitemap"

@@ -22,6 +22,9 @@ url = "https://github.com/Polkadex-Substrate/babe-node-stencil"
 url = "https://github.com/Polkadex-Substrate/bitcoin_hashes-parity-codec"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/blst"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/bulletproofs"
 
 [[repo]]
@@ -56,6 +59,15 @@ url = "https://github.com/Polkadex-Substrate/charting-library-tutorial"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/class"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/cognito-csv-exporter"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/crowdloan-data-verifier"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/crowload-data-fetcher"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/cumulus"
@@ -121,10 +133,19 @@ url = "https://github.com/Polkadex-Substrate/hummingbot"
 url = "https://github.com/Polkadex-Substrate/hyper"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/hyper-1"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/hyper-util"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/Ido-Thea-beta-testers-feedback"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/interbtc"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/JS-Calls-for-Extrinsics"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/jsonrpc"
@@ -154,6 +175,9 @@ url = "https://github.com/Polkadex-Substrate/mio-extras"
 url = "https://github.com/Polkadex-Substrate/multi-party-ecdsa"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/multi-party-ecdsa-2"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/nakamoto"
 
 [[repo]]
@@ -175,6 +199,9 @@ url = "https://github.com/Polkadex-Substrate/open-runtime-module-library"
 url = "https://github.com/Polkadex-Substrate/orderbook-rs"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/orml-1.1.0"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/pallet-substratee-registry"
 
 [[repo]]
@@ -187,6 +214,9 @@ url = "https://github.com/Polkadex-Substrate/parachain"
 url = "https://github.com/Polkadex-Substrate/parachain-projects-info"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/parity-bridges-common"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/Polkadex"
 
 [[repo]]
@@ -194,6 +224,9 @@ url = "https://github.com/Polkadex-Substrate/polkadex-aura-node"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/polkadex-business-website"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/polkadex-commons"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/polkadex-docs"
@@ -208,6 +241,9 @@ url = "https://github.com/Polkadex-Substrate/polkadex-mobile-app"
 url = "https://github.com/Polkadex-Substrate/Polkadex-Open-Beta"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/polkadex-orderbook-examples"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/polkadex-primitives"
 
 [[repo]]
@@ -215,6 +251,9 @@ url = "https://github.com/Polkadex-Substrate/polkadex-second-tranche"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/polkadex-stencil-substrate"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/polkadex-subql"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/polkadex-supported-assets"
@@ -277,6 +316,9 @@ url = "https://github.com/Polkadex-Substrate/SGX-hardware"
 url = "https://github.com/Polkadex-Substrate/sgx-runtime"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/sgx-software-enable"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/snowbridge"
 
 [[repo]]
@@ -307,6 +349,9 @@ url = "https://github.com/Polkadex-Substrate/substrate-faucet"
 url = "https://github.com/Polkadex-Substrate/substrate-hacking"
 
 [[repo]]
+url = "https://github.com/Polkadex-Substrate/substrate-sgx"
+
+[[repo]]
 url = "https://github.com/Polkadex-Substrate/substrate-stencil"
 
 [[repo]]
@@ -326,6 +371,9 @@ url = "https://github.com/Polkadex-Substrate/thea-ido-public-testnet-feedback"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/tokio"
+
+[[repo]]
+url = "https://github.com/Polkadex-Substrate/trie"
 
 [[repo]]
 url = "https://github.com/Polkadex-Substrate/web3-conf-workshop"

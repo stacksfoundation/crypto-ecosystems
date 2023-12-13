@@ -7,16 +7,25 @@ github_organizations = ["https://github.com/stakecube"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/stakecube/explorer"
+
+[[repo]]
+url = "https://github.com/stakecube/scc-js"
+
+[[repo]]
 url = "https://github.com/stakecube/scc-multitool"
+
+[[repo]]
+url = "https://github.com/stakecube/scc-seeder"
 
 [[repo]]
 url = "https://github.com/stakecube/scc-web3"
 
 [[repo]]
-url = "https://github.com/stakecube/scpscan"
+url = "https://github.com/stakecube/sccminer"
 
 [[repo]]
-url = "https://github.com/stakecube/stakecube"
+url = "https://github.com/stakecube/scpscan"
 
 [[repo]]
 url = "https://github.com/stakecube/StakeCubeCoin"

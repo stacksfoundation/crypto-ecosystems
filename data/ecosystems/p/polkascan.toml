@@ -73,9 +73,6 @@ url = "https://github.com/polkascan/polkascan-pre-explorer-gui"
 url = "https://github.com/polkascan/polkascan-pre-harvester"
 
 [[repo]]
-url = "https://github.com/polkascan/polkascan-ui"
-
-[[repo]]
 url = "https://github.com/polkascan/py-bip39-bindings"
 
 [[repo]]
@@ -97,6 +94,12 @@ url = "https://github.com/polkascan/py-subkey-wrapper"
 url = "https://github.com/polkascan/py-substrate-interface"
 
 [[repo]]
+url = "https://github.com/polkascan/py-substrate-interface-extension-polkascan"
+
+[[repo]]
+url = "https://github.com/polkascan/py-substrate-interface-extension-subsquid"
+
+[[repo]]
 url = "https://github.com/polkascan/py-substrate-metadata-docs"
 
 [[repo]]
@@ -116,6 +119,9 @@ url = "https://github.com/polkascan/social-contract"
 
 [[repo]]
 url = "https://github.com/polkascan/sqlalchemy-pagination"
+
+[[repo]]
+url = "https://github.com/polkascan/starlette-graphene3"
 
 [[repo]]
 url = "https://github.com/polkascan/subkey"

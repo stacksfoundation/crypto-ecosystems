@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/docknetwork"]
 url = "https://github.com/docknetwork/api-docs"
 
 [[repo]]
+url = "https://github.com/docknetwork/api-samples"
+
+[[repo]]
 url = "https://github.com/docknetwork/aries-mediator-service"
 
 [[repo]]
@@ -64,10 +67,16 @@ url = "https://github.com/docknetwork/dock-api-js"
 url = "https://github.com/docknetwork/dock-app"
 
 [[repo]]
+url = "https://github.com/docknetwork/dock-app-testautomation"
+
+[[repo]]
 url = "https://github.com/docknetwork/dock-did-driver"
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-substrate"
+
+[[repo]]
+url = "https://github.com/docknetwork/dock-substrate-common"
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-tutorials"
@@ -95,6 +104,9 @@ url = "https://github.com/docknetwork/linked-biometrics-demo"
 
 [[repo]]
 url = "https://github.com/docknetwork/linked-data"
+
+[[repo]]
+url = "https://github.com/docknetwork/minimal-cipher"
 
 [[repo]]
 url = "https://github.com/docknetwork/mrklt"
@@ -128,6 +140,12 @@ url = "https://github.com/docknetwork/polkascan-pre-harvester"
 
 [[repo]]
 url = "https://github.com/docknetwork/polkastats-backend-v3"
+
+[[repo]]
+url = "https://github.com/docknetwork/polygonid-demo"
+
+[[repo]]
+url = "https://github.com/docknetwork/polygonid-js-sdk"
 
 [[repo]]
 url = "https://github.com/docknetwork/prettyvc"
@@ -173,6 +191,9 @@ url = "https://github.com/docknetwork/sparql2rify"
 
 [[repo]]
 url = "https://github.com/docknetwork/ss58-registry"
+
+[[repo]]
+url = "https://github.com/docknetwork/ssi-wallets"
 
 [[repo]]
 url = "https://github.com/docknetwork/subkey-wrapper"
@@ -230,9 +251,6 @@ url = "https://github.com/docknetwork/verifiable-claims-engine"
 
 [[repo]]
 url = "https://github.com/docknetwork/voting"
-
-[[repo]]
-url = "https://github.com/docknetwork/wallet"
 
 [[repo]]
 url = "https://github.com/docknetwork/wallet-sdk-demo"

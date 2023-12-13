@@ -94,6 +94,9 @@ url = "https://github.com/bisq-network/bisq-website"
 url = "https://github.com/bisq-network/bisq2"
 
 [[repo]]
+url = "https://github.com/bisq-network/bisq2-web-ui"
+
+[[repo]]
 url = "https://github.com/bisq-network/bisqremote"
 
 [[repo]]
@@ -164,9 +167,6 @@ url = "https://github.com/bisq-network/mailchimp"
 
 [[repo]]
 url = "https://github.com/bisq-network/mempool"
-
-[[repo]]
-url = "https://github.com/bisq-network/misq"
 
 [[repo]]
 url = "https://github.com/bisq-network/monitoring"

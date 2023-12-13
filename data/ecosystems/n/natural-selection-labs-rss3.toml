@@ -7,7 +7,10 @@ github_organizations = ["https://github.com/NaturalSelectionLabs"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/NaturalSelectionLabs/backers-and-partners"
+url = "https://github.com/NaturalSelectionLabs/assets"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/backers-and-ecosystem"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/bridge-utils"
@@ -16,7 +19,19 @@ url = "https://github.com/NaturalSelectionLabs/bridge-utils"
 url = "https://github.com/NaturalSelectionLabs/Cheers"
 
 [[repo]]
+url = "https://github.com/NaturalSelectionLabs/CI-Migrator"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/Daedalus"
+
+[[repo]]
 url = "https://github.com/NaturalSelectionLabs/gitcoin"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/goapi"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/helm-charts"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/Hephaestus"
@@ -31,6 +46,9 @@ url = "https://github.com/NaturalSelectionLabs/hexojs-site"
 url = "https://github.com/NaturalSelectionLabs/IPFS-Upload-Relay"
 
 [[repo]]
+url = "https://github.com/NaturalSelectionLabs/jschema"
+
+[[repo]]
 url = "https://github.com/NaturalSelectionLabs/LightBulb"
 
 [[repo]]
@@ -43,7 +61,16 @@ url = "https://github.com/NaturalSelectionLabs/misskey"
 url = "https://github.com/NaturalSelectionLabs/nacl-test"
 
 [[repo]]
+url = "https://github.com/NaturalSelectionLabs/Notion-Calendar"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/Notion-to-iCal"
+
+[[repo]]
 url = "https://github.com/NaturalSelectionLabs/PASS_AirDrop"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/Pinata"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/Re-ID"
@@ -53,6 +80,9 @@ url = "https://github.com/NaturalSelectionLabs/RSS3-assets"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/RSS3-Blog"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/RSS3-Developer"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/RSS3-deweblist"
@@ -101,6 +131,12 @@ url = "https://github.com/NaturalSelectionLabs/Unidata"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/unidata-react-app-demo"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/vary"
+
+[[repo]]
+url = "https://github.com/NaturalSelectionLabs/vault-inject-env-example"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/Web3-Heatmap"

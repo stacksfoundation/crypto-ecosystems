@@ -25,6 +25,9 @@ url = "https://github.com/CudoVentures/chain-registry"
 url = "https://github.com/CudoVentures/code-explorer"
 
 [[repo]]
+url = "https://github.com/CudoVentures/cometbft"
+
+[[repo]]
 url = "https://github.com/CudoVentures/cosmos-exporter"
 
 [[repo]]
@@ -70,10 +73,10 @@ url = "https://github.com/CudoVentures/cudo-xmrig"
 url = "https://github.com/CudoVentures/cudos-allowlist-tool"
 
 [[repo]]
-url = "https://github.com/CudoVentures/cudos-aura-pool-platform"
+url = "https://github.com/CudoVentures/cudos-aura-pool-eth"
 
 [[repo]]
-url = "https://github.com/CudoVentures/cudos-aura-pool-service"
+url = "https://github.com/CudoVentures/cudos-aura-pool-platform"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-bdjuno"
@@ -83,9 +86,6 @@ url = "https://github.com/CudoVentures/cudos-blast"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-builders"
-
-[[repo]]
-url = "https://github.com/CudoVentures/cudos-cli"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-contracts-front-service"
@@ -127,7 +127,13 @@ url = "https://github.com/CudoVentures/cudos-gentx"
 url = "https://github.com/CudoVentures/cudos-gravity-bridge-ui"
 
 [[repo]]
+url = "https://github.com/CudoVentures/cudos-hacker-ui"
+
+[[repo]]
 url = "https://github.com/CudoVentures/cudos-infrastructure-monitoring"
+
+[[repo]]
+url = "https://github.com/CudoVentures/cudos-kyc-poc"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-multisend"
@@ -140,9 +146,6 @@ url = "https://github.com/CudoVentures/cudos-network-docs"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-network-upgrade"
-
-[[repo]]
-url = "https://github.com/CudoVentures/cudos-nft-minting"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-nft-minting-ui"
@@ -160,7 +163,7 @@ url = "https://github.com/CudoVentures/cudos-ondemand-minting-service"
 url = "https://github.com/CudoVentures/cudos-p2p-scan"
 
 [[repo]]
-url = "https://github.com/CudoVentures/cudos-station"
+url = "https://github.com/CudoVentures/cudos-private-sale-kyc"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudos-stats-service"
@@ -175,10 +178,10 @@ url = "https://github.com/CudoVentures/cudos-subgraph"
 url = "https://github.com/CudoVentures/cudos-token-minter-ui"
 
 [[repo]]
-url = "https://github.com/CudoVentures/cudos-tokenised-infrastructure-rewarder"
+url = "https://github.com/CudoVentures/cudos-utils"
 
 [[repo]]
-url = "https://github.com/CudoVentures/cudos-utils"
+url = "https://github.com/CudoVentures/cudos-wasm-ica-ibc-poc"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudosjs"
@@ -194,6 +197,9 @@ url = "https://github.com/CudoVentures/faucet"
 
 [[repo]]
 url = "https://github.com/CudoVentures/juno"
+
+[[repo]]
+url = "https://github.com/CudoVentures/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/CudoVentures/kubespray"
@@ -223,6 +229,9 @@ url = "https://github.com/CudoVentures/one"
 url = "https://github.com/CudoVentures/one_exporter"
 
 [[repo]]
+url = "https://github.com/CudoVentures/openwhisk-cli"
+
+[[repo]]
 url = "https://github.com/CudoVentures/osmosis-frontend"
 
 [[repo]]
@@ -230,12 +239,6 @@ url = "https://github.com/CudoVentures/release-action"
 
 [[repo]]
 url = "https://github.com/CudoVentures/terraform-provider-cudo"
-
-[[repo]]
-url = "https://github.com/CudoVentures/token-minter-ui"
-
-[[repo]]
-url = "https://github.com/CudoVentures/tokenised-infrastructure-rewarder"
 
 [[repo]]
 url = "https://github.com/CudoVentures/trustwallet-assets"
@@ -248,6 +251,9 @@ url = "https://github.com/CudoVentures/vue-undraw"
 
 [[repo]]
 url = "https://github.com/CudoVentures/vuex-module-decorators"
+
+[[repo]]
+url = "https://github.com/CudoVentures/wasmvmwrapper"
 
 [[repo]]
 url = "https://github.com/CudoVentures/xmonarch"

@@ -13,6 +13,9 @@ url = "https://github.com/avvydomains/circomlibjs"
 url = "https://github.com/avvydomains/client-common"
 
 [[repo]]
+url = "https://github.com/avvydomains/ecosystem-projects"
+
+[[repo]]
 url = "https://github.com/avvydomains/ffjavascript"
 
 [[repo]]
@@ -28,6 +31,12 @@ url = "https://github.com/avvydomains/integration-examples"
 url = "https://github.com/avvydomains/js-client"
 
 [[repo]]
+url = "https://github.com/avvydomains/pangolin-analytics"
+
+[[repo]]
+url = "https://github.com/avvydomains/pangolin-interface"
+
+[[repo]]
 url = "https://github.com/avvydomains/powers-of-tau"
 
 [[repo]]
@@ -35,6 +44,9 @@ url = "https://github.com/avvydomains/python-client"
 
 [[repo]]
 url = "https://github.com/avvydomains/react-native-provider"
+
+[[repo]]
+url = "https://github.com/avvydomains/revoke.cash"
 
 [[repo]]
 url = "https://github.com/avvydomains/spec5-reserved-names"

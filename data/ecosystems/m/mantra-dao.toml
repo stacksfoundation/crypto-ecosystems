@@ -13,10 +13,13 @@ url = "https://github.com/MantraDAO/airdrop-snapshots"
 url = "https://github.com/MantraDAO/compound-js"
 
 [[repo]]
-url = "https://github.com/MantraDAO/compound-v2-subgraph"
+url = "https://github.com/MantraDAO/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/MantraDAO/DefiLlama-Adapters"
+url = "https://github.com/MantraDAO/defillama-icons"
+
+[[repo]]
+url = "https://github.com/MantraDAO/defillama-server"
 
 [[repo]]
 url = "https://github.com/MantraDAO/mdao-docs"

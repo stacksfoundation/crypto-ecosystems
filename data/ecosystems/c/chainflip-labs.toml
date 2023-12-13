@@ -16,13 +16,31 @@ url = "https://github.com/chainflip-io/alertmanager-github-receiver"
 url = "https://github.com/chainflip-io/alertmanager-webhook-logger"
 
 [[repo]]
+url = "https://github.com/chainflip-io/aws-lambda-edge-basic-auth-terraform"
+
+[[repo]]
 url = "https://github.com/chainflip-io/chainflip-bin"
+
+[[repo]]
+url = "https://github.com/chainflip-io/chainflip-docs"
+
+[[repo]]
+url = "https://github.com/chainflip-io/chainflip-eth-contracts"
+
+[[repo]]
+url = "https://github.com/chainflip-io/chainflip-helm-charts"
 
 [[repo]]
 url = "https://github.com/chainflip-io/chainflip-jit-amm-python"
 
 [[repo]]
+url = "https://github.com/chainflip-io/chainflip-partnernet"
+
+[[repo]]
 url = "https://github.com/chainflip-io/chainflip-reusable-workflows"
+
+[[repo]]
+url = "https://github.com/chainflip-io/chainflip-sdk-monorepo"
 
 [[repo]]
 url = "https://github.com/chainflip-io/chainflip-uniswapV3-python"
@@ -52,7 +70,19 @@ url = "https://github.com/chainflip-io/ethereum-metrics-exporter"
 url = "https://github.com/chainflip-io/finality-grandpa"
 
 [[repo]]
+url = "https://github.com/chainflip-io/gitbook-migration"
+
+[[repo]]
 url = "https://github.com/chainflip-io/msig-util"
+
+[[repo]]
+url = "https://github.com/chainflip-io/nitro-testnode"
+
+[[repo]]
+url = "https://github.com/chainflip-io/polkadot"
+
+[[repo]]
+url = "https://github.com/chainflip-io/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/chainflip-io/polkadot_api_server"
@@ -88,6 +118,9 @@ url = "https://github.com/chainflip-io/substrate-simnode"
 url = "https://github.com/chainflip-io/substrate-subxt"
 
 [[repo]]
+url = "https://github.com/chainflip-io/support"
+
+[[repo]]
 url = "https://github.com/chainflip-io/tailscale"
 
 [[repo]]
@@ -95,3 +128,6 @@ url = "https://github.com/chainflip-io/terraform-aws-github-runner"
 
 [[repo]]
 url = "https://github.com/chainflip-io/terraform-kubernetes-basic-auth"
+
+[[repo]]
+url = "https://github.com/chainflip-io/trezor-firmware"

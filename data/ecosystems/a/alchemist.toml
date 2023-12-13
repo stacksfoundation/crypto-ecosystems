@@ -46,6 +46,9 @@ url = "https://github.com/alchemistcoin/ethers-provider-flashbots-bundle"
 url = "https://github.com/alchemistcoin/knowledge-base"
 
 [[repo]]
+url = "https://github.com/alchemistcoin/langflowRenarsTest"
+
+[[repo]]
 url = "https://github.com/alchemistcoin/mistx-frontend"
 
 [[repo]]
@@ -55,13 +58,16 @@ url = "https://github.com/alchemistcoin/mistx-website"
 url = "https://github.com/alchemistcoin/room33"
 
 [[repo]]
+url = "https://github.com/alchemistcoin/room33-auction"
+
+[[repo]]
+url = "https://github.com/alchemistcoin/room33_splash"
+
+[[repo]]
 url = "https://github.com/alchemistcoin/sandwiched-backend"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/sandwiched-frontend"
-
-[[repo]]
-url = "https://github.com/alchemistcoin/test-curators"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/token-extensions"

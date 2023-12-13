@@ -28,6 +28,9 @@ url = "https://github.com/elkfinance/governance"
 url = "https://github.com/elkfinance/graph-node"
 
 [[repo]]
+url = "https://github.com/elkfinance/graph-node-k8s-public"
+
+[[repo]]
 url = "https://github.com/elkfinance/liquidity-scores"
 
 [[repo]]
@@ -44,6 +47,12 @@ url = "https://github.com/elkfinance/tokenlists"
 
 [[repo]]
 url = "https://github.com/elkfinance/tokens"
+
+[[repo]]
+url = "https://github.com/elkfinance/xion_smart-contracts-bugfix"
+
+[[repo]]
+url = "https://github.com/elkfinance/XionTesting"
 
 [[repo]]
 url = "https://github.com/elkrem/elk-hardware"

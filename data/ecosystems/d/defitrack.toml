@@ -7,49 +7,49 @@ github_organizations = ["https://github.com/defitrack"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/defitrack/beefy-api"
+url = "https://github.com/decentri-fi/beefy-api"
 
 [[repo]]
-url = "https://github.com/defitrack/beefy-app"
+url = "https://github.com/decentri-fi/beefy-app"
 
 [[repo]]
-url = "https://github.com/defitrack/beefy-contracts"
+url = "https://github.com/decentri-fi/beefy-contracts"
 
 [[repo]]
-url = "https://github.com/defitrack/beefy-contracts-deprecated"
+url = "https://github.com/decentri-fi/beefy-contracts-deprecated"
 
 [[repo]]
-url = "https://github.com/defitrack/beefy-starter-pack"
+url = "https://github.com/decentri-fi/beefy-starter-pack"
 
 [[repo]]
-url = "https://github.com/defitrack/contracts"
+url = "https://github.com/decentri-fi/contracts"
 
 [[repo]]
-url = "https://github.com/defitrack/data"
+url = "https://github.com/decentri-fi/data"
 
 [[repo]]
-url = "https://github.com/defitrack/defitrack-core"
+url = "https://github.com/decentri-fi/defi-hub"
 
 [[repo]]
-url = "https://github.com/defitrack/docs"
+url = "https://github.com/decentri-fi/defihub-js-client"
 
 [[repo]]
-url = "https://github.com/defitrack/hop-airdrop"
+url = "https://github.com/decentri-fi/docs"
 
 [[repo]]
-url = "https://github.com/defitrack/js-api"
+url = "https://github.com/decentri-fi/hop-airdrop"
 
 [[repo]]
-url = "https://github.com/defitrack/mev-infrastructure"
+url = "https://github.com/decentri-fi/mev-infrastructure"
 
 [[repo]]
-url = "https://github.com/defitrack/requests"
+url = "https://github.com/decentri-fi/requests"
 
 [[repo]]
-url = "https://github.com/defitrack/showcase"
+url = "https://github.com/decentri-fi/showcase"
 
 [[repo]]
-url = "https://github.com/defitrack/subgraphs"
+url = "https://github.com/decentri-fi/subgraphs"
 
 [[repo]]
-url = "https://github.com/defitrack/valve"
+url = "https://github.com/decentri-fi/valve"

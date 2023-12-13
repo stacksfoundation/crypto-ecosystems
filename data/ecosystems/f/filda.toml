@@ -13,9 +13,6 @@ url = "https://github.com/fildaio/alpha-homora-v2-contract"
 url = "https://github.com/fildaio/AssetManager"
 
 [[repo]]
-url = "https://github.com/fildaio/Audit"
-
-[[repo]]
 url = "https://github.com/fildaio/Audits"
 
 [[repo]]
@@ -58,9 +55,6 @@ url = "https://github.com/fildaio/gnosiswallet"
 url = "https://github.com/fildaio/HecovotingLoan"
 
 [[repo]]
-url = "https://github.com/fildaio/HecovotinLoan"
-
-[[repo]]
 url = "https://github.com/fildaio/LockedToken"
 
 [[repo]]
@@ -77,6 +71,9 @@ url = "https://github.com/fildaio/ReferralReward"
 
 [[repo]]
 url = "https://github.com/fildaio/StakingPool"
+
+[[repo]]
+url = "https://github.com/fildaio/Subgraph"
 
 [[repo]]
 url = "https://github.com/fildaio/sushiswap"

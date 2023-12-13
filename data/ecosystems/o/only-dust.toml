@@ -19,9 +19,6 @@ url = "https://github.com/onlydustxyz/binary-erc1155"
 url = "https://github.com/onlydustxyz/cairo-contracts"
 
 [[repo]]
-url = "https://github.com/onlydustxyz/cairo-foundry"
-
-[[repo]]
 url = "https://github.com/onlydustxyz/cairo-foundry-demo"
 
 [[repo]]
@@ -31,7 +28,13 @@ url = "https://github.com/onlydustxyz/cairo-rs"
 url = "https://github.com/onlydustxyz/cairo-streams"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/checkers-tendermint"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/cicd"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/cmc"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/development-guidelines"
@@ -40,10 +43,19 @@ url = "https://github.com/onlydustxyz/development-guidelines"
 url = "https://github.com/onlydustxyz/eth-validator-watcher"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/gateway"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/generator-starknet"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/github-cache"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/github-contribution-labels"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/graphql-engine"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/graphql-engine-heroku"
@@ -58,13 +70,25 @@ url = "https://github.com/onlydustxyz/heka"
 url = "https://github.com/onlydustxyz/heroku-buildpack-rust"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/heroku-buildpack-rust-monorepo"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/imhotep"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/juniper"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/kaaper"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/madara-test"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/marketplace"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/marketplace-api"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/marketplace-backend"
@@ -73,13 +97,28 @@ url = "https://github.com/onlydustxyz/marketplace-backend"
 url = "https://github.com/onlydustxyz/marketplace-frontend"
 
 [[repo]]
+url = "https://github.com/onlydustxyz/marketplace-frontend-old"
+
+[[repo]]
 url = "https://github.com/onlydustxyz/marketplace-frontend-v2"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/marketplace-indexer"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/marketplace-provisionning"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/marketplace-signup"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/marketplace-starknet"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/octocrab"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/od-rust-template"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/onlydust-rs"
@@ -92,6 +131,9 @@ url = "https://github.com/onlydustxyz/protostar-vs-nile"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/protostar-vscode-test-adapter"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/reverse-proxy"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/serpopard"
@@ -134,3 +176,9 @@ url = "https://github.com/onlydustxyz/update-hasura-metadata-buildpack"
 
 [[repo]]
 url = "https://github.com/onlydustxyz/uraeus"
+
+[[repo]]
+url = "https://github.com/onlydustxyz/wait-on-action"
+
+[[repo]]
+url = "https://github.com/open-dust/cairo-foundry"

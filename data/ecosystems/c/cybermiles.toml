@@ -28,6 +28,9 @@ url = "https://github.com/CyberMiles/client"
 url = "https://github.com/CyberMiles/cmmander"
 
 [[repo]]
+url = "https://github.com/CyberMiles/cmt-staking"
+
+[[repo]]
 url = "https://github.com/CyberMiles/community-vote"
 
 [[repo]]
@@ -67,9 +70,6 @@ url = "https://github.com/CyberMiles/earn"
 url = "https://github.com/CyberMiles/education"
 
 [[repo]]
-url = "https://github.com/CyberMiles/ethereumjs-vm"
-
-[[repo]]
 url = "https://github.com/CyberMiles/ethermint"
 
 [[repo]]
@@ -80,9 +80,6 @@ url = "https://github.com/CyberMiles/explorer"
 
 [[repo]]
 url = "https://github.com/CyberMiles/fairplay"
-
-[[repo]]
-url = "https://github.com/CyberMiles/go-ethereum"
 
 [[repo]]
 url = "https://github.com/CyberMiles/go-wire"
@@ -97,15 +94,6 @@ url = "https://github.com/CyberMiles/jabci"
 url = "https://github.com/CyberMiles/leveldb"
 
 [[repo]]
-url = "https://github.com/CyberMiles/libeni"
-
-[[repo]]
-url = "https://github.com/CyberMiles/lity"
-
-[[repo]]
-url = "https://github.com/CyberMiles/litylang-web"
-
-[[repo]]
 url = "https://github.com/CyberMiles/marketplace"
 
 [[repo]]
@@ -113,9 +101,6 @@ url = "https://github.com/CyberMiles/modules"
 
 [[repo]]
 url = "https://github.com/CyberMiles/oyente"
-
-[[repo]]
-url = "https://github.com/CyberMiles/remix"
 
 [[repo]]
 url = "https://github.com/CyberMiles/remix-ide"
@@ -157,6 +142,9 @@ url = "https://github.com/CyberMiles/travis-java"
 url = "https://github.com/CyberMiles/travis-rpc"
 
 [[repo]]
+url = "https://github.com/CyberMiles/travis-x"
+
+[[repo]]
 url = "https://github.com/CyberMiles/truffle"
 
 [[repo]]
@@ -176,3 +164,21 @@ url = "https://github.com/CyberMiles/wallet-detection"
 
 [[repo]]
 url = "https://github.com/CyberMiles/web3-cmt.js"
+
+[[repo]]
+url = "https://github.com/second-state/ethereumjs-vm"
+
+[[repo]]
+url = "https://github.com/second-state/libeni"
+
+[[repo]]
+url = "https://github.com/second-state/lity"
+
+[[repo]]
+url = "https://github.com/second-state/litylang-web"
+
+[[repo]]
+url = "https://github.com/second-state/lityvm"
+
+[[repo]]
+url = "https://github.com/second-state/remix"

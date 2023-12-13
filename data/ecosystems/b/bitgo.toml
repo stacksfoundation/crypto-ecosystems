@@ -31,6 +31,9 @@ url = "https://github.com/BitGo/bitcoinj"
 url = "https://github.com/BitGo/bitcoinjs-lib"
 
 [[repo]]
+url = "https://github.com/BitGo/bitcoinjs-message"
+
+[[repo]]
 url = "https://github.com/BitGo/bitcore-lib"
 
 [[repo]]
@@ -88,6 +91,9 @@ url = "https://github.com/BitGo/body-parser"
 url = "https://github.com/BitGo/charts"
 
 [[repo]]
+url = "https://github.com/BitGo/cloudflare-audit-log-scraper"
+
+[[repo]]
 url = "https://github.com/BitGo/cloudflare-logpull-exporter"
 
 [[repo]]
@@ -130,6 +136,12 @@ url = "https://github.com/BitGo/eth2-bls-wasm"
 url = "https://github.com/BitGo/ethereumj"
 
 [[repo]]
+url = "https://github.com/BitGo/forkme"
+
+[[repo]]
+url = "https://github.com/BitGo/identity-token"
+
+[[repo]]
 url = "https://github.com/BitGo/insight-api"
 
 [[repo]]
@@ -146,6 +158,9 @@ url = "https://github.com/BitGo/key-recovery-service-v2"
 
 [[repo]]
 url = "https://github.com/BitGo/keytool-ios"
+
+[[repo]]
+url = "https://github.com/BitGo/knet-stress"
 
 [[repo]]
 url = "https://github.com/BitGo/kustomize-loki"
@@ -206,6 +221,9 @@ url = "https://github.com/BitGo/rust-bitcoin-indexer"
 
 [[repo]]
 url = "https://github.com/BitGo/slate"
+
+[[repo]]
+url = "https://github.com/BitGo/sloth"
 
 [[repo]]
 url = "https://github.com/BitGo/smart-contracts"

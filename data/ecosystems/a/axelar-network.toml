@@ -7,16 +7,34 @@ github_organizations = ["https://github.com/axelarnetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/axelarnetwork/2-way-communication-smart-contract-with-solidity-and-axelar"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/ampd"
+
+[[repo]]
 url = "https://github.com/axelarnetwork/audits"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-amplifier"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-cgp-aptos"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/axelar-cgp-move"
+url = "https://github.com/axelarnetwork/axelar-cgp-near"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-cgp-solidity"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-cgp-soroban"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-cgp-sui"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-contract-deployments"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-core"
@@ -28,7 +46,7 @@ url = "https://github.com/axelarnetwork/axelar-dapp-starter-kit"
 url = "https://github.com/axelarnetwork/axelar-docs"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/axelar-gateway-sample"
+url = "https://github.com/axelarnetwork/axelar-examples"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-gmp-sample"
@@ -37,22 +55,22 @@ url = "https://github.com/axelarnetwork/axelar-gmp-sample"
 url = "https://github.com/axelarnetwork/axelar-gmp-sdk-solidity"
 
 [[repo]]
+url = "https://github.com/axelarnetwork/axelar-interchain-token"
+
+[[repo]]
 url = "https://github.com/axelarnetwork/axelar-local-dev"
-
-[[repo]]
-url = "https://github.com/axelarnetwork/axelar-local-dev-sample"
-
-[[repo]]
-url = "https://github.com/axelarnetwork/axelar-local-gateway"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-local-gmp-examples"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/axelar-signing-relayer"
+url = "https://github.com/axelarnetwork/axelar-multibridge"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/axelar-utils-solidity"
+url = "https://github.com/axelarnetwork/axelar-satellite"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-signing-relayer"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelar-web-app"
@@ -62,6 +80,9 @@ url = "https://github.com/axelarnetwork/axelar-xc20-wrapper"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelarate-community"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelarjs"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/axelarjs-sdk"
@@ -82,6 +103,9 @@ url = "https://github.com/axelarnetwork/axelarscan-docs"
 url = "https://github.com/axelarnetwork/axelarscan-ui"
 
 [[repo]]
+url = "https://github.com/axelarnetwork/cgp-spec"
+
+[[repo]]
 url = "https://github.com/axelarnetwork/cis"
 
 [[repo]]
@@ -94,6 +118,9 @@ url = "https://github.com/axelarnetwork/cosmos-sdk"
 url = "https://github.com/axelarnetwork/cosmwasm-gateway"
 
 [[repo]]
+url = "https://github.com/axelarnetwork/cross-chain-airdrop-dapp"
+
+[[repo]]
 url = "https://github.com/axelarnetwork/crosschain-usdc-demo"
 
 [[repo]]
@@ -101,6 +128,12 @@ url = "https://github.com/axelarnetwork/deposit-address-demo"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/evm-cosmos-gmp-sample"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/evm-cosmos-relayer"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/fullstack-interchain-dapp"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/gmp-api"
@@ -112,16 +145,31 @@ url = "https://github.com/axelarnetwork/gmp-caching-aws"
 url = "https://github.com/axelarnetwork/gmp-caching-docker"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/gmp-caching-nodejs"
-
-[[repo]]
 url = "https://github.com/axelarnetwork/gmp-crawler"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/gmp-forecaller"
+url = "https://github.com/axelarnetwork/gmp-express"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/grpc-protobuf"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/homebrew-axelard"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/interchain-deployment-same-address"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/interchain-governance"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/interchain-governance-executor"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/interchain-token-service"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/linea-interchain-workshop-with-axelar"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/moxy-node"
@@ -131,6 +179,9 @@ url = "https://github.com/axelarnetwork/multi-party-ecdsa"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/paillier-rs"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/public-chain-configs"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/rosetta-onboarding"
@@ -145,7 +196,10 @@ url = "https://github.com/axelarnetwork/sdk-demo-v5-deposit-address"
 url = "https://github.com/axelarnetwork/sentinel"
 
 [[repo]]
-url = "https://github.com/axelarnetwork/solidity-cgp-gateway"
+url = "https://github.com/axelarnetwork/services-portal"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/tendermint-rs"
 
 [[repo]]
 url = "https://github.com/axelarnetwork/terraform-aws-eks"

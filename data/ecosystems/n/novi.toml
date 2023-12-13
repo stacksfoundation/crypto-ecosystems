@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/novifinancial"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/facebook/winterfell"
+
+[[repo]]
 url = "https://github.com/novifinancial/akd"
 
 [[repo]]
@@ -56,9 +59,6 @@ url = "https://github.com/novifinancial/tss-ecdsa"
 
 [[repo]]
 url = "https://github.com/novifinancial/voprf"
-
-[[repo]]
-url = "https://github.com/novifinancial/winterfell"
 
 [[repo]]
 url = "https://github.com/novifinancial/x25519-dalek-fiat"

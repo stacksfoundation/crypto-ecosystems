@@ -3,7 +3,7 @@ title = "Opyn"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/opynfinance"]
+github_organizations = ["https://github.com/fuertefi", "https://github.com/opynfinance"]
 
 # Repositories
 [[repo]]
@@ -13,19 +13,28 @@ url = "https://github.com/Alpha-Serpentis-Developments/Project-Mimic"
 url = "https://github.com/antoncoding/opyn-monitor"
 
 [[repo]]
+url = "https://github.com/fuertefi/crab-sim"
+
+[[repo]]
+url = "https://github.com/fuertefi/lyra-ethglobal"
+
+[[repo]]
+url = "https://github.com/fuertefi/OGP"
+
+[[repo]]
+url = "https://github.com/fuertefi/perp-curie-contract"
+
+[[repo]]
+url = "https://github.com/fuertefi/squeeth-monorepo"
+
+[[repo]]
+url = "https://github.com/opynfinance/auction-sdk-python"
+
+[[repo]]
 url = "https://github.com/opynfinance/awesome-options"
 
 [[repo]]
-url = "https://github.com/opynfinance/Black-Scholes"
-
-[[repo]]
 url = "https://github.com/opynfinance/BlackScholes"
-
-[[repo]]
-url = "https://github.com/opynfinance/CeDeFi-settlement-contracts"
-
-[[repo]]
-url = "https://github.com/opynfinance/Convexity-Protocol"
 
 [[repo]]
 url = "https://github.com/opynfinance/Convexity-Protocol-Archived"
@@ -35,12 +44,6 @@ url = "https://github.com/opynfinance/Convexity-Subgraph"
 
 [[repo]]
 url = "https://github.com/opynfinance/ConvexityProtocol"
-
-[[repo]]
-url = "https://github.com/opynfinance/ConvexityProtocol"
-
-[[repo]]
-url = "https://github.com/opynfinance/crab-v2-sdk-python"
 
 [[repo]]
 url = "https://github.com/opynfinance/erc20-redeemable"
@@ -73,9 +76,6 @@ url = "https://github.com/opynfinance/LiquidatorBot"
 url = "https://github.com/opynfinance/OGP"
 
 [[repo]]
-url = "https://github.com/opynfinance/OptionsProtocol"
-
-[[repo]]
 url = "https://github.com/opynfinance/opyn-0x-market-maker"
 
 [[repo]]
@@ -97,9 +97,6 @@ url = "https://github.com/opynfinance/Opyn-Templates"
 url = "https://github.com/opynfinance/opyn-tokenlist"
 
 [[repo]]
-url = "https://github.com/opynfinance/OpynGraph"
-
-[[repo]]
 url = "https://github.com/opynfinance/opynv2-kpi"
 
 [[repo]]
@@ -112,16 +109,10 @@ url = "https://github.com/opynfinance/paradigmco-settlement-contracts"
 url = "https://github.com/opynfinance/perp-vault-templates"
 
 [[repo]]
-url = "https://github.com/opynfinance/PerpVault"
-
-[[repo]]
 url = "https://github.com/opynfinance/ProjectTemplate"
 
 [[repo]]
 url = "https://github.com/opynfinance/react-performance"
-
-[[repo]]
-url = "https://github.com/opynfinance/scaffold-eth"
 
 [[repo]]
 url = "https://github.com/opynfinance/simple-security-toolkit"
@@ -131,9 +122,6 @@ url = "https://github.com/opynfinance/squeeth-monorepo"
 
 [[repo]]
 url = "https://github.com/opynfinance/Take-Home-Tasks"
-
-[[repo]]
-url = "https://github.com/opynfinance/TradingVenue"
 
 [[repo]]
 url = "https://github.com/opynfinance/uniswap-v3-subgraph"

@@ -100,6 +100,9 @@ url = "https://github.com/line/clova-extension-sample-cafe"
 url = "https://github.com/line/clova-extension-sample-dice"
 
 [[repo]]
+url = "https://github.com/line/conditional"
+
+[[repo]]
 url = "https://github.com/line/conflr"
 
 [[repo]]
@@ -116,6 +119,9 @@ url = "https://github.com/line/demo-rich-menu-bot"
 
 [[repo]]
 url = "https://github.com/line/feature-flag-android"
+
+[[repo]]
+url = "https://github.com/line/figma-translator-vue-plugin-sample"
 
 [[repo]]
 url = "https://github.com/line/flutter_line_sdk"
@@ -148,6 +154,12 @@ url = "https://github.com/line/headver"
 url = "https://github.com/line/iavl"
 
 [[repo]]
+url = "https://github.com/line/ibc-go"
+
+[[repo]]
+url = "https://github.com/line/japanese-large-lm-instruction-sft"
+
+[[repo]]
 url = "https://github.com/line/jnotebook_reader"
 
 [[repo]]
@@ -161,6 +173,9 @@ url = "https://github.com/line/lbm-sdk"
 
 [[repo]]
 url = "https://github.com/line/lfb"
+
+[[repo]]
+url = "https://github.com/line/license-gradle-plugin-git"
 
 [[repo]]
 url = "https://github.com/line/lich"
@@ -211,6 +226,9 @@ url = "https://github.com/line/line-api-use-case-table-order"
 url = "https://github.com/line/line-blockchain-developers-sdk-js"
 
 [[repo]]
+url = "https://github.com/line/line-blockchain-developers-sdk-kt"
+
+[[repo]]
 url = "https://github.com/line/line-blockchain-scan"
 
 [[repo]]
@@ -244,6 +262,9 @@ url = "https://github.com/line/line-bot-sdk-ruby"
 url = "https://github.com/line/line-conversion-api-server-tag"
 
 [[repo]]
+url = "https://github.com/line/LINE-DistilBERT-Japanese"
+
+[[repo]]
 url = "https://github.com/line/line-fido2-server"
 
 [[repo]]
@@ -257,6 +278,9 @@ url = "https://github.com/line/line-login-sample-for-spring-security"
 
 [[repo]]
 url = "https://github.com/line/line-login-starter"
+
+[[repo]]
+url = "https://github.com/line/line-openapi"
 
 [[repo]]
 url = "https://github.com/line/line-platform-feedback"
@@ -295,6 +319,9 @@ url = "https://github.com/line/line-things-dev-board"
 url = "https://github.com/line/line-things-starter"
 
 [[repo]]
+url = "https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution"
+
+[[repo]]
 url = "https://github.com/line/ncloud-chatbot-slack"
 
 [[repo]]
@@ -319,10 +346,19 @@ url = "https://github.com/line/rules_apple_line"
 url = "https://github.com/line/stellite"
 
 [[repo]]
+url = "https://github.com/line/thrift-gradle-plugin"
+
+[[repo]]
 url = "https://github.com/line/tm-db"
 
 [[repo]]
+url = "https://github.com/line/ts-remove-unused"
+
+[[repo]]
 url = "https://github.com/line/vue-pivot-table-plus"
+
+[[repo]]
+url = "https://github.com/line/wasmd"
 
 [[repo]]
 url = "https://github.com/line/wasmvm"

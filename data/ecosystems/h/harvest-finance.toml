@@ -46,7 +46,13 @@ url = "https://github.com/harvestfi/add-farm"
 url = "https://github.com/harvestfi/alertmanager-discord"
 
 [[repo]]
+url = "https://github.com/harvestfi/app-plugin-harvest"
+
+[[repo]]
 url = "https://github.com/harvestfi/assets"
+
+[[repo]]
+url = "https://github.com/harvestfi/audits"
 
 [[repo]]
 url = "https://github.com/harvestfi/bookkeeper"
@@ -82,6 +88,12 @@ url = "https://github.com/harvestfi/hardwork-watcher"
 url = "https://github.com/harvestfi/harvest-api"
 
 [[repo]]
+url = "https://github.com/harvestfi/harvest-api-dbot"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-api-v3"
+
+[[repo]]
 url = "https://github.com/harvestfi/harvest-chainwatcher"
 
 [[repo]]
@@ -94,19 +106,64 @@ url = "https://github.com/harvestfi/harvest-finance-issues"
 url = "https://github.com/harvestfi/harvest-forta"
 
 [[repo]]
+url = "https://github.com/harvestfi/harvest-front"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-front-v3"
+
+[[repo]]
 url = "https://github.com/harvestfi/harvest-gelato"
 
 [[repo]]
 url = "https://github.com/harvestfi/harvest-graph"
 
 [[repo]]
+url = "https://github.com/harvestfi/harvest-graph-arbitrum"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-graph-base"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-graph-polygon"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-landing"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-landing-v2"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-nonfungible-position-vault"
+
+[[repo]]
 url = "https://github.com/harvestfi/harvest-sdk"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-strategy"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-strategy-arbitrum"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-strategy-base"
 
 [[repo]]
 url = "https://github.com/harvestfi/harvest-strategy-polygon"
 
 [[repo]]
 url = "https://github.com/harvestfi/harvest-universal-liquidator"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-universal-liquidator-arbitrum"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-universal-liquidator-base"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-universal-liquidator-mainnet"
+
+[[repo]]
+url = "https://github.com/harvestfi/harvest-universal-liquidator-polygon"
 
 [[repo]]
 url = "https://github.com/harvestfi/harvestfi.github.io"

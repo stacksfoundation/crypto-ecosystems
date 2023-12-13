@@ -13,10 +13,28 @@ url = "https://github.com/leapwallet/assets"
 url = "https://github.com/leapwallet/bridge-web-app"
 
 [[repo]]
+url = "https://github.com/leapwallet/buffer-boba"
+
+[[repo]]
+url = "https://github.com/leapwallet/chainlist"
+
+[[repo]]
+url = "https://github.com/leapwallet/cosmos-extension"
+
+[[repo]]
 url = "https://github.com/leapwallet/cosmos-kit"
 
 [[repo]]
+url = "https://github.com/leapwallet/cosmos-metamask-snap"
+
+[[repo]]
 url = "https://github.com/leapwallet/cosmos-node-setup"
+
+[[repo]]
+url = "https://github.com/leapwallet/developers"
+
+[[repo]]
+url = "https://github.com/leapwallet/elements"
 
 [[repo]]
 url = "https://github.com/leapwallet/ethindia-2022-meme-backend"
@@ -25,10 +43,31 @@ url = "https://github.com/leapwallet/ethindia-2022-meme-backend"
 url = "https://github.com/leapwallet/ethindia-2022-meme-push"
 
 [[repo]]
+url = "https://github.com/leapwallet/fallback-falooda"
+
+[[repo]]
+url = "https://github.com/leapwallet/graz-integration-testing"
+
+[[repo]]
 url = "https://github.com/leapwallet/ibc-support-db"
 
 [[repo]]
+url = "https://github.com/leapwallet/leap-keychain"
+
+[[repo]]
+url = "https://github.com/leapwallet/leap-keychain-rn"
+
+[[repo]]
+url = "https://github.com/leapwallet/leap-near-sdk-react-example"
+
+[[repo]]
+url = "https://github.com/leapwallet/leap-near-sdk-react-native-example"
+
+[[repo]]
 url = "https://github.com/leapwallet/metabase"
+
+[[repo]]
+url = "https://github.com/leapwallet/name-matcha"
 
 [[repo]]
 url = "https://github.com/leapwallet/nft-contracts-list"
@@ -37,13 +76,22 @@ url = "https://github.com/leapwallet/nft-contracts-list"
 url = "https://github.com/leapwallet/notifications-poc"
 
 [[repo]]
+url = "https://github.com/leapwallet/notifications-webhook-demo"
+
+[[repo]]
 url = "https://github.com/leapwallet/observatory"
 
 [[repo]]
 url = "https://github.com/leapwallet/observatory-architecture"
 
 [[repo]]
+url = "https://github.com/leapwallet/osmosis-frontend-mm-snaps"
+
+[[repo]]
 url = "https://github.com/leapwallet/react-native-os"
+
+[[repo]]
+url = "https://github.com/leapwallet/react-native-pin-code"
 
 [[repo]]
 url = "https://github.com/leapwallet/secret.js"
@@ -58,4 +106,10 @@ url = "https://github.com/leapwallet/target-10"
 url = "https://github.com/leapwallet/target-10-frontend"
 
 [[repo]]
+url = "https://github.com/leapwallet/test-oss-private"
+
+[[repo]]
 url = "https://github.com/leapwallet/wallet-registry"
+
+[[repo]]
+url = "https://github.com/leapwallet/wallet-sdk-test"

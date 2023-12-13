@@ -10,10 +10,22 @@ github_organizations = ["https://github.com/Cryptoware-ME"]
 url = "https://github.com/Cryptoware-ME/-cryptogate"
 
 [[repo]]
+url = "https://github.com/Cryptoware-ME/bitcoin-scaling-hackathon"
+
+[[repo]]
+url = "https://github.com/Cryptoware-ME/cryptoware-backend"
+
+[[repo]]
 url = "https://github.com/Cryptoware-ME/DeFiBootcamp"
 
 [[repo]]
 url = "https://github.com/Cryptoware-ME/dev-assignment"
+
+[[repo]]
+url = "https://github.com/Cryptoware-ME/solthaw-io"
+
+[[repo]]
+url = "https://github.com/Cryptoware-ME/tick-it-FE"
 
 [[repo]]
 url = "https://github.com/Cryptoware-ME/web3-development"

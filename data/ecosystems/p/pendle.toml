@@ -28,13 +28,28 @@ url = "https://github.com/pendle-finance/pendle-core"
 url = "https://github.com/pendle-finance/pendle-core-v2"
 
 [[repo]]
+url = "https://github.com/pendle-finance/pendle-core-v2-public"
+
+[[repo]]
 url = "https://github.com/pendle-finance/pendle-intern-projects"
+
+[[repo]]
+url = "https://github.com/pendle-finance/Pendle-Market-Deployment"
+
+[[repo]]
+url = "https://github.com/pendle-finance/pendle-merkle-script"
 
 [[repo]]
 url = "https://github.com/pendle-finance/pendle-scy-sample"
 
 [[repo]]
 url = "https://github.com/pendle-finance/pendle-sdk"
+
+[[repo]]
+url = "https://github.com/pendle-finance/pendle-sdk-core-v2-docs"
+
+[[repo]]
+url = "https://github.com/pendle-finance/pendle-sdk-core-v2-public"
 
 [[repo]]
 url = "https://github.com/pendle-finance/pendle-staking"
@@ -47,9 +62,6 @@ url = "https://github.com/pendle-finance/sdk-core"
 
 [[repo]]
 url = "https://github.com/pendle-finance/subgraph-v3"
-
-[[repo]]
-url = "https://github.com/pendle-finance/test-utils"
 
 [[repo]]
 url = "https://github.com/pendle-finance/utils"

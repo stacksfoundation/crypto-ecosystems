@@ -7,10 +7,19 @@ github_organizations = ["https://github.com/yieldprotocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/yieldprotocol/addendum-docs"
+
+[[repo]]
 url = "https://github.com/yieldprotocol/backd-integration"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/bugs"
+
+[[repo]]
+url = "https://github.com/yieldprotocol/cacti-backend"
+
+[[repo]]
+url = "https://github.com/yieldprotocol/cacti-frontend"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/docs"
@@ -25,7 +34,10 @@ url = "https://github.com/yieldprotocol/dss-tlm"
 url = "https://github.com/yieldprotocol/DssTlmAbstract"
 
 [[repo]]
-url = "https://github.com/yieldprotocol/ERC5089"
+url = "https://github.com/yieldprotocol/environments-tlm"
+
+[[repo]]
+url = "https://github.com/yieldprotocol/environments-v2"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/ERC5095"
@@ -49,6 +61,9 @@ url = "https://github.com/yieldprotocol/hardhat-dapptools"
 url = "https://github.com/yieldprotocol/Limit-Sniper"
 
 [[repo]]
+url = "https://github.com/yieldprotocol/mandrill"
+
+[[repo]]
 url = "https://github.com/yieldprotocol/MaturingToken"
 
 [[repo]]
@@ -61,10 +76,10 @@ url = "https://github.com/yieldprotocol/rariBonds"
 url = "https://github.com/yieldprotocol/strategy-v2"
 
 [[repo]]
-url = "https://github.com/yieldprotocol/TA02"
+url = "https://github.com/yieldprotocol/summer2023"
 
 [[repo]]
-url = "https://github.com/yieldprotocol/vault-interfaces"
+url = "https://github.com/yieldprotocol/TA02"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/vault-interfaces-DEPRECATED"
@@ -95,9 +110,6 @@ url = "https://github.com/yieldprotocol/Yieldcurity"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/yieldprotocol.github.io"
-
-[[repo]]
-url = "https://github.com/yieldprotocol/yieldspace-interfaces"
 
 [[repo]]
 url = "https://github.com/yieldprotocol/yieldspace-interfaces-DEPRECATED"

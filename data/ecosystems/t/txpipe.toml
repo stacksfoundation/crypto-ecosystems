@@ -7,13 +7,28 @@ github_organizations = ["https://github.com/txpipe"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/aiken-lang/aiken"
+
+[[repo]]
+url = "https://github.com/aiken-lang/editor-integration-vscode"
+
+[[repo]]
+url = "https://github.com/aiken-lang/stdlib"
+
+[[repo]]
+url = "https://github.com/CardanoSolutions/ogmios-ts-client-starter-kit"
+
+[[repo]]
 url = "https://github.com/txpipe/ada-handle-scrolls-starter-kit"
 
 [[repo]]
-url = "https://github.com/txpipe/aiken"
+url = "https://github.com/txpipe/ada-payments-starter-kit"
 
 [[repo]]
-url = "https://github.com/txpipe/aiken_stdlib"
+url = "https://github.com/txpipe/adalicious-ada-payment-links"
+
+[[repo]]
+url = "https://github.com/txpipe/adalicious-starter-kit"
 
 [[repo]]
 url = "https://github.com/txpipe/assets-api-starter-kit"
@@ -23,6 +38,9 @@ url = "https://github.com/txpipe/awesome-starter-kits"
 
 [[repo]]
 url = "https://github.com/txpipe/cardano-cli-starter-kit"
+
+[[repo]]
+url = "https://github.com/txpipe/cheat-sheets"
 
 [[repo]]
 url = "https://github.com/txpipe/cip25-search-engine"
@@ -40,7 +58,10 @@ url = "https://github.com/txpipe/kelley"
 url = "https://github.com/txpipe/kuber-starter-kit"
 
 [[repo]]
-url = "https://github.com/txpipe/ogmios-client-starter-kit"
+url = "https://github.com/txpipe/mithril"
+
+[[repo]]
+url = "https://github.com/txpipe/mumakil"
 
 [[repo]]
 url = "https://github.com/txpipe/oura"
@@ -67,6 +88,9 @@ url = "https://github.com/txpipe/pycardano-starter-kit"
 url = "https://github.com/txpipe/python-dbsync-starter-kit"
 
 [[repo]]
+url = "https://github.com/txpipe/remix-wallet-connect-starter-kit"
+
+[[repo]]
 url = "https://github.com/txpipe/rfcs"
 
 [[repo]]
@@ -76,7 +100,7 @@ url = "https://github.com/txpipe/roadmap"
 url = "https://github.com/txpipe/scrolls"
 
 [[repo]]
-url = "https://github.com/txpipe/vscode-aiken"
+url = "https://github.com/txpipe/wallet-connect-starter-kit"
 
 [[repo]]
-url = "https://github.com/txpipe/wallet-connect-starter-kit"
+url = "https://github.com/txpipe/wob"

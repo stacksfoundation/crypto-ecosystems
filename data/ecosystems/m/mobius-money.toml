@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/mobiusAMM"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mobiusAMM/BountyReward"
+
+[[repo]]
 url = "https://github.com/mobiusAMM/Burners"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/Community-Incentive-Contracts"
-
-[[repo]]
-url = "https://github.com/mobiusAMM/CommunityIncentiveContracts"
 
 [[repo]]
 url = "https://github.com/mobiusAMM/compound-protocol"

@@ -28,6 +28,9 @@ url = "https://github.com/tetu-io/matic.js"
 url = "https://github.com/tetu-io/paraswap-dex-lib"
 
 [[repo]]
+url = "https://github.com/tetu-io/pawnshop-subgraph"
+
+[[repo]]
 url = "https://github.com/tetu-io/tetu-alerts"
 
 [[repo]]
@@ -49,7 +52,16 @@ url = "https://github.com/tetu-io/tetu-contracts"
 url = "https://github.com/tetu-io/tetu-contracts-v2"
 
 [[repo]]
+url = "https://github.com/tetu-io/tetu-converter"
+
+[[repo]]
+url = "https://github.com/tetu-io/tetu-discord-bots"
+
+[[repo]]
 url = "https://github.com/tetu-io/tetu-game-assets"
+
+[[repo]]
+url = "https://github.com/tetu-io/tetu-game-server"
 
 [[repo]]
 url = "https://github.com/tetu-io/tetu-liquidator"
@@ -79,7 +91,13 @@ url = "https://github.com/tetu-io/tetu-swap"
 url = "https://github.com/tetu-io/tetu-trade-bot"
 
 [[repo]]
+url = "https://github.com/tetu-io/tetu-v1-subgraph"
+
+[[repo]]
 url = "https://github.com/tetu-io/tetu-v2-strategies-polygon"
+
+[[repo]]
+url = "https://github.com/tetu-io/tetu-v2-subgraph"
 
 [[repo]]
 url = "https://github.com/tetu-io/vfat-tools"

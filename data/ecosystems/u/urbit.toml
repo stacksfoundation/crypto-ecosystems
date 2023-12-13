@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Urbit"
 
-sub_ecosystems = ["Uqbar"]
+sub_ecosystems = ["Uqbar", "Zorp"]
 
 github_organizations = [
   "https://github.com/dalten-collective",
@@ -15,7 +15,25 @@ github_organizations = [
 
 # Repositories
 [[repo]]
+url = "https://github.com/bacwyls/radio"
+
+[[repo]]
+url = "https://github.com/cgyarvin/urbit"
+
+[[repo]]
+url = "https://github.com/chrisalexadams/collective"
+
+[[repo]]
+url = "https://github.com/dalten-collective/.github"
+
+[[repo]]
 url = "https://github.com/dalten-collective/agent-skeleton"
+
+[[repo]]
+url = "https://github.com/dalten-collective/aviary"
+
+[[repo]]
+url = "https://github.com/dalten-collective/boat"
 
 [[repo]]
 url = "https://github.com/dalten-collective/books"
@@ -33,6 +51,9 @@ url = "https://github.com/dalten-collective/color"
 url = "https://github.com/dalten-collective/crow"
 
 [[repo]]
+url = "https://github.com/dalten-collective/cult"
+
+[[repo]]
 url = "https://github.com/dalten-collective/erth"
 
 [[repo]]
@@ -48,10 +69,19 @@ url = "https://github.com/dalten-collective/glue"
 url = "https://github.com/dalten-collective/gora"
 
 [[repo]]
+url = "https://github.com/dalten-collective/grove"
+
+[[repo]]
+url = "https://github.com/dalten-collective/haunt"
+
+[[repo]]
 url = "https://github.com/dalten-collective/ibis"
 
 [[repo]]
 url = "https://github.com/dalten-collective/keep"
+
+[[repo]]
+url = "https://github.com/dalten-collective/minaera"
 
 [[repo]]
 url = "https://github.com/dalten-collective/orca"
@@ -81,13 +111,31 @@ url = "https://github.com/dalten-collective/ucal"
 url = "https://github.com/dalten-collective/upfs"
 
 [[repo]]
+url = "https://github.com/dalten-collective/urdl"
+
+[[repo]]
 url = "https://github.com/dalten-collective/wrdu"
+
+[[repo]]
+url = "https://github.com/dalten-collective/yuga"
+
+[[repo]]
+url = "https://github.com/dalten-collective/zlack"
+
+[[repo]]
+url = "https://github.com/dcSpark/hoon-snippets"
 
 [[repo]]
 url = "https://github.com/dilryd-mopreg/app-store"
 
 [[repo]]
+url = "https://github.com/dr-frmr/pokur"
+
+[[repo]]
 url = "https://github.com/dr-frmr/scan"
+
+[[repo]]
+url = "https://github.com/dr-frmr/uhoon-amm"
 
 [[repo]]
 url = "https://github.com/Fang-/suite"
@@ -120,25 +168,58 @@ url = "https://github.com/holium/ballot"
 url = "https://github.com/holium/bounties"
 
 [[repo]]
+url = "https://github.com/holium/calendar"
+
+[[repo]]
 url = "https://github.com/holium/campfire"
+
+[[repo]]
+url = "https://github.com/holium/create-realm-app"
+
+[[repo]]
+url = "https://github.com/holium/DefinitelyTyped"
 
 [[repo]]
 url = "https://github.com/holium/design-system"
 
 [[repo]]
+url = "https://github.com/holium/desks"
+
+[[repo]]
 url = "https://github.com/holium/engram"
+
+[[repo]]
+url = "https://github.com/holium/eventsource"
 
 [[repo]]
 url = "https://github.com/holium/hiring-frontend"
 
 [[repo]]
+url = "https://github.com/holium/js-http-api"
+
+[[repo]]
+url = "https://github.com/holium/lexicon"
+
+[[repo]]
 url = "https://github.com/holium/os-sandbox"
+
+[[repo]]
+url = "https://github.com/holium/Reactions"
 
 [[repo]]
 url = "https://github.com/holium/realm-docs"
 
 [[repo]]
+url = "https://github.com/holium/realm-skeleton"
+
+[[repo]]
 url = "https://github.com/holium/realm-support"
+
+[[repo]]
+url = "https://github.com/holium/replit-urbit-demo"
+
+[[repo]]
+url = "https://github.com/holium/tome-db"
 
 [[repo]]
 url = "https://github.com/holium/trove"
@@ -148,6 +229,9 @@ url = "https://github.com/holium/ucal"
 
 [[repo]]
 url = "https://github.com/holium/urbit.org"
+
+[[repo]]
+url = "https://github.com/holium/vite-plugin-urbit"
 
 [[repo]]
 url = "https://github.com/holium/webrtc-dev-server"
@@ -168,6 +252,12 @@ url = "https://github.com/jackfoxy/urQL"
 url = "https://github.com/johnhyde/astrolabe"
 
 [[repo]]
+url = "https://github.com/juped/your-arvo"
+
+[[repo]]
+url = "https://github.com/latterbolden/port"
+
+[[repo]]
 url = "https://github.com/midsum-salrux/faux"
 
 [[repo]]
@@ -183,10 +273,61 @@ url = "https://github.com/Native-Planet/anchor"
 url = "https://github.com/Native-Planet/anchor-source"
 
 [[repo]]
+url = "https://github.com/Native-Planet/aqmon"
+
+[[repo]]
+url = "https://github.com/Native-Planet/documents"
+
+[[repo]]
+url = "https://github.com/Native-Planet/go-bitstream"
+
+[[repo]]
+url = "https://github.com/Native-Planet/go-urbit"
+
+[[repo]]
 url = "https://github.com/Native-Planet/GroundSeg"
 
 [[repo]]
+url = "https://github.com/Native-Planet/GroundSeg-launcher"
+
+[[repo]]
+url = "https://github.com/Native-Planet/GroundSeg-manual"
+
+[[repo]]
+url = "https://github.com/Native-Planet/llama-gpt"
+
+[[repo]]
+url = "https://github.com/Native-Planet/onyx"
+
+[[repo]]
+url = "https://github.com/Native-Planet/penpAI"
+
+[[repo]]
+url = "https://github.com/Native-Planet/reflect"
+
+[[repo]]
+url = "https://github.com/Native-Planet/uart-agent"
+
+[[repo]]
+url = "https://github.com/Native-Planet/urbit-casaos"
+
+[[repo]]
+url = "https://github.com/Native-Planet/urbit-docker"
+
+[[repo]]
+url = "https://github.com/Native-Planet/version.groundseg.app"
+
+[[repo]]
+url = "https://github.com/Native-Planet/zeroconf"
+
+[[repo]]
 url = "https://github.com/niblyx-malnus/nested-goals"
+
+[[repo]]
+url = "https://github.com/nuljmn/gather"
+
+[[repo]]
+url = "https://github.com/OlehNatsybulin/urbipedia"
 
 [[repo]]
 url = "https://github.com/Other-Life/page"
@@ -201,6 +342,9 @@ url = "https://github.com/ryjm/citadel"
 url = "https://github.com/ryjm/srrs"
 
 [[repo]]
+url = "https://github.com/sidnym-ladrut/pantheon"
+
+[[repo]]
 url = "https://github.com/sidnym-ladrut/quorum"
 
 [[repo]]
@@ -210,13 +354,22 @@ url = "https://github.com/sigilante/l10n"
 url = "https://github.com/sigilante/lazytrig"
 
 [[repo]]
+url = "https://github.com/solri-urbit/arvo"
+
+[[repo]]
 url = "https://github.com/taalhavras/ucal"
+
+[[repo]]
+url = "https://github.com/tadad/blog"
 
 [[repo]]
 url = "https://github.com/Tenari/lift"
 
 [[repo]]
 url = "https://github.com/thecommons-urbit/chess"
+
+[[repo]]
+url = "https://github.com/timlucmiptev/gall-guide"
 
 [[repo]]
 url = "https://github.com/tinnus-napbus/base16-hoon"
@@ -246,25 +399,82 @@ url = "https://github.com/tirrel-corp/studio"
 url = "https://github.com/tirrel-corp/urbit"
 
 [[repo]]
+url = "https://github.com/TJamesCorcoran/urbit_with_kafka"
+
+[[repo]]
+url = "https://github.com/tloncorp/arigato"
+
+[[repo]]
+url = "https://github.com/tloncorp/azimuth-cli"
+
+[[repo]]
+url = "https://github.com/tloncorp/bootlegs"
+
+[[repo]]
 url = "https://github.com/tloncorp/bouncer"
+
+[[repo]]
+url = "https://github.com/tloncorp/crc32c"
+
+[[repo]]
+url = "https://github.com/tloncorp/eyrie"
+
+[[repo]]
+url = "https://github.com/tloncorp/haskell-kubernetes-client"
+
+[[repo]]
+url = "https://github.com/tloncorp/hoon-format"
 
 [[repo]]
 url = "https://github.com/tloncorp/hoon-vscode"
 
 [[repo]]
+url = "https://github.com/tloncorp/indigo-react"
+
+[[repo]]
+url = "https://github.com/tloncorp/landscape"
+
+[[repo]]
 url = "https://github.com/tloncorp/landscape-apps"
+
+[[repo]]
+url = "https://github.com/tloncorp/landscape-status"
+
+[[repo]]
+url = "https://github.com/tloncorp/lure"
 
 [[repo]]
 url = "https://github.com/tloncorp/mock-http-api"
 
 [[repo]]
+url = "https://github.com/tloncorp/murmur3"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/app_template"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/chess"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/chess-ui"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/client-encryptor"
+
+[[repo]]
 url = "https://github.com/uqbar-dao/dao-contract"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/dev-suite"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/escape-app"
 
 [[repo]]
-url = "https://github.com/uqbar-dao/galaxy-girls"
+url = "https://github.com/uqbar-dao/ethers-rs"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/fire-hose"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/indexer-ui"
@@ -273,10 +483,73 @@ url = "https://github.com/uqbar-dao/indexer-ui"
 url = "https://github.com/uqbar-dao/landscape-apps"
 
 [[repo]]
+url = "https://github.com/uqbar-dao/linedb"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/nectar"
+
+[[repo]]
 url = "https://github.com/uqbar-dao/network-age"
 
 [[repo]]
+url = "https://github.com/uqbar-dao/orgs"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/outbox"
+
+[[repo]]
 url = "https://github.com/uqbar-dao/phonebook"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/pokur-dev"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/pongo"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/pongo-app"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/pongo-webrtc-server"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/pyro"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/rdbms"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/react-native-api"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/redb"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/register"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/screed"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets-backend"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets-contracts"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets-ui"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets_app"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets_contracts"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/secrets_ui"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/sirens-of-uqbar"
@@ -285,7 +558,19 @@ url = "https://github.com/uqbar-dao/sirens-of-uqbar"
 url = "https://github.com/uqbar-dao/ui-components"
 
 [[repo]]
+url = "https://github.com/uqbar-dao/uq-channel-backend"
+
+[[repo]]
 url = "https://github.com/uqbar-dao/uqbar-core"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/uqbar-core-ui"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/uqbarup"
+
+[[repo]]
+url = "https://github.com/uqbar-dao/UqChannel"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/urbit"
@@ -303,7 +588,7 @@ url = "https://github.com/uqbar-dao/wallet-ui"
 url = "https://github.com/uqbar-dao/zere"
 
 [[repo]]
-url = "https://github.com/uqbar-dao/ziggurat"
+url = "https://github.com/uqbar-dao/zig-dev"
 
 [[repo]]
 url = "https://github.com/uqbar-dao/ziggurat-ui"
@@ -322,6 +607,9 @@ url = "https://github.com/urbit/archaeology2"
 
 [[repo]]
 url = "https://github.com/urbit/archeology-bridge"
+
+[[repo]]
+url = "https://github.com/urbit/ares"
 
 [[repo]]
 url = "https://github.com/urbit/argon2"
@@ -405,6 +693,9 @@ url = "https://github.com/urbit/examples"
 url = "https://github.com/urbit/fleet"
 
 [[repo]]
+url = "https://github.com/urbit/fnd-design-system"
+
+[[repo]]
 url = "https://github.com/urbit/fora"
 
 [[repo]]
@@ -474,6 +765,9 @@ url = "https://github.com/urbit/hoonschool"
 url = "https://github.com/urbit/http-parser-legacy"
 
 [[repo]]
+url = "https://github.com/urbit/ibig-rs"
+
+[[repo]]
 url = "https://github.com/urbit/inbox"
 
 [[repo]]
@@ -504,6 +798,9 @@ url = "https://github.com/urbit/io_drivers"
 url = "https://github.com/urbit/jaque-fresh"
 
 [[repo]]
+url = "https://github.com/urbit/js-http-api"
+
+[[repo]]
 url = "https://github.com/urbit/landscape"
 
 [[repo]]
@@ -522,16 +819,13 @@ url = "https://github.com/urbit/libscrypt"
 url = "https://github.com/urbit/libuv"
 
 [[repo]]
-url = "https://github.com/urbit/lure"
+url = "https://github.com/urbit/mad"
 
 [[repo]]
 url = "https://github.com/urbit/markdoc"
 
 [[repo]]
 url = "https://github.com/urbit/murmur3"
-
-[[repo]]
-url = "https://github.com/urbit/network-api"
 
 [[repo]]
 url = "https://github.com/urbit/network-api-deprecated"
@@ -577,6 +871,9 @@ url = "https://github.com/urbit/plan"
 
 [[repo]]
 url = "https://github.com/urbit/pleac-hoon"
+
+[[repo]]
+url = "https://github.com/urbit/pm"
 
 [[repo]]
 url = "https://github.com/urbit/port"
@@ -639,9 +936,6 @@ url = "https://github.com/urbit/sole"
 url = "https://github.com/urbit/star.market"
 
 [[repo]]
-url = "https://github.com/urbit/starketplace"
-
-[[repo]]
 url = "https://github.com/urbit/starketplace-fork"
 
 [[repo]]
@@ -657,7 +951,13 @@ url = "https://github.com/urbit/talk"
 url = "https://github.com/urbit/tlon.io"
 
 [[repo]]
+url = "https://github.com/urbit/tools"
+
+[[repo]]
 url = "https://github.com/urbit/tree"
+
+[[repo]]
+url = "https://github.com/urbit/UIPs"
 
 [[repo]]
 url = "https://github.com/urbit/up8-ticket"
@@ -693,6 +993,18 @@ url = "https://github.com/urbit/urbit.org"
 url = "https://github.com/urbit/urbit_book"
 
 [[repo]]
+url = "https://github.com/urbit/urcrypt"
+
+[[repo]]
+url = "https://github.com/urbit/urcrypt-sys"
+
+[[repo]]
+url = "https://github.com/urbit/vere"
+
+[[repo]]
+url = "https://github.com/urbit/vite-plugin-urbit"
+
+[[repo]]
 url = "https://github.com/urbit/volt"
 
 [[repo]]
@@ -700,6 +1012,9 @@ url = "https://github.com/urbit/watch"
 
 [[repo]]
 url = "https://github.com/urbit/web-repl"
+
+[[repo]]
+url = "https://github.com/urbit/webterm"
 
 [[repo]]
 url = "https://github.com/urbit/whereami"
@@ -712,6 +1027,9 @@ url = "https://github.com/urbit/work-app"
 
 [[repo]]
 url = "https://github.com/urbit/write"
+
+[[repo]]
+url = "https://github.com/urbit/yard"
 
 [[repo]]
 url = "https://github.com/Vrend/urbit-go"

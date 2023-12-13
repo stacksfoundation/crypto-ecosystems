@@ -10,13 +10,19 @@ github_organizations = ["https://github.com/vocdoni"]
 url = "https://github.com/vocdoni/14f"
 
 [[repo]]
+url = "https://github.com/vocdoni/app-offchain-integration"
+
+[[repo]]
+url = "https://github.com/vocdoni/aragon-offchain-voting-sdk"
+
+[[repo]]
+url = "https://github.com/vocdoni/aragon-osx-plugin"
+
+[[repo]]
 url = "https://github.com/vocdoni/arbo"
 
 [[repo]]
 url = "https://github.com/vocdoni/badgerhold"
-
-[[repo]]
-url = "https://github.com/vocdoni/blind-ca"
 
 [[repo]]
 url = "https://github.com/vocdoni/blind-csp"
@@ -28,13 +34,28 @@ url = "https://github.com/vocdoni/blind-csp-sms-adminui"
 url = "https://github.com/vocdoni/bootnodes"
 
 [[repo]]
+url = "https://github.com/vocdoni/bounties"
+
+[[repo]]
+url = "https://github.com/vocdoni/Bounty-template"
+
+[[repo]]
 url = "https://github.com/vocdoni/bridge-ui"
+
+[[repo]]
+url = "https://github.com/vocdoni/census3"
+
+[[repo]]
+url = "https://github.com/vocdoni/chainlink-tally"
 
 [[repo]]
 url = "https://github.com/vocdoni/common-client-libs"
 
 [[repo]]
 url = "https://github.com/vocdoni/deep-linker"
+
+[[repo]]
+url = "https://github.com/vocdoni/deploy-snippets"
 
 [[repo]]
 url = "https://github.com/vocdoni/design"
@@ -85,13 +106,31 @@ url = "https://github.com/vocdoni/eventual"
 url = "https://github.com/vocdoni/explorer-ui"
 
 [[repo]]
+url = "https://github.com/vocdoni/gnark"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-crypto"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-crypto-bn254"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-crypto-primitives"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-prover-tinygo"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-tiny-prover-g16"
+
+[[repo]]
+url = "https://github.com/vocdoni/gnark-wasm-prover"
+
+[[repo]]
 url = "https://github.com/vocdoni/go-api"
 
 [[repo]]
 url = "https://github.com/vocdoni/go-backend-challenge"
-
-[[repo]]
-url = "https://github.com/vocdoni/go-dvote"
 
 [[repo]]
 url = "https://github.com/vocdoni/go-ethereum"
@@ -118,6 +157,9 @@ url = "https://github.com/vocdoni/halo2-r1cs"
 url = "https://github.com/vocdoni/help"
 
 [[repo]]
+url = "https://github.com/vocdoni/interoperability"
+
+[[repo]]
 url = "https://github.com/vocdoni/ipfssync"
 
 [[repo]]
@@ -127,19 +169,31 @@ url = "https://github.com/vocdoni/keccak256-circom"
 url = "https://github.com/vocdoni/link-rewriter"
 
 [[repo]]
-url = "https://github.com/vocdoni/mobile"
-
-[[repo]]
 url = "https://github.com/vocdoni/multirpc"
 
 [[repo]]
+url = "https://github.com/vocdoni/oauth-frontend"
+
+[[repo]]
+url = "https://github.com/vocdoni/oauth-service"
+
+[[repo]]
 url = "https://github.com/vocdoni/protocol"
+
+[[repo]]
+url = "https://github.com/vocdoni/rapidsnark"
 
 [[repo]]
 url = "https://github.com/vocdoni/react-hooks"
 
 [[repo]]
 url = "https://github.com/vocdoni/results-analytics"
+
+[[repo]]
+url = "https://github.com/vocdoni/smtverifier-noir"
+
+[[repo]]
+url = "https://github.com/vocdoni/snarkjs"
 
 [[repo]]
 url = "https://github.com/vocdoni/storage-proofs-eth-go"
@@ -151,6 +205,9 @@ url = "https://github.com/vocdoni/storage-proofs-eth-js"
 url = "https://github.com/vocdoni/tendermint"
 
 [[repo]]
+url = "https://github.com/vocdoni/tinygo"
+
+[[repo]]
 url = "https://github.com/vocdoni/tokenstate"
 
 [[repo]]
@@ -158,6 +215,9 @@ url = "https://github.com/vocdoni/tutorials"
 
 [[repo]]
 url = "https://github.com/vocdoni/ui-components"
+
+[[repo]]
+url = "https://github.com/vocdoni/ui-scaffold"
 
 [[repo]]
 url = "https://github.com/vocdoni/ui-template"
@@ -172,7 +232,16 @@ url = "https://github.com/vocdoni/vaas-api"
 url = "https://github.com/vocdoni/vanity-eth"
 
 [[repo]]
+url = "https://github.com/vocdoni/vocdoni-bounty-1"
+
+[[repo]]
+url = "https://github.com/vocdoni/vocdoni-brand"
+
+[[repo]]
 url = "https://github.com/vocdoni/vocdoni-ca-server"
+
+[[repo]]
+url = "https://github.com/vocdoni/vocdoni-csp-admin-sdk"
 
 [[repo]]
 url = "https://github.com/vocdoni/vocdoni-faucet"
@@ -196,9 +265,6 @@ url = "https://github.com/vocdoni/vocdoni-sdk"
 url = "https://github.com/vocdoni/vocdoni-ui"
 
 [[repo]]
-url = "https://github.com/vocdoni/vocdoni.github.io"
-
-[[repo]]
 url = "https://github.com/vocdoni/vocdoni.github.io_backup"
 
 [[repo]]
@@ -206,6 +272,12 @@ url = "https://github.com/vocdoni/vocdoniroots"
 
 [[repo]]
 url = "https://github.com/vocdoni/vocexplorer"
+
+[[repo]]
+url = "https://github.com/vocdoni/vocfaucet"
+
+[[repo]]
+url = "https://github.com/vocdoni/vocfaucet-frontend"
 
 [[repo]]
 url = "https://github.com/vocdoni/vochain-explorer"

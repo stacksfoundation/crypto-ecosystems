@@ -13,6 +13,12 @@ url = "https://github.com/Web3Auth/.github"
 url = "https://github.com/Web3Auth/biconomy-web3auth-example"
 
 [[repo]]
+url = "https://github.com/Web3Auth/discourse-importer"
+
+[[repo]]
+url = "https://github.com/Web3Auth/discourse-web3auth-theme"
+
+[[repo]]
 url = "https://github.com/Web3Auth/ethbogota-tkey-game"
 
 [[repo]]
@@ -22,7 +28,28 @@ url = "https://github.com/Web3Auth/examples"
 url = "https://github.com/Web3Auth/More-code-at-torusresearch"
 
 [[repo]]
+url = "https://github.com/Web3Auth/mpc-core-kit"
+
+[[repo]]
+url = "https://github.com/Web3Auth/mpc-core-kit-demo"
+
+[[repo]]
+url = "https://github.com/Web3Auth/mpc-web3auth-web"
+
+[[repo]]
+url = "https://github.com/Web3Auth/one-key-flow-example"
+
+[[repo]]
 url = "https://github.com/Web3Auth/openlogin-snap"
+
+[[repo]]
+url = "https://github.com/Web3Auth/session-manager-android"
+
+[[repo]]
+url = "https://github.com/Web3Auth/session-manager-swift"
+
+[[repo]]
+url = "https://github.com/Web3Auth/sign-in-with-ethereum"
 
 [[repo]]
 url = "https://github.com/Web3Auth/sign-in-with-solana"
@@ -34,13 +61,31 @@ url = "https://github.com/Web3Auth/sign-in-with-starkware"
 url = "https://github.com/Web3Auth/sign-in-with-web3"
 
 [[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-android"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-flutter"
+
+[[repo]]
 url = "https://github.com/Web3Auth/single-factor-auth-java"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-react-native"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-swift"
+
+[[repo]]
+url = "https://github.com/Web3Auth/single-factor-auth-web"
 
 [[repo]]
 url = "https://github.com/Web3Auth/siws-go"
 
 [[repo]]
 url = "https://github.com/Web3Auth/siww-quickstart"
+
+[[repo]]
+url = "https://github.com/Web3Auth/tkey-mpc-example"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3-analytics-demo"
@@ -55,13 +100,31 @@ url = "https://github.com/Web3Auth/web3auth-android-sdk"
 url = "https://github.com/Web3Auth/web3auth-backend"
 
 [[repo]]
+url = "https://github.com/Web3Auth/web3auth-core-kit-examples"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-discourse-search-banner"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-discourse-showcased-categories"
+
+[[repo]]
 url = "https://github.com/Web3Auth/web3auth-docs"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-e2e-tests"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-firebase-extension"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-flutter-sdk"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-locales"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-pnp-examples"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-react-native-sdk"
@@ -79,7 +142,13 @@ url = "https://github.com/Web3Auth/web3auth-swift-sample"
 url = "https://github.com/Web3Auth/web3auth-swift-sdk"
 
 [[repo]]
+url = "https://github.com/Web3Auth/web3auth-unity-example"
+
+[[repo]]
 url = "https://github.com/Web3Auth/web3auth-unity-sdk"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-unreal-example"
 
 [[repo]]
 url = "https://github.com/Web3Auth/web3auth-unreal-sdk"

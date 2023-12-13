@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/polkafoundry"]
 url = "https://github.com/polkafoundry/apps"
 
 [[repo]]
+url = "https://github.com/polkafoundry/argent-contracts"
+
+[[repo]]
 url = "https://github.com/polkafoundry/assets"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/polkafoundry/bip39-vn"
 
 [[repo]]
 url = "https://github.com/polkafoundry/blog"
+
+[[repo]]
+url = "https://github.com/polkafoundry/breakfirst"
 
 [[repo]]
 url = "https://github.com/polkafoundry/brittle"
@@ -79,6 +85,9 @@ url = "https://github.com/polkafoundry/docuguard"
 url = "https://github.com/polkafoundry/draft-js"
 
 [[repo]]
+url = "https://github.com/polkafoundry/ethermint"
+
+[[repo]]
 url = "https://github.com/polkafoundry/evm"
 
 [[repo]]
@@ -109,6 +118,9 @@ url = "https://github.com/polkafoundry/homepage"
 url = "https://github.com/polkafoundry/hottea"
 
 [[repo]]
+url = "https://github.com/polkafoundry/icetea-2022"
+
+[[repo]]
 url = "https://github.com/polkafoundry/Icetea-Careers"
 
 [[repo]]
@@ -122,6 +134,9 @@ url = "https://github.com/polkafoundry/icetea-pack"
 
 [[repo]]
 url = "https://github.com/polkafoundry/icetea-scan"
+
+[[repo]]
+url = "https://github.com/polkafoundry/icetea-solutions-landing"
 
 [[repo]]
 url = "https://github.com/polkafoundry/icetea-studio"
@@ -164,6 +179,9 @@ url = "https://github.com/polkafoundry/lovelock"
 
 [[repo]]
 url = "https://github.com/polkafoundry/lovelock-help"
+
+[[repo]]
+url = "https://github.com/polkafoundry/moai-landing"
 
 [[repo]]
 url = "https://github.com/polkafoundry/new-home"
@@ -218,6 +236,9 @@ url = "https://github.com/polkafoundry/tchain"
 
 [[repo]]
 url = "https://github.com/polkafoundry/teapot"
+
+[[repo]]
+url = "https://github.com/polkafoundry/tendermint"
 
 [[repo]]
 url = "https://github.com/polkafoundry/tendermint-node"

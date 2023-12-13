@@ -10,16 +10,31 @@ github_organizations = ["https://github.com/lightningrodlabs"]
 url = "https://github.com/lightningrodlabs/acorn"
 
 [[repo]]
+url = "https://github.com/lightningrodlabs/acorn-happ"
+
+[[repo]]
 url = "https://github.com/lightningrodlabs/acorn-site"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/attestations"
 
 [[repo]]
+url = "https://github.com/lightningrodlabs/converge"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/dada"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/dcan"
+
+[[repo]]
 url = "https://github.com/lightningrodlabs/electron-holochain"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/electron-holochain-template"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/file-share"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/glass-bead-game"
@@ -35,6 +50,9 @@ url = "https://github.com/lightningrodlabs/ifeasy"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/lightningrodlabs.github.io"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/ludos"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/Membranes"
@@ -58,6 +76,12 @@ url = "https://github.com/lightningrodlabs/scrabblebag-hc"
 url = "https://github.com/lightningrodlabs/tending"
 
 [[repo]]
+url = "https://github.com/lightningrodlabs/threads"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/treepeople"
+
+[[repo]]
 url = "https://github.com/lightningrodlabs/we"
 
 [[repo]]
@@ -68,6 +92,9 @@ url = "https://github.com/lightningrodlabs/where-old"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/who"
+
+[[repo]]
+url = "https://github.com/lightningrodlabs/whos-in"
 
 [[repo]]
 url = "https://github.com/lightningrodlabs/xyzzy"

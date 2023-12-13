@@ -34,7 +34,7 @@ url = "https://github.com/zCloak-Network/winterfell"
 url = "https://github.com/zCloak-Network/zcloak-collator"
 
 [[repo]]
-url = "https://github.com/zCloak-Network/zcloak-node"
+url = "https://github.com/zCloak-Network/zCloak-keeper"
 
 [[repo]]
-url = "https://github.com/zCloak-Network/zCloak-worker"
+url = "https://github.com/zCloak-Network/zcloak-node"

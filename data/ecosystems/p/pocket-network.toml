@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/pokt-foundation", "https://github.co
 url = "https://github.com/pokt-foundation/.github"
 
 [[repo]]
+url = "https://github.com/pokt-foundation/altruists-manager"
+
+[[repo]]
 url = "https://github.com/pokt-foundation/amplitude-go"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/avalanche-subnets"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/backend-precommit-hooks"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/Blockchain_Node_Stress_Tester"
@@ -25,6 +31,9 @@ url = "https://github.com/pokt-foundation/boba"
 url = "https://github.com/pokt-foundation/bounties"
 
 [[repo]]
+url = "https://github.com/pokt-foundation/chain-healthcheck-sidecar"
+
+[[repo]]
 url = "https://github.com/pokt-foundation/chain-stress-testing"
 
 [[repo]]
@@ -34,7 +43,13 @@ url = "https://github.com/pokt-foundation/charts"
 url = "https://github.com/pokt-foundation/cherry-picker-api"
 
 [[repo]]
+url = "https://github.com/pokt-foundation/data-warehouse-db"
+
+[[repo]]
 url = "https://github.com/pokt-foundation/database-schema"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/db-client"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/devops-challenge"
@@ -53,6 +68,9 @@ url = "https://github.com/pokt-foundation/docs-docsify"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/docs-hugo"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/dwh-client"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/economic-research"
@@ -79,10 +97,13 @@ url = "https://github.com/pokt-foundation/global-services"
 url = "https://github.com/pokt-foundation/governance"
 
 [[repo]]
-url = "https://github.com/pokt-foundation/indexer-lib"
+url = "https://github.com/pokt-foundation/grove-site"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/json-schema-viewer"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/latency-checker"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/MyCrypto"
@@ -118,9 +139,6 @@ url = "https://github.com/pokt-foundation/pocket-go"
 url = "https://github.com/pokt-foundation/pocket-http-db"
 
 [[repo]]
-url = "https://github.com/pokt-foundation/pocket-indexer"
-
-[[repo]]
 url = "https://github.com/pokt-foundation/pocket-indexer-lib"
 
 [[repo]]
@@ -131,12 +149,6 @@ url = "https://github.com/pokt-foundation/pocket-js"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/pocket-js-legacy"
-
-[[repo]]
-url = "https://github.com/pokt-foundation/pocket-js-slim"
-
-[[repo]]
-url = "https://github.com/pokt-foundation/pocket-js-v2"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/pocket-portal"
@@ -152,6 +164,9 @@ url = "https://github.com/pokt-foundation/pocket-ui"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/pokt-scripts"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/pokt-upptime"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/poktscan-data"
@@ -178,16 +193,25 @@ url = "https://github.com/pokt-foundation/portal-api-go"
 url = "https://github.com/pokt-foundation/portal-api-serverless"
 
 [[repo]]
-url = "https://github.com/pokt-foundation/process"
+url = "https://github.com/pokt-foundation/portal-db"
 
 [[repo]]
-url = "https://github.com/pokt-foundation/pypocket"
+url = "https://github.com/pokt-foundation/portal-http-db"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/portal-platform"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/process"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/pypokt"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/rate-limiter"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/relay-counter"
 
 [[repo]]
 url = "https://github.com/pokt-foundation/relay-meter"
@@ -232,6 +256,15 @@ url = "https://github.com/pokt-foundation/tfc-guide-example"
 url = "https://github.com/pokt-foundation/token-geyser"
 
 [[repo]]
+url = "https://github.com/pokt-foundation/transaction-db"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/transaction-http-db"
+
+[[repo]]
+url = "https://github.com/pokt-foundation/tx-client"
+
+[[repo]]
 url = "https://github.com/pokt-foundation/utils-go"
 
 [[repo]]
@@ -256,10 +289,19 @@ url = "https://github.com/pokt-foundation/wrapped-pokt-token"
 url = "https://github.com/pokt-network/amino-js"
 
 [[repo]]
+url = "https://github.com/pokt-network/app-relay-consumption-report"
+
+[[repo]]
 url = "https://github.com/pokt-network/banano-quest"
 
 [[repo]]
 url = "https://github.com/pokt-network/banano-token"
+
+[[repo]]
+url = "https://github.com/pokt-network/bounties"
+
+[[repo]]
+url = "https://github.com/pokt-network/chain-halt-scripts"
 
 [[repo]]
 url = "https://github.com/pokt-network/cryptogotchi"
@@ -292,19 +334,25 @@ url = "https://github.com/pokt-network/ethers.js"
 url = "https://github.com/pokt-network/eztz"
 
 [[repo]]
-url = "https://github.com/pokt-network/gateway"
-
-[[repo]]
 url = "https://github.com/pokt-network/gcvis"
 
 [[repo]]
 url = "https://github.com/pokt-network/gemini-p2p-spec"
 
 [[repo]]
+url = "https://github.com/pokt-network/go-mockdns"
+
+[[repo]]
+url = "https://github.com/pokt-network/gocuke"
+
+[[repo]]
 url = "https://github.com/pokt-network/gomerkle"
 
 [[repo]]
-url = "https://github.com/pokt-network/handbook"
+url = "https://github.com/pokt-network/GPokT"
+
+[[repo]]
+url = "https://github.com/pokt-network/helm-charts"
 
 [[repo]]
 url = "https://github.com/pokt-network/hexapokt-debug-env-poc"
@@ -331,9 +379,6 @@ url = "https://github.com/pokt-network/json-rpc-pocket"
 url = "https://github.com/pokt-network/k8s-deployment"
 
 [[repo]]
-url = "https://github.com/pokt-network/leif"
-
-[[repo]]
 url = "https://github.com/pokt-network/merkle"
 
 [[repo]]
@@ -350,9 +395,6 @@ url = "https://github.com/pokt-network/MyCrypto"
 
 [[repo]]
 url = "https://github.com/pokt-network/MyEtherWallet"
-
-[[repo]]
-url = "https://github.com/pokt-network/operator"
 
 [[repo]]
 url = "https://github.com/pokt-network/organization"
@@ -427,10 +469,10 @@ url = "https://github.com/pokt-network/pocket-dashboard"
 url = "https://github.com/pokt-network/pocket-demo"
 
 [[repo]]
-url = "https://github.com/pokt-network/pocket-economics"
+url = "https://github.com/pokt-network/pocket-e2e-stack"
 
 [[repo]]
-url = "https://github.com/pokt-network/pocket-gateway"
+url = "https://github.com/pokt-network/pocket-economics"
 
 [[repo]]
 url = "https://github.com/pokt-network/pocket-ios-aion"
@@ -478,10 +520,19 @@ url = "https://github.com/pokt-network/pocket-swift"
 url = "https://github.com/pokt-network/pocket-swift-core-carthage"
 
 [[repo]]
-url = "https://github.com/pokt-network/pocket-wallet"
+url = "https://github.com/pokt-network/pocket-tools"
+
+[[repo]]
+url = "https://github.com/pokt-network/PocketGPT"
 
 [[repo]]
 url = "https://github.com/pokt-network/poketto-ios"
+
+[[repo]]
+url = "https://github.com/pokt-network/poktroll"
+
+[[repo]]
+url = "https://github.com/pokt-network/poktroll-alpha"
 
 [[repo]]
 url = "https://github.com/pokt-network/portal-api"
@@ -499,6 +550,9 @@ url = "https://github.com/pokt-network/prlts"
 url = "https://github.com/pokt-network/product"
 
 [[repo]]
+url = "https://github.com/pokt-network/protocol-infra"
+
+[[repo]]
 url = "https://github.com/pokt-network/pxkt-token"
 
 [[repo]]
@@ -509,6 +563,12 @@ url = "https://github.com/pokt-network/relay_counter"
 
 [[repo]]
 url = "https://github.com/pokt-network/repo-template"
+
+[[repo]]
+url = "https://github.com/pokt-network/rollkit"
+
+[[repo]]
+url = "https://github.com/pokt-network/rollkit-docs"
 
 [[repo]]
 url = "https://github.com/pokt-network/SidebarOverlay"
@@ -547,7 +607,7 @@ url = "https://github.com/pokt-network/tm-db"
 url = "https://github.com/pokt-network/tx-bot"
 
 [[repo]]
-url = "https://github.com/pokt-network/txBot"
+url = "https://github.com/pokt-network/v1-explorer-dev"
 
 [[repo]]
 url = "https://github.com/pokt-network/web-sdk"
@@ -562,10 +622,22 @@ url = "https://github.com/pokt-network/web3-pocket-provider"
 url = "https://github.com/pokt-network/web3swift"
 
 [[repo]]
-url = "https://github.com/pokt-network/wpokt-app"
+url = "https://github.com/pokt-network/wpokt"
+
+[[repo]]
+url = "https://github.com/pokt-network/wpokt-frontend"
+
+[[repo]]
+url = "https://github.com/pokt-network/wpokt-monitor"
+
+[[repo]]
+url = "https://github.com/pokt-network/wpokt-staking-contracts"
+
+[[repo]]
+url = "https://github.com/pokt-network/wpokt-staking-frontend"
 
 [[repo]]
 url = "https://github.com/pokt-network/wpokt-subgraph"
 
 [[repo]]
-url = "https://github.com/pokt-network/wrapped-pokt-token"
+url = "https://github.com/pokt-network/wpokt-validator"

@@ -16,6 +16,9 @@ url = "https://github.com/jet-lab/air-traffic-control"
 url = "https://github.com/jet-lab/anchor"
 
 [[repo]]
+url = "https://github.com/jet-lab/bonfida-token-vesting"
+
+[[repo]]
 url = "https://github.com/jet-lab/bonfida-utils"
 
 [[repo]]
@@ -34,7 +37,13 @@ url = "https://github.com/jet-lab/dockerfiles"
 url = "https://github.com/jet-lab/e2e-react-adapter"
 
 [[repo]]
+url = "https://github.com/jet-lab/gethostname.rs"
+
+[[repo]]
 url = "https://github.com/jet-lab/governance-ui"
+
+[[repo]]
+url = "https://github.com/jet-lab/jdap"
 
 [[repo]]
 url = "https://github.com/jet-lab/jet-app"
@@ -61,9 +70,6 @@ url = "https://github.com/jet-lab/jet-governance-react"
 url = "https://github.com/jet-lab/jet-simulation"
 
 [[repo]]
-url = "https://github.com/jet-lab/jet-trading"
-
-[[repo]]
 url = "https://github.com/jet-lab/jet-v1"
 
 [[repo]]
@@ -73,7 +79,7 @@ url = "https://github.com/jet-lab/jet-v1-app"
 url = "https://github.com/jet-lab/jet-v2"
 
 [[repo]]
-url = "https://github.com/jet-lab/market-maker-ts"
+url = "https://github.com/jet-lab/lookup-table-registry"
 
 [[repo]]
 url = "https://github.com/jet-lab/multisig"
@@ -82,10 +88,16 @@ url = "https://github.com/jet-lab/multisig"
 url = "https://github.com/jet-lab/multisig-ui"
 
 [[repo]]
+url = "https://github.com/jet-lab/optimorph"
+
+[[repo]]
 url = "https://github.com/jet-lab/program-libraries"
 
 [[repo]]
 url = "https://github.com/jet-lab/raydium-contract-instructions"
+
+[[repo]]
+url = "https://github.com/jet-lab/rs-soroban-client"
 
 [[repo]]
 url = "https://github.com/jet-lab/solana"
@@ -94,7 +106,7 @@ url = "https://github.com/jet-lab/solana"
 url = "https://github.com/jet-lab/solana-program-library"
 
 [[repo]]
-url = "https://github.com/jet-lab/solana-trading-bot"
+url = "https://github.com/jet-lab/stable-swap"
 
 [[repo]]
-url = "https://github.com/jet-lab/stable-swap"
+url = "https://github.com/jet-lab/whirlpools"

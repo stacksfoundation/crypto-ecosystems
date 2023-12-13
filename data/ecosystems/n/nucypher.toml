@@ -88,6 +88,9 @@ url = "https://github.com/nucypher/mining-paper"
 url = "https://github.com/nucypher/mock-net"
 
 [[repo]]
+url = "https://github.com/nucypher/multicall.py"
+
+[[repo]]
 url = "https://github.com/nucypher/network-keys"
 
 [[repo]]
@@ -154,6 +157,9 @@ url = "https://github.com/nucypher/NuSnap"
 url = "https://github.com/nucypher/persistent"
 
 [[repo]]
+url = "https://github.com/nucypher/placeholder"
+
+[[repo]]
 url = "https://github.com/nucypher/protocol"
 
 [[repo]]
@@ -203,6 +209,12 @@ url = "https://github.com/nucypher/supply-endpoint"
 
 [[repo]]
 url = "https://github.com/nucypher/t-merkle-distributor"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-spy"
+
+[[repo]]
+url = "https://github.com/nucypher/tacobot"
 
 [[repo]]
 url = "https://github.com/nucypher/tdec-nft-example"

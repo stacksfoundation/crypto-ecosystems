@@ -16,9 +16,6 @@ url = "https://github.com/Zapper-fi/Docs"
 url = "https://github.com/Zapper-fi/eslint-plugin"
 
 [[repo]]
-url = "https://github.com/Zapper-fi/eslint-plugin-ethereum-address"
-
-[[repo]]
 url = "https://github.com/Zapper-fi/EtherWalletKit"
 
 [[repo]]
@@ -29,6 +26,12 @@ url = "https://github.com/Zapper-fi/GECO"
 
 [[repo]]
 url = "https://github.com/Zapper-fi/nestjs-dataloader"
+
+[[repo]]
+url = "https://github.com/Zapper-fi/nodejs-bigquery"
+
+[[repo]]
+url = "https://github.com/Zapper-fi/opepen-standard"
 
 [[repo]]
 url = "https://github.com/Zapper-fi/quickswap-farms"

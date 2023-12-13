@@ -13,9 +13,6 @@ url = "https://github.com/debionetwork/api-wrapper"
 url = "https://github.com/debionetwork/besu"
 
 [[repo]]
-url = "https://github.com/debionetwork/charts"
-
-[[repo]]
 url = "https://github.com/debionetwork/debio-backend"
 
 [[repo]]
@@ -40,10 +37,10 @@ url = "https://github.com/debionetwork/debio-customer-ui-tmp"
 url = "https://github.com/debionetwork/debio-frontend"
 
 [[repo]]
-url = "https://github.com/debionetwork/debio-genetic-analyst-ui"
+url = "https://github.com/debionetwork/debio-frontend-lab"
 
 [[repo]]
-url = "https://github.com/debionetwork/debio-indexer"
+url = "https://github.com/debionetwork/debio-genetic-analyst-ui"
 
 [[repo]]
 url = "https://github.com/debionetwork/debio-lab-ui"

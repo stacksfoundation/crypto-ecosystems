@@ -16,6 +16,9 @@ url = "https://github.com/BeamMW/android-wallet"
 url = "https://github.com/BeamMW/app-beam"
 
 [[repo]]
+url = "https://github.com/BeamMW/asset-minter-app"
+
+[[repo]]
 url = "https://github.com/BeamMW/bans"
 
 [[repo]]
@@ -73,6 +76,15 @@ url = "https://github.com/BeamMW/beam-polkadot-frontend"
 url = "https://github.com/BeamMW/beam-ui"
 
 [[repo]]
+url = "https://github.com/BeamMW/beam-web"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-web-downloads"
+
+[[repo]]
+url = "https://github.com/BeamMW/beam-web-store"
+
+[[repo]]
 url = "https://github.com/BeamMW/blake2-solidity"
 
 [[repo]]
@@ -103,6 +115,9 @@ url = "https://github.com/BeamMW/boost_prebuild_1_75_0-ubuntu-18.04"
 url = "https://github.com/BeamMW/boost_prebuild_1_75_0-ubuntu-20.04"
 
 [[repo]]
+url = "https://github.com/BeamMW/boost_prebuild_linux_arm64"
+
+[[repo]]
 url = "https://github.com/BeamMW/boost_prebuild_macos-10.15"
 
 [[repo]]
@@ -124,6 +139,9 @@ url = "https://github.com/BeamMW/boost_prebuild_windows-2019"
 url = "https://github.com/BeamMW/cuda-miner"
 
 [[repo]]
+url = "https://github.com/BeamMW/dao-accumulator-app"
+
+[[repo]]
 url = "https://github.com/BeamMW/dao-core"
 
 [[repo]]
@@ -136,10 +154,22 @@ url = "https://github.com/BeamMW/dao-voting-app"
 url = "https://github.com/BeamMW/dapp-utils"
 
 [[repo]]
+url = "https://github.com/BeamMW/dex-app"
+
+[[repo]]
+url = "https://github.com/BeamMW/docs-desktop"
+
+[[repo]]
+url = "https://github.com/BeamMW/docs-gitbook"
+
+[[repo]]
 url = "https://github.com/BeamMW/eth-object"
 
 [[repo]]
 url = "https://github.com/BeamMW/eth_swap_contracts"
+
+[[repo]]
+url = "https://github.com/BeamMW/fundraising-app"
 
 [[repo]]
 url = "https://github.com/BeamMW/ios-wallet"
@@ -149,6 +179,9 @@ url = "https://github.com/BeamMW/libs"
 
 [[repo]]
 url = "https://github.com/BeamMW/llvm-project"
+
+[[repo]]
+url = "https://github.com/BeamMW/metamask_gateway"
 
 [[repo]]
 url = "https://github.com/BeamMW/nft-marketplace"
@@ -163,13 +196,13 @@ url = "https://github.com/BeamMW/opencl-miner"
 url = "https://github.com/BeamMW/openssl-android"
 
 [[repo]]
+url = "https://github.com/BeamMW/openssl-arm64-linux"
+
+[[repo]]
 url = "https://github.com/BeamMW/openssl-ios"
 
 [[repo]]
 url = "https://github.com/BeamMW/openssl-wasm"
-
-[[repo]]
-url = "https://github.com/BeamMW/plugin-dao-core"
 
 [[repo]]
 url = "https://github.com/BeamMW/plugin-faucet"
@@ -218,6 +251,9 @@ url = "https://github.com/BeamMW/roadmap"
 
 [[repo]]
 url = "https://github.com/BeamMW/scam-app"
+
+[[repo]]
+url = "https://github.com/BeamMW/secp256k1"
 
 [[repo]]
 url = "https://github.com/BeamMW/shader-sdk"

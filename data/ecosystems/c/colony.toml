@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/JoinColony"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/JoinColony/abis"
+
+[[repo]]
 url = "https://github.com/JoinColony/assets"
 
 [[repo]]
@@ -31,7 +34,16 @@ url = "https://github.com/JoinColony/budgetBox"
 url = "https://github.com/JoinColony/bulma-scss"
 
 [[repo]]
+url = "https://github.com/JoinColony/cc"
+
+[[repo]]
+url = "https://github.com/JoinColony/cdapp-data-collector"
+
+[[repo]]
 url = "https://github.com/JoinColony/chewie"
+
+[[repo]]
+url = "https://github.com/JoinColony/clooney"
 
 [[repo]]
 url = "https://github.com/JoinColony/codemod-proptypes-to-flow"
@@ -44,6 +56,9 @@ url = "https://github.com/JoinColony/coding-challenge-events-list"
 
 [[repo]]
 url = "https://github.com/JoinColony/coding-challenge-events-list-bootstrap"
+
+[[repo]]
+url = "https://github.com/JoinColony/coding-challenge-transactions-list"
 
 [[repo]]
 url = "https://github.com/JoinColony/coinMachine"
@@ -82,6 +97,9 @@ url = "https://github.com/JoinColony/colonyDiscord"
 url = "https://github.com/JoinColony/ColonyEventMetadataParser"
 
 [[repo]]
+url = "https://github.com/JoinColony/ColonyFrontEndLivingStandard"
+
+[[repo]]
 url = "https://github.com/JoinColony/colonyHackathon"
 
 [[repo]]
@@ -89,6 +107,9 @@ url = "https://github.com/JoinColony/colonyJS"
 
 [[repo]]
 url = "https://github.com/JoinColony/colonyNetwork"
+
+[[repo]]
+url = "https://github.com/JoinColony/colonyRS"
 
 [[repo]]
 url = "https://github.com/JoinColony/colonySale"
@@ -109,6 +130,9 @@ url = "https://github.com/JoinColony/colonySubgraph"
 url = "https://github.com/JoinColony/colonyToken"
 
 [[repo]]
+url = "https://github.com/JoinColony/consent-banner"
+
+[[repo]]
 url = "https://github.com/JoinColony/consulate"
 
 [[repo]]
@@ -119,6 +143,9 @@ url = "https://github.com/JoinColony/ddp-messages"
 
 [[repo]]
 url = "https://github.com/JoinColony/default-token-list"
+
+[[repo]]
+url = "https://github.com/JoinColony/discordGatingBot"
 
 [[repo]]
 url = "https://github.com/JoinColony/docs"
@@ -157,6 +184,9 @@ url = "https://github.com/JoinColony/formsy-react-components"
 url = "https://github.com/JoinColony/greenkeeper-lockfile"
 
 [[repo]]
+url = "https://github.com/JoinColony/hackathon-ui"
+
+[[repo]]
 url = "https://github.com/JoinColony/help"
 
 [[repo]]
@@ -176,6 +206,9 @@ url = "https://github.com/JoinColony/jest-sandbox"
 
 [[repo]]
 url = "https://github.com/JoinColony/JoinColony.github.io"
+
+[[repo]]
+url = "https://github.com/JoinColony/learn-web3"
 
 [[repo]]
 url = "https://github.com/JoinColony/meteor-package-hookedweb3provider"
@@ -238,10 +271,16 @@ url = "https://github.com/JoinColony/subgraph"
 url = "https://github.com/JoinColony/subgraphMetrics"
 
 [[repo]]
+url = "https://github.com/JoinColony/subsquid"
+
+[[repo]]
 url = "https://github.com/JoinColony/tailor"
 
 [[repo]]
 url = "https://github.com/JoinColony/token-sale-portal"
+
+[[repo]]
+url = "https://github.com/JoinColony/tokenbridge"
 
 [[repo]]
 url = "https://github.com/JoinColony/truffle"

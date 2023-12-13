@@ -7,31 +7,16 @@ github_organizations = ["https://github.com/fiatdao"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/fiatdao/actions"
-
-[[repo]]
-url = "https://github.com/fiatdao/actions-archived"
-
-[[repo]]
 url = "https://github.com/fiatdao/actions-i"
 
 [[repo]]
 url = "https://github.com/fiatdao/airdrop"
 
 [[repo]]
-url = "https://github.com/fiatdao/airdrop-erc1155"
-
-[[repo]]
 url = "https://github.com/fiatdao/aordrop"
 
 [[repo]]
 url = "https://github.com/fiatdao/brand"
-
-[[repo]]
-url = "https://github.com/fiatdao/brand-kit"
-
-[[repo]]
-url = "https://github.com/fiatdao/changelog"
 
 [[repo]]
 url = "https://github.com/fiatdao/changelog-i"
@@ -43,49 +28,19 @@ url = "https://github.com/fiatdao/comitium"
 url = "https://github.com/fiatdao/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/fiatdao/delphi"
-
-[[repo]]
-url = "https://github.com/fiatdao/delphi-archived"
-
-[[repo]]
 url = "https://github.com/fiatdao/delphi-i"
 
 [[repo]]
 url = "https://github.com/fiatdao/delphi-ii"
 
 [[repo]]
-url = "https://github.com/fiatdao/delphi-v1"
-
-[[repo]]
-url = "https://github.com/fiatdao/delphi-v2"
-
-[[repo]]
 url = "https://github.com/fiatdao/docs"
-
-[[repo]]
-url = "https://github.com/fiatdao/fiat"
-
-[[repo]]
-url = "https://github.com/fiatdao/FIAT-DAO-GOV-YF-Frontend"
 
 [[repo]]
 url = "https://github.com/fiatdao/fiat-i"
 
 [[repo]]
-url = "https://github.com/fiatdao/fiat-i-ui"
-
-[[repo]]
-url = "https://github.com/fiatdao/fiat-sdk"
-
-[[repo]]
-url = "https://github.com/fiatdao/fiat-subgraph"
-
-[[repo]]
 url = "https://github.com/fiatdao/fiat-subgraph-i"
-
-[[repo]]
-url = "https://github.com/fiatdao/fiat-ui"
 
 [[repo]]
 url = "https://github.com/fiatdao/fiat-ui-i"
@@ -100,22 +55,10 @@ url = "https://github.com/fiatdao/gitcoin"
 url = "https://github.com/fiatdao/gov-frontend-backup"
 
 [[repo]]
-url = "https://github.com/fiatdao/gov-subgraph"
-
-[[repo]]
 url = "https://github.com/fiatdao/gov-subgraph-i"
 
 [[repo]]
-url = "https://github.com/fiatdao/gov-ui"
-
-[[repo]]
 url = "https://github.com/fiatdao/gov-ui-i"
-
-[[repo]]
-url = "https://github.com/fiatdao/guards"
-
-[[repo]]
-url = "https://github.com/fiatdao/guards-archived"
 
 [[repo]]
 url = "https://github.com/fiatdao/guards-i"
@@ -124,22 +67,16 @@ url = "https://github.com/fiatdao/guards-i"
 url = "https://github.com/fiatdao/jubilee"
 
 [[repo]]
-url = "https://github.com/fiatdao/lever-ui"
+url = "https://github.com/fiatdao/keeper-i"
 
 [[repo]]
 url = "https://github.com/fiatdao/misc"
-
-[[repo]]
-url = "https://github.com/fiatdao/prb-proxy"
 
 [[repo]]
 url = "https://github.com/fiatdao/proxy"
 
 [[repo]]
 url = "https://github.com/fiatdao/rewards-sim"
-
-[[repo]]
-url = "https://github.com/fiatdao/sdk"
 
 [[repo]]
 url = "https://github.com/fiatdao/sdk-i"
@@ -151,19 +88,7 @@ url = "https://github.com/fiatdao/security"
 url = "https://github.com/fiatdao/senatus"
 
 [[repo]]
-url = "https://github.com/fiatdao/subgraph"
-
-[[repo]]
-url = "https://github.com/fiatdao/token"
-
-[[repo]]
 url = "https://github.com/fiatdao/token-i"
-
-[[repo]]
-url = "https://github.com/fiatdao/vaults"
-
-[[repo]]
-url = "https://github.com/fiatdao/vaults-archived"
 
 [[repo]]
 url = "https://github.com/fiatdao/vaults-i"

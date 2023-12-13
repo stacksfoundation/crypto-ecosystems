@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/BHONetwork"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Bholdus/bholdus-chain"
-
-[[repo]]
 url = "https://github.com/BHONetwork/assets"
 
 [[repo]]
@@ -76,6 +73,9 @@ url = "https://github.com/BHONetwork/chainbridge-utils"
 url = "https://github.com/BHONetwork/cra-boilerplate"
 
 [[repo]]
+url = "https://github.com/BHONetwork/eth-net-intelligence-api"
+
+[[repo]]
 url = "https://github.com/BHONetwork/eth-netstats"
 
 [[repo]]
@@ -89,6 +89,9 @@ url = "https://github.com/BHONetwork/frontier"
 
 [[repo]]
 url = "https://github.com/BHONetwork/go-ipfs"
+
+[[repo]]
+url = "https://github.com/BHONetwork/graph-node"
 
 [[repo]]
 url = "https://github.com/BHONetwork/hardhat-boilerplate"
@@ -106,6 +109,9 @@ url = "https://github.com/BHONetwork/launchpad-smart-contracts"
 url = "https://github.com/BHONetwork/metastudy-frontier"
 
 [[repo]]
+url = "https://github.com/BHONetwork/next-translate"
+
+[[repo]]
 url = "https://github.com/BHONetwork/node-typescript-boilerplate"
 
 [[repo]]
@@ -119,6 +125,9 @@ url = "https://github.com/BHONetwork/polkadot-js-apps"
 
 [[repo]]
 url = "https://github.com/BHONetwork/polkadot-validator-setup"
+
+[[repo]]
+url = "https://github.com/BHONetwork/react-native-wallet-core"
 
 [[repo]]
 url = "https://github.com/BHONetwork/scale.go"

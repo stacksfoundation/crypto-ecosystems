@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Kredeum"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Kredeum/autoswarm"
+
+[[repo]]
 url = "https://github.com/Kredeum/docs.kredeum.com"
 
 [[repo]]
@@ -23,6 +26,9 @@ url = "https://github.com/Kredeum/ethglobal-scaling-ethereum"
 
 [[repo]]
 url = "https://github.com/Kredeum/ethglobal-web3"
+
+[[repo]]
+url = "https://github.com/Kredeum/filemore"
 
 [[repo]]
 url = "https://github.com/Kredeum/firstname"

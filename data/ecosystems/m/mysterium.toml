@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/MysteriumNetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mysteriumnetwork/ansible-role-myst"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/api"
 
 [[repo]]
@@ -22,6 +25,9 @@ url = "https://github.com/mysteriumnetwork/bounty_transfers"
 url = "https://github.com/mysteriumnetwork/caddy-docker"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/cocoapodspecs"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/code-sign-action"
 
 [[repo]]
@@ -29,6 +35,9 @@ url = "https://github.com/mysteriumnetwork/config"
 
 [[repo]]
 url = "https://github.com/MysteriumNetwork/contracts"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/crawlers-examples"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/devbook"
@@ -163,13 +172,10 @@ url = "https://github.com/mysteriumnetwork/myst-launcher-osx"
 url = "https://github.com/mysteriumnetwork/myst-telegram-bot"
 
 [[repo]]
-url = "https://github.com/MysteriumNetwork/mysterion"
-
-[[repo]]
 url = "https://github.com/MysteriumNetwork/mysterium-checkbot"
 
 [[repo]]
-url = "https://github.com/mysteriumnetwork/mysterium-logger"
+url = "https://github.com/mysteriumnetwork/mysterium-mobile-provider"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/mysterium-vpn"
@@ -187,7 +193,7 @@ url = "https://github.com/mysteriumnetwork/mysterium-vpn-js"
 url = "https://github.com/mysteriumnetwork/mysterium-vpn-mobile"
 
 [[repo]]
-url = "https://github.com/mysteriumnetwork/mysterium-vpn2"
+url = "https://github.com/mysteriumnetwork/mysterium-vpn-release"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/MysteriumTests"
@@ -241,6 +247,9 @@ url = "https://github.com/mysteriumnetwork/pgbackup"
 url = "https://github.com/mysteriumnetwork/pgpbackup"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/pm2"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/research"
 
 [[repo]]
@@ -257,6 +266,9 @@ url = "https://github.com/mysteriumnetwork/screensavers"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/scylla-octopus"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/specs"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/tequilapi-webapp-tutorial"
@@ -298,7 +310,16 @@ url = "https://github.com/mysteriumnetwork/winter-server"
 url = "https://github.com/mysteriumnetwork/wireguard-apple"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard-dart-sdk"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/wireguard-go"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard_dart"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard_svc"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/wireproxy"

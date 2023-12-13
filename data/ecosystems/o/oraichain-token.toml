@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/oraichain"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/oraichain/.github"
+
+[[repo]]
+url = "https://github.com/oraichain/aioracle"
+
+[[repo]]
+url = "https://github.com/oraichain/aioracle-contract"
+
+[[repo]]
 url = "https://github.com/oraichain/api-automation"
 
 [[repo]]
@@ -19,19 +28,49 @@ url = "https://github.com/oraichain/assets"
 url = "https://github.com/oraichain/audits"
 
 [[repo]]
+url = "https://github.com/oraichain/awesome-cosmwasm"
+
+[[repo]]
 url = "https://github.com/oraichain/bigNFT"
 
 [[repo]]
-url = "https://github.com/oraichain/bignftd"
+url = "https://github.com/oraichain/binary-rle"
 
 [[repo]]
-url = "https://github.com/oraichain/binary-rle"
+url = "https://github.com/oraichain/bitcoin-bridge"
+
+[[repo]]
+url = "https://github.com/oraichain/bitcoin-starter-kit"
+
+[[repo]]
+url = "https://github.com/oraichain/bpmn-engine"
+
+[[repo]]
+url = "https://github.com/oraichain/bpmn-js"
+
+[[repo]]
+url = "https://github.com/oraichain/c2c-lending"
 
 [[repo]]
 url = "https://github.com/oraichain/chain-registry"
 
 [[repo]]
 url = "https://github.com/oraichain/code-and-design"
+
+[[repo]]
+url = "https://github.com/oraichain/cometbft"
+
+[[repo]]
+url = "https://github.com/oraichain/common-sdk"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmjs"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmos-rust"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmos-sync"
 
 [[repo]]
 url = "https://github.com/oraichain/cosmos-test"
@@ -43,25 +82,43 @@ url = "https://github.com/oraichain/cosmosjs"
 url = "https://github.com/oraichain/cosmosjs-monorepo"
 
 [[repo]]
+url = "https://github.com/oraichain/cosmoverse"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmpy"
+
+[[repo]]
 url = "https://github.com/oraichain/cosmwasm"
 
 [[repo]]
 url = "https://github.com/oraichain/cosmwasm-docs"
 
 [[repo]]
-url = "https://github.com/oraichain/cosmwasm-gitpod"
+url = "https://github.com/oraichain/cosmwasm-lowcode"
 
 [[repo]]
 url = "https://github.com/oraichain/cosmwasm-mixer"
 
 [[repo]]
+url = "https://github.com/oraichain/cosmwasm-range-proofs"
+
+[[repo]]
 url = "https://github.com/oraichain/cosmwasm-simulate"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmwasm-subscription"
+
+[[repo]]
+url = "https://github.com/oraichain/cosmwasm-tools"
 
 [[repo]]
 url = "https://github.com/oraichain/cosmwasm-vm-js"
 
 [[repo]]
 url = "https://github.com/oraichain/cosmwasm-vm-js-zk"
+
+[[repo]]
+url = "https://github.com/oraichain/cupiee-background"
 
 [[repo]]
 url = "https://github.com/oraichain/cw-ide-codespace-template"
@@ -79,7 +136,13 @@ url = "https://github.com/oraichain/cw-ide-vscode"
 url = "https://github.com/oraichain/cw-ide-webview"
 
 [[repo]]
-url = "https://github.com/oraichain/cw-nfts"
+url = "https://github.com/oraichain/cw-multi-test"
+
+[[repo]]
+url = "https://github.com/oraichain/cw-multisig-dapp"
+
+[[repo]]
+url = "https://github.com/oraichain/cw-plus"
 
 [[repo]]
 url = "https://github.com/oraichain/cw-simulate"
@@ -88,7 +151,22 @@ url = "https://github.com/oraichain/cw-simulate"
 url = "https://github.com/oraichain/cw-simulate-ui"
 
 [[repo]]
-url = "https://github.com/oraichain/cw-vscode"
+url = "https://github.com/oraichain/cw-storage-plus"
+
+[[repo]]
+url = "https://github.com/oraichain/cw-utils"
+
+[[repo]]
+url = "https://github.com/oraichain/cw1-ibc-hooks"
+
+[[repo]]
+url = "https://github.com/oraichain/dao-contracts"
+
+[[repo]]
+url = "https://github.com/oraichain/dao-dao-ui"
+
+[[repo]]
+url = "https://github.com/oraichain/dao-sdk"
 
 [[repo]]
 url = "https://github.com/oraichain/datahub-starterkit"
@@ -97,7 +175,28 @@ url = "https://github.com/oraichain/datahub-starterkit"
 url = "https://github.com/oraichain/datasource-contract-template"
 
 [[repo]]
+url = "https://github.com/oraichain/deep_space"
+
+[[repo]]
+url = "https://github.com/oraichain/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/oraichain/demo-stargate"
+
+[[repo]]
 url = "https://github.com/oraichain/deno-scripts"
+
+[[repo]]
+url = "https://github.com/oraichain/dino-ai-auditor"
+
+[[repo]]
+url = "https://github.com/oraichain/dino-euno-client-demo"
+
+[[repo]]
+url = "https://github.com/oraichain/dino-node-ts-seedwork"
+
+[[repo]]
+url = "https://github.com/oraichain/dinohub-seedwork-be"
 
 [[repo]]
 url = "https://github.com/oraichain/docs"
@@ -106,13 +205,28 @@ url = "https://github.com/oraichain/docs"
 url = "https://github.com/oraichain/docs-site"
 
 [[repo]]
+url = "https://github.com/oraichain/duckdb-starter-kit"
+
+[[repo]]
+url = "https://github.com/oraichain/duckdbwasm-indexeddb-starterkit"
+
+[[repo]]
 url = "https://github.com/oraichain/dvss"
 
 [[repo]]
 url = "https://github.com/oraichain/erc1155-hardhat-starterkit"
 
 [[repo]]
+url = "https://github.com/oraichain/eueno-proof-of-replication"
+
+[[repo]]
+url = "https://github.com/oraichain/evm-bridge-proxy"
+
+[[repo]]
 url = "https://github.com/oraichain/evmos"
+
+[[repo]]
+url = "https://github.com/oraichain/frontend-challenges"
 
 [[repo]]
 url = "https://github.com/oraichain/gcloud-storage-wasm"
@@ -127,19 +241,46 @@ url = "https://github.com/oraichain/gitpod"
 url = "https://github.com/oraichain/Gravity-Bridge"
 
 [[repo]]
+url = "https://github.com/oraichain/gravity-info-api"
+
+[[repo]]
 url = "https://github.com/oraichain/groth16verify"
 
 [[repo]]
 url = "https://github.com/oraichain/hackathon-ibc"
 
 [[repo]]
+url = "https://github.com/oraichain/heliosphere"
+
+[[repo]]
 url = "https://github.com/oraichain/hermes-ibc-starterkit"
+
+[[repo]]
+url = "https://github.com/oraichain/ibc-bridge-wasm"
+
+[[repo]]
+url = "https://github.com/oraichain/ibc-explorer-backend"
+
+[[repo]]
+url = "https://github.com/oraichain/ics721-cosmwasm"
+
+[[repo]]
+url = "https://github.com/oraichain/immutable-js"
+
+[[repo]]
+url = "https://github.com/oraichain/influxdb-starterkit"
 
 [[repo]]
 url = "https://github.com/oraichain/ink-playground"
 
 [[repo]]
+url = "https://github.com/oraichain/interchaintest"
+
+[[repo]]
 url = "https://github.com/oraichain/InterWasmDAO"
+
+[[repo]]
+url = "https://github.com/oraichain/juno"
 
 [[repo]]
 url = "https://github.com/oraichain/kawaiiversejs"
@@ -151,13 +292,13 @@ url = "https://github.com/oraichain/keplr-extension"
 url = "https://github.com/oraichain/keplr-extension-orai"
 
 [[repo]]
-url = "https://github.com/oraichain/kwtjs"
-
-[[repo]]
 url = "https://github.com/oraichain/learn-web3-dapp"
 
 [[repo]]
 url = "https://github.com/oraichain/LocalOrai"
+
+[[repo]]
+url = "https://github.com/oraichain/margined-trade-sdk"
 
 [[repo]]
 url = "https://github.com/oraichain/merkle-proof-tree"
@@ -169,7 +310,28 @@ url = "https://github.com/oraichain/metaplex-starterkit"
 url = "https://github.com/oraichain/mongo-replicaset-starterkit"
 
 [[repo]]
+url = "https://github.com/oraichain/multicall"
+
+[[repo]]
+url = "https://github.com/oraichain/node-electrum-client"
+
+[[repo]]
+url = "https://github.com/oraichain/node-red-nodes"
+
+[[repo]]
+url = "https://github.com/oraichain/node_balancer"
+
+[[repo]]
+url = "https://github.com/oraichain/opl-secret-ballot"
+
+[[repo]]
+url = "https://github.com/oraichain/oracle-hub"
+
+[[repo]]
 url = "https://github.com/oraichain/orai"
+
+[[repo]]
+url = "https://github.com/oraichain/orai-balance-processor"
 
 [[repo]]
 url = "https://github.com/oraichain/orai-tutorials"
@@ -208,6 +370,18 @@ url = "https://github.com/oraichain/oraichain-wallet-legacy"
 url = "https://github.com/oraichain/oraicli"
 
 [[repo]]
+url = "https://github.com/oraichain/oraidex-bot-server"
+
+[[repo]]
+url = "https://github.com/oraichain/oraidex-listing"
+
+[[repo]]
+url = "https://github.com/oraichain/oraidex-listing-contract"
+
+[[repo]]
+url = "https://github.com/oraichain/oraidex-sdk"
+
+[[repo]]
 url = "https://github.com/oraichain/oraiscan-frontend"
 
 [[repo]]
@@ -241,10 +415,43 @@ url = "https://github.com/oraichain/owallet-background"
 url = "https://github.com/oraichain/owallet-docs"
 
 [[repo]]
+url = "https://github.com/oraichain/perpetuals"
+
+[[repo]]
+url = "https://github.com/oraichain/PhaserEditor2D-v3"
+
+[[repo]]
+url = "https://github.com/oraichain/playwright-startker-kit"
+
+[[repo]]
+url = "https://github.com/oraichain/pm2-watchdog"
+
+[[repo]]
+url = "https://github.com/oraichain/react-json-view"
+
+[[repo]]
 url = "https://github.com/oraichain/react-native-mmkv-storage"
 
 [[repo]]
+url = "https://github.com/oraichain/react-native-webview"
+
+[[repo]]
+url = "https://github.com/oraichain/red-bank"
+
+[[repo]]
+url = "https://github.com/oraichain/revm"
+
+[[repo]]
 url = "https://github.com/oraichain/reward_payment"
+
+[[repo]]
+url = "https://github.com/oraichain/rust-bitcoin-script"
+
+[[repo]]
+url = "https://github.com/oraichain/rust-console"
+
+[[repo]]
+url = "https://github.com/oraichain/rxdb-react-starter-kit"
 
 [[repo]]
 url = "https://github.com/oraichain/sales"
@@ -262,10 +469,34 @@ url = "https://github.com/oraichain/solana-executor-starterkit"
 url = "https://github.com/oraichain/sonar-solidity"
 
 [[repo]]
+url = "https://github.com/oraichain/subscription-sdk"
+
+[[repo]]
+url = "https://github.com/oraichain/substrate-ibc"
+
+[[repo]]
 url = "https://github.com/oraichain/test-repo"
 
 [[repo]]
+url = "https://github.com/oraichain/test-tube"
+
+[[repo]]
 url = "https://github.com/oraichain/testcase-contract-template"
+
+[[repo]]
+url = "https://github.com/oraichain/torus.js"
+
+[[repo]]
+url = "https://github.com/oraichain/tradingview-starterkit"
+
+[[repo]]
+url = "https://github.com/oraichain/tronweb"
+
+[[repo]]
+url = "https://github.com/oraichain/trustworthy-proof"
+
+[[repo]]
+url = "https://github.com/oraichain/ts-codegen"
 
 [[repo]]
 url = "https://github.com/oraichain/ultrafast-tsx-starterkit"
@@ -274,13 +505,28 @@ url = "https://github.com/oraichain/ultrafast-tsx-starterkit"
 url = "https://github.com/oraichain/vrf-listener"
 
 [[repo]]
-url = "https://github.com/oraichain/vscode-cosmwasm"
+url = "https://github.com/oraichain/wasm-json-toolkit"
 
 [[repo]]
 url = "https://github.com/oraichain/wasmd"
 
 [[repo]]
+url = "https://github.com/oraichain/wasmer"
+
+[[repo]]
 url = "https://github.com/oraichain/wasmvm"
+
+[[repo]]
+url = "https://github.com/oraichain/web3-multifactor-example"
+
+[[repo]]
+url = "https://github.com/oraichain/web3-multifactor-react-native-example"
+
+[[repo]]
+url = "https://github.com/oraichain/web3-multifactor-sdk"
+
+[[repo]]
+url = "https://github.com/oraichain/web30"
 
 [[repo]]
 url = "https://github.com/oraichain/yai-protocol"

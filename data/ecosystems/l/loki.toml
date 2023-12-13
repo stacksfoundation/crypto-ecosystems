@@ -7,112 +7,13 @@ github_organizations = ["https://github.com/loki-project"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/loki-project/loki"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-android-wallet"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-binance-bridge"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-core"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-core-cpp"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-core-custom"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-core-js"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-docs"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-electron-gui-wallet"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-file-server"
-
-[[repo]]
 url = "https://github.com/loki-project/loki-gui"
 
 [[repo]]
 url = "https://github.com/loki-project/loki-gui-unsupported"
 
 [[repo]]
-url = "https://github.com/loki-project/loki-improvement-proposals"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-improvement-protocols"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-ios-wallet"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-launcher"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-ledger-app"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-locker"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-mandarin"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android-core"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android-curve-25519"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android-meta"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android-protocol"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-android-service"
-
-[[repo]]
 url = "https://github.com/loki-project/loki-messenger-APNs-provider"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-ios"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-ios-carthage"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-ios-pods"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-metadata-kit"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-protocol-kit"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-messenger-public-server"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-mq"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-network"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-network-control-panel"
 
 [[repo]]
 url = "https://github.com/loki-project/loki-network-darwin"
@@ -121,103 +22,142 @@ url = "https://github.com/loki-project/loki-network-darwin"
 url = "https://github.com/loki-project/loki-network-ios"
 
 [[repo]]
-url = "https://github.com/loki-project/loki-observer"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-offline-wallet-generator"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-onion-blockchain-explorer"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-push-notification-server"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-pylokimq"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-randomXL"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-service-node-binaries"
-
-[[repo]]
-url = "https://github.com/loki-project/loki-storage-server"
-
-[[repo]]
 url = "https://github.com/loki-project/loki-wallet-site"
 
 [[repo]]
-url = "https://github.com/loki-project/lokinet-site"
+url = "https://github.com/oxen-io/loki-android-wallet"
 
 [[repo]]
-url = "https://github.com/loki-project/monero-core-custom"
+url = "https://github.com/oxen-io/loki-binance-bridge"
 
 [[repo]]
-url = "https://github.com/loki-project/mymonero-core-cpp"
+url = "https://github.com/oxen-io/loki-core-cpp"
 
 [[repo]]
-url = "https://github.com/loki-project/mymonero-core-js"
+url = "https://github.com/oxen-io/loki-core-custom"
 
 [[repo]]
-url = "https://github.com/loki-project/oxen-mobile-wallet"
+url = "https://github.com/oxen-io/loki-core-js"
 
 [[repo]]
-url = "https://github.com/loki-project/session-android"
+url = "https://github.com/oxen-io/loki-ios-wallet"
 
 [[repo]]
-url = "https://github.com/loki-project/session-android-curve-25519"
+url = "https://github.com/oxen-io/loki-launcher"
 
 [[repo]]
-url = "https://github.com/loki-project/session-android-meta"
+url = "https://github.com/oxen-io/loki-locker"
 
 [[repo]]
-url = "https://github.com/loki-project/session-android-protocol"
+url = "https://github.com/oxen-io/loki-mandarin"
 
 [[repo]]
-url = "https://github.com/loki-project/session-android-service"
+url = "https://github.com/oxen-io/loki-offline-wallet-generator"
 
 [[repo]]
-url = "https://github.com/loki-project/session-desktop"
+url = "https://github.com/oxen-io/loki-onion-blockchain-explorer"
 
 [[repo]]
-url = "https://github.com/loki-project/session-docs"
+url = "https://github.com/oxen-io/loki-randomXL"
 
 [[repo]]
-url = "https://github.com/loki-project/session-file-server"
+url = "https://github.com/oxen-io/loki-service-node-binaries"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios"
+url = "https://github.com/oxen-io/lokinet"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-carthage"
+url = "https://github.com/oxen-io/lokinet-control-panel"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-core-kit"
+url = "https://github.com/oxen-io/lokinet-site"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-curve-25519-kit"
+url = "https://github.com/oxen-io/oxen-core"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-metadata-kit"
+url = "https://github.com/oxen-io/oxen-docs"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-pods"
+url = "https://github.com/oxen-io/oxen-electron-gui-wallet"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-protocol-kit"
+url = "https://github.com/oxen-io/oxen-improvement-proposals"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-swift-sodium"
+url = "https://github.com/oxen-io/oxen-ledger-app"
 
 [[repo]]
-url = "https://github.com/loki-project/session-ios-yap-database"
+url = "https://github.com/oxen-io/oxen-mobile-wallet"
 
 [[repo]]
-url = "https://github.com/loki-project/session-open-group-server"
+url = "https://github.com/oxen-io/oxen-mq"
 
 [[repo]]
-url = "https://github.com/loki-project/session-protocol-docs"
+url = "https://github.com/oxen-io/oxen-observer"
 
 [[repo]]
-url = "https://github.com/loki-project/session-push-notification-server"
+url = "https://github.com/oxen-io/oxen-pyoxenmq"
+
+[[repo]]
+url = "https://github.com/oxen-io/oxen-storage-server"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-android"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-android-curve-25519"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-android-meta"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-android-protocol"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-android-service"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-desktop"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-docs"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-file-server-old"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-carthage"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-core-kit"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-curve-25519-kit"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-metadata-kit"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-pods"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-protocol-kit"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-swift-sodium"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-ios-yap-database"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-open-group-server-legacy"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-protocol-docs"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-push-notification-server"

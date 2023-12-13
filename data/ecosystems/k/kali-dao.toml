@@ -19,10 +19,16 @@ url = "https://github.com/kalidao/Baal"
 url = "https://github.com/kalidao/chapter_1_season_3"
 
 [[repo]]
+url = "https://github.com/kalidao/draft"
+
+[[repo]]
 url = "https://github.com/kalidao/ERC1155V"
 
 [[repo]]
 url = "https://github.com/kalidao/hooks"
+
+[[repo]]
+url = "https://github.com/kalidao/kali-berger"
 
 [[repo]]
 url = "https://github.com/kalidao/kali-contracts"
@@ -46,6 +52,9 @@ url = "https://github.com/kalidao/kali-subgraph"
 url = "https://github.com/kalidao/kali-ui"
 
 [[repo]]
+url = "https://github.com/kalidao/kali-ui-canto"
+
+[[repo]]
 url = "https://github.com/kalidao/keep"
 
 [[repo]]
@@ -67,7 +76,7 @@ url = "https://github.com/kalidao/locker"
 url = "https://github.com/kalidao/manifesto"
 
 [[repo]]
-url = "https://github.com/kalidao/multi-sig"
+url = "https://github.com/kalidao/nanikotobot"
 
 [[repo]]
 url = "https://github.com/kalidao/rage-router"
@@ -77,6 +86,9 @@ url = "https://github.com/kalidao/reality"
 
 [[repo]]
 url = "https://github.com/kalidao/ricardian-subgraph"
+
+[[repo]]
+url = "https://github.com/kalidao/tribute-router"
 
 [[repo]]
 url = "https://github.com/kalidao/wrappr"

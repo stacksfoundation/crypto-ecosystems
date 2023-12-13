@@ -40,19 +40,19 @@ url = "https://github.com/thxprotocol/demo"
 url = "https://github.com/thxprotocol/deploy-scripts"
 
 [[repo]]
-url = "https://github.com/thxprotocol/discord-app"
+url = "https://github.com/thxprotocol/discord-bot"
 
 [[repo]]
-url = "https://github.com/thxprotocol/discord-bot"
+url = "https://github.com/thxprotocol/discovery"
 
 [[repo]]
 url = "https://github.com/thxprotocol/docs"
 
 [[repo]]
-url = "https://github.com/thxprotocol/erc20-swapper"
+url = "https://github.com/thxprotocol/fee-swap"
 
 [[repo]]
-url = "https://github.com/thxprotocol/fee-swap"
+url = "https://github.com/thxprotocol/lhd-config"
 
 [[repo]]
 url = "https://github.com/thxprotocol/modules"
@@ -94,7 +94,7 @@ url = "https://github.com/thxprotocol/vue-3-monorepo"
 url = "https://github.com/thxprotocol/wallet"
 
 [[repo]]
-url = "https://github.com/thxprotocol/wallet-contracts"
+url = "https://github.com/thxprotocol/webhook-examples"
 
 [[repo]]
 url = "https://github.com/thxprotocol/widgets"

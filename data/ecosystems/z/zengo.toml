@@ -79,6 +79,9 @@ url = "https://github.com/ZenGo-X/eth_txpool_view"
 url = "https://github.com/ZenGo-X/Ethereum2.0-Resources"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/extra-ordinaire"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/failure"
 
 [[repo]]
@@ -88,10 +91,19 @@ url = "https://github.com/ZenGo-X/flippable-operator-filterer"
 url = "https://github.com/ZenGo-X/foundry-cheatsheet"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/foundry-workshop"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/fs-dkr"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/gotham-city"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/gotham-engine"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/gotham-public"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/inspirational-crypto"
@@ -160,6 +172,9 @@ url = "https://github.com/ZenGo-X/multi-party-schnorr"
 url = "https://github.com/ZenGo-X/neon"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/node-cache-manager-redis-yet"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/node-client"
 
 [[repo]]
@@ -184,6 +199,9 @@ url = "https://github.com/ZenGo-X/pps"
 url = "https://github.com/ZenGo-X/pps-gc"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/public-docs"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/random-beacon"
 
 [[repo]]
@@ -203,6 +221,9 @@ url = "https://github.com/ZenGo-X/react-native-safari-view"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/react-native-secure-storage"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/react-native-svg"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/react-native-swiper"
@@ -248,6 +269,9 @@ url = "https://github.com/ZenGo-X/serde_dynamodb"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/ShareLock"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/signature-simulation"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/silent-ecdsa"
@@ -332,6 +356,9 @@ url = "https://github.com/ZenGo-X/zcash"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/ZenGo"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/zengo-academy-nft"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/zengo-extension"

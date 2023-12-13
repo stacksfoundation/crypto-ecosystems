@@ -13,9 +13,6 @@ url = "https://github.com/UdotCASH/bCurrencies"
 url = "https://github.com/UdotCASH/Counterparty-RSK-Bridge"
 
 [[repo]]
-url = "https://github.com/UdotCASH/ETHxEOS"
-
-[[repo]]
 url = "https://github.com/UdotCASH/hello-pwa"
 
 [[repo]]
@@ -67,12 +64,6 @@ url = "https://github.com/UdotCASH/ucash-awarder"
 url = "https://github.com/UdotCASH/UCASH-ERC20"
 
 [[repo]]
-url = "https://github.com/UdotCASH/UCASH-ERC20"
-
-[[repo]]
-url = "https://github.com/UdotCASH/UCASH_ERC20"
-
-[[repo]]
 url = "https://github.com/UdotCASH/UCASH_ERC20"
 
 [[repo]]
@@ -112,7 +103,13 @@ url = "https://github.com/UdotCASH/uExchange"
 url = "https://github.com/UdotCASH/uExtension"
 
 [[repo]]
+url = "https://github.com/UdotCASH/ufiat"
+
+[[repo]]
 url = "https://github.com/UdotCASH/uGraffiti"
+
+[[repo]]
+url = "https://github.com/UdotCASH/uicons"
 
 [[repo]]
 url = "https://github.com/UdotCASH/uLogin"
@@ -124,19 +121,10 @@ url = "https://github.com/UdotCASH/uMAPS-public"
 url = "https://github.com/UdotCASH/uMerchants"
 
 [[repo]]
-url = "https://github.com/UdotCASH/uniswap-info"
-
-[[repo]]
-url = "https://github.com/UdotCASH/uniswap-interface"
-
-[[repo]]
 url = "https://github.com/UdotCASH/uniswap-v2-core"
 
 [[repo]]
 url = "https://github.com/UdotCASH/UNITS-core"
-
-[[repo]]
-url = "https://github.com/UdotCASH/Universal-NFTs"
 
 [[repo]]
 url = "https://github.com/UdotCASH/Univirsal-Avatars"
@@ -170,12 +158,6 @@ url = "https://github.com/UdotCASH/uTransmute"
 
 [[repo]]
 url = "https://github.com/UdotCASH/uTypeface"
-
-[[repo]]
-url = "https://github.com/UdotCASH/uwallet-public"
-
-[[repo]]
-url = "https://github.com/UdotCASH/uwallet-public3"
 
 [[repo]]
 url = "https://github.com/UdotCASH/uwallet-public4"

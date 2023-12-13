@@ -22,6 +22,9 @@ url = "https://github.com/MixinNetwork/audits"
 url = "https://github.com/MixinNetwork/badger"
 
 [[repo]]
+url = "https://github.com/MixinNetwork/bchutil"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/binance-go-sdk"
 
 [[repo]]
@@ -50,9 +53,6 @@ url = "https://github.com/MixinNetwork/bot-api-swift-client"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/bot-manager"
-
-[[repo]]
-url = "https://github.com/MixinNetwork/bot_api_dart_client"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/bridge.mvm.app"
@@ -85,13 +85,16 @@ url = "https://github.com/MixinNetwork/githook-bot"
 url = "https://github.com/MixinNetwork/go-number"
 
 [[repo]]
+url = "https://github.com/MixinNetwork/go-safe-sdk"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/governance"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/handsaw"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/help.mvm.app"
-
-[[repo]]
-url = "https://github.com/MixinNetwork/help.mvm.dev"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/homebrew-tap"
@@ -182,16 +185,10 @@ url = "https://github.com/MixinNetwork/multisig-bot"
 url = "https://github.com/MixinNetwork/mvm-contracts"
 
 [[repo]]
-url = "https://github.com/MixinNetwork/mvm-contracts"
-
-[[repo]]
 url = "https://github.com/MixinNetwork/mvm.app"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mvm.dev"
-
-[[repo]]
-url = "https://github.com/MixinNetwork/mvmcontracts"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/near-sdk-go"
@@ -210,6 +207,9 @@ url = "https://github.com/MixinNetwork/PhoneNumberKit"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/pion"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/safe"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/shop"
@@ -246,9 +246,6 @@ url = "https://github.com/MixinNetwork/wcdb"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/web3dart"
-
-[[repo]]
-url = "https://github.com/MixinNetwork/webrtc"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/zecutil"

@@ -7,46 +7,10 @@ github_organizations = ["https://github.com/Cron-Near", "https://github.com/Cron
 
 # Repositories
 [[repo]]
-url = "https://github.com/Cron-Near/bounties"
-
-[[repo]]
-url = "https://github.com/Cron-Near/cheddar-catz"
-
-[[repo]]
-url = "https://github.com/Cron-Near/contracts"
-
-[[repo]]
-url = "https://github.com/Cron-Near/Cron-Spec"
-
-[[repo]]
-url = "https://github.com/Cron-Near/cron-ui"
-
-[[repo]]
-url = "https://github.com/Cron-Near/croncat"
-
-[[repo]]
-url = "https://github.com/Cron-Near/crond"
-
-[[repo]]
-url = "https://github.com/Cron-Near/docs"
-
-[[repo]]
-url = "https://github.com/Cron-Near/katban"
-
-[[repo]]
-url = "https://github.com/Cron-Near/recipes"
-
-[[repo]]
-url = "https://github.com/Cron-Near/Schedule"
-
-[[repo]]
-url = "https://github.com/Cron-Near/treasury"
-
-[[repo]]
-url = "https://github.com/Cron-Near/unraid"
-
-[[repo]]
 url = "https://github.com/CronCats/.github"
+
+[[repo]]
+url = "https://github.com/CronCats/abstract-croncat-app"
 
 [[repo]]
 url = "https://github.com/CronCats/bounties"
@@ -65,6 +29,9 @@ url = "https://github.com/CronCats/cheddar-catz"
 
 [[repo]]
 url = "https://github.com/CronCats/contracts"
+
+[[repo]]
+url = "https://github.com/CronCats/cosm-tome"
 
 [[repo]]
 url = "https://github.com/CronCats/cosmos-chain-registry"
@@ -109,6 +76,9 @@ url = "https://github.com/CronCats/cw-purrbox"
 url = "https://github.com/CronCats/docs"
 
 [[repo]]
+url = "https://github.com/CronCats/indexer-cosmjs"
+
+[[repo]]
 url = "https://github.com/CronCats/indexer-sweep"
 
 [[repo]]
@@ -121,10 +91,16 @@ url = "https://github.com/CronCats/katban"
 url = "https://github.com/CronCats/launch-tools"
 
 [[repo]]
+url = "https://github.com/CronCats/osmosis-docs"
+
+[[repo]]
 url = "https://github.com/CronCats/query-indexer"
 
 [[repo]]
 url = "https://github.com/CronCats/recipes"
+
+[[repo]]
+url = "https://github.com/CronCats/rpc-api"
 
 [[repo]]
 url = "https://github.com/CronCats/Schedule"

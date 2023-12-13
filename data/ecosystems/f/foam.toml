@@ -73,12 +73,6 @@ url = "https://github.com/f-o-a-m/haskell-opaleye"
 url = "https://github.com/f-o-a-m/hexo-renderer-sass"
 
 [[repo]]
-url = "https://github.com/f-o-a-m/hs-abci"
-
-[[repo]]
-url = "https://github.com/f-o-a-m/hs-abci-server"
-
-[[repo]]
 url = "https://github.com/f-o-a-m/hs-lts"
 
 [[repo]]
@@ -115,6 +109,9 @@ url = "https://github.com/f-o-a-m/katip"
 url = "https://github.com/f-o-a-m/kepler"
 
 [[repo]]
+url = "https://github.com/f-o-a-m/libsecp256k1-haskell"
+
+[[repo]]
 url = "https://github.com/f-o-a-m/mayday-presentation"
 
 [[repo]]
@@ -148,6 +145,9 @@ url = "https://github.com/f-o-a-m/public-research"
 url = "https://github.com/f-o-a-m/purescript-bridge"
 
 [[repo]]
+url = "https://github.com/f-o-a-m/purescript-bytestrings"
+
+[[repo]]
 url = "https://github.com/f-o-a-m/purescript-deck-gl"
 
 [[repo]]
@@ -160,6 +160,9 @@ url = "https://github.com/f-o-a-m/purescript-eth-core"
 url = "https://github.com/f-o-a-m/purescript-geohash"
 
 [[repo]]
+url = "https://github.com/f-o-a-m/purescript-halogen-select"
+
+[[repo]]
 url = "https://github.com/f-o-a-m/purescript-hypertrout"
 
 [[repo]]
@@ -167,6 +170,9 @@ url = "https://github.com/f-o-a-m/purescript-kitty-monitor"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-mkdirp"
+
+[[repo]]
+url = "https://github.com/f-o-a-m/purescript-ocelot"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-optparse"
@@ -182,6 +188,9 @@ url = "https://github.com/f-o-a-m/purescript-servant"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-servant-support"
+
+[[repo]]
+url = "https://github.com/f-o-a-m/purescript-smolder"
 
 [[repo]]
 url = "https://github.com/f-o-a-m/purescript-solc"

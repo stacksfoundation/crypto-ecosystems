@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/acuity-social"]
 url = "https://github.com/acuity-social/acuity-api-ts"
 
 [[repo]]
-url = "https://github.com/acuity-social/acuity-app"
-
-[[repo]]
 url = "https://github.com/acuity-social/acuity-atomic-swap-offchain"
 
 [[repo]]
@@ -32,6 +29,9 @@ url = "https://github.com/acuity-social/acuity-dex-app"
 
 [[repo]]
 url = "https://github.com/acuity-social/acuity-dex-app-old"
+
+[[repo]]
+url = "https://github.com/acuity-social/acuity-dex-docs"
 
 [[repo]]
 url = "https://github.com/acuity-social/acuity-hardspoon"

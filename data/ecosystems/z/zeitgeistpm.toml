@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/zeitgeistpm"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/zeitgeistpm/app-docker"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/crowdloan-rewards"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/cumulus"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/data-wrangling-api"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/derby"
@@ -25,10 +31,16 @@ url = "https://github.com/zeitgeistpm/documentation"
 url = "https://github.com/zeitgeistpm/Dynamic-Market-Maker-Zeitgeist"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/external"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/frontier"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/LMSR-zeitgeist"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/migration-guide"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/moonbeam"
@@ -49,7 +61,13 @@ url = "https://github.com/zeitgeistpm/polkadot"
 url = "https://github.com/zeitgeistpm/rikiddo"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/sdk-next"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/Seer-For-China"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/snapshot-web"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/substrate"
@@ -59,6 +77,12 @@ url = "https://github.com/zeitgeistpm/tools"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/ui"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx-landing"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/xcm-simulator"
@@ -77,6 +101,9 @@ url = "https://github.com/zeitgeistpm/zeitgeist-subsquid"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeist-token-api"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/zeitgeist-workshop"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeistpm.github.io"

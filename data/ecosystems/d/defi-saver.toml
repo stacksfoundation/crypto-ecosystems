@@ -46,16 +46,10 @@ url = "https://github.com/DecenterApps/defisaver-contracts"
 url = "https://github.com/DecenterApps/defisaver-open-defi-hackathon"
 
 [[repo]]
-url = "https://github.com/DecenterApps/defisaver-sdk"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-tokens"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-v3-contracts"
-
-[[repo]]
 url = "https://github.com/DecenterApps/EthPixel"
+
+[[repo]]
+url = "https://github.com/DecenterApps/express-http-proxy"
 
 [[repo]]
 url = "https://github.com/DecenterApps/Extend"
@@ -76,6 +70,9 @@ url = "https://github.com/DecenterApps/OpenKompany"
 url = "https://github.com/DecenterApps/praktikanti"
 
 [[repo]]
+url = "https://github.com/DecenterApps/RateX"
+
+[[repo]]
 url = "https://github.com/DecenterApps/ResistanceProtocol"
 
 [[repo]]
@@ -89,3 +86,12 @@ url = "https://github.com/DecenterApps/UpgradableContractsBoilerplate"
 
 [[repo]]
 url = "https://github.com/DecenterApps/web3-resursi"
+
+[[repo]]
+url = "https://github.com/defisaver/defisaver-sdk"
+
+[[repo]]
+url = "https://github.com/defisaver/defisaver-tokens"
+
+[[repo]]
+url = "https://github.com/defisaver/defisaver-v3-contracts"

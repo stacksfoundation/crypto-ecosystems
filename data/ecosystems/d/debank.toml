@@ -43,6 +43,12 @@ url = "https://github.com/DeBankDeFi/chyson-web"
 url = "https://github.com/DeBankDeFi/cloudflare-exporter"
 
 [[repo]]
+url = "https://github.com/DeBankDeFi/cometbft"
+
+[[repo]]
+url = "https://github.com/DeBankDeFi/cometbft-db"
+
+[[repo]]
 url = "https://github.com/DeBankDeFi/coreth"
 
 [[repo]]
@@ -59,6 +65,9 @@ url = "https://github.com/DeBankDeFi/dapppubbosbp"
 
 [[repo]]
 url = "https://github.com/DeBankDeFi/dapptalking.github.io"
+
+[[repo]]
+url = "https://github.com/DeBankDeFi/DeBankChain"
 
 [[repo]]
 url = "https://github.com/DeBankDeFi/DeDollar"
@@ -106,6 +115,9 @@ url = "https://github.com/DeBankDeFi/flower"
 url = "https://github.com/DeBankDeFi/go-ethereum"
 
 [[repo]]
+url = "https://github.com/DeBankDeFi/go-ethereum-debank"
+
+[[repo]]
 url = "https://github.com/DeBankDeFi/go-lachesis"
 
 [[repo]]
@@ -145,16 +157,22 @@ url = "https://github.com/DeBankDeFi/logo"
 url = "https://github.com/DeBankDeFi/moonbeam"
 
 [[repo]]
+url = "https://github.com/DeBankDeFi/nimbus-eth2"
+
+[[repo]]
 url = "https://github.com/DeBankDeFi/node-exporter-installer"
+
+[[repo]]
+url = "https://github.com/DeBankDeFi/nodex"
 
 [[repo]]
 url = "https://github.com/DeBankDeFi/op-replica"
 
 [[repo]]
-url = "https://github.com/DeBankDeFi/openethereum"
+url = "https://github.com/DeBankDeFi/opDebank-contracts"
 
 [[repo]]
-url = "https://github.com/DeBankDeFi/pillar"
+url = "https://github.com/DeBankDeFi/openethereum"
 
 [[repo]]
 url = "https://github.com/DeBankDeFi/polkadot-secure-validator"
@@ -194,3 +212,6 @@ url = "https://github.com/DeBankDeFi/tokens"
 
 [[repo]]
 url = "https://github.com/DeBankDeFi/vision-core"
+
+[[repo]]
+url = "https://github.com/DeBankDeFi/web3-data"

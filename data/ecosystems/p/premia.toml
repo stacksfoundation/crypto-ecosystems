@@ -19,10 +19,10 @@ url = "https://github.com/PremiaFinance/notify"
 url = "https://github.com/PremiaFinance/pentacle-data"
 
 [[repo]]
-url = "https://github.com/PremiaFinance/premia-contracts"
-
-[[repo]]
-url = "https://github.com/PremiaFinance/premia-utils"
-
-[[repo]]
 url = "https://github.com/PremiaFinance/Public-Assets"
+
+[[repo]]
+url = "https://github.com/Premian-Labs/premia-contracts"
+
+[[repo]]
+url = "https://github.com/Premian-Labs/premia-utils"

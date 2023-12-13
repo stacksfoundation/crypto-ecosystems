@@ -13,9 +13,6 @@ url = "https://github.com/airswap/aggregator-aggregator"
 url = "https://github.com/airswap/aip_validator"
 
 [[repo]]
-url = "https://github.com/airswap/AIPs"
-
-[[repo]]
 url = "https://github.com/airswap/airswap-about"
 
 [[repo]]
@@ -34,28 +31,16 @@ url = "https://github.com/airswap/airswap-demo"
 url = "https://github.com/airswap/airswap-demo-frontend"
 
 [[repo]]
-url = "https://github.com/airswap/airswap-demo-maker"
-
-[[repo]]
-url = "https://github.com/airswap/airswap-docs"
-
-[[repo]]
 url = "https://github.com/airswap/airswap-explorer"
-
-[[repo]]
-url = "https://github.com/airswap/airswap-growth"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-indexer"
 
 [[repo]]
-url = "https://github.com/airswap/airswap-indexer-node"
+url = "https://github.com/airswap/airswap-libraries"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-maker"
-
-[[repo]]
-url = "https://github.com/airswap/airswap-maker-kit"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-maker-kit-examples"
@@ -76,10 +61,10 @@ url = "https://github.com/airswap/airswap-projects"
 url = "https://github.com/airswap/airswap-protocols"
 
 [[repo]]
-url = "https://github.com/airswap/airswap-reference-marketplace"
+url = "https://github.com/airswap/airswap-ref-indexer"
 
 [[repo]]
-url = "https://github.com/airswap/airswap-roadmap"
+url = "https://github.com/airswap/airswap-ref-maker"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-subgraph"
@@ -91,10 +76,13 @@ url = "https://github.com/airswap/airswap-taker-examples"
 url = "https://github.com/airswap/airswap-token"
 
 [[repo]]
-url = "https://github.com/airswap/airswap-toy-maker"
+url = "https://github.com/airswap/airswap-tools"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-vercel-example"
+
+[[repo]]
+url = "https://github.com/airswap/airswap-voter-rewards"
 
 [[repo]]
 url = "https://github.com/airswap/airswap-web"
@@ -142,6 +130,12 @@ url = "https://github.com/airswap/developers"
 url = "https://github.com/airswap/dexprices-service"
 
 [[repo]]
+url = "https://github.com/airswap/dimension-adapters"
+
+[[repo]]
+url = "https://github.com/airswap/doc.zk-evm"
+
+[[repo]]
 url = "https://github.com/airswap/eslint-plugin-react-intl"
 
 [[repo]]
@@ -155,9 +149,6 @@ url = "https://github.com/airswap/ethereum-etl"
 
 [[repo]]
 url = "https://github.com/airswap/explorer"
-
-[[repo]]
-url = "https://github.com/airswap/fluidity-truffle-box"
 
 [[repo]]
 url = "https://github.com/airswap/GanacheTimeTraveler"
@@ -196,4 +187,4 @@ url = "https://github.com/airswap/token-faucet"
 url = "https://github.com/airswap/token-unit"
 
 [[repo]]
-url = "https://github.com/airswap/website"
+url = "https://github.com/fluidity/fluidity-truffle-box"

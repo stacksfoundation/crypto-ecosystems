@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/WowLabz"]
 url = "https://github.com/WowLabz/authentication_service"
 
 [[repo]]
+url = "https://github.com/WowLabz/bridge_smart_contracts"
+
+[[repo]]
+url = "https://github.com/WowLabz/DeFi-Developer-Road-Map"
+
+[[repo]]
 url = "https://github.com/WowLabz/dot-marketplace-v2"
 
 [[repo]]
@@ -31,10 +37,25 @@ url = "https://github.com/WowLabz/Grant-Milestone-Delivery"
 url = "https://github.com/WowLabz/ibc-hackathon-workshop"
 
 [[repo]]
+url = "https://github.com/WowLabz/metabridge"
+
+[[repo]]
 url = "https://github.com/WowLabz/neutral_vault"
 
 [[repo]]
+url = "https://github.com/WowLabz/nft-bridge-contracts"
+
+[[repo]]
+url = "https://github.com/WowLabz/nft_bridge_backend"
+
+[[repo]]
+url = "https://github.com/WowLabz/nft_bridge_frontend"
+
+[[repo]]
 url = "https://github.com/WowLabz/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/WowLabz/Pirates"
 
 [[repo]]
 url = "https://github.com/WowLabz/Substrate_Saturday"
@@ -50,6 +71,15 @@ url = "https://github.com/WowLabz/tasking_frontend"
 
 [[repo]]
 url = "https://github.com/WowLabz/ur-hackathon-workshop"
+
+[[repo]]
+url = "https://github.com/WowLabz/wow-react-data-manager"
+
+[[repo]]
+url = "https://github.com/WowLabz/WowInventorySystem"
+
+[[repo]]
+url = "https://github.com/WowLabz/WowLinkMaster"
 
 [[repo]]
 url = "https://github.com/WowLabz/x-frame-options-bypass"

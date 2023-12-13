@@ -7,7 +7,19 @@ github_organizations = ["https://github.com/unbound-finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/unbound-finance/arbidex-core"
+
+[[repo]]
 url = "https://github.com/unbound-finance/bulkssrf"
+
+[[repo]]
+url = "https://github.com/unbound-finance/crypto-assets"
+
+[[repo]]
+url = "https://github.com/unbound-finance/defiedge-react-sdk"
+
+[[repo]]
+url = "https://github.com/unbound-finance/defiedge-sdk"
 
 [[repo]]
 url = "https://github.com/unbound-finance/DefiLlama-Adapters"
@@ -17,6 +29,15 @@ url = "https://github.com/unbound-finance/dmm-interface"
 
 [[repo]]
 url = "https://github.com/unbound-finance/encoder-bug"
+
+[[repo]]
+url = "https://github.com/unbound-finance/LEAPs"
+
+[[repo]]
+url = "https://github.com/unbound-finance/quickswap-interface-v2"
+
+[[repo]]
+url = "https://github.com/unbound-finance/studio"
 
 [[repo]]
 url = "https://github.com/unbound-finance/unbound-public-assets"

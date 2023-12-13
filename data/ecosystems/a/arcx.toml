@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/arcxgame"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/arcxgame/audits"
-
-[[repo]]
-url = "https://github.com/arcxgame/liquidator-bot"
-
-[[repo]]
 url = "https://github.com/arcxgame/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/arcxmoney/audits"
+
+[[repo]]
+url = "https://github.com/arcxmoney/liquidator-bot"

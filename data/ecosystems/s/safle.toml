@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/getsafle"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/getsafle/-DEP-keyless-js-demo"
+
+[[repo]]
 url = "https://github.com/getsafle/-DEPRECATED-bridging-contract"
 
 [[repo]]
@@ -43,7 +46,7 @@ url = "https://github.com/getsafle/erc20-controller"
 url = "https://github.com/getsafle/handlename-contracts-eth"
 
 [[repo]]
-url = "https://github.com/getsafle/keyless-js-demo"
+url = "https://github.com/getsafle/keyless-demo"
 
 [[repo]]
 url = "https://github.com/getsafle/multichain-data"
@@ -71,6 +74,9 @@ url = "https://github.com/getsafle/safle-identity-wallet"
 
 [[repo]]
 url = "https://github.com/getsafle/safle-keyless"
+
+[[repo]]
+url = "https://github.com/getsafle/safle-keyless-core"
 
 [[repo]]
 url = "https://github.com/getsafle/safle-keyless-js"
@@ -109,6 +115,9 @@ url = "https://github.com/getsafle/transaction-controller"
 url = "https://github.com/getsafle/uniswap-controller"
 
 [[repo]]
+url = "https://github.com/getsafle/vault-arbitrum-controller"
+
+[[repo]]
 url = "https://github.com/getsafle/vault-aurora-controller"
 
 [[repo]]
@@ -130,7 +139,13 @@ url = "https://github.com/getsafle/vault-eth-controller"
 url = "https://github.com/getsafle/vault-harmony-controller"
 
 [[repo]]
+url = "https://github.com/getsafle/vault-mantle-controller"
+
+[[repo]]
 url = "https://github.com/getsafle/vault-near-controller"
+
+[[repo]]
+url = "https://github.com/getsafle/vault-optimism-controller"
 
 [[repo]]
 url = "https://github.com/getsafle/vault-polkadot-controller"

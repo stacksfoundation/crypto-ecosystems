@@ -41,6 +41,9 @@ url = "https://github.com/santiment/blockchain-utils"
 url = "https://github.com/santiment/bor"
 
 [[repo]]
+url = "https://github.com/santiment/bridge"
+
+[[repo]]
 url = "https://github.com/santiment/btc-exporter-jvm"
 
 [[repo]]
@@ -117,9 +120,6 @@ url = "https://github.com/santiment/email-templates"
 
 [[repo]]
 url = "https://github.com/santiment/eos"
-
-[[repo]]
-url = "https://github.com/santiment/erc20-transfers-exporter"
 
 [[repo]]
 url = "https://github.com/santiment/eth-contract-metadata"
@@ -242,9 +242,6 @@ url = "https://github.com/santiment/projects"
 url = "https://github.com/santiment/projects-data"
 
 [[repo]]
-url = "https://github.com/santiment/projects_data"
-
-[[repo]]
 url = "https://github.com/santiment/projecttransparency.org"
 
 [[repo]]
@@ -314,6 +311,9 @@ url = "https://github.com/santiment/sanpy"
 url = "https://github.com/santiment/sanr-api-js"
 
 [[repo]]
+url = "https://github.com/santiment/sanr-pos-network"
+
+[[repo]]
 url = "https://github.com/santiment/santiment-backend"
 
 [[repo]]
@@ -366,9 +366,6 @@ url = "https://github.com/santiment/utxo-blocks-exporter"
 
 [[repo]]
 url = "https://github.com/santiment/utxo-prometheus-exporter"
-
-[[repo]]
-url = "https://github.com/santiment/utxo-transactions-exporter"
 
 [[repo]]
 url = "https://github.com/santiment/vm-images"

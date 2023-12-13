@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/bitkub"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bitkub-blockchain/bkc"
+
+[[repo]]
 url = "https://github.com/bitkub/bitkub-official-api-docs"
 
 [[repo]]
 url = "https://github.com/bitkub/ccxt"
-
-[[repo]]
-url = "https://github.com/bitkubchain/bkc"

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/hectagon-finance"]
 url = "https://github.com/hectagon-finance/airdrop-contract"
 
 [[repo]]
+url = "https://github.com/hectagon-finance/chain-mvp"
+
+[[repo]]
 url = "https://github.com/hectagon-finance/DefiLlama-Adapters"
 
 [[repo]]
@@ -19,4 +22,19 @@ url = "https://github.com/hectagon-finance/future-contract"
 url = "https://github.com/hectagon-finance/hectagon-contract"
 
 [[repo]]
+url = "https://github.com/hectagon-finance/how-to-code"
+
+[[repo]]
+url = "https://github.com/hectagon-finance/pos_solana"
+
+[[repo]]
+url = "https://github.com/hectagon-finance/syncvote"
+
+[[repo]]
+url = "https://github.com/hectagon-finance/syncvote-fe-outsource"
+
+[[repo]]
 url = "https://github.com/hectagon-finance/tiger-tribe-contract"
+
+[[repo]]
+url = "https://github.com/hectagon-finance/whiteboard"

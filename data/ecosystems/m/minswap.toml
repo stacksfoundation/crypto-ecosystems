@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/minswap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/minswap/ada-delegation"
+
+[[repo]]
 url = "https://github.com/minswap/bigint"
 
 [[repo]]
@@ -49,6 +52,9 @@ url = "https://github.com/minswap/minswap-lottery"
 url = "https://github.com/minswap/minswap-org"
 
 [[repo]]
+url = "https://github.com/minswap/minswap-pm"
+
+[[repo]]
 url = "https://github.com/minswap/minswap-translation"
 
 [[repo]]
@@ -58,19 +64,25 @@ url = "https://github.com/minswap/multisig-poc"
 url = "https://github.com/minswap/pab-go"
 
 [[repo]]
+url = "https://github.com/minswap/plutonomy-well-typed"
+
+[[repo]]
 url = "https://github.com/minswap/plutus-optimization-example"
 
 [[repo]]
-url = "https://github.com/minswap/private-alonzo-testnet"
+url = "https://github.com/minswap/private-testnet"
 
 [[repo]]
-url = "https://github.com/minswap/private-testnet"
+url = "https://github.com/minswap/sdk"
 
 [[repo]]
 url = "https://github.com/minswap/tiny-invariant"
 
 [[repo]]
 url = "https://github.com/minswap/verified-tokens"
+
+[[repo]]
+url = "https://github.com/minswap/wallet-connect"
 
 [[repo]]
 url = "https://github.com/minswap/wenbot"

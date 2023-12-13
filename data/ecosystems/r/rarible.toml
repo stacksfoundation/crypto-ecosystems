@@ -16,6 +16,9 @@ url = "https://github.com/rarible/assets"
 url = "https://github.com/rarible/balancer-gov"
 
 [[repo]]
+url = "https://github.com/rarible/benchmark-image-proxies"
+
+[[repo]]
 url = "https://github.com/rarible/biconomy"
 
 [[repo]]
@@ -55,6 +58,9 @@ url = "https://github.com/rarible/ethereum-example"
 url = "https://github.com/rarible/ethereum-indexer"
 
 [[repo]]
+url = "https://github.com/rarible/ethereum-indexer-public"
+
+[[repo]]
 url = "https://github.com/rarible/ethereum-openapi"
 
 [[repo]]
@@ -64,13 +70,16 @@ url = "https://github.com/rarible/ethereum-sdk"
 url = "https://github.com/rarible/example"
 
 [[repo]]
+url = "https://github.com/rarible/flow"
+
+[[repo]]
 url = "https://github.com/rarible/flow-contracts"
 
 [[repo]]
-url = "https://github.com/rarible/flow-jvm-sdk"
+url = "https://github.com/rarible/flow-indexer"
 
 [[repo]]
-url = "https://github.com/rarible/flow-nft-indexer"
+url = "https://github.com/rarible/flow-jvm-sdk"
 
 [[repo]]
 url = "https://github.com/rarible/flow-protocol-api"
@@ -97,6 +106,9 @@ url = "https://github.com/rarible/landing-pages"
 url = "https://github.com/rarible/legacy-rarible-backend"
 
 [[repo]]
+url = "https://github.com/rarible/locking-contracts"
+
+[[repo]]
 url = "https://github.com/rarible/looksrare-client"
 
 [[repo]]
@@ -118,10 +130,16 @@ url = "https://github.com/rarible/mystery-box-tool-contracts"
 url = "https://github.com/rarible/nft-license"
 
 [[repo]]
+url = "https://github.com/rarible/node-smart-proxy"
+
+[[repo]]
+url = "https://github.com/rarible/open-edition-contracts"
+
+[[repo]]
 url = "https://github.com/rarible/opensea-client"
 
 [[repo]]
-url = "https://github.com/rarible/order-checker"
+url = "https://github.com/rarible/operator-filter-registry"
 
 [[repo]]
 url = "https://github.com/rarible/order-manager"
@@ -137,15 +155,6 @@ url = "https://github.com/rarible/protocol-contracts"
 
 [[repo]]
 url = "https://github.com/rarible/protocol-documentation"
-
-[[repo]]
-url = "https://github.com/rarible/protocol-e2e-tests"
-
-[[repo]]
-url = "https://github.com/rarible/protocol-ethereum-sdk"
-
-[[repo]]
-url = "https://github.com/rarible/protocol-example"
 
 [[repo]]
 url = "https://github.com/rarible/public-assets"
@@ -196,10 +205,16 @@ url = "https://github.com/rarible/service-core"
 url = "https://github.com/rarible/solana-indexer"
 
 [[repo]]
+url = "https://github.com/rarible/solana-indexer-public"
+
+[[repo]]
 url = "https://github.com/rarible/solana-openapi"
 
 [[repo]]
 url = "https://github.com/rarible/solana-sdk"
+
+[[repo]]
+url = "https://github.com/rarible/spellbook"
 
 [[repo]]
 url = "https://github.com/rarible/subgraph"
@@ -233,6 +248,12 @@ url = "https://github.com/rarible/tezos-protocol-contracts"
 
 [[repo]]
 url = "https://github.com/rarible/tezos-sdk"
+
+[[repo]]
+url = "https://github.com/rarible/thirdweb-query-contracts"
+
+[[repo]]
+url = "https://github.com/rarible/trezor-ethers-signer"
 
 [[repo]]
 url = "https://github.com/rarible/trezor-provider"

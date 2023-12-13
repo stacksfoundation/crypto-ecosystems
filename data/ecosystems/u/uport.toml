@@ -7,6 +7,21 @@ github_organizations = ["https://github.com/uport-project"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/decentralized-identity/did-jwt"
+
+[[repo]]
+url = "https://github.com/decentralized-identity/did-resolver"
+
+[[repo]]
+url = "https://github.com/decentralized-identity/ethr-did-resolver"
+
+[[repo]]
+url = "https://github.com/decentralized-identity/web-did-resolver"
+
+[[repo]]
+url = "https://github.com/SertoID/veramo-plugin-did-config"
+
+[[repo]]
 url = "https://github.com/uport-project/alcala"
 
 [[repo]]
@@ -31,12 +46,6 @@ url = "https://github.com/uport-project/CoreBitcoin"
 url = "https://github.com/uport-project/credential-status"
 
 [[repo]]
-url = "https://github.com/uport-project/daf"
-
-[[repo]]
-url = "https://github.com/uport-project/daf-agent-deploy"
-
-[[repo]]
 url = "https://github.com/uport-project/daf-contrib"
 
 [[repo]]
@@ -55,16 +64,7 @@ url = "https://github.com/uport-project/daf-metamask-snap"
 url = "https://github.com/uport-project/daf-mobile"
 
 [[repo]]
-url = "https://github.com/uport-project/daf-plugin"
-
-[[repo]]
-url = "https://github.com/uport-project/daf-plugin-did-config"
-
-[[repo]]
 url = "https://github.com/uport-project/daf-templates"
-
-[[repo]]
-url = "https://github.com/uport-project/daf-website"
 
 [[repo]]
 url = "https://github.com/uport-project/dafhub"
@@ -77,12 +77,6 @@ url = "https://github.com/uport-project/decentralized-twitter"
 
 [[repo]]
 url = "https://github.com/uport-project/developers"
-
-[[repo]]
-url = "https://github.com/uport-project/did-jwt"
-
-[[repo]]
-url = "https://github.com/uport-project/did-resolver"
 
 [[repo]]
 url = "https://github.com/uport-project/did-spec"
@@ -124,22 +118,13 @@ url = "https://github.com/uport-project/eth-typed-data"
 url = "https://github.com/uport-project/ethereum-claims-registry"
 
 [[repo]]
-url = "https://github.com/uport-project/ethereum-eip712-signature-2021-spec"
-
-[[repo]]
 url = "https://github.com/uport-project/ethr-did"
 
 [[repo]]
 url = "https://github.com/uport-project/ethr-did-registry"
 
 [[repo]]
-url = "https://github.com/uport-project/ethr-did-resolver"
-
-[[repo]]
 url = "https://github.com/uport-project/ethr-status-registry"
-
-[[repo]]
-url = "https://github.com/uport-project/https-did-resolver"
 
 [[repo]]
 url = "https://github.com/uport-project/infrastructure"
@@ -404,3 +389,6 @@ url = "https://github.com/uport-project/wallet-extension"
 
 [[repo]]
 url = "https://github.com/uport-project/walletconnect-monorepo"
+
+[[repo]]
+url = "https://github.com/w3c-ccg/ethereum-eip712-signature-2021-spec"

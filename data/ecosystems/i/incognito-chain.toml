@@ -31,6 +31,9 @@ url = "https://github.com/incognitochain/go-libp2p-grpc"
 url = "https://github.com/incognitochain/go-libp2p-pubsub"
 
 [[repo]]
+url = "https://github.com/incognitochain/inc-inscription-indexer"
+
+[[repo]]
 url = "https://github.com/incognitochain/incognito-analytic"
 
 [[repo]]
@@ -136,6 +139,9 @@ url = "https://github.com/incognitochain/incognito-webview-chart"
 url = "https://github.com/incognitochain/ledger"
 
 [[repo]]
+url = "https://github.com/incognitochain/ledger-hw-app"
+
+[[repo]]
 url = "https://github.com/incognitochain/near-api-go"
 
 [[repo]]
@@ -161,6 +167,9 @@ url = "https://github.com/incognitochain/portal3-eth"
 
 [[repo]]
 url = "https://github.com/incognitochain/privacy-js-lib"
+
+[[repo]]
+url = "https://github.com/incognitochain/puniswap-tutorial"
 
 [[repo]]
 url = "https://github.com/incognitochain/react-native-chart-kit"

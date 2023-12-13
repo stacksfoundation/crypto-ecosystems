@@ -13,6 +13,9 @@ url = "https://github.com/polarisfinance/aurora-blocks-subgraph"
 url = "https://github.com/polarisfinance/balancer-sdk"
 
 [[repo]]
+url = "https://github.com/polarisfinance/balancer-sor"
+
+[[repo]]
 url = "https://github.com/polarisfinance/balpy-polaris"
 
 [[repo]]
@@ -26,6 +29,12 @@ url = "https://github.com/polarisfinance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/polarisfinance/dex-assets"
+
+[[repo]]
+url = "https://github.com/polarisfinance/frontend"
+
+[[repo]]
+url = "https://github.com/polarisfinance/gauges-subgraph"
 
 [[repo]]
 url = "https://github.com/polarisfinance/multicaller"

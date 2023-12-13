@@ -7,6 +7,24 @@ github_organizations = ["https://github.com/alchemyplatform"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/alchemyplatform/aa-demo"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/aa-sdk"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/aa-simple-dapp"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/accountkit-react-native-boilerplate"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/accountkit-react-native-demo"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/alchemon-frontend"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/alchemy-asset-transfers-benchmark"
 
 [[repo]]
@@ -22,10 +40,16 @@ url = "https://github.com/alchemyplatform/alchemy-flow-contracts"
 url = "https://github.com/alchemyplatform/Alchemy-Hacker-Handbook"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/alchemy-multichain-demo"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/Alchemy-Notify-Tutorial"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/alchemy-sdk-js"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/alchemy-sdk-py"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/Alchemy-Transfers-Tutorial"
@@ -37,16 +61,19 @@ url = "https://github.com/alchemyplatform/alchemy-web3"
 url = "https://github.com/alchemyplatform/alchemy-web3-webpack-example"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/AWS-serverless-blockchain-data-ingesting-infrastructure"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/block-race"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/blockexplorer"
 
 [[repo]]
-url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer"
+url = "https://github.com/alchemyplatform/bor"
 
 [[repo]]
-url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer-PART1"
+url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer-PART2"
@@ -55,7 +82,49 @@ url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer-PART2"
 url = "https://github.com/alchemyplatform/Build-Your-NFT-Explorer-walkthrough"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/bundler-spec"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/bundler-spec-tests"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/bundler-test-executor"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/create-web3-dapp"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/create-web3-dapp-examples"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/creating-smart-contract-and-sending-userops"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-analytics"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-dex-template"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-donation-dapp"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-evm-boilerplate"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-evm-boilerplate-1"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-evm-boilerplates-typescript"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-hardhat-boilerplates"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-nft-explorer"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/cw3d-nfts-gallery"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/docs-openapi-specs"
@@ -64,10 +133,67 @@ url = "https://github.com/alchemyplatform/docs-openapi-specs"
 url = "https://github.com/alchemyplatform/ecdsa-node"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/EIPs"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/entrypoint-hash-poc"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/erc20-example-foundry"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/erc20-indexer"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/escrow-hardhat"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/eth-provider-benchmark"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/ethereum-org-website"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/finding-nft-drops"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/gasless-minter-tutorial"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-ens-by-address"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-nft-transactions"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/Get-NFTs-by-Address"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-nfts-in-collection"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-nfts-minted-by-address"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-nfts-script"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-owners-of-nft"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-token-metadata"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-tokens-by-address"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-transaction-history"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/get-transfer-history"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/GiftList"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/gm"
@@ -85,13 +211,25 @@ url = "https://github.com/alchemyplatform/hello-world-tutorial"
 url = "https://github.com/alchemyplatform/historical_transactions_polygon_scripts"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/learn-solidity-presentations"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/light-account"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/matic_heimdall"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/matic_heimdall2"
 
 [[repo]]
-url = "https://github.com/alchemyplatform/NFT-API-demo"
+url = "https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates-w-hardhat"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/netlify-alchemy-nft-explorer-template"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/nft-api-demo-scripts"
@@ -100,16 +238,25 @@ url = "https://github.com/alchemyplatform/nft-api-demo-scripts"
 url = "https://github.com/alchemyplatform/nft-api-example"
 
 [[repo]]
-url = "https://github.com/alchemyplatform/nft-api-get-started"
-
-[[repo]]
 url = "https://github.com/alchemyplatform/nft-api-javascript-scripts"
 
 [[repo]]
-url = "https://github.com/alchemyplatform/nft-api-scripts"
+url = "https://github.com/alchemyplatform/nft-demo"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/nft-explorer-vercel"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/nft-gallery-demo"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/nft-indexer"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/NFT-Marketplace"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/NFT-Marketplace-Tutorial"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/nft-minter-tutorial"
@@ -119,9 +266,6 @@ url = "https://github.com/alchemyplatform/polygon-nft-finder"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/polygon-smart-contract-tutorial"
-
-[[repo]]
-url = "https://github.com/alchemyplatform/RoadToWeb3"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/RTW3-Week-4-NFT-Gallery"
@@ -136,13 +280,31 @@ url = "https://github.com/alchemyplatform/RTW3-Week2-BuyMeACoffee-Website"
 url = "https://github.com/alchemyplatform/RTW3-Week7-NFT-Marketplace"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/rundler"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/solana-hello-world"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/solana-nft-tutorial"
 
 [[repo]]
+url = "https://github.com/alchemyplatform/spearmint-sdk"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/sponsoring-userops"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/storage-layout-treasure-hunt"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/subscribe-new-blocks"
+
+[[repo]]
 url = "https://github.com/alchemyplatform/token-api-javascript-scripts"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/token_api_javascript_scripts"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/Transaction-Lifecycle-via-SMS"
@@ -158,6 +320,18 @@ url = "https://github.com/alchemyplatform/try-alchemy-sdk"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/uniswap-trading-example"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/usdc-token-gate"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/vercel-alchemy-dapp-boilerplates"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/vercel-alchemy-dapp-boilerplates-w-hardhat"
+
+[[repo]]
+url = "https://github.com/alchemyplatform/vercel-alchemy-nft-explorer-template"
 
 [[repo]]
 url = "https://github.com/alchemyplatform/web3-starter-projects"

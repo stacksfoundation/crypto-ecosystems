@@ -7,10 +7,19 @@ github_organizations = ["https://github.com/mangata-finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mangata-finance/alexandria"
+
+[[repo]]
+url = "https://github.com/mangata-finance/app-substrate-common"
+
+[[repo]]
 url = "https://github.com/mangata-finance/apps"
 
 [[repo]]
 url = "https://github.com/mangata-finance/chainspec"
+
+[[repo]]
+url = "https://github.com/mangata-finance/chopsticks"
 
 [[repo]]
 url = "https://github.com/mangata-finance/crowdloan-rewards"
@@ -40,6 +49,9 @@ url = "https://github.com/mangata-finance/eslint-config-mangata"
 url = "https://github.com/mangata-finance/helm-charts"
 
 [[repo]]
+url = "https://github.com/mangata-finance/l2beat"
+
+[[repo]]
 url = "https://github.com/mangata-finance/mangata-api-example"
 
 [[repo]]
@@ -47,6 +59,9 @@ url = "https://github.com/mangata-finance/mangata-blog"
 
 [[repo]]
 url = "https://github.com/mangata-finance/mangata-bridge"
+
+[[repo]]
+url = "https://github.com/mangata-finance/mangata-dev-kit"
 
 [[repo]]
 url = "https://github.com/mangata-finance/mangata-e2e"
@@ -82,6 +97,15 @@ url = "https://github.com/mangata-finance/polkadot"
 url = "https://github.com/mangata-finance/polkadot-sdk"
 
 [[repo]]
+url = "https://github.com/mangata-finance/polkadot-sdk-mgx"
+
+[[repo]]
+url = "https://github.com/mangata-finance/polkadot_network_directory"
+
+[[repo]]
+url = "https://github.com/mangata-finance/polkaholic"
+
+[[repo]]
 url = "https://github.com/mangata-finance/runner"
 
 [[repo]]
@@ -95,3 +119,12 @@ url = "https://github.com/mangata-finance/substrate-parachain-template"
 
 [[repo]]
 url = "https://github.com/mangata-finance/types"
+
+[[repo]]
+url = "https://github.com/mangata-finance/types-definitions"
+
+[[repo]]
+url = "https://github.com/mangata-finance/xcm-global-registry"
+
+[[repo]]
+url = "https://github.com/mangata-finance/xcm-simulator"

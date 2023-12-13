@@ -13,6 +13,9 @@ url = "https://github.com/dedis/.github"
 url = "https://github.com/dedis/android_example"
 
 [[repo]]
+url = "https://github.com/dedis/apir-code"
+
+[[repo]]
 url = "https://github.com/dedis/aries-framework-go"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/dedis/aries-framework-javascript"
 
 [[repo]]
 url = "https://github.com/dedis/aries-mediator"
+
+[[repo]]
+url = "https://github.com/dedis/badger"
 
 [[repo]]
 url = "https://github.com/dedis/bib"
@@ -32,6 +38,12 @@ url = "https://github.com/dedis/blockchain_demo"
 
 [[repo]]
 url = "https://github.com/dedis/bypros-deb-package"
+
+[[repo]]
+url = "https://github.com/dedis/calypso-extended-version"
+
+[[repo]]
+url = "https://github.com/dedis/calypso_ots"
 
 [[repo]]
 url = "https://github.com/dedis/calypso_zkp"
@@ -91,6 +103,9 @@ url = "https://github.com/dedis/dela"
 url = "https://github.com/dedis/dela-apps"
 
 [[repo]]
+url = "https://github.com/dedis/dela-purb"
+
+[[repo]]
 url = "https://github.com/dedis/demo_17_bcss"
 
 [[repo]]
@@ -124,10 +139,16 @@ url = "https://github.com/dedis/drand.js"
 url = "https://github.com/dedis/dynasent"
 
 [[repo]]
+url = "https://github.com/dedis/ePaxos-open-loop"
+
+[[repo]]
 url = "https://github.com/dedis/epfl-evoting"
 
 [[repo]]
 url = "https://github.com/dedis/example-grpc"
+
+[[repo]]
+url = "https://github.com/dedis/filesharing"
 
 [[repo]]
 url = "https://github.com/dedis/fixbuf"
@@ -184,6 +205,9 @@ url = "https://github.com/dedis/livos"
 url = "https://github.com/dedis/lleap"
 
 [[repo]]
+url = "https://github.com/dedis/matchertext"
+
+[[repo]]
 url = "https://github.com/dedis/medchain"
 
 [[repo]]
@@ -212,6 +236,9 @@ url = "https://github.com/dedis/paper_18_dfinity"
 
 [[repo]]
 url = "https://github.com/dedis/paper_chainiac"
+
+[[repo]]
+url = "https://github.com/dedis/paxos-and-raft"
 
 [[repo]]
 url = "https://github.com/dedis/personhood.online"
@@ -247,6 +274,18 @@ url = "https://github.com/dedis/pulsar.dedis.ch"
 url = "https://github.com/dedis/purb"
 
 [[repo]]
+url = "https://github.com/dedis/quepaxa"
+
+[[repo]]
+url = "https://github.com/dedis/quepaxa-ePaxos-open-loop"
+
+[[repo]]
+url = "https://github.com/dedis/quepaxa-rabia-open-loop"
+
+[[repo]]
+url = "https://github.com/dedis/rabia-open-loop"
+
+[[repo]]
 url = "https://github.com/dedis/securekg_examples"
 
 [[repo]]
@@ -260,6 +299,9 @@ url = "https://github.com/dedis/smartcoin"
 
 [[repo]]
 url = "https://github.com/dedis/student20_rabyt"
+
+[[repo]]
+url = "https://github.com/dedis/student23_dela_f3b"
 
 [[repo]]
 url = "https://github.com/dedis/student_12_IBE"
@@ -481,7 +523,25 @@ url = "https://github.com/dedis/student_21_safenum"
 url = "https://github.com/dedis/student_22_BFT_Baxos"
 
 [[repo]]
+url = "https://github.com/dedis/student_22_dela_auction"
+
+[[repo]]
 url = "https://github.com/dedis/student_22_determ-fp-sc"
+
+[[repo]]
+url = "https://github.com/dedis/student_22_dissecting_ipfs_swarm"
+
+[[repo]]
+url = "https://github.com/dedis/student_22_ipfs_alpha_entanglement_code"
+
+[[repo]]
+url = "https://github.com/dedis/student_23_dela_f3b_ibe"
+
+[[repo]]
+url = "https://github.com/dedis/student_23_ipfs_workload_analysis"
+
+[[repo]]
+url = "https://github.com/dedis/student_23_sflc_raid"
 
 [[repo]]
 url = "https://github.com/dedis/students_17_geneva"

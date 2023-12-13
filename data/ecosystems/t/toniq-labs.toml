@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/Toniq-Labs"]
 url = "https://github.com/Toniq-Labs/atomic"
 
 [[repo]]
+url = "https://github.com/Toniq-Labs/bitgen-example"
+
+[[repo]]
 url = "https://github.com/Toniq-Labs/creator-nfts"
 
 [[repo]]
@@ -34,6 +37,9 @@ url = "https://github.com/Toniq-Labs/ext-cli"
 url = "https://github.com/Toniq-Labs/ext-js"
 
 [[repo]]
+url = "https://github.com/Toniq-Labs/ext-v2-token"
+
+[[repo]]
 url = "https://github.com/Toniq-Labs/extendable-token"
 
 [[repo]]
@@ -46,7 +52,13 @@ url = "https://github.com/Toniq-Labs/hauntedhamsters_draw"
 url = "https://github.com/Toniq-Labs/ic-fungible-token"
 
 [[repo]]
+url = "https://github.com/Toniq-Labs/icrc1-friendly-address"
+
+[[repo]]
 url = "https://github.com/Toniq-Labs/interesting-nft-protocol"
+
+[[repo]]
+url = "https://github.com/Toniq-Labs/json-bigint"
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/motoko-code"
@@ -55,7 +67,16 @@ url = "https://github.com/Toniq-Labs/motoko-code"
 url = "https://github.com/Toniq-Labs/motoko-sha224"
 
 [[repo]]
+url = "https://github.com/Toniq-Labs/nft-frame"
+
+[[repo]]
 url = "https://github.com/Toniq-Labs/nft_escrow"
+
+[[repo]]
+url = "https://github.com/Toniq-Labs/OpenLoginSdk"
+
+[[repo]]
+url = "https://github.com/Toniq-Labs/ordinals-collections"
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/riseofthemagni-app"
@@ -73,7 +94,16 @@ url = "https://github.com/Toniq-Labs/stoic-wallet"
 url = "https://github.com/Toniq-Labs/toniq-labs-design-system"
 
 [[repo]]
+url = "https://github.com/Toniq-Labs/toniq-labs-design-system-react"
+
+[[repo]]
+url = "https://github.com/Toniq-Labs/toniq-nft-frame"
+
+[[repo]]
 url = "https://github.com/Toniq-Labs/toniq-website"
+
+[[repo]]
+url = "https://github.com/Toniq-Labs/web3auth-web"
 
 [[repo]]
 url = "https://github.com/Toniq-Labs/wrapped_cycles"

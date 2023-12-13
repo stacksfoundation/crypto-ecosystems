@@ -25,7 +25,7 @@ url = "https://github.com/EthereumCommonwealth/BitcoinTalkANN"
 url = "https://github.com/EthereumCommonwealth/block-reward"
 
 [[repo]]
-url = "https://github.com/EthereumCommonwealth/blue-app-eth"
+url = "https://github.com/EthereumCommonwealth/bridge-soy-finance"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/bsc-relayer"
@@ -52,13 +52,16 @@ url = "https://github.com/EthereumCommonwealth/Callisto-Snapshot"
 url = "https://github.com/EthereumCommonwealth/Callisto-Testnet-Faucet"
 
 [[repo]]
-url = "https://github.com/EthereumCommonwealth/Callisto-To-Eos-swap"
-
-[[repo]]
 url = "https://github.com/EthereumCommonwealth/Callisto-Website"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/CallistoBridge"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/callistonetwork-landing"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/callistonetwork-landing-backup"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/change-now"
@@ -79,7 +82,13 @@ url = "https://github.com/EthereumCommonwealth/clo-explorer"
 url = "https://github.com/EthereumCommonwealth/clo-netstats"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/CLOIP"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/Cold-staking"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/CommunityRequests"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/Crosschain-token-swaps"
@@ -103,6 +112,9 @@ url = "https://github.com/EthereumCommonwealth/EOS-resource-delegator"
 url = "https://github.com/EthereumCommonwealth/eos-smart-contract-security-best-practices"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/ERC-223-ecosystem"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/ERC223-Compatible-MultiSigWallet"
 
 [[repo]]
@@ -122,6 +134,9 @@ url = "https://github.com/EthereumCommonwealth/ethereum-classic-multisig"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/ethereum-commonwealth-website"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/ethereum-org-website"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/ethereumcommonwealth.github.io"
@@ -194,9 +209,6 @@ url = "https://github.com/EthereumCommonwealth/Roadmap"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/rust-callisto"
-
-[[repo]]
-url = "https://github.com/EthereumCommonwealth/smart-contracts"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/swap-clo-eos"

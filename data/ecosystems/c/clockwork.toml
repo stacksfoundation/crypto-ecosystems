@@ -13,6 +13,9 @@ url = "https://github.com/clockwork-xyz/anchor"
 url = "https://github.com/clockwork-xyz/anchor-gen"
 
 [[repo]]
+url = "https://github.com/clockwork-xyz/app"
+
+[[repo]]
 url = "https://github.com/clockwork-xyz/clockwork"
 
 [[repo]]
@@ -25,7 +28,16 @@ url = "https://github.com/clockwork-xyz/examples"
 url = "https://github.com/clockwork-xyz/explorer"
 
 [[repo]]
+url = "https://github.com/clockwork-xyz/sdk"
+
+[[repo]]
+url = "https://github.com/clockwork-xyz/shadow-drive-clockwork"
+
+[[repo]]
 url = "https://github.com/clockwork-xyz/solana"
+
+[[repo]]
+url = "https://github.com/clockwork-xyz/solana-playground"
 
 [[repo]]
 url = "https://github.com/clockwork-xyz/update-solana"

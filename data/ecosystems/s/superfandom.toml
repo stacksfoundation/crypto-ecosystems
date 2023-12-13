@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "Superfandom"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/RareSense"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/RareSense/flutter-chat"
+
+[[repo]]
+url = "https://github.com/RareSense/sf-stacks"

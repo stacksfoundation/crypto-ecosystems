@@ -7,10 +7,31 @@ github_organizations = ["https://github.com/sismo-core"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ahippoly/EthParisHackathon"
+
+[[repo]]
+url = "https://github.com/sismo-core/app-store"
+
+[[repo]]
 url = "https://github.com/sismo-core/ens-sdao"
 
 [[repo]]
 url = "https://github.com/sismo-core/hydra-s1-zkps"
+
+[[repo]]
+url = "https://github.com/sismo-core/hydra-s2-zkps"
+
+[[repo]]
+url = "https://github.com/sismo-core/hydra-s3-zkps"
+
+[[repo]]
+url = "https://github.com/sismo-core/old-sismo-connect-onchain-tutorial"
+
+[[repo]]
+url = "https://github.com/sismo-core/pythia-1-zkps"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-badges"
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-commitment-mapper"
@@ -19,7 +40,37 @@ url = "https://github.com/sismo-core/sismo-commitment-mapper"
 url = "https://github.com/sismo-core/sismo-commitment-signer"
 
 [[repo]]
-url = "https://github.com/sismo-core/sismo-data-sources"
+url = "https://github.com/sismo-core/sismo-connect-boilerplate"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-boilerplate-offchain"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-boilerplate-onchain"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-offchain-sample-project"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-onchain-sample-project"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-onchain-tutorial"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-onchain-verifier"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-packages"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-safe-drop"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-solidity"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-docs"
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-hub"
@@ -29,3 +80,12 @@ url = "https://github.com/sismo-core/sismo-protocol"
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-utils"
+
+[[repo]]
+url = "https://github.com/sismo-core/zkdrop"
+
+[[repo]]
+url = "https://github.com/sismo-core/zksub"
+
+[[repo]]
+url = "https://github.com/sismo-core/zksub-next"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/StakeDAO"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/StakeDAO/AddressBook"
+
+[[repo]]
 url = "https://github.com/StakeDAO/airdrop"
 
 [[repo]]
@@ -46,6 +49,9 @@ url = "https://github.com/StakeDAO/lab"
 url = "https://github.com/StakeDAO/MISO"
 
 [[repo]]
+url = "https://github.com/StakeDAO/onlyboost-whitepaper"
+
+[[repo]]
 url = "https://github.com/StakeDAO/research"
 
 [[repo]]
@@ -74,6 +80,9 @@ url = "https://github.com/StakeDAO/stakeDAO-Liquid-Pools"
 
 [[repo]]
 url = "https://github.com/StakeDAO/template"
+
+[[repo]]
+url = "https://github.com/StakeDAO/votemarket-management"
 
 [[repo]]
 url = "https://github.com/StakeDAO/voting-connectors"

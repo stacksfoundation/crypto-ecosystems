@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/unchain-dev"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/neila/encrypted_notes"
+
+[[repo]]
 url = "https://github.com/unchain-dev/ASTAR_socialfi_contract"
 
 [[repo]]
@@ -17,9 +20,6 @@ url = "https://github.com/unchain-dev/AVAX-Amm"
 
 [[repo]]
 url = "https://github.com/unchain-dev/AVAX-Asset-Tokenization"
-
-[[repo]]
-url = "https://github.com/unchain-dev/AVAX-Messenger"
 
 [[repo]]
 url = "https://github.com/unchain-dev/AVAX-Subnet"
@@ -41,6 +41,9 @@ url = "https://github.com/unchain-dev/dns-starter-project"
 
 [[repo]]
 url = "https://github.com/unchain-dev/domain-starter-project"
+
+[[repo]]
+url = "https://github.com/unchain-dev/encrypted-notes"
 
 [[repo]]
 url = "https://github.com/unchain-dev/encrypted_notes"
@@ -100,4 +103,25 @@ url = "https://github.com/unchain-dev/solana-wallet-starter-project"
 url = "https://github.com/unchain-dev/UNCHAIN-projects"
 
 [[repo]]
+url = "https://github.com/unchain-dev/verifiable-membership"
+
+[[repo]]
 url = "https://github.com/unchain-dev/yield-farm-starter-project"
+
+[[repo]]
+url = "https://github.com/unchain-tech/ASTAR_socialfi_frontend"
+
+[[repo]]
+url = "https://github.com/unchain-tech/AVAX-Messenger"
+
+[[repo]]
+url = "https://github.com/unchain-tech/near-hotel-booking-dapp"
+
+[[repo]]
+url = "https://github.com/unchain-tech/solana-gif-portal-starter-project"
+
+[[repo]]
+url = "https://github.com/unchain-tech/Solana-NFT-drop"
+
+[[repo]]
+url = "https://github.com/unchain-tech/solana-pay-starter-project"

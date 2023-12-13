@@ -10,10 +10,22 @@ github_organizations = ["https://github.com/pyth-network"]
 url = "https://github.com/pyth-network/audit-reports"
 
 [[repo]]
+url = "https://github.com/pyth-network/beacon"
+
+[[repo]]
+url = "https://github.com/pyth-network/charts"
+
+[[repo]]
 url = "https://github.com/pyth-network/defillama-server"
 
 [[repo]]
+url = "https://github.com/pyth-network/documentation"
+
+[[repo]]
 url = "https://github.com/pyth-network/ecosystem"
+
+[[repo]]
+url = "https://github.com/pyth-network/example-publisher"
 
 [[repo]]
 url = "https://github.com/pyth-network/governance"
@@ -28,7 +40,16 @@ url = "https://github.com/pyth-network/nft-distributor"
 url = "https://github.com/pyth-network/oracle-sandbox"
 
 [[repo]]
+url = "https://github.com/pyth-network/program-admin"
+
+[[repo]]
+url = "https://github.com/pyth-network/program-authority-escrow"
+
+[[repo]]
 url = "https://github.com/pyth-network/publisher-utils"
+
+[[repo]]
+url = "https://github.com/pyth-network/pyth-agent"
 
 [[repo]]
 url = "https://github.com/pyth-network/pyth-client"
@@ -76,10 +97,10 @@ url = "https://github.com/pyth-network/pyth-sdk-solidity"
 url = "https://github.com/pyth-network/pyth-serum"
 
 [[repo]]
-url = "https://github.com/pyth-network/pyth2wormhole"
-
-[[repo]]
-url = "https://github.com/pyth-network/serum-pyth"
+url = "https://github.com/pyth-network/pythnet"
 
 [[repo]]
 url = "https://github.com/pyth-network/solmeet-workshop-june-22"
+
+[[repo]]
+url = "https://github.com/pyth-network/w3f-pyth-poc-v2"

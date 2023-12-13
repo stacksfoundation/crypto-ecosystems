@@ -76,6 +76,9 @@ url = "https://github.com/curedao/data-lab"
 url = "https://github.com/curedao/DatabaseVisualizer"
 
 [[repo]]
+url = "https://github.com/curedao/decentralized-fda"
+
+[[repo]]
 url = "https://github.com/curedao/desci-exchange"
 
 [[repo]]
@@ -86,9 +89,6 @@ url = "https://github.com/curedao/digital-twin-api"
 
 [[repo]]
 url = "https://github.com/curedao/digital-twin-safe"
-
-[[repo]]
-url = "https://github.com/curedao/docker-php-8.1-apache-buster-xdebug-opcache-composer-pgsql"
 
 [[repo]]
 url = "https://github.com/curedao/docs"
@@ -103,13 +103,16 @@ url = "https://github.com/curedao/faros-community-edition"
 url = "https://github.com/curedao/floating-embed-widget-button"
 
 [[repo]]
+url = "https://github.com/curedao/health-admin"
+
+[[repo]]
 url = "https://github.com/curedao/health-data-storage-basic"
 
 [[repo]]
-url = "https://github.com/curedao/health-reference-data"
+url = "https://github.com/curedao/health-reference-browser"
 
 [[repo]]
-url = "https://github.com/curedao/health-reference-online-browser"
+url = "https://github.com/curedao/health-reference-data"
 
 [[repo]]
 url = "https://github.com/curedao/journal-of-citizen-science"
@@ -119,6 +122,9 @@ url = "https://github.com/curedao/LAMP-platform"
 
 [[repo]]
 url = "https://github.com/curedao/law-lab"
+
+[[repo]]
+url = "https://github.com/curedao/mintlify"
 
 [[repo]]
 url = "https://github.com/curedao/moe-black-box-optimization-engine"
@@ -161,3 +167,6 @@ url = "https://github.com/curedao/ToolJet"
 
 [[repo]]
 url = "https://github.com/curedao/unified-health-api"
+
+[[repo]]
+url = "https://github.com/mikepsinn/docker-php-8.1-apache-buster-xdebug-opcache-composer-pgsql"

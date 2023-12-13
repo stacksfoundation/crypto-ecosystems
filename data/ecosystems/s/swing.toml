@@ -19,19 +19,22 @@ url = "https://github.com/polkaswitch/cBridge-typescript-client"
 url = "https://github.com/polkaswitch/chains"
 
 [[repo]]
-url = "https://github.com/polkaswitch/demo-sdk"
+url = "https://github.com/polkaswitch/evm-cosmos-crosschain-swap"
 
 [[repo]]
-url = "https://github.com/polkaswitch/demo-sdk-ts"
-
-[[repo]]
-url = "https://github.com/polkaswitch/demo-transaction"
+url = "https://github.com/polkaswitch/examples"
 
 [[repo]]
 url = "https://github.com/polkaswitch/General-Grants-Program"
 
 [[repo]]
+url = "https://github.com/polkaswitch/junoswap-asset-list"
+
+[[repo]]
 url = "https://github.com/polkaswitch/moonbeam-project-directory"
+
+[[repo]]
+url = "https://github.com/polkaswitch/osmosis-asset-lists"
 
 [[repo]]
 url = "https://github.com/polkaswitch/polkadot-ethereum"
@@ -50,6 +53,9 @@ url = "https://github.com/polkaswitch/synapse-sdk"
 
 [[repo]]
 url = "https://github.com/polkaswitch/token-list"
+
+[[repo]]
+url = "https://github.com/polkaswitch/tokenlists"
 
 [[repo]]
 url = "https://github.com/polkaswitch/trade-volumn-test"

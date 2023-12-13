@@ -13,6 +13,9 @@ url = "https://github.com/dogechain-lab/blockscout"
 url = "https://github.com/dogechain-lab/chains"
 
 [[repo]]
+url = "https://github.com/dogechain-lab/dbsc"
+
+[[repo]]
 url = "https://github.com/dogechain-lab/default-token-list"
 
 [[repo]]
@@ -29,6 +32,15 @@ url = "https://github.com/dogechain-lab/dogechain-snapshots"
 
 [[repo]]
 url = "https://github.com/dogechain-lab/fastrlp"
+
+[[repo]]
+url = "https://github.com/dogechain-lab/go-ethereum"
+
+[[repo]]
+url = "https://github.com/dogechain-lab/graph-node"
+
+[[repo]]
+url = "https://github.com/dogechain-lab/leveldb-tools"
 
 [[repo]]
 url = "https://github.com/dogechain-lab/remix-project"

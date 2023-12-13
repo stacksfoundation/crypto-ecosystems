@@ -7,16 +7,28 @@ github_organizations = ["https://github.com/dev-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dev-protocol/---"
+
+[[repo]]
 url = "https://github.com/dev-protocol/.github"
 
 [[repo]]
 url = "https://github.com/dev-protocol/.github-1"
 
 [[repo]]
+url = "https://github.com/dev-protocol/.Netcore-Ecommerce"
+
+[[repo]]
+url = "https://github.com/dev-protocol/3commas-official-api-docs"
+
+[[repo]]
 url = "https://github.com/dev-protocol/4c-site"
 
 [[repo]]
 url = "https://github.com/dev-protocol/aave-v3-core"
+
+[[repo]]
+url = "https://github.com/dev-protocol/aimeos"
 
 [[repo]]
 url = "https://github.com/dev-protocol/airnode"
@@ -43,16 +55,40 @@ url = "https://github.com/dev-protocol/arbitrum-dev-tokens"
 url = "https://github.com/dev-protocol/Arjun"
 
 [[repo]]
+url = "https://github.com/dev-protocol/aspnetcore"
+
+[[repo]]
+url = "https://github.com/dev-protocol/assembly"
+
+[[repo]]
 url = "https://github.com/dev-protocol/asset.stakes.social"
 
 [[repo]]
 url = "https://github.com/dev-protocol/assets"
 
 [[repo]]
+url = "https://github.com/dev-protocol/astro-vercel-demo"
+
+[[repo]]
 url = "https://github.com/dev-protocol/Automatic-AI-robot-for-Stock-and-Trading"
 
 [[repo]]
 url = "https://github.com/dev-protocol/automations"
+
+[[repo]]
+url = "https://github.com/dev-protocol/avocado-sdk"
+
+[[repo]]
+url = "https://github.com/dev-protocol/awesome-ai-tools"
+
+[[repo]]
+url = "https://github.com/dev-protocol/awesome-cheatsheets"
+
+[[repo]]
+url = "https://github.com/dev-protocol/awesome-docker"
+
+[[repo]]
+url = "https://github.com/dev-protocol/AWESOME-QUANT"
 
 [[repo]]
 url = "https://github.com/dev-protocol/awesome-resources"
@@ -64,7 +100,46 @@ url = "https://github.com/dev-protocol/badge"
 url = "https://github.com/dev-protocol/bch-dex"
 
 [[repo]]
+url = "https://github.com/dev-protocol/bch.info"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bch.info-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bch.info-2"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bchd-web"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bips"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bips-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitaddress.org"
+
+[[repo]]
 url = "https://github.com/dev-protocol/bitcoin"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoin-abc"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoin-abc-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoin-sv"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoin-sv-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoin_miningsim"
+
+[[repo]]
+url = "https://github.com/dev-protocol/bitcoinabc.org"
 
 [[repo]]
 url = "https://github.com/dev-protocol/bitcore"
@@ -73,7 +148,19 @@ url = "https://github.com/dev-protocol/bitcore"
 url = "https://github.com/dev-protocol/blackrock-portfolio-analysis-app"
 
 [[repo]]
+url = "https://github.com/dev-protocol/blast-sdk-js"
+
+[[repo]]
 url = "https://github.com/dev-protocol/bridge-ui"
+
+[[repo]]
+url = "https://github.com/dev-protocol/BTCGPU"
+
+[[repo]]
+url = "https://github.com/dev-protocol/BTCGPU-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/BTCGPU-2"
 
 [[repo]]
 url = "https://github.com/dev-protocol/builders.devprotocol.xyz"
@@ -82,13 +169,31 @@ url = "https://github.com/dev-protocol/builders.devprotocol.xyz"
 url = "https://github.com/dev-protocol/bundled-ethers"
 
 [[repo]]
+url = "https://github.com/dev-protocol/C-Plus-Plus-forML"
+
+[[repo]]
+url = "https://github.com/dev-protocol/C-PlusPlus"
+
+[[repo]]
+url = "https://github.com/dev-protocol/C-Sharp"
+
+[[repo]]
+url = "https://github.com/dev-protocol/cashtokens"
+
+[[repo]]
+url = "https://github.com/dev-protocol/CBDatabase"
+
+[[repo]]
+url = "https://github.com/dev-protocol/ccoinjoin-docs"
+
+[[repo]]
 url = "https://github.com/dev-protocol/ccxt"
 
 [[repo]]
-url = "https://github.com/dev-protocol/civetweb"
+url = "https://github.com/dev-protocol/chatgpt-plugin"
 
 [[repo]]
-url = "https://github.com/dev-protocol/club-apps"
+url = "https://github.com/dev-protocol/civetweb"
 
 [[repo]]
 url = "https://github.com/dev-protocol/clubs"
@@ -103,10 +208,19 @@ url = "https://github.com/dev-protocol/clubs-demo"
 url = "https://github.com/dev-protocol/clubs-monorepo"
 
 [[repo]]
+url = "https://github.com/dev-protocol/clubs-plugin-buy"
+
+[[repo]]
+url = "https://github.com/dev-protocol/clubs-plugin-posts"
+
+[[repo]]
 url = "https://github.com/dev-protocol/clubs-plugin-starter-kit"
 
 [[repo]]
 url = "https://github.com/dev-protocol/clubs-teaser"
+
+[[repo]]
+url = "https://github.com/dev-protocol/clubs-userland"
 
 [[repo]]
 url = "https://github.com/dev-protocol/clubs-yml-builder"
@@ -115,10 +229,16 @@ url = "https://github.com/dev-protocol/clubs-yml-builder"
 url = "https://github.com/dev-protocol/clubsx"
 
 [[repo]]
+url = "https://github.com/dev-protocol/clubsx-proxy"
+
+[[repo]]
 url = "https://github.com/dev-protocol/cluture-clubs-teaser-base"
 
 [[repo]]
-url = "https://github.com/dev-protocol/cluture-clubs-teaser-buddhist-temple"
+url = "https://github.com/dev-protocol/coinmarketcap"
+
+[[repo]]
+url = "https://github.com/dev-protocol/coinmarketcap-1"
 
 [[repo]]
 url = "https://github.com/dev-protocol/CoinRecord"
@@ -130,13 +250,25 @@ url = "https://github.com/dev-protocol/community"
 url = "https://github.com/dev-protocol/community-builders-website"
 
 [[repo]]
+url = "https://github.com/dev-protocol/community-platform"
+
+[[repo]]
 url = "https://github.com/dev-protocol/community-stats"
+
+[[repo]]
+url = "https://github.com/dev-protocol/connect-chatgpt-to-internet"
 
 [[repo]]
 url = "https://github.com/dev-protocol/convert-on-transfer"
 
 [[repo]]
 url = "https://github.com/dev-protocol/core"
+
+[[repo]]
+url = "https://github.com/dev-protocol/core-js"
+
+[[repo]]
+url = "https://github.com/dev-protocol/core-rs-albatross"
 
 [[repo]]
 url = "https://github.com/dev-protocol/crAPI"
@@ -154,6 +286,18 @@ url = "https://github.com/dev-protocol/crossplane"
 url = "https://github.com/dev-protocol/crypto-ecosystems"
 
 [[repo]]
+url = "https://github.com/dev-protocol/cryptocompare"
+
+[[repo]]
+url = "https://github.com/dev-protocol/cryptocompare-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/cryptolights"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Cryptolocker"
+
+[[repo]]
 url = "https://github.com/dev-protocol/culture-clubs"
 
 [[repo]]
@@ -163,6 +307,9 @@ url = "https://github.com/dev-protocol/curl"
 url = "https://github.com/dev-protocol/dashboard.stakes.social"
 
 [[repo]]
+url = "https://github.com/dev-protocol/defi_yield_farming"
+
+[[repo]]
 url = "https://github.com/dev-protocol/DefiLlama-Adapters"
 
 [[repo]]
@@ -170,6 +317,9 @@ url = "https://github.com/dev-protocol/denoflare"
 
 [[repo]]
 url = "https://github.com/dev-protocol/design-resources-for-developers"
+
+[[repo]]
+url = "https://github.com/dev-protocol/desktop"
 
 [[repo]]
 url = "https://github.com/dev-protocol/detect-legacy-users"
@@ -208,13 +358,31 @@ url = "https://github.com/dev-protocol/devprotocol.xyz"
 url = "https://github.com/dev-protocol/DIPs"
 
 [[repo]]
+url = "https://github.com/dev-protocol/discord-api-docs"
+
+[[repo]]
 url = "https://github.com/dev-protocol/discord-market"
+
+[[repo]]
+url = "https://github.com/dev-protocol/discord.js"
+
+[[repo]]
+url = "https://github.com/dev-protocol/django-backend"
+
+[[repo]]
+url = "https://github.com/dev-protocol/docker-bchd"
+
+[[repo]]
+url = "https://github.com/dev-protocol/docker-bchd-1"
 
 [[repo]]
 url = "https://github.com/dev-protocol/docs"
 
 [[repo]]
 url = "https://github.com/dev-protocol/docs.devprotocol.xyz"
+
+[[repo]]
+url = "https://github.com/dev-protocol/documentation"
 
 [[repo]]
 url = "https://github.com/dev-protocol/draft-proposals"
@@ -226,7 +394,13 @@ url = "https://github.com/dev-protocol/dynamic-s-tokens-simple-collections"
 url = "https://github.com/dev-protocol/dynamic-s-tokens-simple-tiers"
 
 [[repo]]
+url = "https://github.com/dev-protocol/e-commerce-with-TypeScript-Nodejs-Express"
+
+[[repo]]
 url = "https://github.com/dev-protocol/earth"
+
+[[repo]]
+url = "https://github.com/dev-protocol/edge-currency-plugins"
 
 [[repo]]
 url = "https://github.com/dev-protocol/education"
@@ -241,16 +415,34 @@ url = "https://github.com/dev-protocol/eksctl"
 url = "https://github.com/dev-protocol/electron"
 
 [[repo]]
+url = "https://github.com/dev-protocol/electron-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/Electron-Cash-Last-Will-Plugin"
 
 [[repo]]
 url = "https://github.com/dev-protocol/Electron-Cash-SLP"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Electron-Cash-SLP-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/ElectrumABC"
+
+[[repo]]
+url = "https://github.com/dev-protocol/ElectrumABC-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/ESP-RFID-Tool"
 
 [[repo]]
 url = "https://github.com/dev-protocol/eth-swap-and-stake"
+
+[[repo]]
+url = "https://github.com/dev-protocol/ethereum-nft-marketplace-boilerplate"
+
+[[repo]]
+url = "https://github.com/dev-protocol/etoro-api"
 
 [[repo]]
 url = "https://github.com/dev-protocol/event-saver"
@@ -265,13 +457,31 @@ url = "https://github.com/dev-protocol/event-viewer"
 url = "https://github.com/dev-protocol/example-voting-app"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Facebook-clone-MERN"
+
+[[repo]]
+url = "https://github.com/dev-protocol/firebase-template-emailer"
+
+[[repo]]
 url = "https://github.com/dev-protocol/first-contributions"
+
+[[repo]]
+url = "https://github.com/dev-protocol/flow-nft"
+
+[[repo]]
+url = "https://github.com/dev-protocol/flutter-firebase-tracking"
 
 [[repo]]
 url = "https://github.com/dev-protocol/forem"
 
 [[repo]]
 url = "https://github.com/dev-protocol/free-Web3-resources"
+
+[[repo]]
+url = "https://github.com/dev-protocol/fwmsoftware"
+
+[[repo]]
+url = "https://github.com/dev-protocol/gateway-contracts"
 
 [[repo]]
 url = "https://github.com/dev-protocol/gendou"
@@ -283,13 +493,19 @@ url = "https://github.com/dev-protocol/gendou-app"
 url = "https://github.com/dev-protocol/github-market"
 
 [[repo]]
-url = "https://github.com/dev-protocol/github-market-l2"
-
-[[repo]]
 url = "https://github.com/dev-protocol/github-market-v2"
 
 [[repo]]
 url = "https://github.com/dev-protocol/gnuradio"
+
+[[repo]]
+url = "https://github.com/dev-protocol/GoodDAPP"
+
+[[repo]]
+url = "https://github.com/dev-protocol/GoodDAPP-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/GoodServer"
 
 [[repo]]
 url = "https://github.com/dev-protocol/govern"
@@ -298,16 +514,25 @@ url = "https://github.com/dev-protocol/govern"
 url = "https://github.com/dev-protocol/governance"
 
 [[repo]]
+url = "https://github.com/dev-protocol/gpt-engineer"
+
+[[repo]]
 url = "https://github.com/dev-protocol/graphql-explorer"
+
+[[repo]]
+url = "https://github.com/dev-protocol/grpc-bchrpc-browser"
+
+[[repo]]
+url = "https://github.com/dev-protocol/grpc-bchrpc-node"
+
+[[repo]]
+url = "https://github.com/dev-protocol/grpc-bchrpc-web"
 
 [[repo]]
 url = "https://github.com/dev-protocol/Hacktoberfest2022_for_Beginers"
 
 [[repo]]
 url = "https://github.com/dev-protocol/Hashi"
-
-[[repo]]
-url = "https://github.com/dev-protocol/hashi-lit"
 
 [[repo]]
 url = "https://github.com/dev-protocol/hashi-react"
@@ -317,6 +542,9 @@ url = "https://github.com/dev-protocol/hashi-web"
 
 [[repo]]
 url = "https://github.com/dev-protocol/hitbtc-api"
+
+[[repo]]
+url = "https://github.com/dev-protocol/hospital-management-system"
 
 [[repo]]
 url = "https://github.com/dev-protocol/houdini"
@@ -331,10 +559,19 @@ url = "https://github.com/dev-protocol/incubation-committee"
 url = "https://github.com/dev-protocol/incubator"
 
 [[repo]]
+url = "https://github.com/dev-protocol/index-app"
+
+[[repo]]
+url = "https://github.com/dev-protocol/index-app-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/initto"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ink"
+
+[[repo]]
+url = "https://github.com/dev-protocol/installer"
 
 [[repo]]
 url = "https://github.com/dev-protocol/invitation-registry"
@@ -343,16 +580,25 @@ url = "https://github.com/dev-protocol/invitation-registry"
 url = "https://github.com/dev-protocol/ipfs-desktop"
 
 [[repo]]
+url = "https://github.com/dev-protocol/java-tron"
+
+[[repo]]
 url = "https://github.com/dev-protocol/jobs"
 
 [[repo]]
 url = "https://github.com/dev-protocol/json"
 
 [[repo]]
+url = "https://github.com/dev-protocol/jwt"
+
+[[repo]]
 url = "https://github.com/dev-protocol/jwt_tool"
 
 [[repo]]
 url = "https://github.com/dev-protocol/jwt_tool-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/kernel_samsung_i8552"
 
 [[repo]]
 url = "https://github.com/dev-protocol/khaos"
@@ -388,9 +634,6 @@ url = "https://github.com/dev-protocol/khaos-starter-kit"
 url = "https://github.com/dev-protocol/khaos-update-cap"
 
 [[repo]]
-url = "https://github.com/dev-protocol/khaos-update-cap-l2"
-
-[[repo]]
 url = "https://github.com/dev-protocol/khaos-update-cap-v2"
 
 [[repo]]
@@ -403,28 +646,82 @@ url = "https://github.com/dev-protocol/kind"
 url = "https://github.com/dev-protocol/kiterunner"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Komac"
+
+[[repo]]
+url = "https://github.com/dev-protocol/komodo-defi-framework"
+
+[[repo]]
+url = "https://github.com/dev-protocol/komodo-wallet-desktop"
+
+[[repo]]
+url = "https://github.com/dev-protocol/komodo-wallet-mobile"
+
+[[repo]]
 url = "https://github.com/dev-protocol/kops"
 
 [[repo]]
-url = "https://github.com/dev-protocol/launchpad"
+url = "https://github.com/dev-protocol/langchain-mini"
+
+[[repo]]
+url = "https://github.com/dev-protocol/language-tags"
+
+[[repo]]
+url = "https://github.com/dev-protocol/LaWGPT"
+
+[[repo]]
+url = "https://github.com/dev-protocol/leaky-paywall-ip-blocker-free"
 
 [[repo]]
 url = "https://github.com/dev-protocol/legacy-app"
 
 [[repo]]
+url = "https://github.com/dev-protocol/legal"
+
+[[repo]]
 url = "https://github.com/dev-protocol/let-down-some-pigeons"
+
+[[repo]]
+url = "https://github.com/dev-protocol/lgu"
 
 [[repo]]
 url = "https://github.com/dev-protocol/libp2p"
 
 [[repo]]
+url = "https://github.com/dev-protocol/lightning"
+
+[[repo]]
+url = "https://github.com/dev-protocol/lightning-node-connect"
+
+[[repo]]
 url = "https://github.com/dev-protocol/Linux-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/linux-hosting"
+
+[[repo]]
+url = "https://github.com/dev-protocol/linux-sunxi"
+
+[[repo]]
+url = "https://github.com/dev-protocol/localGPT"
 
 [[repo]]
 url = "https://github.com/dev-protocol/Login"
 
 [[repo]]
+url = "https://github.com/dev-protocol/lotus"
+
+[[repo]]
+url = "https://github.com/dev-protocol/machankura-website"
+
+[[repo]]
 url = "https://github.com/dev-protocol/machine-learning-for-trading"
+
+[[repo]]
+url = "https://github.com/dev-protocol/mainnet-js"
+
+[[repo]]
+url = "https://github.com/dev-protocol/material-ui"
 
 [[repo]]
 url = "https://github.com/dev-protocol/medical-pro"
@@ -436,25 +733,73 @@ url = "https://github.com/dev-protocol/metamask-extension"
 url = "https://github.com/dev-protocol/metaseq"
 
 [[repo]]
+url = "https://github.com/dev-protocol/mev-flood"
+
+[[repo]]
+url = "https://github.com/dev-protocol/microsoft-graph-docs"
+
+[[repo]]
 url = "https://github.com/dev-protocol/migration__protocol-599"
 
 [[repo]]
 url = "https://github.com/dev-protocol/MindAPI"
 
 [[repo]]
+url = "https://github.com/dev-protocol/mips"
+
+[[repo]]
 url = "https://github.com/dev-protocol/mitmproxy"
+
+[[repo]]
+url = "https://github.com/dev-protocol/MRRArt"
+
+[[repo]]
+url = "https://github.com/dev-protocol/msgraph-metadata"
+
+[[repo]]
+url = "https://github.com/dev-protocol/msgraph-sdk-powershell"
 
 [[repo]]
 url = "https://github.com/dev-protocol/msys2.github.io"
 
 [[repo]]
+url = "https://github.com/dev-protocol/mutiny-node"
+
+[[repo]]
+url = "https://github.com/dev-protocol/mutiny-node-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/mutiny-web"
+
+[[repo]]
+url = "https://github.com/dev-protocol/near-api-js"
+
+[[repo]]
 url = "https://github.com/dev-protocol/nestjs-react-solidity"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Nettacker"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Nettacker-1"
 
 [[repo]]
 url = "https://github.com/dev-protocol/newnode"
 
 [[repo]]
 url = "https://github.com/dev-protocol/nextjs-googleapi-get-youtube-channel-info"
+
+[[repo]]
+url = "https://github.com/dev-protocol/nft-minting-app"
+
+[[repo]]
+url = "https://github.com/dev-protocol/nft.storage"
+
+[[repo]]
+url = "https://github.com/dev-protocol/NFTBox-NFT-Staking-Market-Yield-Farming"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Nivistealer"
 
 [[repo]]
 url = "https://github.com/dev-protocol/niwa"
@@ -466,10 +811,22 @@ url = "https://github.com/dev-protocol/node-addon-api"
 url = "https://github.com/dev-protocol/Node-App"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Node-App-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Node-App-2"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Node-App-3"
+
+[[repo]]
 url = "https://github.com/dev-protocol/npm-market"
 
 [[repo]]
 url = "https://github.com/dev-protocol/nym"
+
+[[repo]]
+url = "https://github.com/dev-protocol/oasis-full-stack-task-main"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ogpimage-stakessocial"
@@ -478,13 +835,37 @@ url = "https://github.com/dev-protocol/ogpimage-stakessocial"
 url = "https://github.com/dev-protocol/onboarding-sponsor"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Open-Assistant"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Open-Source-Law"
+
+[[repo]]
+url = "https://github.com/dev-protocol/openlibrary"
+
+[[repo]]
+url = "https://github.com/dev-protocol/openlibrary-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/pages-fullstack"
+
+[[repo]]
+url = "https://github.com/dev-protocol/paperwallet.bitcoin.com"
 
 [[repo]]
 url = "https://github.com/dev-protocol/passport-dapp-web3"
 
 [[repo]]
 url = "https://github.com/dev-protocol/paypal"
+
+[[repo]]
+url = "https://github.com/dev-protocol/peggedassets-server"
+
+[[repo]]
+url = "https://github.com/dev-protocol/permissionless-staking"
+
+[[repo]]
+url = "https://github.com/dev-protocol/pipedream"
 
 [[repo]]
 url = "https://github.com/dev-protocol/plaid-postman"
@@ -502,19 +883,31 @@ url = "https://github.com/dev-protocol/Practice_Ques"
 url = "https://github.com/dev-protocol/programmable-proxy"
 
 [[repo]]
+url = "https://github.com/dev-protocol/project-stork"
+
+[[repo]]
+url = "https://github.com/dev-protocol/project-stork-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/property-grouping"
 
 [[repo]]
 url = "https://github.com/dev-protocol/protocol"
 
 [[repo]]
+url = "https://github.com/dev-protocol/protocol-1"
+
+[[repo]]
 url = "https://github.com/dev-protocol/protocol-2"
 
 [[repo]]
-url = "https://github.com/dev-protocol/protocol-l2"
+url = "https://github.com/dev-protocol/protocol-monorepo"
 
 [[repo]]
 url = "https://github.com/dev-protocol/protocol-v2"
+
+[[repo]]
+url = "https://github.com/dev-protocol/psf-avax-wallet"
 
 [[repo]]
 url = "https://github.com/dev-protocol/public-apis"
@@ -529,6 +922,12 @@ url = "https://github.com/dev-protocol/radicle-contracts"
 url = "https://github.com/dev-protocol/radicle-upstream"
 
 [[repo]]
+url = "https://github.com/dev-protocol/react-crypto-tracker"
+
+[[repo]]
+url = "https://github.com/dev-protocol/React-Redux-project"
+
+[[repo]]
 url = "https://github.com/dev-protocol/react-skelton"
 
 [[repo]]
@@ -538,10 +937,31 @@ url = "https://github.com/dev-protocol/React-Tailwind-Basic-Setup"
 url = "https://github.com/dev-protocol/real-time-yoga-recognition"
 
 [[repo]]
+url = "https://github.com/dev-protocol/refined-github"
+
+[[repo]]
 url = "https://github.com/dev-protocol/rfcs-1"
 
 [[repo]]
 url = "https://github.com/dev-protocol/roadmaps"
+
+[[repo]]
+url = "https://github.com/dev-protocol/roslyn"
+
+[[repo]]
+url = "https://github.com/dev-protocol/runtime"
+
+[[repo]]
+url = "https://github.com/dev-protocol/runtime-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/runtime-2"
+
+[[repo]]
+url = "https://github.com/dev-protocol/runtime-3"
+
+[[repo]]
+url = "https://github.com/dev-protocol/s-cart"
 
 [[repo]]
 url = "https://github.com/dev-protocol/s-tokens"
@@ -556,13 +976,40 @@ url = "https://github.com/dev-protocol/SafeHarbor2.0"
 url = "https://github.com/dev-protocol/school-bells"
 
 [[repo]]
+url = "https://github.com/dev-protocol/sd-dynamic-prompts"
+
+[[repo]]
+url = "https://github.com/dev-protocol/send-transactions"
+
+[[repo]]
+url = "https://github.com/dev-protocol/shapeshift.io"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Shiberse_metaverse"
+
+[[repo]]
+url = "https://github.com/dev-protocol/shopping-cart"
+
+[[repo]]
 url = "https://github.com/dev-protocol/simpleledger-post-office-server"
 
 [[repo]]
 url = "https://github.com/dev-protocol/slp-cli-wallet"
 
 [[repo]]
+url = "https://github.com/dev-protocol/slp-indexer"
+
+[[repo]]
+url = "https://github.com/dev-protocol/slp-parser.dart"
+
+[[repo]]
 url = "https://github.com/dev-protocol/slp-specifications"
+
+[[repo]]
+url = "https://github.com/dev-protocol/slp.Indexer"
+
+[[repo]]
+url = "https://github.com/dev-protocol/SLPpaperwallet"
 
 [[repo]]
 url = "https://github.com/dev-protocol/SmartBCH-Token-List"
@@ -571,10 +1018,13 @@ url = "https://github.com/dev-protocol/SmartBCH-Token-List"
 url = "https://github.com/dev-protocol/social-engineer-toolkit"
 
 [[repo]]
-url = "https://github.com/dev-protocol/social-token-launcher"
+url = "https://github.com/dev-protocol/solana"
 
 [[repo]]
 url = "https://github.com/dev-protocol/spl-token-wallet"
+
+[[repo]]
+url = "https://github.com/dev-protocol/squalo.ai"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ssi"
@@ -589,6 +1039,15 @@ url = "https://github.com/dev-protocol/stakes.social"
 url = "https://github.com/dev-protocol/StakingPerks"
 
 [[repo]]
+url = "https://github.com/dev-protocol/starknet-website"
+
+[[repo]]
+url = "https://github.com/dev-protocol/start-here-guidelines"
+
+[[repo]]
+url = "https://github.com/dev-protocol/Static"
+
+[[repo]]
 url = "https://github.com/dev-protocol/stoken-sale"
 
 [[repo]]
@@ -598,16 +1057,22 @@ url = "https://github.com/dev-protocol/strapi-for-ss"
 url = "https://github.com/dev-protocol/subgraph-staking-amount-l1"
 
 [[repo]]
-url = "https://github.com/dev-protocol/subgraph-staking-amount-l2"
-
-[[repo]]
 url = "https://github.com/dev-protocol/Superalgos"
 
 [[repo]]
 url = "https://github.com/dev-protocol/sveltekit-adapter-aws"
 
 [[repo]]
+url = "https://github.com/dev-protocol/sveltekit-modal"
+
+[[repo]]
+url = "https://github.com/dev-protocol/sveltekit-stripe"
+
+[[repo]]
 url = "https://github.com/dev-protocol/swap-protocol"
+
+[[repo]]
+url = "https://github.com/dev-protocol/SwiftBTC"
 
 [[repo]]
 url = "https://github.com/dev-protocol/tailwind-landing-page-template"
@@ -623,6 +1088,9 @@ url = "https://github.com/dev-protocol/template-repos-ts-functions"
 
 [[repo]]
 url = "https://github.com/dev-protocol/template-repos-ts-sol"
+
+[[repo]]
+url = "https://github.com/dev-protocol/terraform-aws-next-js"
 
 [[repo]]
 url = "https://github.com/dev-protocol/the-book-of-secret-knowledge"
@@ -658,6 +1126,9 @@ url = "https://github.com/dev-protocol/ultrasonic-ios"
 url = "https://github.com/dev-protocol/upgrader"
 
 [[repo]]
+url = "https://github.com/dev-protocol/URL-Shortner"
+
+[[repo]]
 url = "https://github.com/dev-protocol/util-contracts"
 
 [[repo]]
@@ -665,6 +1136,12 @@ url = "https://github.com/dev-protocol/util-ts"
 
 [[repo]]
 url = "https://github.com/dev-protocol/vapi"
+
+[[repo]]
+url = "https://github.com/dev-protocol/VENTokenField"
+
+[[repo]]
+url = "https://github.com/dev-protocol/venus"
 
 [[repo]]
 url = "https://github.com/dev-protocol/vote-governance"
@@ -676,7 +1153,16 @@ url = "https://github.com/dev-protocol/vscode"
 url = "https://github.com/dev-protocol/vuejs-forge-boilerplate"
 
 [[repo]]
+url = "https://github.com/dev-protocol/wallet"
+
+[[repo]]
+url = "https://github.com/dev-protocol/web-demon"
+
+[[repo]]
 url = "https://github.com/dev-protocol/web-skills"
+
+[[repo]]
+url = "https://github.com/dev-protocol/web3-esbundle"
 
 [[repo]]
 url = "https://github.com/dev-protocol/web3.js"
@@ -694,4 +1180,10 @@ url = "https://github.com/dev-protocol/XENA"
 url = "https://github.com/dev-protocol/yearn-finance-1"
 
 [[repo]]
+url = "https://github.com/dev-protocol/yield-server"
+
+[[repo]]
 url = "https://github.com/dev-protocol/youtube-market"
+
+[[repo]]
+url = "https://github.com/dev-protocol/zap-android"

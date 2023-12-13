@@ -7,28 +7,28 @@ github_organizations = ["https://github.com/Heat-Ledger-Ltd"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-embed"
+url = "https://github.com/heatcrypto/heat-embed"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-libs"
+url = "https://github.com/heatcrypto/heat-libs"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-microservice"
+url = "https://github.com/heatcrypto/heat-microservice"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-modules"
+url = "https://github.com/heatcrypto/heat-modules"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-paperwallet"
+url = "https://github.com/heatcrypto/heat-paperwallet"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-sdk"
+url = "https://github.com/heatcrypto/heat-sdk"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heat-ui"
+url = "https://github.com/heatcrypto/heat-ui"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heatledger"
+url = "https://github.com/heatcrypto/heatledger"
 
 [[repo]]
-url = "https://github.com/Heat-Ledger-Ltd/heatwallet"
+url = "https://github.com/heatcrypto/heatwallet"

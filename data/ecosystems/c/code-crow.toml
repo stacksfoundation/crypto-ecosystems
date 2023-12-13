@@ -10,19 +10,13 @@ github_organizations = ["https://github.com/CodeCrowCorp"]
 url = "https://github.com/CodeCrowCorp/.github"
 
 [[repo]]
-url = "https://github.com/CodeCrowCorp/cro-android"
-
-[[repo]]
-url = "https://github.com/CodeCrowCorp/cro-ios"
+url = "https://github.com/CodeCrowCorp/code-crow-website"
 
 [[repo]]
 url = "https://github.com/CodeCrowCorp/cro-mint"
 
 [[repo]]
 url = "https://github.com/CodeCrowCorp/cro-website"
-
-[[repo]]
-url = "https://github.com/CodeCrowCorp/cro-website-sv"
 
 [[repo]]
 url = "https://github.com/CodeCrowCorp/deprecated-token-list"
@@ -40,6 +34,15 @@ url = "https://github.com/CodeCrowCorp/infinibuild-rider"
 url = "https://github.com/CodeCrowCorp/infinibuild-win"
 
 [[repo]]
+url = "https://github.com/CodeCrowCorp/mage-android"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/mage-ios"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/mage-website"
+
+[[repo]]
 url = "https://github.com/CodeCrowCorp/mongodb"
 
 [[repo]]
@@ -50,6 +53,18 @@ url = "https://github.com/CodeCrowCorp/node-rust"
 
 [[repo]]
 url = "https://github.com/CodeCrowCorp/playwright-e2e-coverage-report"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/serverless-unique-username-generator"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/template-rust-api"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/template-website-sveltekit"
+
+[[repo]]
+url = "https://github.com/CodeCrowCorp/ternary-website"
 
 [[repo]]
 url = "https://github.com/CodeCrowCorp/wrangler-rs-action"

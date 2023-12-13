@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/textileio"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ipfs/js-dag-service"
+
+[[repo]]
+url = "https://github.com/tablelandnetwork/example-apps"
+
+[[repo]]
 url = "https://github.com/textileio/advanced-react-native-boilerplate"
 
 [[repo]]
@@ -76,6 +82,9 @@ url = "https://github.com/textileio/dcrypto"
 url = "https://github.com/textileio/desktop"
 
 [[repo]]
+url = "https://github.com/textileio/discussions"
+
+[[repo]]
 url = "https://github.com/textileio/dsutils"
 
 [[repo]]
@@ -86,9 +95,6 @@ url = "https://github.com/textileio/encryptoid"
 
 [[repo]]
 url = "https://github.com/textileio/eth-storage-bridge"
-
-[[repo]]
-url = "https://github.com/textileio/example-apps"
 
 [[repo]]
 url = "https://github.com/textileio/experimental-plugin-example"
@@ -257,9 +263,6 @@ url = "https://github.com/textileio/js-http-client"
 
 [[repo]]
 url = "https://github.com/textileio/js-http-playground"
-
-[[repo]]
-url = "https://github.com/textileio/js-ipfs-lite"
 
 [[repo]]
 url = "https://github.com/textileio/js-powergate-client"

@@ -10,7 +10,7 @@ github_organizations = ["https://github.com/tombfinance"]
 url = "https://github.com/frozenwalrus/interface"
 
 [[repo]]
-url = "https://github.com/tombfinance/discord-tip-bot"
+url = "https://github.com/thecryptoundertaker/discord-tip-bot"
 
 [[repo]]
 url = "https://github.com/tombfinance/snapshot-spaces"

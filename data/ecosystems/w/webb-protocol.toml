@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/webb-tools"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AstarNetwork/astar.js"
+
+[[repo]]
+url = "https://github.com/webb-tools-aux/tornado-circomlib"
+
+[[repo]]
+url = "https://github.com/webb-tools/.github"
+
+[[repo]]
 url = "https://github.com/webb-tools/Acala"
 
 [[repo]]
@@ -37,12 +46,6 @@ url = "https://github.com/webb-tools/ark-circom"
 url = "https://github.com/webb-tools/ark-plonk"
 
 [[repo]]
-url = "https://github.com/webb-tools/arkworks-gadgets"
-
-[[repo]]
-url = "https://github.com/webb-tools/astar.js"
-
-[[repo]]
 url = "https://github.com/webb-tools/basecoin-rs"
 
 [[repo]]
@@ -56,9 +59,6 @@ url = "https://github.com/webb-tools/bulletproofs-kzen"
 
 [[repo]]
 url = "https://github.com/webb-tools/centipede"
-
-[[repo]]
-url = "https://github.com/webb-tools/cggmp"
 
 [[repo]]
 url = "https://github.com/webb-tools/cggmp-threshold-ecdsa"
@@ -88,22 +88,7 @@ url = "https://github.com/webb-tools/cumulus"
 url = "https://github.com/webb-tools/curv"
 
 [[repo]]
-url = "https://github.com/webb-tools/darkwebb-cosmos"
-
-[[repo]]
-url = "https://github.com/webb-tools/darkwebb-solidity"
-
-[[repo]]
-url = "https://github.com/webb-tools/darkwebb-substrate"
-
-[[repo]]
-url = "https://github.com/webb-tools/dkg-ops"
-
-[[repo]]
 url = "https://github.com/webb-tools/dkg-substrate"
-
-[[repo]]
-url = "https://github.com/webb-tools/egg-net"
 
 [[repo]]
 url = "https://github.com/webb-tools/ethash"
@@ -148,10 +133,16 @@ url = "https://github.com/webb-tools/halo2"
 url = "https://github.com/webb-tools/ibc-rs"
 
 [[repo]]
+url = "https://github.com/webb-tools/incubator-milagro-crypto-rust"
+
+[[repo]]
 url = "https://github.com/webb-tools/jellyfish"
 
 [[repo]]
 url = "https://github.com/webb-tools/lighthouse"
+
+[[repo]]
+url = "https://github.com/webb-tools/masp-protocol"
 
 [[repo]]
 url = "https://github.com/webb-tools/merkle"
@@ -173,6 +164,9 @@ url = "https://github.com/webb-tools/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/webb-tools/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/webb-tools/orbit"
 
 [[repo]]
 url = "https://github.com/webb-tools/pallet-eth2-light-client"
@@ -202,6 +196,9 @@ url = "https://github.com/webb-tools/protocol-solana"
 url = "https://github.com/webb-tools/protocol-solidity"
 
 [[repo]]
+url = "https://github.com/webb-tools/protocol-solidity-extensions"
+
+[[repo]]
 url = "https://github.com/webb-tools/protocol-solidity-fixtures"
 
 [[repo]]
@@ -211,6 +208,9 @@ url = "https://github.com/webb-tools/protocol-substrate"
 url = "https://github.com/webb-tools/protocol-substrate-fixtures"
 
 [[repo]]
+url = "https://github.com/webb-tools/rainbow-bridge"
+
+[[repo]]
 url = "https://github.com/webb-tools/relayer"
 
 [[repo]]
@@ -218,6 +218,12 @@ url = "https://github.com/webb-tools/relayer-1"
 
 [[repo]]
 url = "https://github.com/webb-tools/research"
+
+[[repo]]
+url = "https://github.com/webb-tools/rocket_oauth2"
+
+[[repo]]
+url = "https://github.com/webb-tools/round-based-protocol"
 
 [[repo]]
 url = "https://github.com/webb-tools/rust-paillier"
@@ -235,6 +241,9 @@ url = "https://github.com/webb-tools/semaphore-protocol-solidity-fixtures"
 url = "https://github.com/webb-tools/semaphore.js"
 
 [[repo]]
+url = "https://github.com/webb-tools/signature_bls"
+
+[[repo]]
 url = "https://github.com/webb-tools/sinkhole-rs"
 
 [[repo]]
@@ -248,6 +257,9 @@ url = "https://github.com/webb-tools/specs"
 
 [[repo]]
 url = "https://github.com/webb-tools/substrate"
+
+[[repo]]
+url = "https://github.com/webb-tools/substrate-api-client"
 
 [[repo]]
 url = "https://github.com/webb-tools/substrate-contracts-node"
@@ -271,16 +283,13 @@ url = "https://github.com/webb-tools/swanky"
 url = "https://github.com/webb-tools/tangle"
 
 [[repo]]
+url = "https://github.com/webb-tools/tangle-docs"
+
+[[repo]]
 url = "https://github.com/webb-tools/tangle-network-ops"
 
 [[repo]]
-url = "https://github.com/webb-tools/tornado-circomlib"
-
-[[repo]]
 url = "https://github.com/webb-tools/tornado-core"
-
-[[repo]]
-url = "https://github.com/webb-tools/webb-anonymity-mining"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-dapp"
@@ -290,6 +299,15 @@ url = "https://github.com/webb-tools/webb-docs"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-experiences"
+
+[[repo]]
+url = "https://github.com/webb-tools/webb-faucet"
+
+[[repo]]
+url = "https://github.com/webb-tools/webb-github-actions"
+
+[[repo]]
+url = "https://github.com/webb-tools/webb-graphql"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-rs"
@@ -307,10 +325,19 @@ url = "https://github.com/webb-tools/webb.js"
 url = "https://github.com/webb-tools/websnark"
 
 [[repo]]
+url = "https://github.com/webb-tools/wsts"
+
+[[repo]]
 url = "https://github.com/webb-tools/zero-knowledge-gadgets"
 
 [[repo]]
 url = "https://github.com/webb-tools/zk-paillier"
 
 [[repo]]
+url = "https://github.com/webb-tools/zk-SaaS"
+
+[[repo]]
 url = "https://github.com/webb-tools/ZKJobs"
+
+[[repo]]
+url = "https://github.com/webb-tools/zksaas"

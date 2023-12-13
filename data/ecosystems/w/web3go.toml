@@ -25,7 +25,17 @@ url = "https://github.com/web3go-xyz/common"
 url = "https://github.com/web3go-xyz/Crowdloan-Indexer"
 
 [[repo]]
+url = "https://github.com/web3go-xyz/DIN-DOC"
+missing = true
+
+[[repo]]
+url = "https://github.com/web3go-xyz/Doc-Reiki"
+
+[[repo]]
 url = "https://github.com/web3go-xyz/docs"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/hackathon-2022-winter"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/indexer-polkadot-xcm"
@@ -37,7 +47,14 @@ url = "https://github.com/web3go-xyz/litmus-balance-indexer"
 url = "https://github.com/web3go-xyz/logo"
 
 [[repo]]
+url = "https://github.com/web3go-xyz/manta-datakit-calamari-indexer"
+missing = true
+
+[[repo]]
 url = "https://github.com/web3go-xyz/moonbeam-balance-indexer"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/moonbeam-tools"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/oracle-token-price"
@@ -62,6 +79,7 @@ url = "https://github.com/web3go-xyz/portal-ui-h5"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/portal-ui-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3go-xyz/RMRK-Indexer"
@@ -70,10 +88,30 @@ url = "https://github.com/web3go-xyz/RMRK-Indexer"
 url = "https://github.com/web3go-xyz/subquery-demostration"
 
 [[repo]]
+url = "https://github.com/web3go-xyz/web3go-network-data-collection-agent"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/web3go-network-dify"
+missing = true
+
+[[repo]]
+url = "https://github.com/web3go-xyz/web3go-network-dify-fork"
+missing = true
+
+[[repo]]
 url = "https://github.com/web3go-xyz/web3go-official-website"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/web3go-official-website-mobile"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/web3go-pulsar-nifi-bundle"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/web3go-xyz-v2"
+
+[[repo]]
+url = "https://github.com/web3go-xyz/web3go-xyz-v2-docker-build"
 
 [[repo]]
 url = "https://github.com/web3go-xyz/web3go.xyz"

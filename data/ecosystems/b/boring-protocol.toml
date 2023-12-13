@@ -16,6 +16,9 @@ url = "https://github.com/boringprotocol/bopbot"
 url = "https://github.com/boringprotocol/bops-ur-uncle"
 
 [[repo]]
+url = "https://github.com/boringprotocol/bore"
+
+[[repo]]
 url = "https://github.com/boringprotocol/boring-bird"
 
 [[repo]]
@@ -31,9 +34,6 @@ url = "https://github.com/boringprotocol/boring-scripts-intel"
 url = "https://github.com/boringprotocol/boringprotocol-io"
 
 [[repo]]
-url = "https://github.com/boringprotocol/boringprotocol.github.io"
-
-[[repo]]
 url = "https://github.com/boringprotocol/boringprotocol.sol"
 
 [[repo]]
@@ -47,6 +47,9 @@ url = "https://github.com/boringprotocol/bridge_ui"
 
 [[repo]]
 url = "https://github.com/boringprotocol/connect-pi"
+
+[[repo]]
+url = "https://github.com/boringprotocol/dev-notes"
 
 [[repo]]
 url = "https://github.com/boringprotocol/docs"

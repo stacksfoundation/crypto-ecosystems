@@ -97,6 +97,9 @@ url = "https://github.com/sora-xor/rfps"
 url = "https://github.com/sora-xor/slides"
 
 [[repo]]
+url = "https://github.com/sora-xor/sora-accounting"
+
+[[repo]]
 url = "https://github.com/sora-xor/Sora-Android"
 
 [[repo]]
@@ -109,7 +112,22 @@ url = "https://github.com/sora-xor/sora-bounties"
 url = "https://github.com/sora-xor/sora-branding"
 
 [[repo]]
+url = "https://github.com/sora-xor/sora-card"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-card-android"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-card-ios"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-card-web"
+
+[[repo]]
 url = "https://github.com/sora-xor/sora-desktop"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-docs"
 
 [[repo]]
 url = "https://github.com/sora-xor/sora-farming-gateway"
@@ -121,6 +139,12 @@ url = "https://github.com/sora-xor/sora-farming-web"
 url = "https://github.com/sora-xor/sora-font"
 
 [[repo]]
+url = "https://github.com/sora-xor/sora-indexer"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-indexer-compare"
+
+[[repo]]
 url = "https://github.com/sora-xor/Sora-iOS"
 
 [[repo]]
@@ -130,10 +154,16 @@ url = "https://github.com/sora-xor/sora-join-page"
 url = "https://github.com/sora-xor/sora-llama-adapter"
 
 [[repo]]
+url = "https://github.com/sora-xor/sora-mobile"
+
+[[repo]]
 url = "https://github.com/sora-xor/sora-subquery"
 
 [[repo]]
 url = "https://github.com/sora-xor/sora-subquery-dictionary"
+
+[[repo]]
+url = "https://github.com/sora-xor/sora-subsquid"
 
 [[repo]]
 url = "https://github.com/sora-xor/sora-whitepaper"
@@ -166,7 +196,16 @@ url = "https://github.com/sora-xor/sora2-types"
 url = "https://github.com/sora-xor/sora2-wallet-web"
 
 [[repo]]
+url = "https://github.com/sora-xor/SORASubConnect"
+
+[[repo]]
 url = "https://github.com/sora-xor/sorav1-migration"
+
+[[repo]]
+url = "https://github.com/sora-xor/squid-sdk"
+
+[[repo]]
+url = "https://github.com/sora-xor/subsquid"
 
 [[repo]]
 url = "https://github.com/sora-xor/substrate"
@@ -196,7 +235,13 @@ url = "https://github.com/soramitsu/1code-java"
 url = "https://github.com/soramitsu/1code-rust"
 
 [[repo]]
+url = "https://github.com/soramitsu/adar"
+
+[[repo]]
 url = "https://github.com/soramitsu/adar-android"
+
+[[repo]]
+url = "https://github.com/soramitsu/adar-autotests"
 
 [[repo]]
 url = "https://github.com/soramitsu/adar-iOS"
@@ -212,9 +257,6 @@ url = "https://github.com/soramitsu/android-foundation"
 
 [[repo]]
 url = "https://github.com/soramitsu/ansible-plugins"
-
-[[repo]]
-url = "https://github.com/soramitsu/apps"
 
 [[repo]]
 url = "https://github.com/soramitsu/binaryen"
@@ -239,9 +281,6 @@ url = "https://github.com/soramitsu/dauth-springsecurity"
 
 [[repo]]
 url = "https://github.com/soramitsu/devops-interview-app"
-
-[[repo]]
-url = "https://github.com/soramitsu/did-resolver"
 
 [[repo]]
 url = "https://github.com/soramitsu/did-spec"
@@ -313,7 +352,13 @@ url = "https://github.com/soramitsu/hunter-binary-cache"
 url = "https://github.com/soramitsu/ios-crypto"
 
 [[repo]]
+url = "https://github.com/soramitsu/ios-ui"
+
+[[repo]]
 url = "https://github.com/soramitsu/iroha"
+
+[[repo]]
+url = "https://github.com/soramitsu/iroha-2-docs"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha-api"
@@ -332,9 +377,6 @@ url = "https://github.com/soramitsu/iroha-demo-ios"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha-demo-javascript"
-
-[[repo]]
-url = "https://github.com/soramitsu/iroha-ebpf-prototype"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha-ed25519-sha3-java"
@@ -370,6 +412,12 @@ url = "https://github.com/soramitsu/iroha-pi"
 url = "https://github.com/soramitsu/iroha-point-ios"
 
 [[repo]]
+url = "https://github.com/soramitsu/iroha-rfcs"
+
+[[repo]]
+url = "https://github.com/soramitsu/iroha-squash"
+
+[[repo]]
 url = "https://github.com/soramitsu/iroha-tic-tac-toe"
 
 [[repo]]
@@ -388,6 +436,9 @@ url = "https://github.com/soramitsu/iroha2-block-explorer-web"
 url = "https://github.com/soramitsu/iroha2-cargo_lints"
 
 [[repo]]
+url = "https://github.com/soramitsu/iroha2-docs-compat-matrix-service"
+
+[[repo]]
 url = "https://github.com/soramitsu/iroha2-ebpf-prototype"
 
 [[repo]]
@@ -403,13 +454,13 @@ url = "https://github.com/soramitsu/iroha2-longevity-load"
 url = "https://github.com/soramitsu/iroha2-longevity-load-rs"
 
 [[repo]]
+url = "https://github.com/soramitsu/iroha2-perf"
+
+[[repo]]
 url = "https://github.com/soramitsu/iroha2-tcp-test"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha2-tools"
-
-[[repo]]
-url = "https://github.com/soramitsu/iroha2-transaction-signer"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha2-unique_port"
@@ -419,9 +470,6 @@ url = "https://github.com/soramitsu/iroha2-wasm-prototype"
 
 [[repo]]
 url = "https://github.com/soramitsu/iroha2-wsv-test"
-
-[[repo]]
-url = "https://github.com/soramitsu/iroha_longevity"
 
 [[repo]]
 url = "https://github.com/soramitsu/IrohaCrypto"
@@ -440,6 +488,9 @@ url = "https://github.com/soramitsu/jsonrpc"
 
 [[repo]]
 url = "https://github.com/soramitsu/kagome"
+
+[[repo]]
+url = "https://github.com/soramitsu/kagome-autotests"
 
 [[repo]]
 url = "https://github.com/soramitsu/kagome-clang"
@@ -508,16 +559,10 @@ url = "https://github.com/soramitsu/nakayoshi"
 url = "https://github.com/soramitsu/open-banking-core-middleware"
 
 [[repo]]
-url = "https://github.com/soramitsu/pallet-transaction-payment"
-
-[[repo]]
 url = "https://github.com/soramitsu/polkadot-js-apps"
 
 [[repo]]
 url = "https://github.com/soramitsu/polkascan-os"
-
-[[repo]]
-url = "https://github.com/soramitsu/polkaswap-exchange-web"
 
 [[repo]]
 url = "https://github.com/soramitsu/py-scale-codec"
@@ -533,6 +578,18 @@ url = "https://github.com/soramitsu/scale-codec-cpp"
 
 [[repo]]
 url = "https://github.com/soramitsu/scale-codec-js-library"
+
+[[repo]]
+url = "https://github.com/soramitsu/shared-features-android"
+
+[[repo]]
+url = "https://github.com/soramitsu/shared-features-ios"
+
+[[repo]]
+url = "https://github.com/soramitsu/shared-features-utils"
+
+[[repo]]
+url = "https://github.com/soramitsu/snync"
 
 [[repo]]
 url = "https://github.com/soramitsu/sora-didresolver"
@@ -565,6 +622,9 @@ url = "https://github.com/soramitsu/soramitsu-boost-di"
 url = "https://github.com/soramitsu/soramitsu-chain-adapter"
 
 [[repo]]
+url = "https://github.com/soramitsu/soramitsu-email-bimi"
+
+[[repo]]
 url = "https://github.com/soramitsu/soramitsu-hunter"
 
 [[repo]]
@@ -583,7 +643,7 @@ url = "https://github.com/soramitsu/soramitsu-libsecp256k1"
 url = "https://github.com/soramitsu/soramitsu-libsecp256k1-archive"
 
 [[repo]]
-url = "https://github.com/soramitsu/soramitsu-medley"
+url = "https://github.com/soramitsu/soramitsu-sonarqube-community-branch-plugin"
 
 [[repo]]
 url = "https://github.com/soramitsu/soramitsu-sr25519-crust"
@@ -593,9 +653,6 @@ url = "https://github.com/soramitsu/soramitsu-tangem-pin-replacer"
 
 [[repo]]
 url = "https://github.com/soramitsu/soramitsu-UIkit-android"
-
-[[repo]]
-url = "https://github.com/soramitsu/SoraNeo-frame-pallets"
 
 [[repo]]
 url = "https://github.com/soramitsu/soranet-brvs"
@@ -646,13 +703,13 @@ url = "https://github.com/soramitsu/vc-data-model"
 url = "https://github.com/soramitsu/vue-kakuyaku"
 
 [[repo]]
-url = "https://github.com/soramitsu/vue-swr-composable"
-
-[[repo]]
 url = "https://github.com/soramitsu/WAVM"
 
 [[repo]]
 url = "https://github.com/soramitsu/website-data"
+
+[[repo]]
+url = "https://github.com/soramitsu/x-crypto"
 
 [[repo]]
 url = "https://github.com/soramitsu/x-networking"

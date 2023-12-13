@@ -34,6 +34,9 @@ url = "https://github.com/LambdaIM/grafana"
 url = "https://github.com/LambdaIM/hdkeydemo"
 
 [[repo]]
+url = "https://github.com/LambdaIM/HdkeyJs"
+
+[[repo]]
 url = "https://github.com/LambdaIM/iavl"
 
 [[repo]]
@@ -55,7 +58,10 @@ url = "https://github.com/LambdaIM/lambda-sdk"
 url = "https://github.com/LambdaIM/lambda-vm"
 
 [[repo]]
-url = "https://github.com/LambdaIM/lambdavm"
+url = "https://github.com/LambdaIM/LambdaStoragePackage"
+
+[[repo]]
+url = "https://github.com/LambdaIM/lambdatool"
 
 [[repo]]
 url = "https://github.com/LambdaIM/lambdavm"
@@ -64,10 +70,22 @@ url = "https://github.com/LambdaIM/lambdavm"
 url = "https://github.com/LambdaIM/lambswapSite"
 
 [[repo]]
+url = "https://github.com/LambdaIM/lambswapUI"
+
+[[repo]]
+url = "https://github.com/LambdaIM/LambTradeJs"
+
+[[repo]]
 url = "https://github.com/LambdaIM/launch"
 
 [[repo]]
 url = "https://github.com/LambdaIM/launchpad"
+
+[[repo]]
+url = "https://github.com/LambdaIM/lns-contracts"
+
+[[repo]]
+url = "https://github.com/LambdaIM/lns-subgraph"
 
 [[repo]]
 url = "https://github.com/LambdaIM/mainnet"
@@ -83,6 +101,9 @@ url = "https://github.com/LambdaIM/minio-go"
 
 [[repo]]
 url = "https://github.com/LambdaIM/proofDP"
+
+[[repo]]
+url = "https://github.com/LambdaIM/RestRpcApiJs"
 
 [[repo]]
 url = "https://github.com/LambdaIM/rust_lua_ffi"
@@ -113,6 +134,9 @@ url = "https://github.com/LambdaIM/uniswap-interface"
 
 [[repo]]
 url = "https://github.com/LambdaIM/upload_demo"
+
+[[repo]]
+url = "https://github.com/LambdaIM/wallet"
 
 [[repo]]
 url = "https://github.com/LambdaIM/wallet.android"

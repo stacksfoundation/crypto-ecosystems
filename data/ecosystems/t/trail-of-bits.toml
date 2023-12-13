@@ -31,6 +31,12 @@ url = "https://github.com/crytic/blockchain-security-contacts"
 url = "https://github.com/crytic/building-secure-contracts"
 
 [[repo]]
+url = "https://github.com/crytic/caracal"
+
+[[repo]]
+url = "https://github.com/crytic/cloudexec"
+
+[[repo]]
 url = "https://github.com/crytic/crytic-compile"
 
 [[repo]]
@@ -44,6 +50,9 @@ url = "https://github.com/crytic/damn-vulnerable-defi-echidna"
 
 [[repo]]
 url = "https://github.com/crytic/dapptools"
+
+[[repo]]
+url = "https://github.com/crytic/diffusc"
 
 [[repo]]
 url = "https://github.com/crytic/echidna"
@@ -67,13 +76,25 @@ url = "https://github.com/crytic/echidna-yacademy-demo"
 url = "https://github.com/crytic/embark-contract-info"
 
 [[repo]]
-url = "https://github.com/crytic/eth-security-toolbox"
+url = "https://github.com/crytic/eth-network-package"
+
+[[repo]]
+url = "https://github.com/crytic/eth2-package"
+
+[[repo]]
+url = "https://github.com/crytic/eth2-val-tools"
 
 [[repo]]
 url = "https://github.com/crytic/ethcc-demo"
 
 [[repo]]
 url = "https://github.com/crytic/etheno"
+
+[[repo]]
+url = "https://github.com/crytic/ethereum-genesis-generator"
+
+[[repo]]
+url = "https://github.com/crytic/ethereum-package"
 
 [[repo]]
 url = "https://github.com/crytic/ethersplay"
@@ -91,10 +112,19 @@ url = "https://github.com/crytic/fluxture"
 url = "https://github.com/crytic/ida-evm"
 
 [[repo]]
+url = "https://github.com/crytic/medusa"
+
+[[repo]]
+url = "https://github.com/crytic/medusa-geth"
+
+[[repo]]
 url = "https://github.com/crytic/not-so-smart-contracts"
 
 [[repo]]
 url = "https://github.com/crytic/optik"
+
+[[repo]]
+url = "https://github.com/crytic/properties"
 
 [[repo]]
 url = "https://github.com/crytic/pyevmasm"
@@ -106,6 +136,9 @@ url = "https://github.com/crytic/rattle"
 url = "https://github.com/crytic/remix-plugin-8000"
 
 [[repo]]
+url = "https://github.com/crytic/secureum-medusa"
+
+[[repo]]
 url = "https://github.com/crytic/slightly-smarter-contracts"
 
 [[repo]]
@@ -113,6 +146,12 @@ url = "https://github.com/crytic/slither"
 
 [[repo]]
 url = "https://github.com/crytic/slither-action"
+
+[[repo]]
+url = "https://github.com/crytic/slither-docs-action"
+
+[[repo]]
+url = "https://github.com/crytic/slither-docs-demo"
 
 [[repo]]
 url = "https://github.com/crytic/slither-vscode"
@@ -142,6 +181,18 @@ url = "https://github.com/crytic/vscode-starknet-explorer"
 url = "https://github.com/crytic/whipstaff"
 
 [[repo]]
+url = "https://github.com/Homebrew/brew-pip-audit"
+
+[[repo]]
+url = "https://github.com/pypa/gh-action-pip-audit"
+
+[[repo]]
+url = "https://github.com/pypa/pip-audit"
+
+[[repo]]
+url = "https://github.com/sigstore/gh-action-sigstore-python"
+
+[[repo]]
 url = "https://github.com/trailofbits/.github"
 
 [[repo]]
@@ -169,10 +220,16 @@ url = "https://github.com/trailofbits/AppJailLauncher"
 url = "https://github.com/trailofbits/appjaillauncher-rs"
 
 [[repo]]
+url = "https://github.com/trailofbits/ASanBench"
+
+[[repo]]
 url = "https://github.com/trailofbits/attribution-vm"
 
 [[repo]]
 url = "https://github.com/trailofbits/audit-kubernetes"
+
+[[repo]]
+url = "https://github.com/trailofbits/awesome-ml-security"
 
 [[repo]]
 url = "https://github.com/trailofbits/binjascripts"
@@ -190,13 +247,13 @@ url = "https://github.com/trailofbits/blight"
 url = "https://github.com/trailofbits/bpf_tutorials_code"
 
 [[repo]]
-url = "https://github.com/trailofbits/brew-pip-audit"
-
-[[repo]]
 url = "https://github.com/trailofbits/btfparse"
 
 [[repo]]
 url = "https://github.com/trailofbits/cast2gif"
+
+[[repo]]
+url = "https://github.com/trailofbits/cast_checks"
 
 [[repo]]
 url = "https://github.com/trailofbits/cb-multios"
@@ -214,6 +271,9 @@ url = "https://github.com/trailofbits/cfg-showcase"
 url = "https://github.com/trailofbits/circomspect"
 
 [[repo]]
+url = "https://github.com/trailofbits/circuitous"
+
+[[repo]]
 url = "https://github.com/trailofbits/circuitous-benchmarks"
 
 [[repo]]
@@ -226,7 +286,13 @@ url = "https://github.com/trailofbits/clang-tidy-audit"
 url = "https://github.com/trailofbits/clash-silicon-tinytapeout"
 
 [[repo]]
+url = "https://github.com/trailofbits/Codex-Decompiler"
+
+[[repo]]
 url = "https://github.com/trailofbits/constexpr-everything"
+
+[[repo]]
+url = "https://github.com/trailofbits/cookiecutter-python"
 
 [[repo]]
 url = "https://github.com/trailofbits/crytic-demo"
@@ -236,6 +302,9 @@ url = "https://github.com/trailofbits/ctf"
 
 [[repo]]
 url = "https://github.com/trailofbits/ctf-challenges"
+
+[[repo]]
+url = "https://github.com/trailofbits/curl-fuzzer"
 
 [[repo]]
 url = "https://github.com/trailofbits/cvedb"
@@ -248,6 +317,9 @@ url = "https://github.com/trailofbits/deepstate"
 
 [[repo]]
 url = "https://github.com/trailofbits/deepstate-test-suite"
+
+[[repo]]
+url = "https://github.com/trailofbits/disclose"
 
 [[repo]]
 url = "https://github.com/trailofbits/divergent-representations"
@@ -274,6 +346,9 @@ url = "https://github.com/trailofbits/eatmynetwork"
 url = "https://github.com/trailofbits/ebpf-common"
 
 [[repo]]
+url = "https://github.com/trailofbits/ebpf-verifier"
+
+[[repo]]
 url = "https://github.com/trailofbits/ebpfault"
 
 [[repo]]
@@ -295,16 +370,7 @@ url = "https://github.com/trailofbits/eth-security-toolbox"
 url = "https://github.com/trailofbits/fickling"
 
 [[repo]]
-url = "https://github.com/trailofbits/fluxture"
-
-[[repo]]
 url = "https://github.com/trailofbits/flying-sandbox-monster"
-
-[[repo]]
-url = "https://github.com/trailofbits/gh-action-pip-audit"
-
-[[repo]]
-url = "https://github.com/trailofbits/gh-action-sigstore-python"
 
 [[repo]]
 url = "https://github.com/trailofbits/ghe-backup"
@@ -325,10 +391,16 @@ url = "https://github.com/trailofbits/graphtage"
 url = "https://github.com/trailofbits/hacker-anthology"
 
 [[repo]]
+url = "https://github.com/trailofbits/homebrew-tools"
+
+[[repo]]
 url = "https://github.com/trailofbits/Honeybee"
 
 [[repo]]
 url = "https://github.com/trailofbits/http-security"
+
+[[repo]]
+url = "https://github.com/trailofbits/HVCI-loldrivers-check"
 
 [[repo]]
 url = "https://github.com/trailofbits/indurative"
@@ -368,6 +440,9 @@ url = "https://github.com/trailofbits/llvm-wedlock"
 
 [[repo]]
 url = "https://github.com/trailofbits/maat"
+
+[[repo]]
+url = "https://github.com/trailofbits/macroni"
 
 [[repo]]
 url = "https://github.com/trailofbits/magnifier"
@@ -415,6 +490,9 @@ url = "https://github.com/trailofbits/mpc-learning"
 url = "https://github.com/trailofbits/mttn"
 
 [[repo]]
+url = "https://github.com/trailofbits/nate"
+
+[[repo]]
 url = "https://github.com/trailofbits/necessist"
 
 [[repo]]
@@ -425,6 +503,9 @@ url = "https://github.com/trailofbits/nginx-json-kss"
 
 [[repo]]
 url = "https://github.com/trailofbits/not-going-anywhere"
+
+[[repo]]
+url = "https://github.com/trailofbits/not-going-anywhere-revamp"
 
 [[repo]]
 url = "https://github.com/trailofbits/not-slithering-anywhere"
@@ -448,6 +529,9 @@ url = "https://github.com/trailofbits/on-edge"
 url = "https://github.com/trailofbits/onesixtyone"
 
 [[repo]]
+url = "https://github.com/trailofbits/orzo"
+
+[[repo]]
 url = "https://github.com/trailofbits/osquery"
 
 [[repo]]
@@ -464,9 +548,6 @@ url = "https://github.com/trailofbits/pe-parse"
 
 [[repo]]
 url = "https://github.com/trailofbits/pegoat"
-
-[[repo]]
-url = "https://github.com/trailofbits/pip-audit"
 
 [[repo]]
 url = "https://github.com/trailofbits/polyfile"
@@ -494,6 +575,9 @@ url = "https://github.com/trailofbits/RaceSanitizer"
 
 [[repo]]
 url = "https://github.com/trailofbits/reverie"
+
+[[repo]]
+url = "https://github.com/trailofbits/RpcInvestigator"
 
 [[repo]]
 url = "https://github.com/trailofbits/ruby-sslyze"
@@ -535,6 +619,9 @@ url = "https://github.com/trailofbits/sienna-locomotive"
 url = "https://github.com/trailofbits/sigstore-conformance"
 
 [[repo]]
+url = "https://github.com/trailofbits/sigstore-rekor-types"
+
+[[repo]]
 url = "https://github.com/trailofbits/simple-pt"
 
 [[repo]]
@@ -550,9 +637,6 @@ url = "https://github.com/trailofbits/sixtyfour"
 url = "https://github.com/trailofbits/slither-cloud-action"
 
 [[repo]]
-url = "https://github.com/trailofbits/solana-lints"
-
-[[repo]]
 url = "https://github.com/trailofbits/spf-query"
 
 [[repo]]
@@ -560,6 +644,12 @@ url = "https://github.com/trailofbits/sqlite_wrapper"
 
 [[repo]]
 url = "https://github.com/trailofbits/streamalert"
+
+[[repo]]
+url = "https://github.com/trailofbits/sv-bench-patch"
+
+[[repo]]
+url = "https://github.com/trailofbits/sv_circuit"
 
 [[repo]]
 url = "https://github.com/trailofbits/tacklebox"
@@ -598,7 +688,16 @@ url = "https://github.com/trailofbits/uthenticode"
 url = "https://github.com/trailofbits/vast"
 
 [[repo]]
+url = "https://github.com/trailofbits/vast-checker"
+
+[[repo]]
+url = "https://github.com/trailofbits/verilog_tools"
+
+[[repo]]
 url = "https://github.com/trailofbits/vspells-smt-benchmarks"
+
+[[repo]]
+url = "https://github.com/trailofbits/wasm-tob"
 
 [[repo]]
 url = "https://github.com/trailofbits/weggli-native"
@@ -613,7 +712,16 @@ url = "https://github.com/trailofbits/winchecksec-scan"
 url = "https://github.com/trailofbits/windows-acl"
 
 [[repo]]
+url = "https://github.com/trailofbits/windows-ctl"
+
+[[repo]]
 url = "https://github.com/trailofbits/WoSCA"
+
+[[repo]]
+url = "https://github.com/trailofbits/x509-limbo"
+
+[[repo]]
+url = "https://github.com/trailofbits/ZFuzz"
 
 [[repo]]
 url = "https://github.com/trailofbits/zkdocs"

@@ -13,6 +13,9 @@ url = "https://github.com/Satellite-im/.github"
 url = "https://github.com/Satellite-im/android"
 
 [[repo]]
+url = "https://github.com/Satellite-im/audiopus_sys"
+
+[[repo]]
 url = "https://github.com/Satellite-im/bittorrent-tracker"
 
 [[repo]]
@@ -20,12 +23,6 @@ url = "https://github.com/Satellite-im/Blink"
 
 [[repo]]
 url = "https://github.com/Satellite-im/bls12_381_plus"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Build-Android"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Build-Desktop"
 
 [[repo]]
 url = "https://github.com/Satellite-im/CLI"
@@ -40,6 +37,12 @@ url = "https://github.com/Satellite-im/cypress"
 url = "https://github.com/Satellite-im/did-key.rs"
 
 [[repo]]
+url = "https://github.com/Satellite-im/did_url"
+
+[[repo]]
+url = "https://github.com/Satellite-im/dioxus"
+
+[[repo]]
 url = "https://github.com/Satellite-im/dioxus-heroicons"
 
 [[repo]]
@@ -47,9 +50,6 @@ url = "https://github.com/Satellite-im/dioxus-toast"
 
 [[repo]]
 url = "https://github.com/Satellite-im/echo"
-
-[[repo]]
-url = "https://github.com/Satellite-im/electron"
 
 [[repo]]
 url = "https://github.com/Satellite-im/iridium"
@@ -64,6 +64,21 @@ url = "https://github.com/Satellite-im/Legacy-Contracts"
 url = "https://github.com/Satellite-im/locales"
 
 [[repo]]
+url = "https://github.com/Satellite-im/markdowns"
+
+[[repo]]
+url = "https://github.com/Satellite-im/messaging-poc"
+
+[[repo]]
+url = "https://github.com/Satellite-im/mp4-rust"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Mycelium"
+
+[[repo]]
+url = "https://github.com/Satellite-im/opus-rs"
+
+[[repo]]
 url = "https://github.com/Satellite-im/P2PT"
 
 [[repo]]
@@ -76,18 +91,6 @@ url = "https://github.com/Satellite-im/Safer"
 url = "https://github.com/Satellite-im/Sata"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Satellite-Absolute"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Build-Android"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Build-Desktop"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Contracts"
-
-[[repo]]
 url = "https://github.com/Satellite-im/satellite-im.github.io"
 
 [[repo]]
@@ -97,19 +100,7 @@ url = "https://github.com/Satellite-im/Satellite-Legacy"
 url = "https://github.com/Satellite-im/satellite-lucide-vue"
 
 [[repo]]
-url = "https://github.com/Satellite-im/satellite-solana-contracts"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Solana-Faucet"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Translations"
-
-[[repo]]
 url = "https://github.com/Satellite-im/Satellite-Web"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Satellite-Website"
 
 [[repo]]
 url = "https://github.com/Satellite-im/signal-server"
@@ -136,7 +127,16 @@ url = "https://github.com/Satellite-im/solana-programs"
 url = "https://github.com/Satellite-im/stun"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Translations"
+url = "https://github.com/Satellite-im/tauri"
+
+[[repo]]
+url = "https://github.com/Satellite-im/test-builds-uplink"
+
+[[repo]]
+url = "https://github.com/Satellite-im/testing-uplink"
+
+[[repo]]
+url = "https://github.com/Satellite-im/transit"
 
 [[repo]]
 url = "https://github.com/Satellite-im/typed-emitter"
@@ -145,7 +145,16 @@ url = "https://github.com/Satellite-im/typed-emitter"
 url = "https://github.com/Satellite-im/Uplink"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Uplink-Desktop"
+url = "https://github.com/Satellite-im/Uplink-Backlog"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-build-testing"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-Builds"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-Deprecated"
 
 [[repo]]
 url = "https://github.com/Satellite-im/Uplink-Desktop-CSS-Test-Bench"
@@ -154,10 +163,7 @@ url = "https://github.com/Satellite-im/Uplink-Desktop-CSS-Test-Bench"
 url = "https://github.com/Satellite-im/Uplink-Mobile"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Uplink-Native-"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Uplink-UI_Kit"
+url = "https://github.com/Satellite-im/Uplink-Test_Builds"
 
 [[repo]]
 url = "https://github.com/Satellite-im/vue-emoji-picker"
@@ -175,16 +181,10 @@ url = "https://github.com/Satellite-im/warp-docs"
 url = "https://github.com/Satellite-im/warp-wasm"
 
 [[repo]]
-url = "https://github.com/Satellite-im/WarpGUI"
-
-[[repo]]
 url = "https://github.com/Satellite-im/webrtc-star-signalling"
 
 [[repo]]
 url = "https://github.com/Satellite-im/Website"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Wormhole"
 
 [[repo]]
 url = "https://github.com/Satellite-im/wormhole-docs"

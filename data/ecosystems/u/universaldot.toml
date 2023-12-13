@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/UniversalDot"]
 url = "https://github.com/UniversalDot/.github"
 
 [[repo]]
+url = "https://github.com/UniversalDot/ansible"
+
+[[repo]]
 url = "https://github.com/UniversalDot/compose-service"
 
 [[repo]]
@@ -46,6 +49,9 @@ url = "https://github.com/UniversalDot/tfhub.dev"
 url = "https://github.com/UniversalDot/udot-wiki"
 
 [[repo]]
+url = "https://github.com/UniversalDot/uip"
+
+[[repo]]
 url = "https://github.com/UniversalDot/universal-dot-front-end"
 
 [[repo]]
@@ -62,3 +68,6 @@ url = "https://github.com/UniversalDot/website-app"
 
 [[repo]]
 url = "https://github.com/UniversalDot/website-foundation"
+
+[[repo]]
+url = "https://github.com/UniversalDot/zero-knowledge"

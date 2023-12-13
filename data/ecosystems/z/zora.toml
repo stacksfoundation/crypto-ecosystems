@@ -16,6 +16,12 @@ url = "https://github.com/ourzora/auction-house"
 url = "https://github.com/ourzora/auction-houses-twitter-bot"
 
 [[repo]]
+url = "https://github.com/ourzora/chains"
+
+[[repo]]
+url = "https://github.com/ourzora/chains-cli"
+
+[[repo]]
 url = "https://github.com/ourzora/cli"
 
 [[repo]]
@@ -23,9 +29,6 @@ url = "https://github.com/ourzora/core"
 
 [[repo]]
 url = "https://github.com/ourzora/create-auction-house"
-
-[[repo]]
-url = "https://github.com/ourzora/create-nft-drop"
 
 [[repo]]
 url = "https://github.com/ourzora/cryptomedia"
@@ -40,13 +43,28 @@ url = "https://github.com/ourzora/doge-nft"
 url = "https://github.com/ourzora/dropsite"
 
 [[repo]]
+url = "https://github.com/ourzora/erigon"
+
+[[repo]]
+url = "https://github.com/ourzora/erigon-metrics"
+
+[[repo]]
 url = "https://github.com/ourzora/excluded-uni-airdrop-users"
 
 [[repo]]
 url = "https://github.com/ourzora/faucets"
 
 [[repo]]
+url = "https://github.com/ourzora/faust"
+
+[[repo]]
+url = "https://github.com/ourzora/first-lol"
+
+[[repo]]
 url = "https://github.com/ourzora/foundry-script-examples"
+
+[[repo]]
+url = "https://github.com/ourzora/frontend-exercise-one"
 
 [[repo]]
 url = "https://github.com/ourzora/gunicorn"
@@ -61,6 +79,9 @@ url = "https://github.com/ourzora/indexer"
 url = "https://github.com/ourzora/jimmy-auction-house"
 
 [[repo]]
+url = "https://github.com/ourzora/json-extension-registry"
+
+[[repo]]
 url = "https://github.com/ourzora/mad-realities-auction"
 
 [[repo]]
@@ -73,10 +94,10 @@ url = "https://github.com/ourzora/matthew-ball-minting-contract"
 url = "https://github.com/ourzora/media-metadata-schemas"
 
 [[repo]]
-url = "https://github.com/ourzora/metazerse"
+url = "https://github.com/ourzora/mint-page-template"
 
 [[repo]]
-url = "https://github.com/ourzora/mint-page-template"
+url = "https://github.com/ourzora/multicall"
 
 [[repo]]
 url = "https://github.com/ourzora/munchmunchmunch"
@@ -100,7 +121,13 @@ url = "https://github.com/ourzora/nft-metadata"
 url = "https://github.com/ourzora/nouns-ar-glasses-ios"
 
 [[repo]]
+url = "https://github.com/ourzora/nouns-builder"
+
+[[repo]]
 url = "https://github.com/ourzora/nouns-builder-bot"
+
+[[repo]]
+url = "https://github.com/ourzora/nouns-connect"
 
 [[repo]]
 url = "https://github.com/ourzora/nouns-marketplace"
@@ -115,10 +142,28 @@ url = "https://github.com/ourzora/offchain"
 url = "https://github.com/ourzora/og-image"
 
 [[repo]]
+url = "https://github.com/ourzora/op-erigon"
+
+[[repo]]
+url = "https://github.com/ourzora/op-viem"
+
+[[repo]]
+url = "https://github.com/ourzora/openzeppelin-contracts-upgradeable"
+
+[[repo]]
+url = "https://github.com/ourzora/optimism"
+
+[[repo]]
 url = "https://github.com/ourzora/pipeline_test"
 
 [[repo]]
+url = "https://github.com/ourzora/protocol-rewards"
+
+[[repo]]
 url = "https://github.com/ourzora/recovery-protocol"
+
+[[repo]]
+url = "https://github.com/ourzora/rent-a-vote"
 
 [[repo]]
 url = "https://github.com/ourzora/royalty-registry-solidity"
@@ -127,7 +172,13 @@ url = "https://github.com/ourzora/royalty-registry-solidity"
 url = "https://github.com/ourzora/rug-house"
 
 [[repo]]
+url = "https://github.com/ourzora/sad-girl-stack"
+
+[[repo]]
 url = "https://github.com/ourzora/simple-wallet-provider"
+
+[[repo]]
+url = "https://github.com/ourzora/smol-safe"
 
 [[repo]]
 url = "https://github.com/ourzora/thegrandexchange"
@@ -140,6 +191,12 @@ url = "https://github.com/ourzora/uvicorn"
 
 [[repo]]
 url = "https://github.com/ourzora/v3"
+
+[[repo]]
+url = "https://github.com/ourzora/viem"
+
+[[repo]]
+url = "https://github.com/ourzora/wagmi-references"
 
 [[repo]]
 url = "https://github.com/ourzora/WalletConnectSwift"
@@ -157,6 +214,15 @@ url = "https://github.com/ourzora/web3.swift-1"
 url = "https://github.com/ourzora/zdk"
 
 [[repo]]
+url = "https://github.com/ourzora/zora-1155-contracts"
+
+[[repo]]
+url = "https://github.com/ourzora/zora-721-contracts"
+
+[[repo]]
+url = "https://github.com/ourzora/zora-crypto-list"
+
+[[repo]]
 url = "https://github.com/ourzora/zora-docs"
 
 [[repo]]
@@ -166,7 +232,13 @@ url = "https://github.com/ourzora/zora-drop-frontend"
 url = "https://github.com/ourzora/zora-drops-contracts"
 
 [[repo]]
+url = "https://github.com/ourzora/zora-drops-extensions"
+
+[[repo]]
 url = "https://github.com/ourzora/zora-frontend-challenge"
+
+[[repo]]
+url = "https://github.com/ourzora/zora-protocol"
 
 [[repo]]
 url = "https://github.com/ourzora/zora-token-factory-deprecated-"

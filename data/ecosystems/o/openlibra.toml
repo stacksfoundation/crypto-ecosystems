@@ -22,7 +22,7 @@ url = "https://github.com/open-libra/governance"
 url = "https://github.com/open-libra/libra"
 
 [[repo]]
-url = "https://github.com/open-libra/movemint"
+url = "https://github.com/open-libra/synthetic-minds-move-stdlib"
 
 [[repo]]
-url = "https://github.com/open-libra/synthetic-minds-move-stdlib"
+url = "https://github.com/xsutD7YBMiZCkgV9uxxJ6Z/movemint"

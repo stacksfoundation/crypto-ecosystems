@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/measurabledatatoken"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/measurableai/mai-website"
+
+[[repo]]
+url = "https://github.com/measurabledatatoken/bttc-contracts"
+
+[[repo]]
 url = "https://github.com/measurabledatatoken/contracts"
 
 [[repo]]
@@ -14,9 +20,6 @@ url = "https://github.com/measurabledatatoken/HtmlInfoMasking"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/HtmlToImgConverter"
-
-[[repo]]
-url = "https://github.com/measurabledatatoken/mai-website"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mailtime-issue"

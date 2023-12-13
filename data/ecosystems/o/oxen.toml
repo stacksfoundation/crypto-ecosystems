@@ -7,13 +7,16 @@ github_organizations = ["https://github.com/oxen-io"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/oxen-io/blocklist"
-
-[[repo]]
 url = "https://github.com/oxen-io/curve25519-js"
 
 [[repo]]
+url = "https://github.com/oxen-io/ethyl"
+
+[[repo]]
 url = "https://github.com/oxen-io/hashlist"
+
+[[repo]]
+url = "https://github.com/oxen-io/libsession-python"
 
 [[repo]]
 url = "https://github.com/oxen-io/libsession-util"
@@ -79,7 +82,13 @@ url = "https://github.com/oxen-io/lokinet-site"
 url = "https://github.com/oxen-io/lokinet-website"
 
 [[repo]]
+url = "https://github.com/oxen-io/optf-website"
+
+[[repo]]
 url = "https://github.com/oxen-io/oxen-core"
+
+[[repo]]
+url = "https://github.com/oxen-io/oxen-dashboard-geo-from-ip"
 
 [[repo]]
 url = "https://github.com/oxen-io/oxen-docker"
@@ -104,6 +113,9 @@ url = "https://github.com/oxen-io/oxen-knights-website"
 
 [[repo]]
 url = "https://github.com/oxen-io/oxen-ledger-app"
+
+[[repo]]
+url = "https://github.com/oxen-io/oxen-libquic"
 
 [[repo]]
 url = "https://github.com/oxen-io/oxen-logging"
@@ -146,6 +158,12 @@ url = "https://github.com/oxen-io/session-android-protocol"
 
 [[repo]]
 url = "https://github.com/oxen-io/session-android-service"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-appium"
+
+[[repo]]
+url = "https://github.com/oxen-io/session-asbycountry"
 
 [[repo]]
 url = "https://github.com/oxen-io/session-better-sqlite3"
@@ -196,6 +214,9 @@ url = "https://github.com/oxen-io/session-ios-swift-sodium"
 url = "https://github.com/oxen-io/session-ios-yap-database"
 
 [[repo]]
+url = "https://github.com/oxen-io/session-ip2country"
+
+[[repo]]
 url = "https://github.com/oxen-io/session-lazysodium-android"
 
 [[repo]]
@@ -208,7 +229,7 @@ url = "https://github.com/oxen-io/session-open-group-server"
 url = "https://github.com/oxen-io/session-open-group-server-legacy"
 
 [[repo]]
-url = "https://github.com/oxen-io/session-open-group-server-python"
+url = "https://github.com/oxen-io/session-playwright"
 
 [[repo]]
 url = "https://github.com/oxen-io/session-protocol-docs"

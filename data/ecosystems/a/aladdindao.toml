@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/AladdinDAO"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AladdinDAO/aladdin-assets"
+
+[[repo]]
 url = "https://github.com/AladdinDAO/aladdin-contracts"
 
 [[repo]]
@@ -22,7 +25,13 @@ url = "https://github.com/AladdinDAO/aladdin-v3-contracts"
 url = "https://github.com/AladdinDAO/ald-airdrop-scripts"
 
 [[repo]]
+url = "https://github.com/AladdinDAO/balancer-tokenlists"
+
+[[repo]]
 url = "https://github.com/AladdinDAO/curve-assets"
+
+[[repo]]
+url = "https://github.com/AladdinDAO/default-token-list"
 
 [[repo]]
 url = "https://github.com/AladdinDAO/DefiLlama-Adapters"
@@ -34,7 +43,19 @@ url = "https://github.com/AladdinDAO/defillama-server"
 url = "https://github.com/AladdinDAO/deployments"
 
 [[repo]]
+url = "https://github.com/AladdinDAO/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/AladdinDAO/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/AladdinDAO/paraswap-dex-lib"
+
+[[repo]]
+url = "https://github.com/AladdinDAO/peggedassets-server"
+
+[[repo]]
+url = "https://github.com/AladdinDAO/polygon-token-list"
 
 [[repo]]
 url = "https://github.com/AladdinDAO/token-negotiator"

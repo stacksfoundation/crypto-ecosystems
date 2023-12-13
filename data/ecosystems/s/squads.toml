@@ -19,10 +19,22 @@ url = "https://github.com/Squads-Protocol/challenge"
 url = "https://github.com/Squads-Protocol/iframe-adapter"
 
 [[repo]]
+url = "https://github.com/Squads-Protocol/mesh"
+
+[[repo]]
 url = "https://github.com/Squads-Protocol/mesh-sdk"
 
 [[repo]]
+url = "https://github.com/Squads-Protocol/offchain-delegate"
+
+[[repo]]
 url = "https://github.com/Squads-Protocol/program"
+
+[[repo]]
+url = "https://github.com/Squads-Protocol/sdk-examples"
+
+[[repo]]
+url = "https://github.com/Squads-Protocol/solana-buffer-deploy-action"
 
 [[repo]]
 url = "https://github.com/Squads-Protocol/sqds"
@@ -34,4 +46,10 @@ url = "https://github.com/Squads-Protocol/squads-cli"
 url = "https://github.com/Squads-Protocol/squads-mpl"
 
 [[repo]]
+url = "https://github.com/Squads-Protocol/squads-program-upgrade"
+
+[[repo]]
 url = "https://github.com/Squads-Protocol/squads-protocol.github.io"
+
+[[repo]]
+url = "https://github.com/Squads-Protocol/v4"

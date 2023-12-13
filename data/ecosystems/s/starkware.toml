@@ -5,6 +5,8 @@ sub_ecosystems = [
   "Aboard Exchange",
   "DeversiFi",
   "dYdX",
+  "EXOTHIUM",
+  "Giza Tech",
   "Immutable",
   "Nethermind",
   "PeckShield",
@@ -22,6 +24,24 @@ url = "https://github.com/jeff0723/3card"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/nile"
+
+[[repo]]
+url = "https://github.com/starknet-io/starkgate-contracts"
+
+[[repo]]
+url = "https://github.com/starknet-io/starkgate-frontend"
+
+[[repo]]
+url = "https://github.com/starknet-io/starknet-addresses"
+
+[[repo]]
+url = "https://github.com/starknet-io/starknet-docs"
+
+[[repo]]
+url = "https://github.com/starknet-io/starknet-playground"
+
+[[repo]]
+url = "https://github.com/starkware-libs/blockifier"
 
 [[repo]]
 url = "https://github.com/starkware-libs/cairo"
@@ -57,6 +77,12 @@ url = "https://github.com/starkware-libs/gammax-config"
 url = "https://github.com/starkware-libs/karpenter"
 
 [[repo]]
+url = "https://github.com/starkware-libs/okx-config"
+
+[[repo]]
+url = "https://github.com/starkware-libs/papyrus"
+
+[[repo]]
 url = "https://github.com/starkware-libs/python-terraform"
 
 [[repo]]
@@ -81,34 +107,19 @@ url = "https://github.com/starkware-libs/starkex-for-spot-trading"
 url = "https://github.com/starkware-libs/starkex-js"
 
 [[repo]]
+url = "https://github.com/starkware-libs/starkex-playground"
+
+[[repo]]
 url = "https://github.com/starkware-libs/starkex-resources"
 
 [[repo]]
 url = "https://github.com/starkware-libs/starkex-resources-wip"
 
 [[repo]]
-url = "https://github.com/starkware-libs/starkgate-contracts"
-
-[[repo]]
-url = "https://github.com/starkware-libs/starkgate-frontend"
-
-[[repo]]
-url = "https://github.com/starkware-libs/starknet-addresses"
-
-[[repo]]
 url = "https://github.com/starkware-libs/StarkNet-AllCoreDevs-Meetings"
 
 [[repo]]
 url = "https://github.com/starkware-libs/starknet-api"
-
-[[repo]]
-url = "https://github.com/starkware-libs/starknet-bridge"
-
-[[repo]]
-url = "https://github.com/starkware-libs/starknet-docs"
-
-[[repo]]
-url = "https://github.com/starkware-libs/starknet-playground"
 
 [[repo]]
 url = "https://github.com/starkware-libs/starknet-snap"
@@ -133,6 +144,9 @@ url = "https://github.com/starkware-libs/starknet-tutorials-utils"
 
 [[repo]]
 url = "https://github.com/starkware-libs/starkware-crypto-utils"
+
+[[repo]]
+url = "https://github.com/starkware-libs/stone-prover"
 
 [[repo]]
 url = "https://github.com/starkware-libs/veedo"

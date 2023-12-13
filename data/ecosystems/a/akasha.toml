@@ -7,133 +7,124 @@ github_organizations = ["https://github.com/AkashaProject"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/AkashaProject/.github"
+url = "https://github.com/AKASHAorg/.github"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha-gateway"
+url = "https://github.com/AKASHAorg/akasha-gateway"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha-id-client"
+url = "https://github.com/AKASHAorg/akasha-id-client"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha-id-hub"
+url = "https://github.com/AKASHAorg/akasha-id-hub"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha-id-wallet"
+url = "https://github.com/AKASHAorg/akasha-id-wallet"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha-id-webapp"
+url = "https://github.com/AKASHAorg/akasha-id-webapp"
 
 [[repo]]
-url = "https://github.com/AkashaProject/akasha.beta.deprecated"
+url = "https://github.com/AKASHAorg/akasha.beta.deprecated"
 
 [[repo]]
-url = "https://github.com/AkashaProject/Alpha"
+url = "https://github.com/AKASHAorg/Alpha"
 
 [[repo]]
-url = "https://github.com/AkashaProject/beta-web-app"
+url = "https://github.com/AKASHAorg/beta-web-app"
 
 [[repo]]
-url = "https://github.com/AkashaProject/bin-wrapper-progress"
+url = "https://github.com/AKASHAorg/bin-wrapper-progress"
 
 [[repo]]
-url = "https://github.com/AkashaProject/blog.akasha.world"
+url = "https://github.com/AKASHAorg/blog.akasha.world"
 
 [[repo]]
-url = "https://github.com/AkashaProject/Community"
+url = "https://github.com/AKASHAorg/Community"
 
 [[repo]]
-url = "https://github.com/AkashaProject/contracts.alpha"
+url = "https://github.com/AKASHAorg/contracts.alpha"
 
 [[repo]]
-url = "https://github.com/AkashaProject/contracts.js"
+url = "https://github.com/AKASHAorg/contracts.js"
 
 [[repo]]
-url = "https://github.com/AkashaProject/contracts.sol"
+url = "https://github.com/AKASHAorg/contracts.sol"
 
 [[repo]]
-url = "https://github.com/AkashaProject/converser"
+url = "https://github.com/AKASHAorg/converser"
 
 [[repo]]
-url = "https://github.com/AkashaProject/easy-web-crypto"
+url = "https://github.com/AKASHAorg/easy-web-crypto"
 
 [[repo]]
-url = "https://github.com/AkashaProject/geth-connector"
+url = "https://github.com/AKASHAorg/geth-connector"
 
 [[repo]]
-url = "https://github.com/AkashaProject/gui-styles"
+url = "https://github.com/AKASHAorg/gui-styles"
 
 [[repo]]
-url = "https://github.com/AkashaProject/hyperdata-lib"
+url = "https://github.com/AKASHAorg/hyperdata-lib"
 
 [[repo]]
-url = "https://github.com/AkashaProject/id-demo"
+url = "https://github.com/AKASHAorg/id-demo"
 
 [[repo]]
-url = "https://github.com/AkashaProject/id-hub"
+url = "https://github.com/AKASHAorg/ipfs-connector"
 
 [[repo]]
-url = "https://github.com/AkashaProject/ipfs-connector"
+url = "https://github.com/AKASHAorg/ipfs-connector-utils"
 
 [[repo]]
-url = "https://github.com/AkashaProject/ipfs-connector-utils"
+url = "https://github.com/AKASHAorg/ipfs-js-connector"
 
 [[repo]]
-url = "https://github.com/AkashaProject/ipfs-js-connector"
+url = "https://github.com/AKASHAorg/jsonschema-web3"
 
 [[repo]]
-url = "https://github.com/AkashaProject/jsonschema-web3"
+url = "https://github.com/AKASHAorg/librenotlibra.com"
 
 [[repo]]
-url = "https://github.com/AkashaProject/librenotlibra.com"
+url = "https://github.com/AKASHAorg/librenotlibra.info"
 
 [[repo]]
-url = "https://github.com/AkashaProject/librenotlibra.info"
+url = "https://github.com/AKASHAorg/meteor-adm-zip"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-adm-zip"
+url = "https://github.com/AKASHAorg/meteor-es6-symbol"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-es6-symbol"
+url = "https://github.com/AKASHAorg/meteor-fs-extra"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-fs-extra"
+url = "https://github.com/AKASHAorg/meteor-geth"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-geth"
+url = "https://github.com/AKASHAorg/meteor-ipfs"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-ipfs"
+url = "https://github.com/AKASHAorg/meteor-markdown-editor"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-markdown-editor"
+url = "https://github.com/AKASHAorg/meteor-request"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-request"
+url = "https://github.com/AKASHAorg/meteor-shelljs"
 
 [[repo]]
-url = "https://github.com/AkashaProject/meteor-shelljs"
+url = "https://github.com/AKASHAorg/monitor"
 
 [[repo]]
-url = "https://github.com/AkashaProject/monitor"
+url = "https://github.com/AKASHAorg/mui-router"
 
 [[repo]]
-url = "https://github.com/AkashaProject/mui-router"
+url = "https://github.com/AKASHAorg/orbit-server"
 
 [[repo]]
-url = "https://github.com/AkashaProject/orbit-server"
+url = "https://github.com/AKASHAorg/secure-webstore"
 
 [[repo]]
-url = "https://github.com/AkashaProject/secure-store"
+url = "https://github.com/AKASHAorg/Translations"
 
 [[repo]]
-url = "https://github.com/AkashaProject/secure-webstore"
-
-[[repo]]
-url = "https://github.com/AkashaProject/Translations"
-
-[[repo]]
-url = "https://github.com/AkashaProject/web-crypto"
-
-[[repo]]
-url = "https://github.com/AkashaProject/whisper-search"
+url = "https://github.com/AKASHAorg/whisper-search"

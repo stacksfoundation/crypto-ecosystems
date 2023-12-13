@@ -3,7 +3,11 @@ title = "Zcash"
 
 sub_ecosystems = ["Bolt Labs"]
 
-github_organizations = ["https://github.com/zcash", "https://github.com/ZcashFoundation"]
+github_organizations = [
+  "https://github.com/nighthawk-apps",
+  "https://github.com/zcash",
+  "https://github.com/ZcashFoundation",
+]
 
 # Repositories
 [[repo]]
@@ -28,9 +32,6 @@ url = "https://github.com/BScrk/zecproxy"
 url = "https://github.com/buidl-labs/zcash_service_status_dashboard"
 
 [[repo]]
-url = "https://github.com/coinfoundry/miningcore"
-
-[[repo]]
 url = "https://github.com/cryptocurrency-project/zcash"
 
 [[repo]]
@@ -50,9 +51,6 @@ url = "https://github.com/dysnix/zcashd"
 
 [[repo]]
 url = "https://github.com/FiloSottile/zcash-mini"
-
-[[repo]]
-url = "https://github.com/fluffypomeranian/Zcash-Eth-Atomic-Trades"
 
 [[repo]]
 url = "https://github.com/greenido/zcash-assistant-app"
@@ -76,10 +74,67 @@ url = "https://github.com/namelessperson0/zcash-ecommerce"
 url = "https://github.com/nektro/docker-zcash"
 
 [[repo]]
-url = "https://github.com/ovsoinc/zfaucet"
+url = "https://github.com/nighthawk-apps/Android-Cheatsheet-For-Graphic-Designers"
 
 [[repo]]
-url = "https://github.com/ovsoinc/zmine"
+url = "https://github.com/nighthawk-apps/bip39"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/checkmate"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/librustzcash"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/lightwalletd"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/lightwalletd-infra-setup-doc"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/nighthawk-android-wallet"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/nighthawk-apps.github.io"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/nighthawk-ios-wallet"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/nighthawk-wallet-android"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/sERP"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/startup-checklist"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/we-accept-zcash-ios"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/xchainjs-lib"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcash-android-wallet-sdk"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcash-explorer"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcash-ios-wallet"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcash-testnet-in-a-box"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcashex"
+
+[[repo]]
+url = "https://github.com/nighthawk-apps/zcashjs-lib"
+
+[[repo]]
+url = "https://github.com/oliverw/miningcore"
 
 [[repo]]
 url = "https://github.com/paritytech/parity-zcash"
@@ -107,16 +162,25 @@ url = "https://github.com/sokel/zcash-docker-cuda"
 url = "https://github.com/stfwn/zcashcow"
 
 [[repo]]
+url = "https://github.com/super3/zfaucet"
+
+[[repo]]
+url = "https://github.com/super3/zmine"
+
+[[repo]]
 url = "https://github.com/swoppy/zcash-halving"
+
+[[repo]]
+url = "https://github.com/thevilledev/ez-docker-zcash"
+
+[[repo]]
+url = "https://github.com/timxor/Zcash-Eth-Atomic-Trades"
 
 [[repo]]
 url = "https://github.com/trumpcoinsupport/TrumpCoin"
 
 [[repo]]
 url = "https://github.com/unsalted/docker-nheqminer-cuda"
-
-[[repo]]
-url = "https://github.com/vtorhonen/ez-docker-zcash"
 
 [[repo]]
 url = "https://github.com/zcash/awesome-zcash"
@@ -132,6 +196,9 @@ url = "https://github.com/zcash/halo2"
 
 [[repo]]
 url = "https://github.com/zcash/halo2_gadgets"
+
+[[repo]]
+url = "https://github.com/zcash/halo2_legacy_pdqsort"
 
 [[repo]]
 url = "https://github.com/zcash/homebrew-formulae"
@@ -170,9 +237,6 @@ url = "https://github.com/zcash/pasta"
 url = "https://github.com/zcash/pasta_curves"
 
 [[repo]]
-url = "https://github.com/zcash/pollard"
-
-[[repo]]
 url = "https://github.com/zcash/protocol.z.cash"
 
 [[repo]]
@@ -189,6 +253,9 @@ url = "https://github.com/zcash/secant-android-wallet"
 
 [[repo]]
 url = "https://github.com/zcash/secant-ios-wallet"
+
+[[repo]]
+url = "https://github.com/zcash/simtfl"
 
 [[repo]]
 url = "https://github.com/zcash/zcash"
@@ -252,6 +319,9 @@ url = "https://github.com/ZcashFoundation/bn"
 url = "https://github.com/ZcashFoundation/btcd"
 
 [[repo]]
+url = "https://github.com/ZcashFoundation/cloud-foundation-fabric"
+
+[[repo]]
 url = "https://github.com/ZcashFoundation/coredns-zcash"
 
 [[repo]]
@@ -273,6 +343,9 @@ url = "https://github.com/ZcashFoundation/Elections"
 url = "https://github.com/ZcashFoundation/frost"
 
 [[repo]]
+url = "https://github.com/ZcashFoundation/frost-zcash-demo"
+
+[[repo]]
 url = "https://github.com/ZcashFoundation/GrantProposals-2017Q4"
 
 [[repo]]
@@ -280,6 +353,9 @@ url = "https://github.com/ZcashFoundation/GrantProposals-2018Q2"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/hashes"
+
+[[repo]]
+url = "https://github.com/ZcashFoundation/infra"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/jubjub"
@@ -300,6 +376,12 @@ url = "https://github.com/ZcashFoundation/mailman-lists-archive"
 url = "https://github.com/ZcashFoundation/metrics"
 
 [[repo]]
+url = "https://github.com/ZcashFoundation/nheqminer"
+
+[[repo]]
+url = "https://github.com/ZcashFoundation/node-stratum-pool"
+
+[[repo]]
 url = "https://github.com/ZcashFoundation/orchard"
 
 [[repo]]
@@ -318,9 +400,6 @@ url = "https://github.com/ZcashFoundation/reddsa"
 url = "https://github.com/ZcashFoundation/redjubjub"
 
 [[repo]]
-url = "https://github.com/ZcashFoundation/redjubjub-zebra"
-
-[[repo]]
 url = "https://github.com/ZcashFoundation/ristretto255-dh"
 
 [[repo]]
@@ -328,6 +407,9 @@ url = "https://github.com/ZcashFoundation/rust-bitcoin"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/rust-secp256k1"
+
+[[repo]]
+url = "https://github.com/ZcashFoundation/s-nomp"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/stayinghomeclub"
@@ -348,6 +430,9 @@ url = "https://github.com/ZcashFoundation/zcash-grant-system"
 url = "https://github.com/ZcashFoundation/zcash-pegzone"
 
 [[repo]]
+url = "https://github.com/ZcashFoundation/zcash-sync"
+
+[[repo]]
 url = "https://github.com/ZcashFoundation/zcash_script"
 
 [[repo]]
@@ -355,9 +440,6 @@ url = "https://github.com/ZcashFoundation/zcashd"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/ZcashFoundation"
-
-[[repo]]
-url = "https://github.com/ZcashFoundation/zcashfoundation.github.io"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/zcon0-workshop-notes"
@@ -394,6 +476,9 @@ url = "https://github.com/ZcashFoundation/zips"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/zomg"
+
+[[repo]]
+url = "https://github.com/ZcashFoundation/zwallet"
 
 [[repo]]
 url = "https://github.com/ZcashFoundation/zwallet-ios"

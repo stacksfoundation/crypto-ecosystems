@@ -7,28 +7,73 @@ github_organizations = ["https://github.com/switchboard-xyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/switchboard-xyz/-deprecated-governance-ui"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/-deprecated-helm-manifests"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/-deprecated-vrf-cpi-example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/-deprecated-vrf_req_example"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/.github"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/AEADs"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/anchor"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/aptos-pager-public"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/aptos-sdk"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/bsx-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/core-sdk"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/curve25519-dalek"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/d2y-example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/defi-yield-ts"
 
 [[repo]]
-url = "https://github.com/switchboard-xyz/examples"
+url = "https://github.com/switchboard-xyz/ed25519-dalek"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/ed25519-dalek-bip32"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/ethers-rs"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/evm-coin-flip"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/evm-functions-template"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/evm-sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/exchange-aggregator-function-example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/feed-observer"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/function-templates"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/governance-ui"
@@ -37,31 +82,115 @@ url = "https://github.com/switchboard-xyz/governance-ui"
 url = "https://github.com/switchboard-xyz/helm-manifests"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/liquity-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/near-sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/nodejs-rust"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/options-platform-function-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/oracle-aggregator-function-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/public-utils"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sb-curve25519-dalek"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sb-functions-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sb-solana-program-library"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sb_functions_sdk"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/sbv2-aptos"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/sbv2-core"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/sbv2-evm"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/sbv2-near"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sbv2-oracle-operators"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/sbv2-solana"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/sbv2-starknet"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sbv2-sui"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sbv3-example1"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sbv3-function-example"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/secrets-server"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sgx-sdk"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/sgx_gen_25519"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/solana"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/solana-functions-template"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/solana-local-validator"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/solana-oracle-function-example"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/solana-program-library"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/solana-sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/solana-simple-randomness-example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/solana-web3.js"
 
 [[repo]]
-url = "https://github.com/switchboard-xyz/switchboard-aggregator"
+url = "https://github.com/switchboard-xyz/solana_attestation_sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/solana_switchboard_attestation_program_sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/starknet-sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/subscription-function"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/sui-sdk"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/switchboard"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-api"
@@ -76,6 +205,12 @@ url = "https://github.com/switchboard-xyz/switchboard-aptos-example"
 url = "https://github.com/switchboard-xyz/switchboard-aptos-public"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/switchboard-attestation-client.github.io"
+
+[[repo]]
+url = "https://github.com/switchboard-xyz/switchboard-contracts"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-documentation"
 
 [[repo]]
@@ -83,9 +218,6 @@ url = "https://github.com/switchboard-xyz/switchboard-feed-factory"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-v1-example"
-
-[[repo]]
-url = "https://github.com/switchboard-xyz/switchboard-v2"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-v2-example"
@@ -100,13 +232,13 @@ url = "https://github.com/switchboard-xyz/switchboardv2-py-api"
 url = "https://github.com/switchboard-xyz/switchboardv2-rs"
 
 [[repo]]
+url = "https://github.com/switchboard-xyz/synthetix-v3"
+
+[[repo]]
 url = "https://github.com/switchboard-xyz/typescript-sdk"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/voter-stake-registry"
-
-[[repo]]
-url = "https://github.com/switchboard-xyz/vrf-cpi-example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/vrf-demo-walkthrough"
@@ -116,9 +248,6 @@ url = "https://github.com/switchboard-xyz/vrf-flip"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/vrf.js"
-
-[[repo]]
-url = "https://github.com/switchboard-xyz/vrf_req_example"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/vybe-example"

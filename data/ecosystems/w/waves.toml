@@ -66,10 +66,43 @@ url = "https://github.com/jansenmarc/WavesGatewayFramework"
 url = "https://github.com/jansenmarc/WavesGatewayLTCExample"
 
 [[repo]]
+url = "https://github.com/Karasiq/waves-events-server"
+
+[[repo]]
+url = "https://github.com/KardanovIR/ApiTests"
+
+[[repo]]
+url = "https://github.com/KardanovIR/azure-deploy"
+
+[[repo]]
+url = "https://github.com/KardanovIR/node-monitor-esp8266"
+
+[[repo]]
+url = "https://github.com/KardanovIR/odyssey-waves-squad"
+
+[[repo]]
+url = "https://github.com/KardanovIR/UpcoinWallet"
+
+[[repo]]
+url = "https://github.com/KardanovIR/waves-api-load"
+
+[[repo]]
+url = "https://github.com/KardanovIR/wavesplatform.com"
+
+[[repo]]
 url = "https://github.com/kassemitani/cryptowave-wallet"
 
 [[repo]]
 url = "https://github.com/kassemitani/cwv-gateway-for-woocommerce"
+
+[[repo]]
+url = "https://github.com/Keeper-Wallet/Keeper-Wallet-Extension"
+
+[[repo]]
+url = "https://github.com/Keeper-Wallet/provider-keeper"
+
+[[repo]]
+url = "https://github.com/Keeper-Wallet/waveskeeper-types"
 
 [[repo]]
 url = "https://github.com/msmolyakov/awesome-waves"
@@ -85,9 +118,6 @@ url = "https://github.com/msmolyakov/waves-crypto-java"
 
 [[repo]]
 url = "https://github.com/msmolyakov/waves-node-tools-extension"
-
-[[repo]]
-url = "https://github.com/msmolyakov/waves-private-node"
 
 [[repo]]
 url = "https://github.com/opensolutionsweb3/vue-waves-signer"
@@ -141,6 +171,9 @@ url = "https://github.com/voroncv/waves-wallet-bot"
 url = "https://github.com/Waves-Domains/client"
 
 [[repo]]
+url = "https://github.com/Waves-Domains/puzzle-smartcontracts"
+
+[[repo]]
 url = "https://github.com/waves-exchange/provider-web"
 
 [[repo]]
@@ -174,19 +207,10 @@ url = "https://github.com/wavesfx/WavesJ"
 url = "https://github.com/wavesnode/gateway-for-woocommerce"
 
 [[repo]]
-url = "https://github.com/wavesplatform/25519"
-
-[[repo]]
 url = "https://github.com/wavesplatform/anonymous-transactions-prototype"
 
 [[repo]]
-url = "https://github.com/wavesplatform/ApiTests"
-
-[[repo]]
 url = "https://github.com/wavesplatform/assets-pairs-order"
-
-[[repo]]
-url = "https://github.com/wavesplatform/azure-deploy"
 
 [[repo]]
 url = "https://github.com/wavesplatform/Base58"
@@ -253,9 +277,6 @@ url = "https://github.com/wavesplatform/dev-toolkit"
 
 [[repo]]
 url = "https://github.com/wavesplatform/devops-tools"
-
-[[repo]]
-url = "https://github.com/wavesplatform/dex"
 
 [[repo]]
 url = "https://github.com/wavesplatform/docker-waves-testnet"
@@ -336,10 +357,10 @@ url = "https://github.com/wavesplatform/matcher"
 url = "https://github.com/wavesplatform/money-like-to-node"
 
 [[repo]]
-url = "https://github.com/wavesplatform/mrt-farewell"
+url = "https://github.com/wavesplatform/mpt-staking-ui"
 
 [[repo]]
-url = "https://github.com/wavesplatform/nanos-app-waves"
+url = "https://github.com/wavesplatform/mrt-farewell"
 
 [[repo]]
 url = "https://github.com/wavesplatform/node-api-grpc-js"
@@ -351,16 +372,10 @@ url = "https://github.com/wavesplatform/node-api-js"
 url = "https://github.com/wavesplatform/node-docker-image"
 
 [[repo]]
-url = "https://github.com/wavesplatform/node-monitor-esp8266"
-
-[[repo]]
 url = "https://github.com/wavesplatform/node-state"
 
 [[repo]]
 url = "https://github.com/wavesplatform/nodemon"
-
-[[repo]]
-url = "https://github.com/wavesplatform/odyssey-waves-squad"
 
 [[repo]]
 url = "https://github.com/wavesplatform/oracle-data"
@@ -379,12 +394,6 @@ url = "https://github.com/wavesplatform/protobuf-schemas"
 
 [[repo]]
 url = "https://github.com/wavesplatform/protobuf-serialization-js"
-
-[[repo]]
-url = "https://github.com/wavesplatform/provider-keeper"
-
-[[repo]]
-url = "https://github.com/wavesplatform/provider-ladger"
 
 [[repo]]
 url = "https://github.com/wavesplatform/provider-ledger"
@@ -456,9 +465,6 @@ url = "https://github.com/wavesplatform/types-keeper"
 url = "https://github.com/wavesplatform/unified-declarations"
 
 [[repo]]
-url = "https://github.com/wavesplatform/UpcoinWallet"
-
-[[repo]]
 url = "https://github.com/wavesplatform/Utills"
 
 [[repo]]
@@ -467,9 +473,6 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-api"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-api-load"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-auto-lessor"
@@ -487,13 +490,16 @@ url = "https://github.com/wavesplatform/waves-client-config"
 url = "https://github.com/wavesplatform/waves-community"
 
 [[repo]]
-url = "https://github.com/wavesplatform/waves-crypto"
-
-[[repo]]
 url = "https://github.com/wavesplatform/waves-crypto-java"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-csharp"
+
+[[repo]]
+url = "https://github.com/wavesplatform/waves-dao-ride"
+
+[[repo]]
+url = "https://github.com/wavesplatform/waves-dao-ui"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-data-entities"
@@ -506,9 +512,6 @@ url = "https://github.com/wavesplatform/waves-dex-landing"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-documentation"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-events-server"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-explorer-tests"
@@ -535,15 +538,6 @@ url = "https://github.com/wavesplatform/waves-items-fetcher"
 url = "https://github.com/wavesplatform/waves-items-webapp"
 
 [[repo]]
-url = "https://github.com/wavesplatform/waves-js"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-keeper"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-keeper"
-
-[[repo]]
 url = "https://github.com/wavesplatform/waves-lease-canceller"
 
 [[repo]]
@@ -563,12 +557,6 @@ url = "https://github.com/wavesplatform/waves-node-notifier-extension"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-php"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-private-node"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waves-protobuf-schemes"
 
 [[repo]]
 url = "https://github.com/wavesplatform/waves-python"
@@ -631,16 +619,7 @@ url = "https://github.com/wavesplatform/WavesGUI"
 url = "https://github.com/wavesplatform/WavesJ"
 
 [[repo]]
-url = "https://github.com/wavesplatform/waveskeeper"
-
-[[repo]]
 url = "https://github.com/wavesplatform/waveskeeper-test-page"
-
-[[repo]]
-url = "https://github.com/wavesplatform/waveskeeper-types"
-
-[[repo]]
-url = "https://github.com/wavesplatform/wavesplatform.com"
 
 [[repo]]
 url = "https://github.com/wavesplatform/wavesplatform.core.js"
@@ -665,9 +644,6 @@ url = "https://github.com/wavesplatform/WavesWallet-iOS"
 
 [[repo]]
 url = "https://github.com/wavesplatform/web3course"
-
-[[repo]]
-url = "https://github.com/wavesplatform/zjiratest"
 
 [[repo]]
 url = "https://github.com/wavesplatform/zwaves"

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/peronio-ar"]
 url = "https://github.com/peronio-ar/.github"
 
 [[repo]]
+url = "https://github.com/peronio-ar/.hodl.ar"
+
+[[repo]]
 url = "https://github.com/peronio-ar/aave"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/peronio-ar/branding"
 
 [[repo]]
 url = "https://github.com/peronio-ar/core"
+
+[[repo]]
+url = "https://github.com/peronio-ar/elecciones"
 
 [[repo]]
 url = "https://github.com/peronio-ar/erc20-collateral"
@@ -28,10 +34,16 @@ url = "https://github.com/peronio-ar/erc20-to-matic"
 url = "https://github.com/peronio-ar/faucet-peronio-matic"
 
 [[repo]]
+url = "https://github.com/peronio-ar/front"
+
+[[repo]]
 url = "https://github.com/peronio-ar/gateway"
 
 [[repo]]
 url = "https://github.com/peronio-ar/hola-peronio"
+
+[[repo]]
+url = "https://github.com/peronio-ar/links"
 
 [[repo]]
 url = "https://github.com/peronio-ar/peronio-feeless"

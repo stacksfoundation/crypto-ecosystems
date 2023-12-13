@@ -19,7 +19,13 @@ url = "https://github.com/unstoppabledomains/3box-js"
 url = "https://github.com/unstoppabledomains/alpha-wallet-android"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/auto-label"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/blockchainua-hackathon"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/Boilertalk-Web3.swift"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/bors-ng"
@@ -31,10 +37,16 @@ url = "https://github.com/unstoppabledomains/browseth"
 url = "https://github.com/unstoppabledomains/burner-plugins"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/capture-output"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/decentralized-websites"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/dev-docs"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/diffmasterflex"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/docs"
@@ -52,6 +64,9 @@ url = "https://github.com/unstoppabledomains/EthereumABI"
 url = "https://github.com/unstoppabledomains/ethers.js"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/GigaBitcoin-secp256k1.swift"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/gitcoin-bounties"
 
 [[repo]]
@@ -59,6 +74,9 @@ url = "https://github.com/unstoppabledomains/headlong"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/ipfs-companion"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/js-multiformats"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/kaya"
@@ -71,6 +89,9 @@ url = "https://github.com/unstoppabledomains/login-api-docs"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/maticjs-resolution"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/merge-coverage"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/metamask-extension"
@@ -121,6 +142,9 @@ url = "https://github.com/unstoppabledomains/resolution-go"
 url = "https://github.com/unstoppabledomains/resolution-java"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/resolution-rust"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/resolution-service"
 
 [[repo]]
@@ -130,10 +154,10 @@ url = "https://github.com/unstoppabledomains/resolution-swift"
 url = "https://github.com/unstoppabledomains/solidity-sizer"
 
 [[repo]]
-url = "https://github.com/unstoppabledomains/staging-docs"
+url = "https://github.com/unstoppabledomains/SVGKit-Light"
 
 [[repo]]
-url = "https://github.com/unstoppabledomains/SVGKit-Light"
+url = "https://github.com/unstoppabledomains/test-go-release"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/tlds-and-resolver-keys-package"
@@ -151,6 +175,9 @@ url = "https://github.com/unstoppabledomains/uauth-auth0-sample-dapp"
 url = "https://github.com/unstoppabledomains/uauth-auth0-social-connection"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/ud-xmtp-ios"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/UI-Kit"
 
 [[repo]]
@@ -166,13 +193,22 @@ url = "https://github.com/unstoppabledomains/unstoppable-chat"
 url = "https://github.com/unstoppabledomains/unstoppable-demo-browser"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/unstoppable-domains-marketplace"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/unstoppable-ios-app"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/unstoppabledocs"
 
 [[repo]]
-url = "https://github.com/unstoppabledomains/unstoppabledomains"
+url = "https://github.com/unstoppabledomains/Valet-ios"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/walletconnect-monorepo"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/WalletConnectSwift"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/web3j"

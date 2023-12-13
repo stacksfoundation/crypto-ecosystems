@@ -76,10 +76,10 @@ url = "https://github.com/comunion-io/miniapp"
 url = "https://github.com/comunion-io/rfcs"
 
 [[repo]]
-url = "https://github.com/comunion-io/services"
+url = "https://github.com/comunion-io/sale-launch-contracts"
 
 [[repo]]
-url = "https://github.com/comunion-io/v5-front"
+url = "https://github.com/comunion-io/services"
 
 [[repo]]
 url = "https://github.com/comunion-io/white-paper"

@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/polywrap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/polywrap/agent-learning-demo"
+
+[[repo]]
+url = "https://github.com/polywrap/agent-wrap-library"
+
+[[repo]]
+url = "https://github.com/polywrap/anthropic"
+
+[[repo]]
 url = "https://github.com/polywrap/as-bigfloat"
 
 [[repo]]
@@ -25,10 +34,25 @@ url = "https://github.com/polywrap/as-fraction"
 url = "https://github.com/polywrap/assemblyscript-json"
 
 [[repo]]
+url = "https://github.com/polywrap/AutoGPT"
+
+[[repo]]
+url = "https://github.com/polywrap/awesome-polywrap"
+
+[[repo]]
+url = "https://github.com/polywrap/benchmark-wraps"
+
+[[repo]]
 url = "https://github.com/polywrap/benchmarks"
 
 [[repo]]
 url = "https://github.com/polywrap/branding"
+
+[[repo]]
+url = "https://github.com/polywrap/cache"
+
+[[repo]]
+url = "https://github.com/polywrap/cli"
 
 [[repo]]
 url = "https://github.com/polywrap/cli-spec"
@@ -37,13 +61,31 @@ url = "https://github.com/polywrap/cli-spec"
 url = "https://github.com/polywrap/cli-wrapper-architecture"
 
 [[repo]]
+url = "https://github.com/polywrap/client-readiness"
+
+[[repo]]
+url = "https://github.com/polywrap/coingecko"
+
+[[repo]]
 url = "https://github.com/polywrap/concurrent"
+
+[[repo]]
+url = "https://github.com/polywrap/covalent"
+
+[[repo]]
+url = "https://github.com/polywrap/datetime"
+
+[[repo]]
+url = "https://github.com/polywrap/datetime-plugin"
 
 [[repo]]
 url = "https://github.com/polywrap/defiwrapper"
 
 [[repo]]
 url = "https://github.com/polywrap/demos"
+
+[[repo]]
+url = "https://github.com/polywrap/deploy-module-extensions"
 
 [[repo]]
 url = "https://github.com/polywrap/doc-snippets"
@@ -58,19 +100,67 @@ url = "https://github.com/polywrap/documentation-staging"
 url = "https://github.com/polywrap/ecosystem-dashboard"
 
 [[repo]]
+url = "https://github.com/polywrap/ens"
+
+[[repo]]
+url = "https://github.com/polywrap/erc20"
+
+[[repo]]
+url = "https://github.com/polywrap/erc721"
+
+[[repo]]
+url = "https://github.com/polywrap/eth-simple-storage-template"
+
+[[repo]]
 url = "https://github.com/polywrap/ethereum"
+
+[[repo]]
+url = "https://github.com/polywrap/ethereum-wallet"
+
+[[repo]]
+url = "https://github.com/polywrap/ethers"
 
 [[repo]]
 url = "https://github.com/polywrap/ethers-rs"
 
 [[repo]]
+url = "https://github.com/polywrap/evo.ninja"
+
+[[repo]]
+url = "https://github.com/polywrap/evo.ninja-fork"
+
+[[repo]]
+url = "https://github.com/polywrap/file-system"
+
+[[repo]]
+url = "https://github.com/polywrap/gelato-relay-polywrap"
+
+[[repo]]
+url = "https://github.com/polywrap/gelato-relay-wrap"
+
+[[repo]]
 url = "https://github.com/polywrap/go-client"
+
+[[repo]]
+url = "https://github.com/polywrap/go-wrap"
+
+[[repo]]
+url = "https://github.com/polywrap/graph-node"
 
 [[repo]]
 url = "https://github.com/polywrap/graphql-cycles-detector"
 
 [[repo]]
+url = "https://github.com/polywrap/graphql-schema-parser"
+
+[[repo]]
+url = "https://github.com/polywrap/hackathon"
+
+[[repo]]
 url = "https://github.com/polywrap/handbook"
+
+[[repo]]
+url = "https://github.com/polywrap/http"
 
 [[repo]]
 url = "https://github.com/polywrap/hub"
@@ -82,7 +172,28 @@ url = "https://github.com/polywrap/integrations"
 url = "https://github.com/polywrap/ipfs"
 
 [[repo]]
+url = "https://github.com/polywrap/ipfs-http-client"
+
+[[repo]]
+url = "https://github.com/polywrap/ipfs-http-client-sdk"
+
+[[repo]]
+url = "https://github.com/polywrap/javascript-client"
+
+[[repo]]
+url = "https://github.com/polywrap/js-engine-wrap"
+
+[[repo]]
 url = "https://github.com/polywrap/js-ipfs-http-client-lite"
+
+[[repo]]
+url = "https://github.com/polywrap/js-wrap-template"
+
+[[repo]]
+url = "https://github.com/polywrap/KeyValueStore"
+
+[[repo]]
+url = "https://github.com/polywrap/kotlin-client"
 
 [[repo]]
 url = "https://github.com/polywrap/lab"
@@ -91,34 +202,73 @@ url = "https://github.com/polywrap/lab"
 url = "https://github.com/polywrap/landing-page"
 
 [[repo]]
+url = "https://github.com/polywrap/landing-page-v2"
+
+[[repo]]
 url = "https://github.com/polywrap/logging"
 
 [[repo]]
 url = "https://github.com/polywrap/mini-hacks"
 
 [[repo]]
-url = "https://github.com/polywrap/monorepo"
+url = "https://github.com/polywrap/monowrap"
 
 [[repo]]
 url = "https://github.com/polywrap/msgpack-as"
 
 [[repo]]
+url = "https://github.com/polywrap/msgpack-serde"
+
+[[repo]]
 url = "https://github.com/polywrap/nodes"
+
+[[repo]]
+url = "https://github.com/polywrap/pdf"
+
+[[repo]]
+url = "https://github.com/polywrap/plugin-workflows"
 
 [[repo]]
 url = "https://github.com/polywrap/polyfolio"
 
 [[repo]]
+url = "https://github.com/polywrap/PolyGPT"
+
+[[repo]]
 url = "https://github.com/polywrap/polywrap-nix"
+
+[[repo]]
+url = "https://github.com/polywrap/process"
+
+[[repo]]
+url = "https://github.com/polywrap/projects"
 
 [[repo]]
 url = "https://github.com/polywrap/pwr"
 
 [[repo]]
+url = "https://github.com/polywrap/py-engine-wrap"
+
+[[repo]]
 url = "https://github.com/polywrap/python-client"
 
 [[repo]]
+url = "https://github.com/polywrap/python-config-bundles"
+
+[[repo]]
+url = "https://github.com/polywrap/random"
+
+[[repo]]
+url = "https://github.com/polywrap/react"
+
+[[repo]]
+url = "https://github.com/polywrap/react-native"
+
+[[repo]]
 url = "https://github.com/polywrap/registry"
+
+[[repo]]
+url = "https://github.com/polywrap/registry-contracts"
 
 [[repo]]
 url = "https://github.com/polywrap/reimagined"
@@ -127,13 +277,40 @@ url = "https://github.com/polywrap/reimagined"
 url = "https://github.com/polywrap/result-py"
 
 [[repo]]
+url = "https://github.com/polywrap/reverse-namehash-service"
+
+[[repo]]
 url = "https://github.com/polywrap/roadmap"
 
 [[repo]]
 url = "https://github.com/polywrap/rust-client"
 
 [[repo]]
+url = "https://github.com/polywrap/safe-api-plugin"
+
+[[repo]]
+url = "https://github.com/polywrap/safe-contracts-wrapper"
+
+[[repo]]
+url = "https://github.com/polywrap/safe-core-wrap"
+
+[[repo]]
+url = "https://github.com/polywrap/safe-demo-app"
+
+[[repo]]
+url = "https://github.com/polywrap/safe-playground"
+
+[[repo]]
+url = "https://github.com/polywrap/script-wrap-precompile"
+
+[[repo]]
+url = "https://github.com/polywrap/script-wrap-template"
+
+[[repo]]
 url = "https://github.com/polywrap/serial-as"
+
+[[repo]]
+url = "https://github.com/polywrap/sha3"
 
 [[repo]]
 url = "https://github.com/polywrap/snapshot-spaces"
@@ -145,19 +322,55 @@ url = "https://github.com/polywrap/specification"
 url = "https://github.com/polywrap/standup-bot"
 
 [[repo]]
+url = "https://github.com/polywrap/swift-client"
+
+[[repo]]
 url = "https://github.com/polywrap/technical-council"
+
+[[repo]]
+url = "https://github.com/polywrap/tiktoken-rs"
+
+[[repo]]
+url = "https://github.com/polywrap/tiktoken-wrap"
+
+[[repo]]
+url = "https://github.com/polywrap/tinygo"
+
+[[repo]]
+url = "https://github.com/polywrap/tinygo-docker"
 
 [[repo]]
 url = "https://github.com/polywrap/toolchain"
 
 [[repo]]
+url = "https://github.com/polywrap/ts-wrap-example"
+
+[[repo]]
+url = "https://github.com/polywrap/tswrap-shims"
+
+[[repo]]
+url = "https://github.com/polywrap/unblock-tokenlist-plugin"
+
+[[repo]]
 url = "https://github.com/polywrap/uni-workshop"
+
+[[repo]]
+url = "https://github.com/polywrap/uniswap"
 
 [[repo]]
 url = "https://github.com/polywrap/uniswap-api-explorer"
 
 [[repo]]
+url = "https://github.com/polywrap/uniswap-docs"
+
+[[repo]]
 url = "https://github.com/polywrap/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/polywrap/unsync-stubs"
+
+[[repo]]
+url = "https://github.com/polywrap/uri-resolver-extensions"
 
 [[repo]]
 url = "https://github.com/polywrap/use-case-ideas"
@@ -175,7 +388,25 @@ url = "https://github.com/polywrap/W3F-Grants-Program"
 url = "https://github.com/polywrap/wasm-test-harness"
 
 [[repo]]
+url = "https://github.com/polywrap/web-scraper"
+
+[[repo]]
+url = "https://github.com/polywrap/WebSocket"
+
+[[repo]]
 url = "https://github.com/polywrap/wrap"
+
+[[repo]]
+url = "https://github.com/polywrap/wrap-abi-bindgen"
+
+[[repo]]
+url = "https://github.com/polywrap/wrap-docs"
+
+[[repo]]
+url = "https://github.com/polywrap/wrap-test-harness"
+
+[[repo]]
+url = "https://github.com/polywrap/wrapper-backup"
 
 [[repo]]
 url = "https://github.com/polywrap/wrapper-eyes"
@@ -184,4 +415,7 @@ url = "https://github.com/polywrap/wrapper-eyes"
 url = "https://github.com/polywrap/wrappers-io"
 
 [[repo]]
-url = "https://github.com/Web3-API/prototype"
+url = "https://github.com/polywrap/wrapscan-registry"
+
+[[repo]]
+url = "https://github.com/polywrap/wrapscan-ui"

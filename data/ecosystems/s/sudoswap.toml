@@ -13,7 +13,16 @@ url = "https://github.com/sudoswap/0x-tracker-worker"
 url = "https://github.com/sudoswap/amm-analysis"
 
 [[repo]]
+url = "https://github.com/sudoswap/artemis"
+
+[[repo]]
 url = "https://github.com/sudoswap/audits"
+
+[[repo]]
+url = "https://github.com/sudoswap/avatar-scraper"
+
+[[repo]]
+url = "https://github.com/sudoswap/go-gallery"
 
 [[repo]]
 url = "https://github.com/sudoswap/lssvm"
@@ -22,13 +31,37 @@ url = "https://github.com/sudoswap/lssvm"
 url = "https://github.com/sudoswap/lssvm-docs"
 
 [[repo]]
+url = "https://github.com/sudoswap/lssvm2"
+
+[[repo]]
 url = "https://github.com/sudoswap/marketplace-benchmarks"
+
+[[repo]]
+url = "https://github.com/sudoswap/merklederkle"
+
+[[repo]]
+url = "https://github.com/sudoswap/otc-ui-public"
 
 [[repo]]
 url = "https://github.com/sudoswap/pools-analysis"
 
 [[repo]]
+url = "https://github.com/sudoswap/subgraph"
+
+[[repo]]
 url = "https://github.com/sudoswap/subgraph-swaps"
 
 [[repo]]
+url = "https://github.com/sudoswap/sudo-defined-quoter"
+
+[[repo]]
+url = "https://github.com/sudoswap/sudoswap-sdk"
+
+[[repo]]
 url = "https://github.com/sudoswap/ui-bugs"
+
+[[repo]]
+url = "https://github.com/sudoswap/upptime"
+
+[[repo]]
+url = "https://github.com/sudoswap/v2-audits"

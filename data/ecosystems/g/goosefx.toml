@@ -7,16 +7,31 @@ github_organizations = ["https://github.com/GooseFX1"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/GooseFX1/dexterity"
+
+[[repo]]
 url = "https://github.com/GooseFX1/ecosystem"
 
 [[repo]]
 url = "https://github.com/GooseFX1/gfx-launchpad-ui"
 
 [[repo]]
+url = "https://github.com/GooseFX1/gfx-perp-ts-sdk"
+
+[[repo]]
+url = "https://github.com/GooseFX1/gfx-perps-python-sdk"
+
+[[repo]]
 url = "https://github.com/GooseFX1/gfx-solana-utils"
 
 [[repo]]
 url = "https://github.com/GooseFX1/gfx-ssl-sdk"
+
+[[repo]]
+url = "https://github.com/GooseFX1/gfx-ssl-v2-sdk"
+
+[[repo]]
+url = "https://github.com/GooseFX1/gfx-stake-rewards-sdk"
 
 [[repo]]
 url = "https://github.com/GooseFX1/gfx-swap"
@@ -32,6 +47,12 @@ url = "https://github.com/GooseFX1/metaplex-program-library"
 
 [[repo]]
 url = "https://github.com/GooseFX1/NestQuestWeb"
+
+[[repo]]
+url = "https://github.com/GooseFX1/openbook-ts"
+
+[[repo]]
+url = "https://github.com/GooseFX1/pyth-sdk-rs"
 
 [[repo]]
 url = "https://github.com/GooseFX1/solana-indexer"

@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/lexDAO"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/lexDAO/Airdrop"
-
-[[repo]]
 url = "https://github.com/lexDAO/AIT"
 
 [[repo]]
@@ -22,6 +19,9 @@ url = "https://github.com/lexDAO/Arbitration"
 url = "https://github.com/lexDAO/Assets"
 
 [[repo]]
+url = "https://github.com/lexDAO/awesome-cryptolaw"
+
+[[repo]]
 url = "https://github.com/lexDAO/bentobox"
 
 [[repo]]
@@ -29,6 +29,9 @@ url = "https://github.com/lexDAO/Bounties"
 
 [[repo]]
 url = "https://github.com/lexDAO/BPNFT"
+
+[[repo]]
+url = "https://github.com/lexDAO/chronos"
 
 [[repo]]
 url = "https://github.com/lexDAO/coda"
@@ -44,6 +47,12 @@ url = "https://github.com/lexDAO/crypto-governance"
 
 [[repo]]
 url = "https://github.com/lexDAO/DAO"
+
+[[repo]]
+url = "https://github.com/lexDAO/DAO-Law"
+
+[[repo]]
+url = "https://github.com/lexDAO/DAO-Proposals"
 
 [[repo]]
 url = "https://github.com/lexDAO/daohaus-app"
@@ -92,6 +101,9 @@ url = "https://github.com/lexDAO/GAMMA"
 
 [[repo]]
 url = "https://github.com/lexDAO/GAMMANFT"
+
+[[repo]]
+url = "https://github.com/lexDAO/gitbook"
 
 [[repo]]
 url = "https://github.com/lexDAO/governance"
@@ -160,9 +172,6 @@ url = "https://github.com/lexDAO/LexDAO-Design-Assets"
 url = "https://github.com/lexDAO/LexDAO-Dispute-Handbook"
 
 [[repo]]
-url = "https://github.com/lexDAO/LexDAO-Docs"
-
-[[repo]]
 url = "https://github.com/lexDAO/LexDAO-Documents"
 
 [[repo]]
@@ -193,9 +202,6 @@ url = "https://github.com/lexDAO/LexList"
 url = "https://github.com/lexDAO/LexLocker"
 
 [[repo]]
-url = "https://github.com/lexDAO/LexLockerLite"
-
-[[repo]]
 url = "https://github.com/lexDAO/LexLockerUI"
 
 [[repo]]
@@ -209,6 +215,12 @@ url = "https://github.com/lexDAO/LexToken"
 
 [[repo]]
 url = "https://github.com/lexDAO/LexTokenize"
+
+[[repo]]
+url = "https://github.com/lexDAO/lexybot"
+
+[[repo]]
+url = "https://github.com/lexDAO/links"
 
 [[repo]]
 url = "https://github.com/lexDAO/LiteDAO"

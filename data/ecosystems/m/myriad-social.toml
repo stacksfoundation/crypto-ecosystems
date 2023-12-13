@@ -19,6 +19,12 @@ url = "https://github.com/myriadsocial/firechat"
 url = "https://github.com/myriadsocial/firegun"
 
 [[repo]]
+url = "https://github.com/myriadsocial/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/myriadsocial/Grants-Program"
+
+[[repo]]
 url = "https://github.com/myriadsocial/mintbase-grants-program"
 
 [[repo]]
@@ -31,13 +37,7 @@ url = "https://github.com/myriadsocial/myriad-charts"
 url = "https://github.com/myriadsocial/myriad-claimer"
 
 [[repo]]
-url = "https://github.com/myriadsocial/myriad-cms"
-
-[[repo]]
 url = "https://github.com/myriadsocial/myriad-contracts"
-
-[[repo]]
-url = "https://github.com/myriadsocial/myriad-dashboard"
 
 [[repo]]
 url = "https://github.com/myriadsocial/myriad-db"
@@ -49,10 +49,13 @@ url = "https://github.com/myriadsocial/myriad-docs"
 url = "https://github.com/myriadsocial/myriad-federated"
 
 [[repo]]
-url = "https://github.com/myriadsocial/myriad-mintbase-grants-program"
+url = "https://github.com/myriadsocial/myriad-infrastructure"
 
 [[repo]]
 url = "https://github.com/myriadsocial/myriad-node"
+
+[[repo]]
+url = "https://github.com/myriadsocial/myriad-node-parachain"
 
 [[repo]]
 url = "https://github.com/myriadsocial/myriad-node-tmp"
@@ -64,10 +67,7 @@ url = "https://github.com/myriadsocial/myriad-pipeline-test"
 url = "https://github.com/myriadsocial/myriad-scraper"
 
 [[repo]]
-url = "https://github.com/myriadsocial/myriad-server-list"
-
-[[repo]]
-url = "https://github.com/myriadsocial/myriad-servers"
+url = "https://github.com/myriadsocial/myriad-scripts"
 
 [[repo]]
 url = "https://github.com/myriadsocial/myriad-subql"

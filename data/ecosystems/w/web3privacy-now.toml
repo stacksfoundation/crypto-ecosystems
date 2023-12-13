@@ -1,0 +1,46 @@
+# Ecosystem Level Information
+title = "Web3privacy Now"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/web3privacy"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Msiusko/web3privacy"
+
+[[repo]]
+url = "https://github.com/web3privacy/.github"
+
+[[repo]]
+url = "https://github.com/web3privacy/data"
+
+[[repo]]
+url = "https://github.com/web3privacy/events"
+
+[[repo]]
+url = "https://github.com/web3privacy/Grants"
+
+[[repo]]
+url = "https://github.com/web3privacy/lunarpunk.party"
+
+[[repo]]
+url = "https://github.com/web3privacy/w3pn-multisig"
+
+[[repo]]
+url = "https://github.com/web3privacy/w3ps"
+
+[[repo]]
+url = "https://github.com/web3privacy/w3ps1"
+
+[[repo]]
+url = "https://github.com/web3privacy/web3privacy"
+
+[[repo]]
+url = "https://github.com/web3privacy/web3privacy-app"
+
+[[repo]]
+url = "https://github.com/web3privacy/web3privacy-info"
+
+[[repo]]
+url = "https://github.com/web3privacy/website"

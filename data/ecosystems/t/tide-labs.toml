@@ -25,7 +25,13 @@ url = "https://github.com/tidelabs/ethcontract"
 url = "https://github.com/tidelabs/explorer"
 
 [[repo]]
+url = "https://github.com/tidelabs/github-tagger"
+
+[[repo]]
 url = "https://github.com/tidelabs/Grants-Program"
+
+[[repo]]
+url = "https://github.com/tidelabs/press-kit"
 
 [[repo]]
 url = "https://github.com/tidelabs/primitives"
@@ -58,7 +64,13 @@ url = "https://github.com/tidelabs/subxt"
 url = "https://github.com/tidelabs/tidechain"
 
 [[repo]]
+url = "https://github.com/tidelabs/tidefi-bonding-dashboard"
+
+[[repo]]
 url = "https://github.com/tidelabs/tideth"
+
+[[repo]]
+url = "https://github.com/tidelabs/tideview"
 
 [[repo]]
 url = "https://github.com/tidelabs/tidext"

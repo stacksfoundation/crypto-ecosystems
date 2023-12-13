@@ -3,7 +3,7 @@ title = "Interest Protocol"
 
 sub_ecosystems = []
 
-github_organizations = []
+github_organizations = ["https://github.com/interest-protocol"]
 
 # Repositories
 [[repo]]
@@ -11,3 +11,108 @@ url = "https://gfx.cafe/ip/app.git"
 
 [[repo]]
 url = "https://gfx.cafe/ip/contracts"
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm"
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm-indexer"
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm-v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/burrrd-website"
+
+[[repo]]
+url = "https://github.com/interest-protocol/correlated-pools"
+
+[[repo]]
+url = "https://github.com/interest-protocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/interest-protocol/dimension-adapters"
+
+[[repo]]
+url = "https://github.com/interest-protocol/dinero-markets-old"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-borrow"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-bridge"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-earn"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-lending-old"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-lst"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-swap"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-tokens"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-ui"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/library"
+
+[[repo]]
+url = "https://github.com/interest-protocol/MAIL-markets"
+
+[[repo]]
+url = "https://github.com/interest-protocol/money-market"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sentio-amm"
+
+[[repo]]
+url = "https://github.com/interest-protocol/silo"
+
+[[repo]]
+url = "https://github.com/interest-protocol/subgraph"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-amm-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-defi"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-dex"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-dex-v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-interest-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-money-market-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-move-curve"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-whirpool"
+
+[[repo]]
+url = "https://github.com/interest-protocol/suimate"
+
+[[repo]]
+url = "https://github.com/interest-protocol/suitears"
+
+[[repo]]
+url = "https://github.com/interest-protocol/test-net"

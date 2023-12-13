@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/0xSplits"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/0xSplits/0xsplits-distributor-bot"
+
+[[repo]]
 url = "https://github.com/0xSplits/brand"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/0xSplits/clones-with-immutable-args"
 
 [[repo]]
 url = "https://github.com/0xSplits/docs"
+
+[[repo]]
+url = "https://github.com/0xSplits/headless-placeholder"
 
 [[repo]]
 url = "https://github.com/0xSplits/hot-chain-svg"
@@ -25,16 +31,34 @@ url = "https://github.com/0xSplits/og-image"
 url = "https://github.com/0xSplits/splits-contracts"
 
 [[repo]]
+url = "https://github.com/0xSplits/splits-diversifier"
+
+[[repo]]
 url = "https://github.com/0xSplits/splits-liquid"
 
 [[repo]]
 url = "https://github.com/0xSplits/splits-liquid-template"
 
 [[repo]]
+url = "https://github.com/0xSplits/splits-oracle"
+
+[[repo]]
+url = "https://github.com/0xSplits/splits-pass-through-wallet"
+
+[[repo]]
+url = "https://github.com/0xSplits/splits-recoup"
+
+[[repo]]
 url = "https://github.com/0xSplits/splits-sdk"
 
 [[repo]]
 url = "https://github.com/0xSplits/splits-subgraph"
+
+[[repo]]
+url = "https://github.com/0xSplits/splits-swapper"
+
+[[repo]]
+url = "https://github.com/0xSplits/splits-utils"
 
 [[repo]]
 url = "https://github.com/0xSplits/splits-vesting"

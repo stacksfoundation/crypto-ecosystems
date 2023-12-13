@@ -7,16 +7,31 @@ github_organizations = ["https://github.com/lyra-finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/lyra-finance/aa-sdk"
+
+[[repo]]
 url = "https://github.com/lyra-finance/boilerplate-grant-project"
 
 [[repo]]
 url = "https://github.com/lyra-finance/cloudflare-update-action"
 
 [[repo]]
+url = "https://github.com/lyra-finance/governance"
+
+[[repo]]
+url = "https://github.com/lyra-finance/governance-v2-subgraph"
+
+[[repo]]
 url = "https://github.com/lyra-finance/interface"
 
 [[repo]]
+url = "https://github.com/lyra-finance/LEAP-51"
+
+[[repo]]
 url = "https://github.com/lyra-finance/LEAPs"
+
+[[repo]]
+url = "https://github.com/lyra-finance/listing-manager"
 
 [[repo]]
 url = "https://github.com/lyra-finance/lpStaking-subgraph"
@@ -34,6 +49,9 @@ url = "https://github.com/lyra-finance/lyra-js"
 url = "https://github.com/lyra-finance/lyra-js-starter"
 
 [[repo]]
+url = "https://github.com/lyra-finance/lyra-periphery"
+
+[[repo]]
 url = "https://github.com/lyra-finance/lyra-protocol"
 
 [[repo]]
@@ -43,10 +61,19 @@ url = "https://github.com/lyra-finance/lyra-scripts"
 url = "https://github.com/lyra-finance/lyra-share"
 
 [[repo]]
+url = "https://github.com/lyra-finance/lyra-ui-challenge"
+
+[[repo]]
+url = "https://github.com/lyra-finance/lyra-utils"
+
+[[repo]]
 url = "https://github.com/lyra-finance/lyra-vaults"
 
 [[repo]]
 url = "https://github.com/lyra-finance/reward-distribution"
+
+[[repo]]
+url = "https://github.com/lyra-finance/stats"
 
 [[repo]]
 url = "https://github.com/lyra-finance/stkLyra-subgraph"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/XRPL-Labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/radynamics/XRP-Oracles"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/account-merge"
 
 [[repo]]
@@ -22,7 +25,22 @@ url = "https://github.com/XRPL-Labs/AssemblyScript-Sample"
 url = "https://github.com/XRPL-Labs/Bunq.NET.SDK"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/crypto-ecosystems"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Developer-Help-Center"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/DEX-Book-Changes-DB"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/dotnet-container-scripts"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Help-Center"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Hooks-AssemblyScript-PoC"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/Hooks-Website"
@@ -37,13 +55,13 @@ url = "https://github.com/XRPL-Labs/Icons-Images-Buttons-Banners"
 url = "https://github.com/XRPL-Labs/js-condition-parser"
 
 [[repo]]
-url = "https://github.com/XRPL-Labs/js-pkce"
-
-[[repo]]
 url = "https://github.com/XRPL-Labs/katacoda-scenarios"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/ledger-live-common"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Misc-Translations"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/net-worth-xapp"
@@ -59,6 +77,9 @@ url = "https://github.com/XRPL-Labs/oauth-demo"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/order-id-codec"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Parallel-Payment-Service"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/path-find-xapp"
@@ -85,6 +106,18 @@ url = "https://github.com/XRPL-Labs/TxMutationParser"
 url = "https://github.com/XRPL-Labs/verify-xrpl-signature"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-App"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-Branding"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-Issue-Tracker"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xapp-builder"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/xapp-proxy-for-xumm-api"
 
 [[repo]]
@@ -97,6 +130,9 @@ url = "https://github.com/XRPL-Labs/xAppDeleteTicket"
 url = "https://github.com/XRPL-Labs/xpring-common-js"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/xReport"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/XRP-Price-Aggregator"
 
 [[repo]]
@@ -106,10 +142,19 @@ url = "https://github.com/XRPL-Labs/XRPayments-App"
 url = "https://github.com/XRPL-Labs/xrpl-client"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/XRPL-HookScript-Ideas"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/XRPL-Orderbook-Reader"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XRPL-Protocol-Network-Hooks-Docs"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XRPL-Protocol-Proxy"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/xrpl-sign-keypairs"
@@ -176,3 +221,6 @@ url = "https://github.com/XRPL-Labs/XummAPI-Webhook-Proxy"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/XummPkce"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XummSDK-React-Demo"

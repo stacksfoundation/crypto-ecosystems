@@ -28,6 +28,9 @@ url = "https://github.com/dcSpark/blockchain-sources"
 url = "https://github.com/dcSpark/blockscout"
 
 [[repo]]
+url = "https://github.com/dcSpark/blockscout-api-monitoring"
+
+[[repo]]
 url = "https://github.com/dcSpark/bridge-minter"
 
 [[repo]]
@@ -44,6 +47,9 @@ url = "https://github.com/dcSpark/cardano-multiplatform-lib"
 
 [[repo]]
 url = "https://github.com/dcSpark/cardano-serialization-lib"
+
+[[repo]]
+url = "https://github.com/dcSpark/cardano-wsc-wagmi"
 
 [[repo]]
 url = "https://github.com/dcSpark/carp"
@@ -73,7 +79,16 @@ url = "https://github.com/dcSpark/cip5-js"
 url = "https://github.com/dcSpark/CIPs"
 
 [[repo]]
+url = "https://github.com/dcSpark/codegen"
+
+[[repo]]
+url = "https://github.com/dcSpark/compound-protocol"
+
+[[repo]]
 url = "https://github.com/dcSpark/cordova-plugin-inappbrowser"
+
+[[repo]]
+url = "https://github.com/dcSpark/currency-symbol-map"
 
 [[repo]]
 url = "https://github.com/dcSpark/data-pile"
@@ -82,10 +97,13 @@ url = "https://github.com/dcSpark/data-pile"
 url = "https://github.com/dcSpark/data-signing-webpage"
 
 [[repo]]
-url = "https://github.com/dcSpark/db-sink"
+url = "https://github.com/dcSpark/dcspark-blog"
 
 [[repo]]
 url = "https://github.com/dcSpark/dcspark-core"
+
+[[repo]]
+url = "https://github.com/dcSpark/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/dcSpark/docs"
@@ -98,6 +116,9 @@ url = "https://github.com/dcSpark/eth-gas-subgraph"
 
 [[repo]]
 url = "https://github.com/dcSpark/ethereum-backend"
+
+[[repo]]
+url = "https://github.com/dcSpark/ethermint"
 
 [[repo]]
 url = "https://github.com/dcSpark/event-storage"
@@ -118,6 +139,12 @@ url = "https://github.com/dcSpark/fracada"
 url = "https://github.com/dcSpark/fracada-il-primo"
 
 [[repo]]
+url = "https://github.com/dcSpark/geth-firehose"
+
+[[repo]]
+url = "https://github.com/dcSpark/go-ethereum"
+
+[[repo]]
 url = "https://github.com/dcSpark/grants-ui"
 
 [[repo]]
@@ -133,6 +160,9 @@ url = "https://github.com/dcSpark/lovefield"
 url = "https://github.com/dcSpark/lovefield-bin"
 
 [[repo]]
+url = "https://github.com/dcSpark/lucid-wsc-safe-namespace"
+
+[[repo]]
 url = "https://github.com/dcSpark/markdown-gen-rs"
 
 [[repo]]
@@ -145,7 +175,10 @@ url = "https://github.com/dcSpark/milkomeda-dao-hackathon"
 url = "https://github.com/dcSpark/milkomeda-documentation"
 
 [[repo]]
-url = "https://github.com/dcSpark/milkomeda-evm-passive"
+url = "https://github.com/dcSpark/milkomeda-guides"
+
+[[repo]]
+url = "https://github.com/dcSpark/mina"
 
 [[repo]]
 url = "https://github.com/dcSpark/multisig-coordination-smartcontract"
@@ -154,16 +187,28 @@ url = "https://github.com/dcSpark/multisig-coordination-smartcontract"
 url = "https://github.com/dcSpark/multiverse-rs"
 
 [[repo]]
+url = "https://github.com/dcSpark/nft-staking"
+
+[[repo]]
 url = "https://github.com/dcSpark/node-config-webpack-clone"
 
 [[repo]]
 url = "https://github.com/dcSpark/ogmios"
 
 [[repo]]
+url = "https://github.com/dcSpark/optimism"
+
+[[repo]]
 url = "https://github.com/dcSpark/oura"
 
 [[repo]]
-url = "https://github.com/dcSpark/oura-postgres-sink"
+url = "https://github.com/dcSpark/paima-ai-text-adventure"
+
+[[repo]]
+url = "https://github.com/dcSpark/paima-cards"
+
+[[repo]]
+url = "https://github.com/dcSpark/paima-dice"
 
 [[repo]]
 url = "https://github.com/dcSpark/pallas"
@@ -181,6 +226,12 @@ url = "https://github.com/dcSpark/pool-info"
 url = "https://github.com/dcSpark/pricing-service"
 
 [[repo]]
+url = "https://github.com/dcSpark/projected-nft-whirlpool"
+
+[[repo]]
+url = "https://github.com/dcSpark/proof-systems"
+
+[[repo]]
 url = "https://github.com/dcSpark/quorum"
 
 [[repo]]
@@ -188,6 +239,9 @@ url = "https://github.com/dcSpark/redux-persist"
 
 [[repo]]
 url = "https://github.com/dcSpark/redux-persist-bin"
+
+[[repo]]
+url = "https://github.com/dcSpark/redux-toolkit"
 
 [[repo]]
 url = "https://github.com/dcSpark/rust-ini"
@@ -208,7 +262,16 @@ url = "https://github.com/dcSpark/seaport"
 url = "https://github.com/dcSpark/shred"
 
 [[repo]]
+url = "https://github.com/dcSpark/snarkyjs"
+
+[[repo]]
+url = "https://github.com/dcSpark/snarkyjs-bindings"
+
+[[repo]]
 url = "https://github.com/dcSpark/stable-diffusion-web"
+
+[[repo]]
+url = "https://github.com/dcSpark/stake_pool_setup"
 
 [[repo]]
 url = "https://github.com/dcSpark/stream-list"
@@ -241,4 +304,19 @@ url = "https://github.com/dcSpark/urbit-notes"
 url = "https://github.com/dcSpark/urbit-visor"
 
 [[repo]]
+url = "https://github.com/dcSpark/utxo-selection-benchmarking"
+
+[[repo]]
+url = "https://github.com/dcSpark/vault"
+
+[[repo]]
+url = "https://github.com/dcSpark/walletconnect-monorepo-cardano"
+
+[[repo]]
 url = "https://github.com/dcSpark/webpack-monorepo-translations-plugin"
+
+[[repo]]
+url = "https://github.com/dcSpark/wrapped-smartcontracts"
+
+[[repo]]
+url = "https://github.com/dcSpark/zkapp-nonogram"

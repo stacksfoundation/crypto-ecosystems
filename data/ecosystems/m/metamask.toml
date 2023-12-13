@@ -7,16 +7,22 @@ github_organizations = ["https://github.com/MetaMask"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/blockchain-lab-um/masca"
+
+[[repo]]
 url = "https://github.com/cedelabs/2fa-snap"
+
+[[repo]]
+url = "https://github.com/LavaMoat/LavaMoat"
 
 [[repo]]
 url = "https://github.com/MetaMask/.github"
 
 [[repo]]
-url = "https://github.com/MetaMask/abi-utils"
+url = "https://github.com/MetaMask/2023-hackathon-project"
 
 [[repo]]
-url = "https://github.com/MetaMask/action-check-version"
+url = "https://github.com/MetaMask/abi-utils"
 
 [[repo]]
 url = "https://github.com/MetaMask/action-create-release-pr"
@@ -40,6 +46,12 @@ url = "https://github.com/MetaMask/action-publish-release"
 url = "https://github.com/MetaMask/action-require-additional-reviewer"
 
 [[repo]]
+url = "https://github.com/MetaMask/action-sync-branch"
+
+[[repo]]
+url = "https://github.com/MetaMask/action-tech-challenge-setup"
+
+[[repo]]
 url = "https://github.com/MetaMask/action-utils"
 
 [[repo]]
@@ -50,6 +62,9 @@ url = "https://github.com/MetaMask/actions-test-repo"
 
 [[repo]]
 url = "https://github.com/MetaMask/Add-Token"
+
+[[repo]]
+url = "https://github.com/MetaMask/animation"
 
 [[repo]]
 url = "https://github.com/MetaMask/api-playground"
@@ -85,6 +100,9 @@ url = "https://github.com/MetaMask/brand-resources"
 url = "https://github.com/MetaMask/browser-passworder"
 
 [[repo]]
+url = "https://github.com/MetaMask/browserify-streams3"
+
+[[repo]]
 url = "https://github.com/MetaMask/cla-signature-bot"
 
 [[repo]]
@@ -97,7 +115,10 @@ url = "https://github.com/MetaMask/contract-metadata"
 url = "https://github.com/MetaMask/contributor-docs"
 
 [[repo]]
-url = "https://github.com/MetaMask/controllers"
+url = "https://github.com/MetaMask/core"
+
+[[repo]]
+url = "https://github.com/MetaMask/core-1"
 
 [[repo]]
 url = "https://github.com/MetaMask/create-release-branch"
@@ -106,7 +127,13 @@ url = "https://github.com/MetaMask/create-release-branch"
 url = "https://github.com/MetaMask/crowdin-github-action"
 
 [[repo]]
+url = "https://github.com/MetaMask/crowdin-sandbox"
+
+[[repo]]
 url = "https://github.com/MetaMask/cryptopp"
+
+[[repo]]
+url = "https://github.com/MetaMask/dapp-tutorial-react"
 
 [[repo]]
 url = "https://github.com/MetaMask/dapps"
@@ -130,6 +157,9 @@ url = "https://github.com/MetaMask/devrel-articles"
 url = "https://github.com/MetaMask/docker-prod"
 
 [[repo]]
+url = "https://github.com/MetaMask/docusaurus-openrpc"
+
+[[repo]]
 url = "https://github.com/MetaMask/erc20-generator"
 
 [[repo]]
@@ -140,9 +170,6 @@ url = "https://github.com/MetaMask/eth-block-tracker"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-brave-keyring"
-
-[[repo]]
-url = "https://github.com/MetaMask/eth-contract-metadata"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-faucet"
@@ -160,9 +187,6 @@ url = "https://github.com/MetaMask/eth-hd-keyring"
 url = "https://github.com/MetaMask/eth-ipfs-browser-client"
 
 [[repo]]
-url = "https://github.com/MetaMask/eth-json-rpc-errors"
-
-[[repo]]
 url = "https://github.com/MetaMask/eth-json-rpc-filters"
 
 [[repo]]
@@ -170,6 +194,9 @@ url = "https://github.com/MetaMask/eth-json-rpc-infura"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-json-rpc-middleware"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-json-rpc-provider"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-ledger-bridge-keyring"
@@ -182,6 +209,9 @@ url = "https://github.com/MetaMask/eth-passthrough-keyring"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-phishing-detect"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-query"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-rpc-client"
@@ -197,6 +227,9 @@ url = "https://github.com/MetaMask/eth-sig-util"
 
 [[repo]]
 url = "https://github.com/MetaMask/eth-simple-keyring"
+
+[[repo]]
+url = "https://github.com/MetaMask/eth-snap-keyring"
 
 [[repo]]
 url = "https://github.com/MetaMask/Eth-Token-Sender"
@@ -280,13 +313,19 @@ url = "https://github.com/MetaMask/filsnap"
 url = "https://github.com/MetaMask/forwarder"
 
 [[repo]]
-url = "https://github.com/MetaMask/gaba"
+url = "https://github.com/MetaMask/foundry-toolchain"
+
+[[repo]]
+url = "https://github.com/MetaMask/gpt-txn-insights"
 
 [[repo]]
 url = "https://github.com/MetaMask/Hackathons"
 
 [[repo]]
 url = "https://github.com/MetaMask/hd-seed-phrase-guesser"
+
+[[repo]]
+url = "https://github.com/MetaMask/hermes"
 
 [[repo]]
 url = "https://github.com/MetaMask/iframe-ee-openrpc-inspector-transport"
@@ -298,7 +337,7 @@ url = "https://github.com/MetaMask/iframe-execution-environment"
 url = "https://github.com/MetaMask/infura-provider"
 
 [[repo]]
-url = "https://github.com/MetaMask/inpage-provider"
+url = "https://github.com/MetaMask/ios-branch-deep-linking-attribution"
 
 [[repo]]
 url = "https://github.com/MetaMask/IPFS-Ethereum-Hackathon"
@@ -313,31 +352,43 @@ url = "https://github.com/MetaMask/js-libp2p-multicast-conditional"
 url = "https://github.com/MetaMask/js-libp2p-rendezvous"
 
 [[repo]]
-url = "https://github.com/MetaMask/json-rpc-capabilities-middleware"
-
-[[repo]]
 url = "https://github.com/MetaMask/json-rpc-engine"
 
 [[repo]]
 url = "https://github.com/MetaMask/json-rpc-middleware-stream"
 
 [[repo]]
+url = "https://github.com/MetaMask/json-schema-viewer"
+
+[[repo]]
 url = "https://github.com/MetaMask/key-tree"
+
+[[repo]]
+url = "https://github.com/MetaMask/keyring-api"
+
+[[repo]]
+url = "https://github.com/MetaMask/keyring-snaps-registry"
 
 [[repo]]
 url = "https://github.com/MetaMask/KeyringController"
 
 [[repo]]
-url = "https://github.com/MetaMask/lavamoat-browserify"
+url = "https://github.com/MetaMask/lavamoat-webpack"
 
 [[repo]]
-url = "https://github.com/MetaMask/lavamoat-webpack"
+url = "https://github.com/MetaMask/ledger-hardware-wallet-snap"
+
+[[repo]]
+url = "https://github.com/MetaMask/ledgerhq-metamask-keyring"
 
 [[repo]]
 url = "https://github.com/MetaMask/legacy-web3"
 
 [[repo]]
 url = "https://github.com/MetaMask/legacy-web3-extension"
+
+[[repo]]
+url = "https://github.com/MetaMask/license-checker"
 
 [[repo]]
 url = "https://github.com/MetaMask/logo"
@@ -349,16 +400,25 @@ url = "https://github.com/MetaMask/lottie-react-native"
 url = "https://github.com/MetaMask/mascara"
 
 [[repo]]
+url = "https://github.com/MetaMask/menpo"
+
+[[repo]]
 url = "https://github.com/MetaMask/mesh-testing"
+
+[[repo]]
+url = "https://github.com/MetaMask/metagource"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamark"
 
 [[repo]]
-url = "https://github.com/MetaMask/metamask-api-specs"
+url = "https://github.com/MetaMask/metamask-android-sdk"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-deeplinks"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-desktop"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-docs"
@@ -373,28 +433,22 @@ url = "https://github.com/MetaMask/metamask-eth-abis"
 url = "https://github.com/MetaMask/metamask-extension"
 
 [[repo]]
-url = "https://github.com/MetaMask/metamask-extension-provider"
-
-[[repo]]
 url = "https://github.com/MetaMask/metamask-extension-ts-migration-dashboard"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-filecoin-developer-beta"
 
 [[repo]]
-url = "https://github.com/MetaMask/metamask-inpage-provider"
+url = "https://github.com/MetaMask/metamask-improvement-proposals"
+
+[[repo]]
+url = "https://github.com/MetaMask/metamask-ios-sdk"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-k8s-sys"
 
 [[repo]]
-url = "https://github.com/MetaMask/metamask-logo"
-
-[[repo]]
 url = "https://github.com/MetaMask/metamask-mobile"
-
-[[repo]]
-url = "https://github.com/MetaMask/metamask-mobile-provider"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-module-template"
@@ -403,7 +457,7 @@ url = "https://github.com/MetaMask/metamask-module-template"
 url = "https://github.com/MetaMask/metamask-onboarding"
 
 [[repo]]
-url = "https://github.com/MetaMask/metamask-plugin-beta"
+url = "https://github.com/MetaMask/metamask-sdk"
 
 [[repo]]
 url = "https://github.com/MetaMask/metamask-snaps-beta"
@@ -421,10 +475,16 @@ url = "https://github.com/MetaMask/metamask-vision"
 url = "https://github.com/MetaMask/metamask-yeoman-generators"
 
 [[repo]]
-url = "https://github.com/MetaMask/mm-plugin"
+url = "https://github.com/MetaMask/mixpanel-iphone"
+
+[[repo]]
+url = "https://github.com/MetaMask/mm-docs-v2"
 
 [[repo]]
 url = "https://github.com/MetaMask/mobile-provider"
+
+[[repo]]
+url = "https://github.com/MetaMask/module-lint"
 
 [[repo]]
 url = "https://github.com/MetaMask/Nextjs-Starter"
@@ -439,7 +499,7 @@ url = "https://github.com/MetaMask/noble-secp256k1-compat-wrapper"
 url = "https://github.com/MetaMask/nonce-tracker"
 
 [[repo]]
-url = "https://github.com/MetaMask/obj-multiplex"
+url = "https://github.com/MetaMask/number-to-bn"
 
 [[repo]]
 url = "https://github.com/MetaMask/object-multiplex"
@@ -457,7 +517,22 @@ url = "https://github.com/MetaMask/old-landing"
 url = "https://github.com/MetaMask/old-metamask-ui"
 
 [[repo]]
+url = "https://github.com/MetaMask/onchain-svg-nft-tickets"
+
+[[repo]]
+url = "https://github.com/MetaMask/open-rpc-docs-react"
+
+[[repo]]
+url = "https://github.com/MetaMask/openrpc-docs-react"
+
+[[repo]]
 url = "https://github.com/MetaMask/openrpc-inspector-transport"
+
+[[repo]]
+url = "https://github.com/MetaMask/oss-attribution-generator"
+
+[[repo]]
+url = "https://github.com/MetaMask/OSSRH-94282"
 
 [[repo]]
 url = "https://github.com/MetaMask/pending-tx-tracker"
@@ -472,7 +547,16 @@ url = "https://github.com/MetaMask/phishing-warning"
 url = "https://github.com/MetaMask/post-message-stream"
 
 [[repo]]
+url = "https://github.com/MetaMask/ppom-validator"
+
+[[repo]]
+url = "https://github.com/MetaMask/ppom-view"
+
+[[repo]]
 url = "https://github.com/MetaMask/providers"
+
+[[repo]]
+url = "https://github.com/MetaMask/react-dapp-tutorial"
 
 [[repo]]
 url = "https://github.com/MetaMask/React-MetaMask-Login-Button"
@@ -535,7 +619,16 @@ url = "https://github.com/MetaMask/react-native-view-shot"
 url = "https://github.com/MetaMask/react-native-webview"
 
 [[repo]]
+url = "https://github.com/MetaMask/react-sdk-linea-workshop"
+
+[[repo]]
+url = "https://github.com/MetaMask/references"
+
+[[repo]]
 url = "https://github.com/MetaMask/rpc-cap"
+
+[[repo]]
+url = "https://github.com/MetaMask/rpc-errors"
 
 [[repo]]
 url = "https://github.com/MetaMask/safe-event-emitter"
@@ -544,13 +637,16 @@ url = "https://github.com/MetaMask/safe-event-emitter"
 url = "https://github.com/MetaMask/scure-bip39"
 
 [[repo]]
-url = "https://github.com/MetaMask/sesify"
-
-[[repo]]
 url = "https://github.com/MetaMask/sesify-tofu"
 
 [[repo]]
+url = "https://github.com/MetaMask/signature-inspection"
+
+[[repo]]
 url = "https://github.com/MetaMask/SIPs"
+
+[[repo]]
+url = "https://github.com/MetaMask/skip-duplicate-actions"
 
 [[repo]]
 url = "https://github.com/MetaMask/slip44"
@@ -565,19 +661,28 @@ url = "https://github.com/MetaMask/snap-box"
 url = "https://github.com/MetaMask/snap-examples"
 
 [[repo]]
-url = "https://github.com/MetaMask/snap-template"
+url = "https://github.com/MetaMask/snap-simple-keyring"
 
 [[repo]]
 url = "https://github.com/MetaMask/snap-workers"
 
 [[repo]]
+url = "https://github.com/MetaMask/snaps"
+
+[[repo]]
 url = "https://github.com/MetaMask/snaps-cli"
+
+[[repo]]
+url = "https://github.com/MetaMask/snaps-directory"
 
 [[repo]]
 url = "https://github.com/MetaMask/snaps-monorepo"
 
 [[repo]]
-url = "https://github.com/MetaMask/snaps-skunkworks"
+url = "https://github.com/MetaMask/snaps-registry"
+
+[[repo]]
+url = "https://github.com/MetaMask/snaps-simulator"
 
 [[repo]]
 url = "https://github.com/MetaMask/specifications"
@@ -590,6 +695,9 @@ url = "https://github.com/MetaMask/state-log-explorer"
 
 [[repo]]
 url = "https://github.com/MetaMask/sw-controller"
+
+[[repo]]
+url = "https://github.com/MetaMask/swappable-obj-proxy"
 
 [[repo]]
 url = "https://github.com/MetaMask/talk-devcon2"
@@ -610,6 +718,9 @@ url = "https://github.com/MetaMask/template-snap"
 url = "https://github.com/MetaMask/template-snap-monorepo"
 
 [[repo]]
+url = "https://github.com/MetaMask/template-sync"
+
+[[repo]]
 url = "https://github.com/MetaMask/template-typescript-snap"
 
 [[repo]]
@@ -620,6 +731,9 @@ url = "https://github.com/MetaMask/test-snaps"
 
 [[repo]]
 url = "https://github.com/MetaMask/TipButton"
+
+[[repo]]
+url = "https://github.com/MetaMask/tmp-snap-keyrings"
 
 [[repo]]
 url = "https://github.com/MetaMask/transaction-controller"
@@ -662,6 +776,9 @@ url = "https://github.com/MetaMask/webextensions"
 
 [[repo]]
 url = "https://github.com/MetaMask/Website"
+
+[[repo]]
+url = "https://github.com/MetaMask/website-staging"
 
 [[repo]]
 url = "https://github.com/MetaMask/zero-client"

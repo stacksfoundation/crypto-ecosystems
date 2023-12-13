@@ -40,13 +40,13 @@ url = "https://github.com/trustwallet/Charts"
 url = "https://github.com/trustwallet/checkout"
 
 [[repo]]
+url = "https://github.com/trustwallet/cloudflare-exporter"
+
+[[repo]]
 url = "https://github.com/TrustWallet/dapps-browser"
 
 [[repo]]
 url = "https://github.com/TrustWallet/developer"
-
-[[repo]]
-url = "https://github.com/TrustWallet/developers"
 
 [[repo]]
 url = "https://github.com/TrustWallet/djinni"
@@ -64,6 +64,9 @@ url = "https://github.com/TrustWallet/docs"
 url = "https://github.com/trustwallet/dokka"
 
 [[repo]]
+url = "https://github.com/trustwallet/EIPs"
+
+[[repo]]
 url = "https://github.com/TrustWallet/EllipticCurveKeyPair"
 
 [[repo]]
@@ -76,13 +79,7 @@ url = "https://github.com/trustwallet/Eureka"
 url = "https://github.com/trustwallet/go-libs"
 
 [[repo]]
-url = "https://github.com/trustwallet/go-libs"
-
-[[repo]]
 url = "https://github.com/trustwallet/go-primitives"
-
-[[repo]]
-url = "https://github.com/trustwallet/golibs"
 
 [[repo]]
 url = "https://github.com/trustwallet/golibs-networking"
@@ -109,13 +106,31 @@ url = "https://github.com/trustwallet/metabase"
 url = "https://github.com/trustwallet/Moya"
 
 [[repo]]
+url = "https://github.com/trustwallet/multiversx"
+
+[[repo]]
 url = "https://github.com/trustwallet/naming"
+
+[[repo]]
+url = "https://github.com/trustwallet/nano-rpc-proxy"
+
+[[repo]]
+url = "https://github.com/trustwallet/nano-work-cache"
+
+[[repo]]
+url = "https://github.com/trustwallet/NanoRPCProxy"
 
 [[repo]]
 url = "https://github.com/TrustWallet/node-electrum-client"
 
 [[repo]]
+url = "https://github.com/trustwallet/ordinals-ord"
+
+[[repo]]
 url = "https://github.com/trustwallet/platform"
+
+[[repo]]
+url = "https://github.com/trustwallet/platform-alternat"
 
 [[repo]]
 url = "https://github.com/trustwallet/posthog"
@@ -133,9 +148,6 @@ url = "https://github.com/trustwallet/postman-exporter"
 url = "https://github.com/trustwallet/R.swift"
 
 [[repo]]
-url = "https://github.com/TrustWallet/react-native-trust-sdk"
-
-[[repo]]
 url = "https://github.com/trustwallet/redemption"
 
 [[repo]]
@@ -149,6 +161,18 @@ url = "https://github.com/TrustWallet/statping"
 
 [[repo]]
 url = "https://github.com/trustwallet/SwiftLint"
+
+[[repo]]
+url = "https://github.com/trustwallet/terraform-aws-rds"
+
+[[repo]]
+url = "https://github.com/trustwallet/terraform-aws-rds-aurora"
+
+[[repo]]
+url = "https://github.com/trustwallet/terraform-aws-rds-proxy"
+
+[[repo]]
+url = "https://github.com/trustwallet/terraform-aws-security-group"
 
 [[repo]]
 url = "https://github.com/trustwallet/test-dapp"
@@ -212,6 +236,7 @@ url = "https://github.com/TrustWallet/wallet-connect-swift"
 
 [[repo]]
 url = "https://github.com/TrustWallet/wallet-core"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/TrustWallet/walletconnect-example-dapp"
@@ -235,7 +260,13 @@ url = "https://github.com/trustwallet/web-core"
 url = "https://github.com/trustwallet/web3-onboard"
 
 [[repo]]
+url = "https://github.com/trustwallet/web3-react-trust-wallet"
+
+[[repo]]
 url = "https://github.com/TrustWallet/Web3View"
+
+[[repo]]
+url = "https://github.com/trustwallet/wizard-sdk"
 
 [[repo]]
 url = "https://github.com/trustwallet/xcresulttool"

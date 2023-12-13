@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/firoorg"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/firoorg/atomicDEX-Desktop"
+url = "https://github.com/firoorg/atomicswap"
 
 [[repo]]
-url = "https://github.com/firoorg/atomicswap"
+url = "https://github.com/firoorg/audits"
 
 [[repo]]
 url = "https://github.com/firoorg/aura-paper"
@@ -35,9 +35,6 @@ url = "https://github.com/firoorg/bitcore-node-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/bitcore-p2p-zcoin"
-
-[[repo]]
-url = "https://github.com/firoorg/bitcore-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/blockbook"
@@ -67,9 +64,6 @@ url = "https://github.com/firoorg/ccs-back"
 url = "https://github.com/firoorg/ccs-front"
 
 [[repo]]
-url = "https://github.com/firoorg/ccs-proposals"
-
-[[repo]]
 url = "https://github.com/firoorg/community"
 
 [[repo]]
@@ -91,25 +85,16 @@ url = "https://github.com/firoorg/edge-currency-zcoin"
 url = "https://github.com/firoorg/electron"
 
 [[repo]]
-url = "https://github.com/firoorg/electrum-dash"
-
-[[repo]]
 url = "https://github.com/firoorg/electrum-firo"
 
 [[repo]]
 url = "https://github.com/firoorg/electrum-firo-archived"
 
 [[repo]]
-url = "https://github.com/firoorg/electrum-xzc"
-
-[[repo]]
 url = "https://github.com/firoorg/electrum-xzc-icons"
 
 [[repo]]
 url = "https://github.com/firoorg/electrum-xzc-locale"
-
-[[repo]]
-url = "https://github.com/firoorg/electrumx"
 
 [[repo]]
 url = "https://github.com/firoorg/electrumx-archived"
@@ -173,9 +158,6 @@ url = "https://github.com/firoorg/insight-api"
 
 [[repo]]
 url = "https://github.com/firoorg/insight-api-firo"
-
-[[repo]]
-url = "https://github.com/firoorg/insight-api-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/insight-ui-zcoin"
@@ -262,6 +244,9 @@ url = "https://github.com/firoorg/spark"
 url = "https://github.com/firoorg/spark-paper"
 
 [[repo]]
+url = "https://github.com/firoorg/sparkmobile"
+
+[[repo]]
 url = "https://github.com/firoorg/spats-paper"
 
 [[repo]]
@@ -290,9 +275,6 @@ url = "https://github.com/firoorg/xzcwallet"
 
 [[repo]]
 url = "https://github.com/firoorg/zauth"
-
-[[repo]]
-url = "https://github.com/firoorg/zcoin-paper-js"
 
 [[repo]]
 url = "https://github.com/firoorg/ZCoin-Seeder"
@@ -329,9 +311,6 @@ url = "https://github.com/firoorg/zeth"
 
 [[repo]]
 url = "https://github.com/firoorg/znode-tool"
-
-[[repo]]
-url = "https://github.com/firoorg/znode-tool-evo"
 
 [[repo]]
 url = "https://github.com/firoorg/znode-tools"

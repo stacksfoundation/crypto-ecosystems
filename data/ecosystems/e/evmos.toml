@@ -13,13 +13,19 @@ url = "https://github.com/0xflair/evm-contracts"
 url = "https://github.com/antonRoyenko/cosmos-space-bot"
 
 [[repo]]
-url = "https://github.com/DAOForce/DAOForce-contract"
+url = "https://github.com/DAOForce/parachute-drop"
 
 [[repo]]
-url = "https://github.com/DAOForce/DAOForce-frontend"
+url = "https://github.com/DAOForce/ParachuteDrop-contract"
+
+[[repo]]
+url = "https://github.com/deb0x/dbXenBurnerProject"
 
 [[repo]]
 url = "https://github.com/diffusion-fi/minichefv2"
+
+[[repo]]
+url = "https://github.com/dspytdao/dspytai"
 
 [[repo]]
 url = "https://github.com/dspytdao/PinSave-EVM"
@@ -28,10 +34,22 @@ url = "https://github.com/dspytdao/PinSave-EVM"
 url = "https://github.com/dung5ire/evmos-offchain"
 
 [[repo]]
-url = "https://github.com/evmos-stayking-house/defi-contract"
+url = "https://github.com/evmos-stayking-house/evm-contract"
+
+[[repo]]
+url = "https://github.com/evmos/.github"
+
+[[repo]]
+url = "https://github.com/evmos/academy"
+
+[[repo]]
+url = "https://github.com/evmos/apps"
 
 [[repo]]
 url = "https://github.com/evmos/awesome"
+
+[[repo]]
+url = "https://github.com/evmos/backend"
 
 [[repo]]
 url = "https://github.com/evmos/bots"
@@ -46,10 +64,34 @@ url = "https://github.com/evmos/chainlist"
 url = "https://github.com/evmos/claims_fixer"
 
 [[repo]]
+url = "https://github.com/evmos/cometbft-db"
+
+[[repo]]
+url = "https://github.com/evmos/community"
+
+[[repo]]
 url = "https://github.com/evmos/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/evmos/decay-analysis"
+
+[[repo]]
+url = "https://github.com/evmos/decay-data"
+
+[[repo]]
+url = "https://github.com/evmos/devops"
+
+[[repo]]
+url = "https://github.com/evmos/devRel"
+
+[[repo]]
+url = "https://github.com/evmos/docs"
+
+[[repo]]
 url = "https://github.com/evmos/docs-ui"
+
+[[repo]]
+url = "https://github.com/evmos/erigon"
 
 [[repo]]
 url = "https://github.com/evmos/ethereum-ledger-go"
@@ -59,6 +101,7 @@ url = "https://github.com/evmos/ethermint"
 
 [[repo]]
 url = "https://github.com/evmos/evmos"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/evmos/evmos-ledger-go"
@@ -79,7 +122,19 @@ url = "https://github.com/evmos/evmospy"
 url = "https://github.com/evmos/evmoswallet"
 
 [[repo]]
+url = "https://github.com/evmos/extensions"
+
+[[repo]]
+url = "https://github.com/evmos/gnosis-py"
+
+[[repo]]
 url = "https://github.com/evmos/go-ethereum"
+
+[[repo]]
+url = "https://github.com/evmos/gRPC-py"
+
+[[repo]]
+url = "https://github.com/evmos/helm"
 
 [[repo]]
 url = "https://github.com/evmos/keplr-wallet"
@@ -88,7 +143,46 @@ url = "https://github.com/evmos/keplr-wallet"
 url = "https://github.com/evmos/mainnet"
 
 [[repo]]
+url = "https://github.com/evmos/nominations"
+
+[[repo]]
+url = "https://github.com/evmos/packet-forward-middleware"
+
+[[repo]]
+url = "https://github.com/evmos/precompile-examples"
+
+[[repo]]
+url = "https://github.com/evmos/precompiles-dapp-examples"
+
+[[repo]]
+url = "https://github.com/evmos/proto-py"
+
+[[repo]]
 url = "https://github.com/evmos/react-components"
+
+[[repo]]
+url = "https://github.com/evmos/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/evmos/safe-client-gateway-rust"
+
+[[repo]]
+url = "https://github.com/evmos/safe-config-service"
+
+[[repo]]
+url = "https://github.com/evmos/safe-react"
+
+[[repo]]
+url = "https://github.com/evmos/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/evmos/safe-web-core"
+
+[[repo]]
+url = "https://github.com/evmos/send-multiple-eth-txs"
+
+[[repo]]
+url = "https://github.com/evmos/station-assets"
 
 [[repo]]
 url = "https://github.com/evmos/testing"
@@ -97,10 +191,22 @@ url = "https://github.com/evmos/testing"
 url = "https://github.com/evmos/testnets"
 
 [[repo]]
+url = "https://github.com/evmos/tm-db"
+
+[[repo]]
 url = "https://github.com/evmos/validator-directory"
 
 [[repo]]
+url = "https://github.com/evmos/vesting"
+
+[[repo]]
 url = "https://github.com/evmos/vuepress-theme-cosmos"
+
+[[repo]]
+url = "https://github.com/evmos/wallet-py"
+
+[[repo]]
+url = "https://github.com/evmos/wevmos"
 
 [[repo]]
 url = "https://github.com/evmychan/something-special"
@@ -115,7 +221,16 @@ url = "https://github.com/FraxFinance/frax-solidity"
 url = "https://github.com/Hackatom-2022-Shooting-Stars/parachute-drop-frontend"
 
 [[repo]]
-url = "https://github.com/HEIMDALL-EVMOS/heimdall-react"
+url = "https://github.com/heimdall-safe/heimdall-react"
+
+[[repo]]
+url = "https://github.com/kidneyweakx/easyeigen"
+
+[[repo]]
+url = "https://github.com/lifinance/contracts"
+
+[[repo]]
+url = "https://github.com/LPX55/IncentivizedDelegations"
 
 [[repo]]
 url = "https://github.com/MahaChain/scallop"
@@ -125,6 +240,12 @@ url = "https://github.com/meta-web3-music/smart-contracts"
 
 [[repo]]
 url = "https://github.com/Metapolis21/PolisChain"
+
+[[repo]]
+url = "https://github.com/NeokingdomDAO/contracts"
+
+[[repo]]
+url = "https://github.com/pangolindex/exchange-contracts"
 
 [[repo]]
 url = "https://github.com/pcaversaccio/batch-distributor"
@@ -142,6 +263,12 @@ url = "https://github.com/Plex-Engineer/canto-mono"
 url = "https://github.com/Plex-Engineer/staking"
 
 [[repo]]
+url = "https://github.com/QuadrataNetwork/passport-contracts"
+
+[[repo]]
+url = "https://github.com/rebuschain/rebus.app.web"
+
+[[repo]]
 url = "https://github.com/rebuschain/rebus.core"
 
 [[repo]]
@@ -151,6 +278,9 @@ url = "https://github.com/saddle-finance/saddle-contract"
 url = "https://github.com/Some-body-in-the-ether/test"
 
 [[repo]]
+url = "https://github.com/TelediskoDAO/contracts"
+
+[[repo]]
 url = "https://github.com/tharsis/airdrop-dashboard"
 
 [[repo]]
@@ -158,9 +288,6 @@ url = "https://github.com/tharsis/app-evmos"
 
 [[repo]]
 url = "https://github.com/tharsis/assetlists"
-
-[[repo]]
-url = "https://github.com/tharsis/awesome"
 
 [[repo]]
 url = "https://github.com/tharsis/bdjuno"
@@ -178,22 +305,13 @@ url = "https://github.com/tharsis/chain-registry"
 url = "https://github.com/tharsis/chains"
 
 [[repo]]
-url = "https://github.com/tharsis/claims_fixer"
-
-[[repo]]
 url = "https://github.com/tharsis/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/tharsis/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/tharsis/ethermint"
-
-[[repo]]
 url = "https://github.com/tharsis/evm-json-rpc-spec"
-
-[[repo]]
-url = "https://github.com/tharsis/evmos"
 
 [[repo]]
 url = "https://github.com/tharsis/evmos-airdrop-dashboard"
@@ -205,16 +323,10 @@ url = "https://github.com/tharsis/evmos-faucet-backend"
 url = "https://github.com/tharsis/evmos-landing-page"
 
 [[repo]]
-url = "https://github.com/tharsis/evmosjs"
-
-[[repo]]
 url = "https://github.com/tharsis/gnosis-py"
 
 [[repo]]
 url = "https://github.com/tharsis/keplr-wallet"
-
-[[repo]]
-url = "https://github.com/tharsis/mainnet"
 
 [[repo]]
 url = "https://github.com/tharsis/olympus"
@@ -241,9 +353,6 @@ url = "https://github.com/tharsis/socket"
 url = "https://github.com/tharsis/sourcify"
 
 [[repo]]
-url = "https://github.com/tharsis/testnets"
-
-[[repo]]
 url = "https://github.com/tharsis/tharsis.github.io"
 
 [[repo]]
@@ -251,6 +360,9 @@ url = "https://github.com/tharsis/wevmos-contract"
 
 [[repo]]
 url = "https://github.com/Transfer-Safe/TransferSafe-Router-Contract"
+
+[[repo]]
+url = "https://github.com/zama-ai/evmos"
 
 [[repo]]
 url = "https://github.com/ziptalk/Invincible_Node"

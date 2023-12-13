@@ -52,6 +52,9 @@ url = "https://github.com/ATNIO/BigData-Notes"
 url = "https://github.com/ATNIO/book-small-spring"
 
 [[repo]]
+url = "https://github.com/ATNIO/build-web-application-with-golang"
+
+[[repo]]
 url = "https://github.com/ATNIO/ccxt"
 
 [[repo]]
@@ -59,6 +62,9 @@ url = "https://github.com/ATNIO/community-gateway"
 
 [[repo]]
 url = "https://github.com/ATNIO/cwa-server"
+
+[[repo]]
+url = "https://github.com/ATNIO/dataease"
 
 [[repo]]
 url = "https://github.com/ATNIO/dbot"
@@ -79,6 +85,9 @@ url = "https://github.com/ATNIO/demo"
 url = "https://github.com/ATNIO/disruptor"
 
 [[repo]]
+url = "https://github.com/ATNIO/dolphinscheduler"
+
+[[repo]]
 url = "https://github.com/ATNIO/elasticsearch"
 
 [[repo]]
@@ -92,6 +101,9 @@ url = "https://github.com/ATNIO/explorer_web"
 
 [[repo]]
 url = "https://github.com/ATNIO/go-ethereum"
+
+[[repo]]
+url = "https://github.com/ATNIO/golangFamily"
 
 [[repo]]
 url = "https://github.com/ATNIO/idcardgenerator"
@@ -158,6 +170,9 @@ url = "https://github.com/ATNIO/WechatEnhancement"
 
 [[repo]]
 url = "https://github.com/ATNIO/weixin-atn-key-project"
+
+[[repo]]
+url = "https://github.com/ATNIO/weweibuy-framework"
 
 [[repo]]
 url = "https://github.com/ATNIO/white_paper"

@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/ceramicnetwork", "https://github.com
 
 # Repositories
 [[repo]]
+url = "https://github.com/3box/wreckingball"
+
+[[repo]]
+url = "https://github.com/blockchain-lab-um/masca"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/.github"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/awesome"
 
 [[repo]]
@@ -34,7 +43,13 @@ url = "https://github.com/ceramicnetwork/ceramic-anchor-service"
 url = "https://github.com/ceramicnetwork/CIP"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/CIPs"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/clayground"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/codeco"
 
 [[repo]]
 url = "https://github.com/ceramicnetwork/did-jwt"
@@ -50,6 +65,9 @@ url = "https://github.com/ceramicnetwork/did-test-suite"
 
 [[repo]]
 url = "https://github.com/ceramicnetwork/docs"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/go-cas"
 
 [[repo]]
 url = "https://github.com/ceramicnetwork/go-ceramic"
@@ -100,9 +118,6 @@ url = "https://github.com/ceramicnetwork/js-ipfs"
 url = "https://github.com/ceramicnetwork/js-ipfs-ceramic"
 
 [[repo]]
-url = "https://github.com/ceramicnetwork/js-ipfs-daemon"
-
-[[repo]]
 url = "https://github.com/ceramicnetwork/js-multiformats"
 
 [[repo]]
@@ -121,6 +136,12 @@ url = "https://github.com/ceramicnetwork/key-did-provider-ed25519"
 url = "https://github.com/ceramicnetwork/key-did-provider-secp256k1"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/kubo"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/least-recent"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/namespaces"
 
 [[repo]]
@@ -136,6 +157,9 @@ url = "https://github.com/ceramicnetwork/peerlist"
 url = "https://github.com/ceramicnetwork/research"
 
 [[repo]]
+url = "https://github.com/ceramicnetwork/rust-dag-jose"
+
+[[repo]]
 url = "https://github.com/ceramicnetwork/specs"
 
 [[repo]]
@@ -145,13 +169,10 @@ url = "https://github.com/ceramicnetwork/terraform-aws-ceramic"
 url = "https://github.com/ceramicnetwork/tipsync-poc"
 
 [[repo]]
-url = "https://github.com/ceramicnetwork/wreckingball"
-
-[[repo]]
-url = "https://github.com/ceramicstudio/3id-connect"
-
-[[repo]]
 url = "https://github.com/ceramicstudio/3id-connect-management"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/aragon-workshop"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/awesome-services"
@@ -160,13 +181,28 @@ url = "https://github.com/ceramicstudio/awesome-services"
 url = "https://github.com/ceramicstudio/caip-js"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/ceramic-ai"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/ceramic-eas"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/ceramic-explorer"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/ceramic-infra-poc"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/ceramic-infra-scripts"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/ceramic-starter"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/ceramic-workshop"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/ComposeDbExampleApp"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/create-ceramic-app"
@@ -178,10 +214,16 @@ url = "https://github.com/ceramicstudio/data-composability-demo"
 url = "https://github.com/ceramicstudio/datamodels"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/delegate-simpledeploy"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/dynamic-nft-example"
 
 [[repo]]
-url = "https://github.com/ceramicstudio/eth-denver-2021"
+url = "https://github.com/ceramicstudio/ethdenver-workshop"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/EthDenver2023Demo"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/glaze-demo-app"
@@ -197,9 +239,6 @@ url = "https://github.com/ceramicstudio/idx-assignment"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/idx-cli"
-
-[[repo]]
-url = "https://github.com/ceramicstudio/idx-demo-app"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/idx-docs"
@@ -223,9 +262,6 @@ url = "https://github.com/ceramicstudio/js-composedb"
 url = "https://github.com/ceramicstudio/js-glaze"
 
 [[repo]]
-url = "https://github.com/ceramicstudio/js-idx"
-
-[[repo]]
 url = "https://github.com/ceramicstudio/js-idx-constants"
 
 [[repo]]
@@ -235,7 +271,16 @@ url = "https://github.com/ceramicstudio/js-idx-tools"
 url = "https://github.com/ceramicstudio/js.org"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/lit-composedb"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/mid-transition-example"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/multiauth"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/Roadmap"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/rust-ceramic-http-client"
@@ -247,16 +292,25 @@ url = "https://github.com/ceramicstudio/safe-did-resolver"
 url = "https://github.com/ceramicstudio/self.id"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/simpledeploy"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/tutorial-getting-started-with-ceramic"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/use-ceramic"
 
 [[repo]]
+url = "https://github.com/ceramicstudio/VerifiableCredentialDemo"
+
+[[repo]]
 url = "https://github.com/ceramicstudio/web-playground"
 
 [[repo]]
 url = "https://github.com/ceramicstudio/welcome"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/wheel"
 
 [[repo]]
 url = "https://github.com/SKS-PH/haven-protocol"

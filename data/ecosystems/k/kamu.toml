@@ -7,13 +7,25 @@ github_organizations = ["https://github.com/kamu-data"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/kamu-data/arrow-digest"
+
+[[repo]]
 url = "https://github.com/kamu-data/arrow-rs"
 
 [[repo]]
 url = "https://github.com/kamu-data/differential-dataflow"
 
 [[repo]]
+url = "https://github.com/kamu-data/dill-rs"
+
+[[repo]]
+url = "https://github.com/kamu-data/flightsql-dbapi"
+
+[[repo]]
 url = "https://github.com/kamu-data/flink"
+
+[[repo]]
+url = "https://github.com/kamu-data/helm-charts"
 
 [[repo]]
 url = "https://github.com/kamu-data/hive"
@@ -51,6 +63,9 @@ url = "https://github.com/kamu-data/kamu-docs"
 tags = ["Documentation", "Website"]
 
 [[repo]]
+url = "https://github.com/kamu-data/kamu-engine-datafusion"
+
+[[repo]]
 url = "https://github.com/kamu-data/kamu-engine-flink"
 
 [[repo]]
@@ -58,6 +73,9 @@ url = "https://github.com/kamu-data/kamu-engine-spark"
 
 [[repo]]
 url = "https://github.com/kamu-data/kamu-images"
+
+[[repo]]
+url = "https://github.com/kamu-data/kamu-platform"
 
 [[repo]]
 url = "https://github.com/kamu-data/kamu-web-ui"

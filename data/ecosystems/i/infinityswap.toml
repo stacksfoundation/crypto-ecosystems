@@ -10,6 +10,18 @@ github_organizations = ["https://github.com/infinity-swap"]
 url = "https://github.com/infinity-swap/agent-rs"
 
 [[repo]]
+url = "https://github.com/infinity-swap/aptos-move"
+
+[[repo]]
+url = "https://github.com/infinity-swap/bitfinity-evm-examples"
+
+[[repo]]
+url = "https://github.com/infinity-swap/bitfinity-examples-nft-marketplace"
+
+[[repo]]
+url = "https://github.com/infinity-swap/bitfinity-examples-token-deployer"
+
+[[repo]]
 url = "https://github.com/infinity-swap/canister-sdk"
 
 [[repo]]
@@ -34,7 +46,19 @@ url = "https://github.com/infinity-swap/DAB-js"
 url = "https://github.com/infinity-swap/dab-test"
 
 [[repo]]
+url = "https://github.com/infinity-swap/erigon"
+
+[[repo]]
+url = "https://github.com/infinity-swap/eth-signer"
+
+[[repo]]
 url = "https://github.com/infinity-swap/ethers-rs"
+
+[[repo]]
+url = "https://github.com/infinity-swap/evmc-did"
+
+[[repo]]
+url = "https://github.com/infinity-swap/evmc-sdk"
 
 [[repo]]
 url = "https://github.com/infinity-swap/extendable-token"
@@ -55,19 +79,49 @@ url = "https://github.com/infinity-swap/ic-py"
 url = "https://github.com/infinity-swap/ic-test-utils"
 
 [[repo]]
+url = "https://github.com/infinity-swap/iceth"
+
+[[repo]]
 url = "https://github.com/infinity-swap/ifx"
 
 [[repo]]
 url = "https://github.com/infinity-swap/IS20"
 
 [[repo]]
+url = "https://github.com/infinity-swap/marketplace-example"
+
+[[repo]]
+url = "https://github.com/infinity-swap/oracle-canister"
+
+[[repo]]
+url = "https://github.com/infinity-swap/otterscan"
+
+[[repo]]
+url = "https://github.com/infinity-swap/parallel-nova"
+
+[[repo]]
+url = "https://github.com/infinity-swap/pontem"
+
+[[repo]]
 url = "https://github.com/infinity-swap/read_rs"
 
 [[repo]]
+url = "https://github.com/infinity-swap/register-evm-agent"
+
+[[repo]]
 url = "https://github.com/infinity-swap/sdk"
+
+[[repo]]
+url = "https://github.com/infinity-swap/sui"
+
+[[repo]]
+url = "https://github.com/infinity-swap/tech-docs-bitfinity-evm"
 
 [[repo]]
 url = "https://github.com/infinity-swap/token-lists"
 
 [[repo]]
 url = "https://github.com/infinity-swap/widgets"
+
+[[repo]]
+url = "https://github.com/infinity-swap/zkWasm"

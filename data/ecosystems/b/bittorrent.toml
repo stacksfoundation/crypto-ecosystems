@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "BitTorrent"
 
-sub_ecosystems = []
+sub_ecosystems = ["Bitlend"]
 
 github_organizations = ["https://github.com/bittorrent"]
 
@@ -76,10 +76,10 @@ url = "https://github.com/bittorrent/btc"
 url = "https://github.com/bittorrent/btfs-airdrop"
 
 [[repo]]
-url = "https://github.com/bittorrent/btfs-chequebook"
+url = "https://github.com/bittorrent/btfs-dashboard"
 
 [[repo]]
-url = "https://github.com/bittorrent/btfs-dashboard"
+url = "https://github.com/bittorrent/btfs-encryption"
 
 [[repo]]
 url = "https://github.com/bittorrent/btfs-status-contract"
@@ -145,6 +145,12 @@ url = "https://github.com/bittorrent/generator-btapp"
 url = "https://github.com/bittorrent/go-btfs"
 
 [[repo]]
+url = "https://github.com/bittorrent/go-btfs-api"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-chunker"
+
+[[repo]]
 url = "https://github.com/bittorrent/go-btfs-cmds"
 
 [[repo]]
@@ -152,6 +158,27 @@ url = "https://github.com/bittorrent/go-btfs-common"
 
 [[repo]]
 url = "https://github.com/bittorrent/go-btfs-config"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-files"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btns"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-common"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-eccrypto"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-mfs"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-path"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-unixfs"
 
 [[repo]]
 url = "https://github.com/bittorrent/googletest"
@@ -179,6 +206,9 @@ url = "https://github.com/bittorrent/homebrew"
 
 [[repo]]
 url = "https://github.com/bittorrent/ice"
+
+[[repo]]
+url = "https://github.com/bittorrent/interface-go-btfs-core"
 
 [[repo]]
 url = "https://github.com/bittorrent/ipboard_proxy"
@@ -230,6 +260,7 @@ url = "https://github.com/bittorrent/libtommath-test"
 
 [[repo]]
 url = "https://github.com/bittorrent/libutp"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/bittorrent/live-build-environments"
@@ -293,6 +324,9 @@ url = "https://github.com/bittorrent/prerender"
 
 [[repo]]
 url = "https://github.com/bittorrent/prerender-node"
+
+[[repo]]
+url = "https://github.com/bittorrent/protobuf"
 
 [[repo]]
 url = "https://github.com/bittorrent/python-simpledb"

@@ -19,6 +19,15 @@ url = "https://github.com/openocean-finance/Contracts-OOE-Polygon"
 url = "https://github.com/openocean-finance/cronos-awesome"
 
 [[repo]]
+url = "https://github.com/openocean-finance/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/openocean-finance/dimension-adapters"
+
+[[repo]]
+url = "https://github.com/openocean-finance/doc.zk-evm"
+
+[[repo]]
 url = "https://github.com/openocean-finance/ecosystem-projects"
 
 [[repo]]
@@ -26,6 +35,9 @@ url = "https://github.com/openocean-finance/farming"
 
 [[repo]]
 url = "https://github.com/openocean-finance/hummingbot"
+
+[[repo]]
+url = "https://github.com/openocean-finance/ledger"
 
 [[repo]]
 url = "https://github.com/openocean-finance/limit-order-protocol-v2"
@@ -43,6 +55,9 @@ url = "https://github.com/openocean-finance/openocean-api"
 url = "https://github.com/openocean-finance/openocean-api-sdk"
 
 [[repo]]
+url = "https://github.com/openocean-finance/OpenOcean-DAO-treasury-for-Arbitrum"
+
+[[repo]]
 url = "https://github.com/openocean-finance/OpenOcean-farming"
 
 [[repo]]
@@ -53,6 +68,9 @@ url = "https://github.com/openocean-finance/OpenOcean-SDK-API"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOcean-swap-core"
+
+[[repo]]
+url = "https://github.com/openocean-finance/OpenOcean-swap-sdk"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOcean_Cross_Chain_Contract"
@@ -68,12 +86,6 @@ url = "https://github.com/openocean-finance/OpenOceanExchangeV2"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanFed"
-
-[[repo]]
-url = "https://github.com/openocean-finance/pancake-swap-core"
-
-[[repo]]
-url = "https://github.com/openocean-finance/pancake-swap-periphery"
 
 [[repo]]
 url = "https://github.com/openocean-finance/Security-Audit-Report"

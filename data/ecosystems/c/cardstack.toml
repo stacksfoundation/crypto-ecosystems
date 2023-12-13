@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/cardstack"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/cardstack/animations-experiment"
+url = "https://github.com/cardstack/boxel"
 
 [[repo]]
-url = "https://github.com/cardstack/boxel"
+url = "https://github.com/cardstack/boxel-archive-2021"
 
 [[repo]]
 url = "https://github.com/cardstack/boxel-motion"
@@ -55,9 +55,6 @@ url = "https://github.com/cardstack/cardstack-meta-guard"
 url = "https://github.com/cardstack/cardstack-module-scheduled-payment"
 
 [[repo]]
-url = "https://github.com/cardstack/cardstack-module-scheduled-payments"
-
-[[repo]]
 url = "https://github.com/cardstack/cardstack-token"
 
 [[repo]]
@@ -85,6 +82,9 @@ url = "https://github.com/cardstack/docker-chrome"
 url = "https://github.com/cardstack/ember-cli-deploy-cardstack-eb"
 
 [[repo]]
+url = "https://github.com/cardstack/ember-cli-deploy-compress"
+
+[[repo]]
 url = "https://github.com/cardstack/ember-data-fastboot"
 
 [[repo]]
@@ -109,10 +109,19 @@ url = "https://github.com/cardstack/ethereum-test-network"
 url = "https://github.com/cardstack/etherwallet"
 
 [[repo]]
+url = "https://github.com/cardstack/gh-actions"
+
+[[repo]]
 url = "https://github.com/cardstack/gitchain"
 
 [[repo]]
 url = "https://github.com/cardstack/githereum"
+
+[[repo]]
+url = "https://github.com/cardstack/glimmer-scoped-css"
+
+[[repo]]
+url = "https://github.com/cardstack/glint"
 
 [[repo]]
 url = "https://github.com/cardstack/guidemaker-cardstack-template"
@@ -136,19 +145,25 @@ url = "https://github.com/cardstack/merklelib"
 url = "https://github.com/cardstack/MyCrypto"
 
 [[repo]]
+url = "https://github.com/cardstack/nft-membership"
+
+[[repo]]
+url = "https://github.com/cardstack/nft-membership-nyu"
+
+[[repo]]
 url = "https://github.com/cardstack/nyu-carbon"
 
 [[repo]]
 url = "https://github.com/cardstack/portfolio"
 
 [[repo]]
+url = "https://github.com/cardstack/prettier"
+
+[[repo]]
 url = "https://github.com/cardstack/project-template"
 
 [[repo]]
 url = "https://github.com/cardstack/prototypes"
-
-[[repo]]
-url = "https://github.com/cardstack/python-did-resolver"
 
 [[repo]]
 url = "https://github.com/cardstack/react-native-cloud-fs"
@@ -158,6 +173,9 @@ url = "https://github.com/cardstack/requirejs-monaco-ember-polyfill"
 
 [[repo]]
 url = "https://github.com/cardstack/runtime-spike"
+
+[[repo]]
+url = "https://github.com/cardstack/safe-module-claim-settlement"
 
 [[repo]]
 url = "https://github.com/cardstack/safe-relay-service"

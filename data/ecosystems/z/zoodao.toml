@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/ZooDAO-Project"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ZooDAO-Project/arbitrum-battles"
+
+[[repo]]
+url = "https://github.com/ZooDAO-Project/LayerZero-integration"
+
+[[repo]]
 url = "https://github.com/ZooDAO-Project/liquidity-staker"
+
+[[repo]]
+url = "https://github.com/ZooDAO-Project/mirror-nft-bridge"
 
 [[repo]]
 url = "https://github.com/ZooDAO-Project/moonbeam-battles"

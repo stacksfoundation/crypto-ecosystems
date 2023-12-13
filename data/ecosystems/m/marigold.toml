@@ -7,16 +7,34 @@ github_organizations = ["https://github.com/marigold-dev"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/marigold-dev/.github"
+
+[[repo]]
 url = "https://github.com/marigold-dev/batcher"
 
 [[repo]]
 url = "https://github.com/marigold-dev/breathalyzer"
 
 [[repo]]
+url = "https://github.com/marigold-dev/checker"
+
+[[repo]]
+url = "https://github.com/marigold-dev/checker-ligo"
+
+[[repo]]
+url = "https://github.com/marigold-dev/checker-notebooks"
+
+[[repo]]
+url = "https://github.com/marigold-dev/checker-prebuilt-tutorials"
+
+[[repo]]
 url = "https://github.com/marigold-dev/chusai"
 
 [[repo]]
 url = "https://github.com/marigold-dev/ctez"
+
+[[repo]]
+url = "https://github.com/marigold-dev/dac-deploy-tools"
 
 [[repo]]
 url = "https://github.com/marigold-dev/decookies"
@@ -58,10 +76,22 @@ url = "https://github.com/marigold-dev/dune-starter-training"
 url = "https://github.com/marigold-dev/easier-proofs"
 
 [[repo]]
+url = "https://github.com/marigold-dev/ecosystem"
+
+[[repo]]
+url = "https://github.com/marigold-dev/eventz"
+
+[[repo]]
 url = "https://github.com/marigold-dev/evtez-demo"
 
 [[repo]]
 url = "https://github.com/marigold-dev/faucet-bot"
+
+[[repo]]
+url = "https://github.com/marigold-dev/gas-station"
+
+[[repo]]
+url = "https://github.com/marigold-dev/gas-station-lib"
 
 [[repo]]
 url = "https://github.com/marigold-dev/harbinger"
@@ -82,16 +112,37 @@ url = "https://github.com/marigold-dev/hello-dream"
 url = "https://github.com/marigold-dev/json-logs-reporter"
 
 [[repo]]
+url = "https://github.com/marigold-dev/kernel-gallery-mirror"
+
+[[repo]]
 url = "https://github.com/marigold-dev/knowledge"
+
+[[repo]]
+url = "https://github.com/marigold-dev/ligo-action"
 
 [[repo]]
 url = "https://github.com/marigold-dev/ligo-deku-rpc"
 
 [[repo]]
+url = "https://github.com/marigold-dev/ligo-workshop-tw"
+
+[[repo]]
 url = "https://github.com/marigold-dev/ligolang"
 
 [[repo]]
+url = "https://github.com/marigold-dev/maintenance-page"
+
+[[repo]]
 url = "https://github.com/marigold-dev/mankavar"
+
+[[repo]]
+url = "https://github.com/marigold-dev/marigold-docs-theme"
+
+[[repo]]
+url = "https://github.com/marigold-dev/Marigold-landing"
+
+[[repo]]
+url = "https://github.com/marigold-dev/marigolddev-learnpage"
 
 [[repo]]
 url = "https://github.com/marigold-dev/mirage-crypto"
@@ -101,6 +152,9 @@ url = "https://github.com/marigold-dev/module-training"
 
 [[repo]]
 url = "https://github.com/marigold-dev/multiaccountwalletdemo"
+
+[[repo]]
+url = "https://github.com/marigold-dev/multisig"
 
 [[repo]]
 url = "https://github.com/marigold-dev/Multisig-ui"
@@ -145,6 +199,12 @@ url = "https://github.com/marigold-dev/rust-micheline"
 url = "https://github.com/marigold-dev/tezos-api"
 
 [[repo]]
+url = "https://github.com/marigold-dev/tezos-community"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tezos-dev-setup"
+
+[[repo]]
 url = "https://github.com/marigold-dev/tezos-nix"
 
 [[repo]]
@@ -152,6 +212,9 @@ url = "https://github.com/marigold-dev/tezos-node-ansible"
 
 [[repo]]
 url = "https://github.com/marigold-dev/tezos-node-page"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tezos-nodes-setup"
 
 [[repo]]
 url = "https://github.com/marigold-dev/tezos-sidecar"
@@ -176,6 +239,9 @@ url = "https://github.com/marigold-dev/training-dapp-3"
 
 [[repo]]
 url = "https://github.com/marigold-dev/training-dapp-4"
+
+[[repo]]
+url = "https://github.com/marigold-dev/training-dapp-shifumi"
 
 [[repo]]
 url = "https://github.com/marigold-dev/training-nft-1"
@@ -205,6 +271,18 @@ url = "https://github.com/marigold-dev/tzportal"
 url = "https://github.com/marigold-dev/tzproxy"
 
 [[repo]]
+url = "https://github.com/marigold-dev/tzsafe"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tzsafe-doc"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tzsafe-doc-mdbook-poc"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tzsafe-ui"
+
+[[repo]]
 url = "https://github.com/marigold-dev/tzstamp"
 
 [[repo]]
@@ -212,6 +290,9 @@ url = "https://github.com/marigold-dev/tztools"
 
 [[repo]]
 url = "https://github.com/marigold-dev/tzvote"
+
+[[repo]]
+url = "https://github.com/marigold-dev/tzwitter"
 
 [[repo]]
 url = "https://github.com/marigold-dev/ui-registry-poc"

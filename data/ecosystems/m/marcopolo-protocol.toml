@@ -7,43 +7,49 @@ github_organizations = ["https://github.com/marcopoloprotocol"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/marcopoloprotocol/duck"
+url = "https://github.com/mapprotocol/duck"
 
 [[repo]]
-url = "https://github.com/marcopoloprotocol/flyclientDemo"
+url = "https://github.com/mapprotocol/flyclientDemo"
 
 [[repo]]
-url = "https://github.com/marcopoloprotocol/gravity"
+url = "https://github.com/mapprotocol/gravity"
 
 [[repo]]
-url = "https://github.com/marcopoloprotocol/map-netstats"
+url = "https://github.com/mapprotocol/map-netstats"
 
 [[repo]]
-url = "https://github.com/marcopoloprotocol/map-vm"
+url = "https://github.com/mapprotocol/map-vm"
+
+[[repo]]
+url = "https://github.com/mapprotocol/MEPs"
+
+[[repo]]
+url = "https://github.com/mapprotocol/Mouse"
+
+[[repo]]
+url = "https://github.com/mapprotocol/official-h5"
+
+[[repo]]
+url = "https://github.com/mapprotocol/official-pc"
+
+[[repo]]
+url = "https://github.com/mapprotocol/official-wap"
+
+[[repo]]
+url = "https://github.com/mapprotocol/PvssDemo"
+
+[[repo]]
+url = "https://github.com/mapprotocol/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/mapprotocol/webwallet"
+
+[[repo]]
+url = "https://github.com/mapprotocol/wiki"
 
 [[repo]]
 url = "https://github.com/marcopoloprotocol/marcopolo"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/MEPs"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/Mouse"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/official-h5"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/official-pc"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/official-wap"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/PvssDemo"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/rust-libp2p"
 
 [[repo]]
 url = "https://github.com/marcopoloprotocol/smartcontracts"
@@ -56,9 +62,3 @@ url = "https://github.com/marcopoloprotocol/token-profile"
 
 [[repo]]
 url = "https://github.com/marcopoloprotocol/ups"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/webwallet"
-
-[[repo]]
-url = "https://github.com/marcopoloprotocol/wiki"

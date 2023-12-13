@@ -34,6 +34,9 @@ url = "https://github.com/PIVX-Project/gitian.sigs"
 url = "https://github.com/PIVX-Project/insight-api-pivx"
 
 [[repo]]
+url = "https://github.com/PIVX-Project/librustzcash"
+
+[[repo]]
 url = "https://github.com/PIVX-Project/Official-PIVX-Graphics"
 
 [[repo]]
@@ -69,6 +72,9 @@ url = "https://github.com/PIVX-Project/PIVX-NGINX-Proxy"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/PIVX-Paperwallet"
+
+[[repo]]
+url = "https://github.com/PIVX-Project/PIVX-python-discord-message-bot"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/pivx-slack-tipbot"

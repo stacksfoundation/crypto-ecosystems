@@ -46,7 +46,13 @@ url = "https://github.com/HTMLCOIN/btcpayserver"
 url = "https://github.com/HTMLCOIN/ccminer"
 
 [[repo]]
+url = "https://github.com/HTMLCOIN/coin-flip-win-dApp"
+
+[[repo]]
 url = "https://github.com/HTMLCOIN/cpp-ethereum"
+
+[[repo]]
+url = "https://github.com/HTMLCOIN/cryptoboys-nft-marketplace-dApp"
 
 [[repo]]
 url = "https://github.com/HTMLCOIN/HRC-20"
@@ -157,16 +163,13 @@ url = "https://github.com/HTMLCOIN/htmlcoinnft"
 url = "https://github.com/HTMLCOIN/HtmlcoinUTXOTweeter"
 
 [[repo]]
-url = "https://github.com/HTMLCOIN/HtmlcoinWhalePost"
-
-[[repo]]
-url = "https://github.com/HTMLCOIN/htmlfaucet"
-
-[[repo]]
-url = "https://github.com/HTMLCOIN/HTMLToken"
-
-[[repo]]
 url = "https://github.com/HTMLCOIN/hweb3.js"
+
+[[repo]]
+url = "https://github.com/HTMLCOIN/image-nft-marketplace-dApp"
+
+[[repo]]
+url = "https://github.com/HTMLCOIN/Imageboard-Web3-dApp"
 
 [[repo]]
 url = "https://github.com/HTMLCOIN/janus"
@@ -178,9 +181,6 @@ url = "https://github.com/HTMLCOIN/metamask-extension"
 url = "https://github.com/HTMLCOIN/mobile-api-server"
 
 [[repo]]
-url = "https://github.com/HTMLCOIN/myoffspring"
-
-[[repo]]
 url = "https://github.com/HTMLCOIN/NBitcoin"
 
 [[repo]]
@@ -188,6 +188,9 @@ url = "https://github.com/HTMLCOIN/NBXplorer"
 
 [[repo]]
 url = "https://github.com/HTMLCOIN/paperwallet"
+
+[[repo]]
+url = "https://github.com/HTMLCOIN/rain-game-Web3-dApp"
 
 [[repo]]
 url = "https://github.com/HTMLCOIN/server-api-receive"

@@ -13,6 +13,12 @@ url = "https://github.com/palomachain/amm"
 url = "https://github.com/palomachain/anchor.js"
 
 [[repo]]
+url = "https://github.com/palomachain/arb-geth"
+
+[[repo]]
+url = "https://github.com/palomachain/arbitrum-go-ethereum"
+
+[[repo]]
 url = "https://github.com/palomachain/astroport-lbp-frontend"
 
 [[repo]]
@@ -37,6 +43,12 @@ url = "https://github.com/palomachain/docs"
 url = "https://github.com/palomachain/EggNFT"
 
 [[repo]]
+url = "https://github.com/palomachain/evm-arb-geth"
+
+[[repo]]
+url = "https://github.com/palomachain/evm-op-geth"
+
+[[repo]]
 url = "https://github.com/palomachain/faucet"
 
 [[repo]]
@@ -49,6 +61,9 @@ url = "https://github.com/palomachain/gas-refund"
 url = "https://github.com/palomachain/go-ethereum"
 
 [[repo]]
+url = "https://github.com/palomachain/huginn"
+
+[[repo]]
 url = "https://github.com/palomachain/kitchen.utils"
 
 [[repo]]
@@ -58,10 +73,16 @@ url = "https://github.com/palomachain/ledger-paloma-js"
 url = "https://github.com/palomachain/limit-order-bot-cosmwasm"
 
 [[repo]]
+url = "https://github.com/palomachain/limit-order-bot-uni-v2-cosmwasm"
+
+[[repo]]
 url = "https://github.com/palomachain/limit-order-bot-vyper"
 
 [[repo]]
 url = "https://github.com/palomachain/log-finder-ruleset"
+
+[[repo]]
+url = "https://github.com/palomachain/mainnet"
 
 [[repo]]
 url = "https://github.com/palomachain/mantlemint"
@@ -74,6 +95,9 @@ url = "https://github.com/palomachain/nest"
 
 [[repo]]
 url = "https://github.com/palomachain/nest-extension"
+
+[[repo]]
+url = "https://github.com/palomachain/node_reset"
 
 [[repo]]
 url = "https://github.com/palomachain/paloma"
@@ -92,6 +116,12 @@ url = "https://github.com/palomachain/paloma.py"
 
 [[repo]]
 url = "https://github.com/palomachain/paloma_eth_refund"
+
+[[repo]]
+url = "https://github.com/palomachain/palomaswap-amm"
+
+[[repo]]
+url = "https://github.com/palomachain/palomaswap-governance"
 
 [[repo]]
 url = "https://github.com/palomachain/palomaswap-web-app"
@@ -113,6 +143,9 @@ url = "https://github.com/palomachain/testnet"
 
 [[repo]]
 url = "https://github.com/palomachain/turnstone"
+
+[[repo]]
+url = "https://github.com/palomachain/use-paloma-wallet"
 
 [[repo]]
 url = "https://github.com/palomachain/utils"

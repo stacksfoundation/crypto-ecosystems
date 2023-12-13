@@ -10,16 +10,25 @@ github_organizations = ["https://github.com/dex-guru"]
 url = "https://github.com/dex-guru/assets"
 
 [[repo]]
+url = "https://github.com/dex-guru/block-explorer"
+
+[[repo]]
 url = "https://github.com/dex-guru/burning-tokens-list"
 
 [[repo]]
 url = "https://github.com/dex-guru/charting-lib-wss-custom-study"
 
 [[repo]]
+url = "https://github.com/dex-guru/ClickHouse"
+
+[[repo]]
 url = "https://github.com/dex-guru/dao-bootstrap"
 
 [[repo]]
 url = "https://github.com/dex-guru/dao-research"
+
+[[repo]]
+url = "https://github.com/dex-guru/data-sources"
 
 [[repo]]
 url = "https://github.com/dex-guru/dg-sdk-node"
@@ -29,6 +38,15 @@ url = "https://github.com/dex-guru/dg-sdk-python"
 
 [[repo]]
 url = "https://github.com/dex-guru/docs"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples-dexguru-api"
+
+[[repo]]
+url = "https://github.com/dex-guru/meta-aggregation-api"
 
 [[repo]]
 url = "https://github.com/dex-guru/tags"

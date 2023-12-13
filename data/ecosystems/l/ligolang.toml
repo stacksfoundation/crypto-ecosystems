@@ -28,6 +28,9 @@ url = "https://github.com/ligolang/dao-cameligo"
 url = "https://github.com/ligolang/dao-jsligo"
 
 [[repo]]
+url = "https://github.com/ligolang/detect-installer"
+
+[[repo]]
 url = "https://github.com/ligolang/esy-opam-override"
 
 [[repo]]
@@ -44,6 +47,9 @@ url = "https://github.com/ligolang/jsligo-training-dapp-shifumi"
 
 [[repo]]
 url = "https://github.com/ligolang/ligo-koans"
+
+[[repo]]
+url = "https://github.com/ligolang/ligo-mdx"
 
 [[repo]]
 url = "https://github.com/ligolang/ligo-mirror"
@@ -80,6 +86,9 @@ url = "https://github.com/ligolang/nixpkgs"
 
 [[repo]]
 url = "https://github.com/ligolang/ocaml-bls12-381"
+
+[[repo]]
+url = "https://github.com/ligolang/opam-repository"
 
 [[repo]]
 url = "https://github.com/ligolang/permit-cameligo"

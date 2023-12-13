@@ -13,10 +13,13 @@ url = "https://github.com/vegaprotocol/0x955C6789A7fbee203B4bE0F01428E769308813f
 url = "https://github.com/vegaprotocol/alpha-lyrae"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/announcements"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/api"
 
 [[repo]]
-url = "https://github.com/vegaprotocol/api-clients"
+url = "https://github.com/vegaprotocol/api-benchmarking"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/approbation"
@@ -31,10 +34,22 @@ url = "https://github.com/vegaprotocol/bounties"
 url = "https://github.com/vegaprotocol/brand"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/cancelreader"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/cometbft"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/community"
 
 [[repo]]
-url = "https://github.com/vegaprotocol/console-charts"
+url = "https://github.com/vegaprotocol/console-lite"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/console-test"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/data-metrics-store"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/data-node"
@@ -47,9 +62,6 @@ url = "https://github.com/vegaprotocol/devopstools"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/docker"
-
-[[repo]]
-url = "https://github.com/vegaprotocol/docker-public"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/documentation"
@@ -106,13 +118,19 @@ url = "https://github.com/vegaprotocol/go-ethereum"
 url = "https://github.com/vegaprotocol/go-slip10"
 
 [[repo]]
-url = "https://github.com/vegaprotocol/go-wallet"
-
-[[repo]]
 url = "https://github.com/vegaprotocol/golden-layout"
 
 [[repo]]
-url = "https://github.com/vegaprotocol/grade"
+url = "https://github.com/vegaprotocol/goosewithrunintxsupport"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/governance-templates"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/grabana"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/grafana-sdk"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/graphql-workshop"
@@ -169,6 +187,9 @@ url = "https://github.com/vegaprotocol/networks-internal"
 url = "https://github.com/vegaprotocol/notion-data-service"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/OctoberACs"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/openrpc-md"
 
 [[repo]]
@@ -178,10 +199,19 @@ url = "https://github.com/vegaprotocol/oracles-relay"
 url = "https://github.com/vegaprotocol/pennant"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/performance"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/pprof-store"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/priceproxy"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/protoc-plugin-js"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/protofuzz"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/protos"
@@ -193,7 +223,19 @@ url = "https://github.com/vegaprotocol/Public_Test_Bridge_Tools"
 url = "https://github.com/vegaprotocol/quant"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/referrals"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/research"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/research-bot"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/research-bots"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/rest-clients"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/roadmap"
@@ -224,6 +266,9 @@ url = "https://github.com/vegaprotocol/smart-contracts"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/smart-contracts-sdk"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/snapshot-backups"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/social-media-verification"
@@ -259,6 +304,12 @@ url = "https://github.com/vegaprotocol/token-frontend"
 url = "https://github.com/vegaprotocol/token-supply-api"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/tranches"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/tsbs"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/ui-toolkit"
 
 [[repo]]
@@ -271,13 +322,31 @@ url = "https://github.com/vegaprotocol/vaguer"
 url = "https://github.com/vegaprotocol/vega"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/vega-backups-state"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/vega-dev-releases"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/vega-dev-releases-system-tests"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/vega-exporter"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/vega-locked-erc20"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/vega-market-sim"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/vega-monitoring"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/vega-python-sdk"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/vega-snap"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/vega-website-cypress-tests"
@@ -298,6 +367,9 @@ url = "https://github.com/vegaprotocol/vegatools"
 url = "https://github.com/vegaprotocol/vegawallet"
 
 [[repo]]
+url = "https://github.com/vegaprotocol/vegawallet-browser"
+
+[[repo]]
 url = "https://github.com/vegaprotocol/vegawallet-desktop"
 
 [[repo]]
@@ -314,6 +386,9 @@ url = "https://github.com/vegaprotocol/VUSD_Test_Token"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/wails"
+
+[[repo]]
+url = "https://github.com/vegaprotocol/well-known"
 
 [[repo]]
 url = "https://github.com/vegaprotocol/wendy"

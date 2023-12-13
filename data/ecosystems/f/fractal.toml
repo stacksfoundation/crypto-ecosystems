@@ -22,10 +22,19 @@ url = "https://github.com/trustfractal/aws-ecs-run-task"
 url = "https://github.com/trustfractal/aws-s3-cleaner"
 
 [[repo]]
+url = "https://github.com/trustfractal/borsh-rb"
+
+[[repo]]
+url = "https://github.com/trustfractal/claim-schemas"
+
+[[repo]]
 url = "https://github.com/trustfractal/comply-soc2"
 
 [[repo]]
 url = "https://github.com/trustfractal/contract-metadata"
+
+[[repo]]
+url = "https://github.com/trustfractal/credentials-api-demo"
 
 [[repo]]
 url = "https://github.com/trustfractal/credentials-api-verifiers"
@@ -88,6 +97,12 @@ url = "https://github.com/trustfractal/id-integration-docs"
 url = "https://github.com/trustfractal/identity-playground"
 
 [[repo]]
+url = "https://github.com/trustfractal/idos-access-grants"
+
+[[repo]]
+url = "https://github.com/trustfractal/idos-passkey-iframe"
+
+[[repo]]
 url = "https://github.com/trustfractal/ink"
 
 [[repo]]
@@ -95,6 +110,9 @@ url = "https://github.com/trustfractal/ink-upgrade-template"
 
 [[repo]]
 url = "https://github.com/trustfractal/ixo-chain"
+
+[[repo]]
+url = "https://github.com/trustfractal/my-near-wallet"
 
 [[repo]]
 url = "https://github.com/trustfractal/Open-Grants-Program"
@@ -109,6 +127,9 @@ url = "https://github.com/trustfractal/rails"
 url = "https://github.com/trustfractal/registry-deployer"
 
 [[repo]]
+url = "https://github.com/trustfractal/reward-pools"
+
+[[repo]]
 url = "https://github.com/trustfractal/ruby-eip55"
 
 [[repo]]
@@ -116,6 +137,9 @@ url = "https://github.com/trustfractal/schema_plus_sequences"
 
 [[repo]]
 url = "https://github.com/trustfractal/sdk"
+
+[[repo]]
+url = "https://github.com/trustfractal/sh-id-platform"
 
 [[repo]]
 url = "https://github.com/trustfractal/substrate-balances"
@@ -137,6 +161,9 @@ url = "https://github.com/trustfractal/verifier-demo"
 
 [[repo]]
 url = "https://github.com/trustfractal/wallet"
+
+[[repo]]
+url = "https://github.com/trustfractal/wallet-selector"
 
 [[repo]]
 url = "https://github.com/trustfractal/web3-identity"

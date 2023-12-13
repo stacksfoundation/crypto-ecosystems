@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/dingocoin"]
 url = "https://github.com/dingocoin/android-wallet"
 
 [[repo]]
+url = "https://github.com/dingocoin/dingo-rpc-explorer"
+
+[[repo]]
 url = "https://github.com/dingocoin/dingobrowserwallet"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/dingocoin/dingocoin-js-addressing"
 
 [[repo]]
 url = "https://github.com/dingocoin/dingocoin-js-node-rpc"
+
+[[repo]]
+url = "https://github.com/dingocoin/dingocoin-website"
 
 [[repo]]
 url = "https://github.com/dingocoin/dingocoinpaperwallet"
@@ -47,6 +53,9 @@ url = "https://github.com/dingocoin/dingoweb"
 
 [[repo]]
 url = "https://github.com/dingocoin/docs.dingocoin.org"
+
+[[repo]]
+url = "https://github.com/dingocoin/eiquidus"
 
 [[repo]]
 url = "https://github.com/dingocoin/libding"

@@ -34,9 +34,6 @@ url = "https://github.com/SimplioOfficial/Cicerone"
 url = "https://github.com/SimplioOfficial/cordova-idensic-mobile-sdk-plugin"
 
 [[repo]]
-url = "https://github.com/SimplioOfficial/decimal-service"
-
-[[repo]]
 url = "https://github.com/SimplioOfficial/documentation"
 
 [[repo]]
@@ -70,6 +67,9 @@ url = "https://github.com/SimplioOfficial/SimplioDevelopmentProgress"
 url = "https://github.com/SimplioOfficial/sio-integration-manuals"
 
 [[repo]]
+url = "https://github.com/SimplioOfficial/sio_big_decimal"
+
+[[repo]]
 url = "https://github.com/SimplioOfficial/sio_core"
 
 [[repo]]
@@ -91,10 +91,16 @@ url = "https://github.com/SimplioOfficial/utxo-lib-modified"
 url = "https://github.com/SimplioOfficial/wallet-connect-dart"
 
 [[repo]]
+url = "https://github.com/SimplioOfficial/wallet-connect-uri-validator"
+
+[[repo]]
 url = "https://github.com/SimplioOfficial/wallet_connect-example"
 
 [[repo]]
 url = "https://github.com/SimplioOfficial/wallet_connect_test"
+
+[[repo]]
+url = "https://github.com/SimplioOfficial/wallet_connect_uri_validator"
 
 [[repo]]
 url = "https://github.com/SimplioOfficial/walletconnect-dart-sdk"

@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/livepeer"]
 url = "https://github.com/livepeer/.github"
 
 [[repo]]
-url = "https://github.com/livepeer/action-gh-branch-manifest"
-
-[[repo]]
 url = "https://github.com/livepeer/action-gh-checksum-and-gpg-sign"
 
 [[repo]]
@@ -34,6 +31,9 @@ url = "https://github.com/livepeer/Aptos-Playback-Policy"
 url = "https://github.com/livepeer/arbitrum-lpt-bridge"
 
 [[repo]]
+url = "https://github.com/livepeer/awesome-livepeer"
+
+[[repo]]
 url = "https://github.com/livepeer/awesome-web3-infra-service-protocols"
 
 [[repo]]
@@ -41,6 +41,9 @@ url = "https://github.com/livepeer/bot-miner-setup"
 
 [[repo]]
 url = "https://github.com/livepeer/branch-manifest-action"
+
+[[repo]]
+url = "https://github.com/livepeer/brand-kit"
 
 [[repo]]
 url = "https://github.com/livepeer/Broadcaster-Chat-App"
@@ -58,13 +61,13 @@ url = "https://github.com/livepeer/catalyst-node"
 url = "https://github.com/livepeer/catalyst-uploader"
 
 [[repo]]
-url = "https://github.com/livepeer/cdn-log-analytics"
-
-[[repo]]
 url = "https://github.com/livepeer/cdn-log-puller"
 
 [[repo]]
-url = "https://github.com/livepeer/cli-transcoder"
+url = "https://github.com/livepeer/chat"
+
+[[repo]]
+url = "https://github.com/livepeer/check-global-usage"
 
 [[repo]]
 url = "https://github.com/livepeer/cloudworker"
@@ -82,10 +85,16 @@ url = "https://github.com/livepeer/consul"
 url = "https://github.com/livepeer/consul-helm"
 
 [[repo]]
+url = "https://github.com/livepeer/create-livepeer-app"
+
+[[repo]]
 url = "https://github.com/livepeer/cuda-ssh-server"
 
 [[repo]]
 url = "https://github.com/livepeer/curl-bash"
+
+[[repo]]
+url = "https://github.com/livepeer/current-viewers"
 
 [[repo]]
 url = "https://github.com/livepeer/design-system"
@@ -94,13 +103,10 @@ url = "https://github.com/livepeer/design-system"
 url = "https://github.com/livepeer/devenv"
 
 [[repo]]
+url = "https://github.com/livepeer/discord-message-bot"
+
+[[repo]]
 url = "https://github.com/livepeer/dl-livepeer"
-
-[[repo]]
-url = "https://github.com/livepeer/dms-api"
-
-[[repo]]
-url = "https://github.com/livepeer/dms-uploader"
 
 [[repo]]
 url = "https://github.com/livepeer/docker-ffmpeg"
@@ -184,16 +190,16 @@ url = "https://github.com/livepeer/go-PPSPP"
 url = "https://github.com/livepeer/go-tools"
 
 [[repo]]
+url = "https://github.com/livepeer/golangci-lint-bug"
+
+[[repo]]
 url = "https://github.com/livepeer/Grant-Program"
 
 [[repo]]
-url = "https://github.com/livepeer/healthy-streams"
+url = "https://github.com/livepeer/grants"
 
 [[repo]]
 url = "https://github.com/livepeer/helm-diff"
-
-[[repo]]
-url = "https://github.com/livepeer/homebrew-livepeer"
 
 [[repo]]
 url = "https://github.com/livepeer/homebrew-tap"
@@ -202,7 +208,13 @@ url = "https://github.com/livepeer/homebrew-tap"
 url = "https://github.com/livepeer/ImageClassifyTool"
 
 [[repo]]
+url = "https://github.com/livepeer/ingress-nginx"
+
+[[repo]]
 url = "https://github.com/livepeer/initialization-daemon"
+
+[[repo]]
+url = "https://github.com/livepeer/interactive-video"
 
 [[repo]]
 url = "https://github.com/livepeer/joy4"
@@ -226,13 +238,13 @@ url = "https://github.com/livepeer/leaderboard-serverless"
 url = "https://github.com/livepeer/LIPs"
 
 [[repo]]
+url = "https://github.com/livepeer/livekit-meet"
+
+[[repo]]
 url = "https://github.com/livepeer/livepeer-builddeps"
 
 [[repo]]
-url = "https://github.com/livepeer/livepeer-chart"
-
-[[repo]]
-url = "https://github.com/livepeer/livepeer-com"
+url = "https://github.com/livepeer/livepeer-charts"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-data"
@@ -247,10 +259,19 @@ url = "https://github.com/livepeer/livepeer-demo-react-native"
 url = "https://github.com/livepeer/livepeer-gateway"
 
 [[repo]]
-url = "https://github.com/livepeer/livepeer-in-a-box"
+url = "https://github.com/livepeer/livepeer-go"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-java"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-js"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-jwplayer-demo"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-lens-shortvideos"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-metrics"
@@ -268,7 +289,13 @@ url = "https://github.com/livepeer/livepeer-monorepo"
 url = "https://github.com/livepeer/livepeer-nft-gate-example"
 
 [[repo]]
+url = "https://github.com/livepeer/livepeer-node"
+
+[[repo]]
 url = "https://github.com/livepeer/livepeer-org"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-php"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-player-tutorial"
@@ -277,10 +304,16 @@ url = "https://github.com/livepeer/livepeer-player-tutorial"
 url = "https://github.com/livepeer/livepeer-pricing-tool-api"
 
 [[repo]]
-url = "https://github.com/livepeer/livepeer-static"
+url = "https://github.com/livepeer/livepeer-python"
 
 [[repo]]
-url = "https://github.com/livepeer/livepeer-studio"
+url = "https://github.com/livepeer/livepeer-react"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-ruby"
+
+[[repo]]
+url = "https://github.com/livepeer/livepeer-static"
 
 [[repo]]
 url = "https://github.com/livepeer/livepeer-studio-docs"
@@ -298,6 +331,9 @@ url = "https://github.com/livepeer/livepeer-test-infra"
 url = "https://github.com/livepeer/livepeer-truebit-bigchaindb"
 
 [[repo]]
+url = "https://github.com/livepeer/livepeer-tv"
+
+[[repo]]
 url = "https://github.com/livepeer/livepeer-wowza"
 
 [[repo]]
@@ -308,9 +344,6 @@ url = "https://github.com/livepeer/LivepeerDesktop"
 
 [[repo]]
 url = "https://github.com/livepeer/LivepeerEmitter"
-
-[[repo]]
-url = "https://github.com/livepeer/livepeerjs"
 
 [[repo]]
 url = "https://github.com/livepeer/llhls-apple-tester"
@@ -352,7 +385,13 @@ url = "https://github.com/livepeer/mobile"
 url = "https://github.com/livepeer/nasm"
 
 [[repo]]
+url = "https://github.com/livepeer/obs-studio"
+
+[[repo]]
 url = "https://github.com/livepeer/orchestrator-price-api"
+
+[[repo]]
+url = "https://github.com/livepeer/org"
 
 [[repo]]
 url = "https://github.com/livepeer/pagerduty-to-discord"
@@ -364,6 +403,9 @@ url = "https://github.com/livepeer/parity-monitor"
 url = "https://github.com/livepeer/Playback-Policy-Sample-App"
 
 [[repo]]
+url = "https://github.com/livepeer/playbacklog_uploader"
+
+[[repo]]
 url = "https://github.com/livepeer/player"
 
 [[repo]]
@@ -373,13 +415,25 @@ url = "https://github.com/livepeer/player-metrics"
 url = "https://github.com/livepeer/pm-params-calculator"
 
 [[repo]]
+url = "https://github.com/livepeer/poll-stats"
+
+[[repo]]
 url = "https://github.com/livepeer/poll-tally-audit"
+
+[[repo]]
+url = "https://github.com/livepeer/polygon-video-nft"
 
 [[repo]]
 url = "https://github.com/livepeer/prettier-config"
 
 [[repo]]
 url = "https://github.com/livepeer/prob-pay"
+
+[[repo]]
+url = "https://github.com/livepeer/product-discovery-playground"
+
+[[repo]]
+url = "https://github.com/livepeer/production-success"
 
 [[repo]]
 url = "https://github.com/livepeer/project-management"
@@ -394,6 +448,9 @@ url = "https://github.com/livepeer/ProtocolEventLogger"
 url = "https://github.com/livepeer/research"
 
 [[repo]]
+url = "https://github.com/livepeer/rooms-demo"
+
+[[repo]]
 url = "https://github.com/livepeer/sdk"
 
 [[repo]]
@@ -403,7 +460,7 @@ url = "https://github.com/livepeer/Solium"
 url = "https://github.com/livepeer/sorted-doubly-ll"
 
 [[repo]]
-url = "https://github.com/livepeer/stream-monitor"
+url = "https://github.com/livepeer/storj-livepeer-nodejs-example"
 
 [[repo]]
 url = "https://github.com/livepeer/stream-tester"
@@ -491,6 +548,9 @@ url = "https://github.com/livepeer/video-nft-sample"
 
 [[repo]]
 url = "https://github.com/livepeer/video-nft-sdk"
+
+[[repo]]
+url = "https://github.com/livepeer/web3storage-livepeer-nodejs-example"
 
 [[repo]]
 url = "https://github.com/livepeer/webrtmp-sdk"

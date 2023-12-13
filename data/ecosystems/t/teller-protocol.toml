@@ -19,9 +19,6 @@ url = "https://github.com/teller-protocol/ape-webflow-js"
 url = "https://github.com/teller-protocol/bloom-api"
 
 [[repo]]
-url = "https://github.com/teller-protocol/bnpl-sdk"
-
-[[repo]]
 url = "https://github.com/teller-protocol/credit_risk"
 
 [[repo]]
@@ -64,6 +61,9 @@ url = "https://github.com/teller-protocol/p5-nft-generative-render"
 url = "https://github.com/teller-protocol/peerlist"
 
 [[repo]]
+url = "https://github.com/teller-protocol/preferred-borrower-metadata"
+
+[[repo]]
 url = "https://github.com/teller-protocol/prettier-plugin-solidity"
 
 [[repo]]
@@ -95,6 +95,15 @@ url = "https://github.com/teller-protocol/teller-protocol-v1"
 
 [[repo]]
 url = "https://github.com/teller-protocol/teller-protocol-v2"
+
+[[repo]]
+url = "https://github.com/teller-protocol/tenderly-actions"
+
+[[repo]]
+url = "https://github.com/teller-protocol/uniswap-v3-core"
+
+[[repo]]
+url = "https://github.com/teller-protocol/uniswap-v3-periphery"
 
 [[repo]]
 url = "https://github.com/teller-protocol/v2-"

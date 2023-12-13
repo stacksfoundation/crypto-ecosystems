@@ -40,9 +40,6 @@ url = "https://github.com/Stacktical/stacktical-dsla-avalanche-hackathon"
 url = "https://github.com/Stacktical/stacktical-dsla-contracts"
 
 [[repo]]
-url = "https://github.com/Stacktical/stacktical-dsla-contracts-solana"
-
-[[repo]]
 url = "https://github.com/Stacktical/stacktical-dsla-developer-toolkit"
 
 [[repo]]
@@ -50,6 +47,12 @@ url = "https://github.com/Stacktical/stacktical-dsla-oracle-se"
 
 [[repo]]
 url = "https://github.com/Stacktical/stacktical-dsla-oracle-se-alt"
+
+[[repo]]
+url = "https://github.com/Stacktical/stacktical-dsla-oracle-statuspage"
+
+[[repo]]
+url = "https://github.com/Stacktical/stacktical-dsla-oracle-travel"
 
 [[repo]]
 url = "https://github.com/Stacktical/stacktical-dsla-poc-contracts"
@@ -68,9 +71,6 @@ url = "https://github.com/Stacktical/stacktical-tokensale-contracts"
 
 [[repo]]
 url = "https://github.com/Stacktical/stacktical.github.io"
-
-[[repo]]
-url = "https://github.com/Stacktical/staking-efficiency-indexer"
 
 [[repo]]
 url = "https://github.com/Stacktical/token-profile"

@@ -67,9 +67,6 @@ url = "https://github.com/parallel-finance/deposit-subql"
 url = "https://github.com/parallel-finance/distribute-confirm-serivce"
 
 [[repo]]
-url = "https://github.com/parallel-finance/dump-crowdloan"
-
-[[repo]]
 url = "https://github.com/parallel-finance/dump-script"
 
 [[repo]]
@@ -91,19 +88,16 @@ url = "https://github.com/parallel-finance/fearless-utils"
 url = "https://github.com/parallel-finance/frontier"
 
 [[repo]]
+url = "https://github.com/parallel-finance/frontier-archive"
+
+[[repo]]
 url = "https://github.com/parallel-finance/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/parallel-finance/hackathon-2021-spring"
 
 [[repo]]
-url = "https://github.com/parallel-finance/heiko-events-suqbl"
-
-[[repo]]
 url = "https://github.com/parallel-finance/ledger-rewards-address-subql"
-
-[[repo]]
-url = "https://github.com/parallel-finance/lending-service"
 
 [[repo]]
 url = "https://github.com/parallel-finance/lending-subql"
@@ -113,9 +107,6 @@ url = "https://github.com/parallel-finance/liquid-staking-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/liquidation-client"
-
-[[repo]]
-url = "https://github.com/parallel-finance/liquidity-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/moonbeam-distribution-subql"
@@ -128,6 +119,9 @@ url = "https://github.com/parallel-finance/multisig-subql-polkadot"
 
 [[repo]]
 url = "https://github.com/parallel-finance/nominate-client"
+
+[[repo]]
+url = "https://github.com/parallel-finance/notification-center"
 
 [[repo]]
 url = "https://github.com/parallel-finance/Open-Grants-Program"
@@ -151,9 +145,6 @@ url = "https://github.com/parallel-finance/parallel-dapp-feedback"
 url = "https://github.com/parallel-finance/parallel-events-subql"
 
 [[repo]]
-url = "https://github.com/parallel-finance/parallel-events-suqbl"
-
-[[repo]]
 url = "https://github.com/parallel-finance/parallel-js"
 
 [[repo]]
@@ -170,6 +161,9 @@ url = "https://github.com/parallel-finance/parallel-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallelx-starknet"
+
+[[repo]]
+url = "https://github.com/parallel-finance/parax-test-env"
 
 [[repo]]
 url = "https://github.com/parallel-finance/polkadot"
@@ -200,9 +194,6 @@ url = "https://github.com/parallel-finance/stake-client-rs"
 
 [[repo]]
 url = "https://github.com/parallel-finance/staking-referral-subql"
-
-[[repo]]
-url = "https://github.com/parallel-finance/staking-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/subgraph-generator"

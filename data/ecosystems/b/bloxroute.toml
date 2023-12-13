@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/bloXroute-Labs"]
 url = "https://github.com/bloXroute-Labs/aiofluent"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/atlas-examples"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/bdn-benchmarking"
 
 [[repo]]
@@ -22,10 +25,22 @@ url = "https://github.com/bloXroute-Labs/bitcoin-unlimited-internal-gateway"
 url = "https://github.com/bloXroute-Labs/bloxroute-docs"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/bloxroute-sdk-go"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/bor"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bsc"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/bsc-mev-validator"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/bsc-sentry-patch"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/builder-ws"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bxcommon"
@@ -37,16 +52,40 @@ url = "https://github.com/bloXroute-Labs/bxextensions"
 url = "https://github.com/bloXroute-Labs/bxgateway"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/chainlist"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/gateway"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/go-ethereum"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/hummingbot"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/keeper-bots-v2"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/mempool-dumpster"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/metamask-extension"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/mev-boost"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/mev-inspect-rs"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/mev-relay"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/ontology"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/prysm-withdrawals"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/pyelliptic"
@@ -58,10 +97,7 @@ url = "https://github.com/bloXroute-Labs/pyrlp"
 url = "https://github.com/bloXroute-Labs/quorum-maker"
 
 [[repo]]
-url = "https://github.com/bloXroute-Labs/serum-client-go"
-
-[[repo]]
-url = "https://github.com/bloXroute-Labs/serum-client-python"
+url = "https://github.com/bloXroute-Labs/relay-grpc"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/solana"
@@ -86,6 +122,9 @@ url = "https://github.com/bloXroute-Labs/terraform-alicloud-vpc"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/terraform-aws-enforce-mfa"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/upscale-client"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/uvloop"

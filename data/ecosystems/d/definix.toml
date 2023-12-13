@@ -31,6 +31,9 @@ url = "https://github.com/thesixnetwork/big-dipper-2.0-cosmos"
 url = "https://github.com/thesixnetwork/bitquery-tools"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/blockscout"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/bsc-double-sign-sdk"
 
 [[repo]]
@@ -41,6 +44,15 @@ url = "https://github.com/thesixnetwork/caver-js"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/caverjs-react"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/chain-info"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/chain-registry"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/chains-list"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/chat-server-cookbooks"
@@ -97,7 +109,10 @@ url = "https://github.com/thesixnetwork/ethermint"
 url = "https://github.com/thesixnetwork/ethers.js"
 
 [[repo]]
-url = "https://github.com/thesixnetwork/explorer"
+url = "https://github.com/thesixnetwork/example_webview"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/Gen2-Instruction"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/graphic"
@@ -110,6 +125,12 @@ url = "https://github.com/thesixnetwork/hid"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/indy-sdk"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/keplr-chain-registry"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/klaytn-smartcontract"
@@ -127,6 +148,9 @@ url = "https://github.com/thesixnetwork/ledger-go"
 url = "https://github.com/thesixnetwork/protocol"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/public-images"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/react-native-copilot"
 
 [[repo]]
@@ -139,6 +163,9 @@ url = "https://github.com/thesixnetwork/sacc"
 url = "https://github.com/thesixnetwork/six-dashboard"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/six-data-chain-go-sdk"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/six-data-chain-sdk"
 
 [[repo]]
@@ -148,10 +175,19 @@ url = "https://github.com/thesixnetwork/six-go-sdk"
 url = "https://github.com/thesixnetwork/six-mobile-swap"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/six-protocol"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/six-protocol-go-sdk"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/SIXEcho"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/sixecho-server"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/sixnft"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/sixscan-explorer"

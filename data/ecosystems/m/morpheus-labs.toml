@@ -34,6 +34,9 @@ url = "https://github.com/Morpheuslabs-io/bep20-erc20-bridge-web"
 url = "https://github.com/Morpheuslabs-io/BPaaS-stats-19-20"
 
 [[repo]]
+url = "https://github.com/Morpheuslabs-io/cde-nft-marketplace"
+
+[[repo]]
 url = "https://github.com/Morpheuslabs-io/crowdfund-sample-new"
 
 [[repo]]
@@ -136,13 +139,16 @@ url = "https://github.com/Morpheuslabs-io/ml-multichain-new"
 url = "https://github.com/Morpheuslabs-io/ml-multilock-wallet"
 
 [[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-NFT-tool"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-NFT-tool_1"
+
+[[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-opensea-erc1155"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-opensea-erc721"
-
-[[repo]]
-url = "https://github.com/Morpheuslabs-io/ml-opensea-erc755"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-swapponline-multicurrency-wallet"

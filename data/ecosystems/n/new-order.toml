@@ -28,12 +28,6 @@ url = "https://github.com/new-order-network/governance-token"
 url = "https://github.com/new-order-network/governance-token-v2"
 
 [[repo]]
-url = "https://github.com/new-order-network/GovernanceTokenV2"
-
-[[repo]]
-url = "https://github.com/new-order-network/ipv4-backend"
-
-[[repo]]
 url = "https://github.com/new-order-network/joe-tokenlists"
 
 [[repo]]
@@ -55,10 +49,16 @@ url = "https://github.com/new-order-network/newo-subgraph"
 url = "https://github.com/new-order-network/newo-testnet"
 
 [[repo]]
+url = "https://github.com/new-order-network/Resources-Thorchain"
+
+[[repo]]
 url = "https://github.com/new-order-network/RewardsVault"
 
 [[repo]]
 url = "https://github.com/new-order-network/synthetix"
+
+[[repo]]
+url = "https://github.com/new-order-network/tokengated-next-chatgpt"
 
 [[repo]]
 url = "https://github.com/new-order-network/treasury-dashboard"

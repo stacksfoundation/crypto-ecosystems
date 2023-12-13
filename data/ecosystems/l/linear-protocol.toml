@@ -13,6 +13,9 @@ url = "https://github.com/linear-protocol/audits"
 url = "https://github.com/linear-protocol/LiNEAR"
 
 [[repo]]
+url = "https://github.com/linear-protocol/linear-bos-components"
+
+[[repo]]
 url = "https://github.com/linear-protocol/linear-sdk"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/linear-protocol/near-bigdecimal"
 
 [[repo]]
 url = "https://github.com/linear-protocol/near-wallet"
+
+[[repo]]
+url = "https://github.com/linear-protocol/phoenix-bonds"
 
 [[repo]]
 url = "https://github.com/linear-protocol/stakewars-iii"

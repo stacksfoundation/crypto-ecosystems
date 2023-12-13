@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/pangolindex"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/pangolindex/academy"
+url = "https://github.com/pangolindex/analytics"
 
 [[repo]]
-url = "https://github.com/pangolindex/analytics"
+url = "https://github.com/pangolindex/analytics-avalanche"
 
 [[repo]]
 url = "https://github.com/pangolindex/assets"
@@ -58,7 +58,13 @@ url = "https://github.com/pangolindex/FTSO-price-provider"
 url = "https://github.com/pangolindex/governance"
 
 [[repo]]
+url = "https://github.com/pangolindex/Grant-Milestone-Delivery"
+
+[[repo]]
 url = "https://github.com/pangolindex/Grants-Program"
+
+[[repo]]
+url = "https://github.com/pangolindex/hedera-contracts"
 
 [[repo]]
 url = "https://github.com/pangolindex/hummingbot"
@@ -74,6 +80,9 @@ url = "https://github.com/pangolindex/mobile"
 
 [[repo]]
 url = "https://github.com/pangolindex/MultiSigWallet"
+
+[[repo]]
+url = "https://github.com/pangolindex/NFT"
 
 [[repo]]
 url = "https://github.com/pangolindex/pangobot"
@@ -103,6 +112,12 @@ url = "https://github.com/pangolindex/sparkle-pancakeswap"
 url = "https://github.com/pangolindex/subgraph"
 
 [[repo]]
+url = "https://github.com/pangolindex/subgraph-pangolin"
+
+[[repo]]
+url = "https://github.com/pangolindex/subgraph-pangolin-hedera"
+
+[[repo]]
 url = "https://github.com/pangolindex/subgraph-templated"
 
 [[repo]]
@@ -119,9 +134,6 @@ url = "https://github.com/pangolindex/tinybar"
 
 [[repo]]
 url = "https://github.com/pangolindex/token-lists"
-
-[[repo]]
-url = "https://github.com/pangolindex/tokenlists"
 
 [[repo]]
 url = "https://github.com/pangolindex/tokenlists"

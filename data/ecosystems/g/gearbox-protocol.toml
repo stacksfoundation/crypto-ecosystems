@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/Gearbox-protocol"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Gearbox-protocol/airdrop"
-
-[[repo]]
 url = "https://github.com/Gearbox-protocol/awesome-gearbox"
 
 [[repo]]
@@ -25,10 +22,19 @@ url = "https://github.com/Gearbox-protocol/core-v2"
 url = "https://github.com/Gearbox-protocol/credit-account-mining"
 
 [[repo]]
+url = "https://github.com/Gearbox-protocol/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/Gearbox-protocol/degen-nft"
 
 [[repo]]
+url = "https://github.com/Gearbox-protocol/dev-bots-tutorial"
+
+[[repo]]
 url = "https://github.com/Gearbox-protocol/dev-docs"
+
+[[repo]]
+url = "https://github.com/Gearbox-protocol/dev-docs-old"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/dev-gitbook"
@@ -58,13 +64,19 @@ url = "https://github.com/Gearbox-protocol/gearbox-protocol-description"
 url = "https://github.com/Gearbox-protocol/goerli-playground"
 
 [[repo]]
+url = "https://github.com/Gearbox-protocol/governance"
+
+[[repo]]
 url = "https://github.com/Gearbox-protocol/insights"
+
+[[repo]]
+url = "https://github.com/Gearbox-protocol/integration-types"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/integrations-v2"
 
 [[repo]]
-url = "https://github.com/Gearbox-protocol/kovan-playground"
+url = "https://github.com/Gearbox-protocol/integrations-v3"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/launch-snapshot"
@@ -76,7 +88,13 @@ url = "https://github.com/Gearbox-protocol/liquidation-bot"
 url = "https://github.com/Gearbox-protocol/liquidator-v2"
 
 [[repo]]
+url = "https://github.com/Gearbox-protocol/multisig-ci"
+
+[[repo]]
 url = "https://github.com/Gearbox-protocol/ninja-game"
+
+[[repo]]
+url = "https://github.com/Gearbox-protocol/periphery-v3"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/play-with-gearbox"
@@ -94,10 +112,19 @@ url = "https://github.com/Gearbox-protocol/sdk"
 url = "https://github.com/Gearbox-protocol/sdk-go"
 
 [[repo]]
+url = "https://github.com/Gearbox-protocol/sdk-gov"
+
+[[repo]]
 url = "https://github.com/Gearbox-protocol/security"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/style-guide"
+
+[[repo]]
+url = "https://github.com/Gearbox-protocol/test-task"
+
+[[repo]]
+url = "https://github.com/Gearbox-protocol/third-eye"
 
 [[repo]]
 url = "https://github.com/Gearbox-protocol/token-distributor"

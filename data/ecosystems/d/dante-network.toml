@@ -52,13 +52,7 @@ url = "https://github.com/dantenetwork/dante-explorer"
 url = "https://github.com/dantenetwork/dante-near-nft"
 
 [[repo]]
-url = "https://github.com/dantenetwork/dante-sdk"
-
-[[repo]]
 url = "https://github.com/dantenetwork/dattoken"
-
-[[repo]]
-url = "https://github.com/dantenetwork/Demo-Cross-chain-privacy-communication"
 
 [[repo]]
 url = "https://github.com/dantenetwork/Demo-Show"
@@ -68,6 +62,9 @@ url = "https://github.com/dantenetwork/Demo-Swap"
 
 [[repo]]
 url = "https://github.com/dantenetwork/Developer-Events"
+
+[[repo]]
+url = "https://github.com/dantenetwork/flow-off-chain"
 
 [[repo]]
 url = "https://github.com/dantenetwork/flow-sdk"
@@ -107,12 +104,6 @@ url = "https://github.com/dantenetwork/lock-wasm"
 
 [[repo]]
 url = "https://github.com/dantenetwork/message-ink"
-
-[[repo]]
-url = "https://github.com/dantenetwork/message-ink"
-
-[[repo]]
-url = "https://github.com/dantenetwork/message_ink"
 
 [[repo]]
 url = "https://github.com/dantenetwork/MP-SPDZ"
@@ -196,10 +187,13 @@ url = "https://github.com/dantenetwork/solidity"
 url = "https://github.com/dantenetwork/solidity-contract-template"
 
 [[repo]]
-url = "https://github.com/dantenetwork/testnet"
+url = "https://github.com/dantenetwork/star-trek-system-test"
 
 [[repo]]
-url = "https://github.com/dantenetwork/Trusted_Bridge"
+url = "https://github.com/dantenetwork/star-trek-tools"
+
+[[repo]]
+url = "https://github.com/dantenetwork/testnet"
 
 [[repo]]
 url = "https://github.com/dantenetwork/Trustless_Bridge"

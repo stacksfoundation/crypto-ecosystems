@@ -7,25 +7,7 @@ github_organizations = ["https://github.com/sesame-seed"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/sesame-seed/DefiYieldCrawler"
-
-[[repo]]
-url = "https://github.com/sesame-seed/iotex-token-metadata"
-
-[[repo]]
-url = "https://github.com/sesame-seed/mouseutility-mnemonic"
-
-[[repo]]
-url = "https://github.com/sesame-seed/OWallet"
-
-[[repo]]
 url = "https://github.com/sesame-seed/poppy-link"
-
-[[repo]]
-url = "https://github.com/sesame-seed/SEEDx"
-
-[[repo]]
-url = "https://github.com/sesame-seed/unifi-contracts-addresses-json"
 
 [[repo]]
 url = "https://github.com/sesame-seed/Unifi-contracts-docs"
@@ -34,10 +16,28 @@ url = "https://github.com/sesame-seed/Unifi-contracts-docs"
 url = "https://github.com/sesame-seed/Unifi-Docs"
 
 [[repo]]
-url = "https://github.com/sesame-seed/Unifi-Quests"
+url = "https://github.com/unifiprotocol/DefiYieldCrawler"
 
 [[repo]]
-url = "https://github.com/sesame-seed/unifi-sdk"
+url = "https://github.com/unifiprotocol/iotex-token-metadata"
 
 [[repo]]
-url = "https://github.com/sesame-seed/validator-logos"
+url = "https://github.com/unifiprotocol/mouseutility-mnemonic"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/OWallet"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/SEEDx"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/unifi-contracts-addresses-json"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/Unifi-Quests"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/unifi-sdk"
+
+[[repo]]
+url = "https://github.com/unifiprotocol/validator-logos"

@@ -19,6 +19,9 @@ url = "https://github.com/Benqi-fi/DefiLlama-Adapters"
 url = "https://github.com/Benqi-fi/dsa-resolvers"
 
 [[repo]]
+url = "https://github.com/Benqi-fi/ecosystem-projects"
+
+[[repo]]
 url = "https://github.com/Benqi-fi/instadapp-dsa-connectors"
 
 [[repo]]
@@ -28,10 +31,13 @@ url = "https://github.com/Benqi-fi/joe-tokenlists"
 url = "https://github.com/Benqi-fi/keystone-smart-contract-netadata-registry"
 
 [[repo]]
-url = "https://github.com/Benqi-fi/Smart-Contract-Metadata-Registry"
+url = "https://github.com/Benqi-fi/metastable-rate-providers"
 
 [[repo]]
 url = "https://github.com/Benqi-fi/terra-money-assets"
 
 [[repo]]
 url = "https://github.com/Benqi-fi/token-terminal-smart-contract-registry"
+
+[[repo]]
+url = "https://github.com/Benqi-fi/trustwallet-assets"

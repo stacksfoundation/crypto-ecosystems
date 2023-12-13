@@ -31,9 +31,6 @@ url = "https://github.com/Aldin-SXR/bchdb"
 url = "https://github.com/AlphaGriffin/orbit"
 
 [[repo]]
-url = "https://github.com/arilot/bitcoincashd"
-
-[[repo]]
 url = "https://github.com/avilches/nchain-bch-toolkit"
 
 [[repo]]
@@ -52,13 +49,7 @@ url = "https://github.com/bitcoin-cash-node/checkstyle2junit"
 url = "https://github.com/bitcoin-cash-node/docker-bcn-buildenv"
 
 [[repo]]
-url = "https://github.com/Bitcoin-com/cashscript"
-
-[[repo]]
 url = "https://github.com/Bitcoin-com/slp-wallet-sdk-ios"
-
-[[repo]]
-url = "https://github.com/bitcoincashjs/bchaddrjs"
 
 [[repo]]
 url = "https://github.com/bitcoincashorg/bitcoincash.org"
@@ -95,6 +86,9 @@ url = "https://github.com/cashaddress/SharpCashAddr"
 url = "https://github.com/cashaddress/vanitygen-cash"
 
 [[repo]]
+url = "https://github.com/CashScript/cashscript"
+
+[[repo]]
 url = "https://github.com/copernet/copernicus"
 
 [[repo]]
@@ -114,6 +108,12 @@ url = "https://github.com/DarthJahus/CashTip-Telegram"
 
 [[repo]]
 url = "https://github.com/dsmurrell/awesome-bitcoin-cash"
+
+[[repo]]
+url = "https://github.com/dysnix/bitcoincashd"
+
+[[repo]]
+url = "https://github.com/ealmansi/bchaddrjs"
 
 [[repo]]
 url = "https://github.com/Ekliptor/cashp"
@@ -163,6 +163,9 @@ url = "https://github.com/Electron-Cash/Fulcrum-RPA"
 
 [[repo]]
 url = "https://github.com/Electron-Cash/keys-n-hashes"
+
+[[repo]]
+url = "https://github.com/Electron-Cash/Nostron"
 
 [[repo]]
 url = "https://github.com/Electron-Cash/openssl"
@@ -267,13 +270,10 @@ url = "https://github.com/KarolTrzeszczkowski/Inter-Wallet-Transfer-EC-plugin"
 url = "https://github.com/kevinejohn/Cashmunity"
 
 [[repo]]
-url = "https://github.com/kosinusbch/bitcoincashzoo"
+url = "https://github.com/kosinusbch/zoo.bch.sx"
 
 [[repo]]
 url = "https://github.com/Lokad/CashDB"
-
-[[repo]]
-url = "https://github.com/MarckTomack/bitcoincash-explorer-bot"
 
 [[repo]]
 url = "https://github.com/markblundeberg/coinsplitter"
@@ -283,6 +283,9 @@ url = "https://github.com/mersinvald/Reed-Solomon"
 
 [[repo]]
 url = "https://github.com/monsterbitar/SPOS4BCH"
+
+[[repo]]
+url = "https://github.com/mrctms/bitcoincash-explorer-bot"
 
 [[repo]]
 url = "https://github.com/nextcashtech/android_wallet"
@@ -418,9 +421,6 @@ url = "https://github.com/simpleledger/slp-implementation-instructions"
 url = "https://github.com/simpleledger/slp-light"
 
 [[repo]]
-url = "https://github.com/simpleledger/slp-list"
-
-[[repo]]
 url = "https://github.com/simpleledger/slp-list.js"
 
 [[repo]]
@@ -448,9 +448,6 @@ url = "https://github.com/simpleledger/slp-telegram-bot"
 url = "https://github.com/simpleledger/slp-unit-test-data"
 
 [[repo]]
-url = "https://github.com/simpleledger/slp-validate"
-
-[[repo]]
 url = "https://github.com/simpleledger/slp-validate.js"
 
 [[repo]]
@@ -458,9 +455,6 @@ url = "https://github.com/simpleledger/slp-web"
 
 [[repo]]
 url = "https://github.com/simpleledger/slp.Indexer"
-
-[[repo]]
-url = "https://github.com/simpleledger/SLPassets"
 
 [[repo]]
 url = "https://github.com/simpleledger/SLPDB"

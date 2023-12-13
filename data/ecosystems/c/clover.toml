@@ -13,6 +13,9 @@ url = "https://github.com/clover-network/apps"
 url = "https://github.com/clover-network/aptos-wallet-adapter"
 
 [[repo]]
+url = "https://github.com/clover-network/astar-apps"
+
+[[repo]]
 url = "https://github.com/clover-network/auction-deploy"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/clover-network/audaces-perps-ui"
 
 [[repo]]
 url = "https://github.com/clover-network/blockscout"
+
+[[repo]]
+url = "https://github.com/clover-network/bluewave-wallet-mobile-release"
 
 [[repo]]
 url = "https://github.com/clover-network/chains"
@@ -91,9 +97,6 @@ url = "https://github.com/clover-network/clover-multichain-wallet"
 url = "https://github.com/clover-network/clover-multichain-wallet-demo"
 
 [[repo]]
-url = "https://github.com/clover-network/clover-network.github.io"
-
-[[repo]]
 url = "https://github.com/clover-network/clover-node-types"
 
 [[repo]]
@@ -148,6 +151,9 @@ url = "https://github.com/clover-network/cloveriOS"
 url = "https://github.com/clover-network/clv-network-token-lists"
 
 [[repo]]
+url = "https://github.com/clover-network/clv-wagmi-connector"
+
+[[repo]]
 url = "https://github.com/clover-network/cumulus"
 
 [[repo]]
@@ -173,6 +179,9 @@ url = "https://github.com/clover-network/example-counter-dapp"
 
 [[repo]]
 url = "https://github.com/clover-network/faucet-iris-deploy"
+
+[[repo]]
+url = "https://github.com/clover-network/flutter_echarts"
 
 [[repo]]
 url = "https://github.com/clover-network/fonts-clover"
@@ -214,6 +223,9 @@ url = "https://github.com/clover-network/parachain-projects-info"
 url = "https://github.com/clover-network/patract-open-platform-program"
 
 [[repo]]
+url = "https://github.com/clover-network/rainbowkit"
+
+[[repo]]
 url = "https://github.com/clover-network/saber-common"
 
 [[repo]]
@@ -247,7 +259,7 @@ url = "https://github.com/clover-network/wallet-adapter"
 url = "https://github.com/clover-network/web-wallet-sdk"
 
 [[repo]]
-url = "https://github.com/clover-network/web3modal"
+url = "https://github.com/clover-network/web3-react"
 
 [[repo]]
-url = "https://github.com/clover-network/website"
+url = "https://github.com/clover-network/web3modal"

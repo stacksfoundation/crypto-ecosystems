@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/bosonprotocol"]
 url = "https://github.com/bosonprotocol/assets"
 
 [[repo]]
+url = "https://github.com/bosonprotocol/boson-dcl"
+
+[[repo]]
 url = "https://github.com/bosonprotocol/boson-protocol-contracts"
 
 [[repo]]
 url = "https://github.com/bosonprotocol/BPIPs"
+
+[[repo]]
+url = "https://github.com/bosonprotocol/chat-sdk"
 
 [[repo]]
 url = "https://github.com/bosonprotocol/community"
@@ -25,10 +31,16 @@ url = "https://github.com/bosonprotocol/contract-metadata"
 url = "https://github.com/bosonprotocol/contracts"
 
 [[repo]]
+url = "https://github.com/bosonprotocol/core-components"
+
+[[repo]]
 url = "https://github.com/bosonprotocol/docs.bosonprotocol.io"
 
 [[repo]]
 url = "https://github.com/bosonprotocol/grants"
+
+[[repo]]
+url = "https://github.com/bosonprotocol/interface"
 
 [[repo]]
 url = "https://github.com/bosonprotocol/jobs"

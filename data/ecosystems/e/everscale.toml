@@ -1,10 +1,11 @@
 # Ecosystem Level Information
 title = "Everscale"
 
-sub_ecosystems = []
+sub_ecosystems = ["Flatqube", "Gosh", "Octusbridge", "Venom"]
 
 github_organizations = [
   "https://github.com/broxus",
+  "https://github.com/everscale-contest",
   "https://github.com/everscale-org",
   "https://github.com/INTONNATION",
   "https://github.com/NilFoundation",
@@ -24,10 +25,19 @@ url = "https://github.com/AlexBSoft/TonSimpleAuction"
 url = "https://github.com/ArsenMkrt/mega-ton"
 
 [[repo]]
+url = "https://github.com/blockchain-sonar/wallet"
+
+[[repo]]
 url = "https://github.com/broxus/adnl-rpc"
 
 [[repo]]
 url = "https://github.com/broxus/await-semaphore"
+
+[[repo]]
+url = "https://github.com/broxus/benches"
+
+[[repo]]
+url = "https://github.com/broxus/betterscale-tools"
 
 [[repo]]
 url = "https://github.com/broxus/bridge-assets"
@@ -54,7 +64,16 @@ url = "https://github.com/broxus/codegen"
 url = "https://github.com/broxus/collector"
 
 [[repo]]
+url = "https://github.com/broxus/ded"
+
+[[repo]]
+url = "https://github.com/broxus/dex-middleware"
+
+[[repo]]
 url = "https://github.com/broxus/ed25519-dalek"
+
+[[repo]]
+url = "https://github.com/broxus/encrypted_storage"
 
 [[repo]]
 url = "https://github.com/broxus/eth-freeton-bridge-proposal"
@@ -78,7 +97,7 @@ url = "https://github.com/broxus/ever-contracts"
 url = "https://github.com/broxus/ever-defi-contracts"
 
 [[repo]]
-url = "https://github.com/broxus/ever-locklift"
+url = "https://github.com/broxus/ever-node"
 
 [[repo]]
 url = "https://github.com/broxus/ever-wallet-anti-phishing"
@@ -90,10 +109,19 @@ url = "https://github.com/broxus/ever-wallet-api"
 url = "https://github.com/broxus/ever-wallet-browser-extension"
 
 [[repo]]
+url = "https://github.com/broxus/ever-wallet-browser-extension-old"
+
+[[repo]]
 url = "https://github.com/broxus/ever-wallet-contract"
 
 [[repo]]
 url = "https://github.com/broxus/ever-wallet-flutter"
+
+[[repo]]
+url = "https://github.com/broxus/ever-wever"
+
+[[repo]]
+url = "https://github.com/broxus/ever_wallet_flutter_new"
 
 [[repo]]
 url = "https://github.com/broxus/everdao-api"
@@ -150,31 +178,55 @@ url = "https://github.com/broxus/everscan-verify"
 url = "https://github.com/broxus/failover"
 
 [[repo]]
+url = "https://github.com/broxus/fancy_logger"
+
+[[repo]]
+url = "https://github.com/broxus/fift"
+
+[[repo]]
+url = "https://github.com/broxus/fift-playground"
+
+[[repo]]
 url = "https://github.com/broxus/flatqube-assets"
+tags = ["DeFi", "Flatqube"]
 
 [[repo]]
 url = "https://github.com/broxus/flatqube-contracts"
+tags = ["DeFi", "Flatqube"]
 
 [[repo]]
 url = "https://github.com/broxus/flatqube-dao-contracts"
+tags = ["DeFi", "Flatqube"]
 
 [[repo]]
 url = "https://github.com/broxus/flatqube-docs"
+tags = ["Documentation", "Flatqube"]
 
 [[repo]]
 url = "https://github.com/broxus/flatqube-frontend"
+tags = ["DeFi", "Flatqube"]
+
+[[repo]]
+url = "https://github.com/broxus/flatqube-limit-orders"
 
 [[repo]]
 url = "https://github.com/broxus/flatqube-pair"
+tags = ["DeFi", "Flatqube"]
+
+[[repo]]
+url = "https://github.com/broxus/flutter_templates"
+
+[[repo]]
+url = "https://github.com/broxus/fs-dkr"
 
 [[repo]]
 url = "https://github.com/broxus/ftabi"
 
 [[repo]]
-url = "https://github.com/broxus/intellij-solidity"
+url = "https://github.com/broxus/gravix-contracts"
 
 [[repo]]
-url = "https://github.com/broxus/jetbrains-t-sol"
+url = "https://github.com/broxus/intellij-t-sol"
 
 [[repo]]
 url = "https://github.com/broxus/ledger-app-everscale"
@@ -213,13 +265,28 @@ url = "https://github.com/broxus/lib_wallet"
 url = "https://github.com/broxus/libsecp256k1"
 
 [[repo]]
+url = "https://github.com/broxus/local-ever-network"
+
+[[repo]]
 url = "https://github.com/broxus/locklift"
+
+[[repo]]
+url = "https://github.com/broxus/locklift-deploy"
+
+[[repo]]
+url = "https://github.com/broxus/locklift-network"
 
 [[repo]]
 url = "https://github.com/broxus/locklift-plugin-boilerplate"
 
 [[repo]]
+url = "https://github.com/broxus/locklift-verifier"
+
+[[repo]]
 url = "https://github.com/broxus/microwave-contracts"
+
+[[repo]]
+url = "https://github.com/broxus/money2_improver"
 
 [[repo]]
 url = "https://github.com/broxus/nekoton"
@@ -234,13 +301,34 @@ url = "https://github.com/broxus/nekoton-depool"
 url = "https://github.com/broxus/nekoton-flutter"
 
 [[repo]]
+url = "https://github.com/broxus/nekoton-python"
+
+[[repo]]
 url = "https://github.com/broxus/nekoton-wasm"
+
+[[repo]]
+url = "https://github.com/broxus/nekoton_bridge"
+
+[[repo]]
+url = "https://github.com/broxus/nekoton_repository"
+
+[[repo]]
+url = "https://github.com/broxus/nekoton_webview"
+
+[[repo]]
+url = "https://github.com/broxus/nekoton_webview_demo"
 
 [[repo]]
 url = "https://github.com/broxus/nft-lists"
 
 [[repo]]
+url = "https://github.com/broxus/nodekeeper"
+
+[[repo]]
 url = "https://github.com/broxus/octusbridge-contracts"
+
+[[repo]]
+url = "https://github.com/broxus/octusbridge-contracts-docs"
 
 [[repo]]
 url = "https://github.com/broxus/octusbridge-docs"
@@ -276,6 +364,9 @@ url = "https://github.com/broxus/pyton"
 url = "https://github.com/broxus/r2d2-redis"
 
 [[repo]]
+url = "https://github.com/broxus/referral-system-contracts"
+
+[[repo]]
 url = "https://github.com/broxus/rocksdb-builder"
 
 [[repo]]
@@ -285,6 +376,12 @@ url = "https://github.com/broxus/rust-rocksdb"
 url = "https://github.com/broxus/rust-secp256k1"
 
 [[repo]]
+url = "https://github.com/broxus/single-node-everscale-network"
+
+[[repo]]
+url = "https://github.com/broxus/solana"
+
+[[repo]]
 url = "https://github.com/broxus/solana-cli"
 
 [[repo]]
@@ -292,6 +389,12 @@ url = "https://github.com/broxus/solana-multisig"
 
 [[repo]]
 url = "https://github.com/broxus/stEver-contracts"
+
+[[repo]]
+url = "https://github.com/broxus/stEver-depool-contracts"
+
+[[repo]]
+url = "https://github.com/broxus/stEver-frontend"
 
 [[repo]]
 url = "https://github.com/broxus/stever-node-tools"
@@ -309,10 +412,16 @@ url = "https://github.com/broxus/tiny-bip39"
 url = "https://github.com/broxus/tiny-hderive"
 
 [[repo]]
+url = "https://github.com/broxus/tip1155"
+
+[[repo]]
 url = "https://github.com/broxus/tip3"
 
 [[repo]]
 url = "https://github.com/broxus/tip3-debot"
+
+[[repo]]
+url = "https://github.com/broxus/tip4"
 
 [[repo]]
 url = "https://github.com/broxus/tl-proto"
@@ -348,9 +457,6 @@ url = "https://github.com/broxus/ton-block-compressor"
 url = "https://github.com/broxus/ton-client"
 
 [[repo]]
-url = "https://github.com/broxus/ton-contracts"
-
-[[repo]]
 url = "https://github.com/broxus/ton-cpp-src"
 
 [[repo]]
@@ -366,9 +472,6 @@ url = "https://github.com/broxus/ton-eth-bridge-contracts"
 url = "https://github.com/broxus/ton-eth-bridge-credit-processor"
 
 [[repo]]
-url = "https://github.com/broxus/ton-eth-bridge-relay"
-
-[[repo]]
 url = "https://github.com/broxus/ton-explorer-backend"
 
 [[repo]]
@@ -382,9 +485,6 @@ url = "https://github.com/broxus/ton-indexer"
 
 [[repo]]
 url = "https://github.com/broxus/ton-indexer-template"
-
-[[repo]]
-url = "https://github.com/broxus/ton-inpage-provider"
 
 [[repo]]
 url = "https://github.com/broxus/ton-kafka-producer"
@@ -429,9 +529,6 @@ url = "https://github.com/broxus/ton-labs-types"
 url = "https://github.com/broxus/ton-labs-vm"
 
 [[repo]]
-url = "https://github.com/broxus/ton-locklift"
-
-[[repo]]
 url = "https://github.com/broxus/ton-msig"
 
 [[repo]]
@@ -445,15 +542,6 @@ url = "https://github.com/broxus/ton-token-abi"
 
 [[repo]]
 url = "https://github.com/broxus/ton-token-vesting"
-
-[[repo]]
-url = "https://github.com/broxus/ton-wallet-api"
-
-[[repo]]
-url = "https://github.com/broxus/ton-wallet-crystal-browser-extension"
-
-[[repo]]
-url = "https://github.com/broxus/ton-wton"
 
 [[repo]]
 url = "https://github.com/broxus/tongen"
@@ -492,7 +580,434 @@ url = "https://github.com/broxus/wasm-pack"
 url = "https://github.com/broxus/wasm-pack-plugin"
 
 [[repo]]
+url = "https://github.com/broxus/weedb"
+
+[[repo]]
 url = "https://github.com/chain-action/http-notification"
+
+[[repo]]
+url = "https://github.com/Custler/ever-node-tools"
+tags = ["DevOps"]
+
+[[repo]]
+url = "https://github.com/Custler/main.evs.dev"
+tags = ["DevOps"]
+
+[[repo]]
+url = "https://github.com/Custler/node-info-contract"
+tags = ["DevOps"]
+
+[[repo]]
+url = "https://github.com/ever-guild/debot"
+tags = ["Documentation", "SDK"]
+
+[[repo]]
+url = "https://github.com/ever-guild/debot-browser"
+
+[[repo]]
+url = "https://github.com/ever-guild/everscale-random"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/ever-guild/everscale-tutor-web"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/ever-guild/homebrew-stable"
+
+[[repo]]
+url = "https://github.com/ever-guild/locklift-sample"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/everscale-actions/everscale-dotnet"
+
+[[repo]]
+url = "https://github.com/everscale-actions/ton-client-blazor"
+
+[[repo]]
+url = "https://github.com/everscale-actions/tonos-se"
+
+[[repo]]
+url = "https://github.com/everscale-contest/.github"
+
+[[repo]]
+url = "https://github.com/everscale-contest/academy-18-submission-107"
+
+[[repo]]
+url = "https://github.com/everscale-contest/academy-18-submission-3"
+
+[[repo]]
+url = "https://github.com/everscale-contest/academy-18-submission-39"
+
+[[repo]]
+url = "https://github.com/everscale-contest/basic-timer-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/bounty-8-nft-lootbox"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ChainBridge"
+
+[[repo]]
+url = "https://github.com/everscale-contest/chess-match-making"
+
+[[repo]]
+url = "https://github.com/everscale-contest/contest"
+
+[[repo]]
+url = "https://github.com/everscale-contest/crusty3-zk"
+
+[[repo]]
+url = "https://github.com/everscale-contest/debrowser"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Decentralized_OSN"
+
+[[repo]]
+url = "https://github.com/everscale-contest/DeNS"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-18-submission-3"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-1"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-2"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-3"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-4"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-5"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-6"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-27-submission-7"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-32-podlodkin-freeton-year-control"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-32-ton-proof-verification-contest"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-33-submission-2-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-33-submission-2-desktop"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-33-submission-2-proof"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-33-submission-2-web"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-1"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-10"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-11"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-2-api"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-2-core"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-2-local-config"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-3"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-4"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-5"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-6"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-7"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-8"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-37-submission-9"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-11"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-2"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-7-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-7-frontend"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-9-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/devex-47-submission-9-generative-art"
+
+[[repo]]
+url = "https://github.com/everscale-contest/distdb-bench"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-13lab-design"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-Ethernal-DaoFactory"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-EverscaleGuild-SEW"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-EverscaleGuild-SEW-frontend"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-Identix-soul-bound-token-contracts"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-Identix-soul-bound-token-demo-app"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-Kapcrew-pixudi_bridge"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-MyceliumLab-everboy-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-MyceliumLab-everboy-frontend"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Elysium-W3U-cross-chain-reputation"
+
+[[repo]]
+url = "https://github.com/everscale-contest/everscale-graphql"
+
+[[repo]]
+url = "https://github.com/everscale-contest/flat-tree"
+
+[[repo]]
+url = "https://github.com/everscale-contest/freeton-dens"
+
+[[repo]]
+url = "https://github.com/everscale-contest/freeton-infra"
+
+[[repo]]
+url = "https://github.com/everscale-contest/freeton-rtdb-research"
+
+[[repo]]
+url = "https://github.com/everscale-contest/freeton-timer"
+
+[[repo]]
+url = "https://github.com/everscale-contest/FreeTON_timer"
+
+[[repo]]
+url = "https://github.com/everscale-contest/FreeTonTimerContract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/FTC-DeNS"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-bet-rates"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Clash-of-Hex"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Electron-Ylide-chat"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Gasless-Wallet"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-OctusBridge-deployment-guide"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-SBF-trust"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Splytlide"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Strategy-Builder"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-ylide-account-qrcode"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-ylide-event-calendar"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-ylide-messenger"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Ylide-pass"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Ylide-QR"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-YlideConnect"
+
+[[repo]]
+url = "https://github.com/everscale-contest/Gitcoin-Elysium-22-Zombax"
+
+[[repo]]
+url = "https://github.com/everscale-contest/gosh-sh-docs"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Big-Kotik-tz-ever-bridge"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Big-Kotik-tzs-ever-bridge-frontend"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Big-Kotik-tzs-ever-bridge-ligo-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Big-Kotik-tzs-ever-bridge-relay"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Big-Kotik-tzs-ever-bridge-sol-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-DEvergence"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Equity-philosophers"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Everangers-hackathon_new"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Radiance-Team-ever-tezos-bridge-front"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Radiance-Team-ever-tezos-bridge-relay"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Radiance-Team-ever-tezos-smart-contracts"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-debot-tezos-wallet-1"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-debot-tezos_wallet_service"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-helper"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-service"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-service_discovery"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-ShiroKovka-everscale-tezos_account_debot"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Tyler-s-philosophy"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2022-tezos-Unknown-brain"
+
+[[repo]]
+url = "https://github.com/everscale-contest/hackathon2023-venom-goshai"
+
+[[repo]]
+url = "https://github.com/everscale-contest/izzzio"
+
+[[repo]]
+url = "https://github.com/everscale-contest/madfish-unbank-auto-manager"
+
+[[repo]]
+url = "https://github.com/everscale-contest/madfish-unbank-core"
+
+[[repo]]
+url = "https://github.com/everscale-contest/madfish-unbank-web"
+
+[[repo]]
+url = "https://github.com/everscale-contest/nifi-smart-contracts"
+
+[[repo]]
+url = "https://github.com/everscale-contest/onchain-timer"
+
+[[repo]]
+url = "https://github.com/everscale-contest/PingPongTimerContract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/stton"
+
+[[repo]]
+url = "https://github.com/everscale-contest/surf-contract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ticktimer"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TickTockContract"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TIP-4-proposals"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TIP-4.3-indexes"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ton-aloof-timer"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TON-DeNS"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TON-OS-DApp-Server-deploy"
+
+[[repo]]
+url = "https://github.com/everscale-contest/TON-OS-DApp-Server-k8s"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ton-swap"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ton-trustless-bridge-evm-contracts"
+
+[[repo]]
+url = "https://github.com/everscale-contest/ton_scheduler"
+
+[[repo]]
+url = "https://github.com/everscale-contest/tonix"
+
+[[repo]]
+url = "https://github.com/everscale-contest/tonswap-frontend"
+
+[[repo]]
+url = "https://github.com/everscale-contest/tvm-load-testing"
+
+[[repo]]
+url = "https://github.com/everscale-contest/vendee"
 
 [[repo]]
 url = "https://github.com/Everscale-Network/fld.ton.dev"
@@ -541,6 +1056,10 @@ url = "https://github.com/everscale-org/distdb-bench"
 
 [[repo]]
 url = "https://github.com/everscale-org/docs"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/everscale-org/ever-forever"
 
 [[repo]]
 url = "https://github.com/everscale-org/everscale-org.github.io"
@@ -588,10 +1107,16 @@ url = "https://github.com/everscale-org/izzzio"
 url = "https://github.com/everscale-org/job"
 
 [[repo]]
+url = "https://github.com/everscale-org/KOT"
+
+[[repo]]
 url = "https://github.com/everscale-org/php-ton-client"
 
 [[repo]]
 url = "https://github.com/everscale-org/PingPongTimerContract"
+
+[[repo]]
+url = "https://github.com/everscale-org/preview"
 
 [[repo]]
 url = "https://github.com/everscale-org/readme"
@@ -657,9 +1182,6 @@ url = "https://github.com/everscale-org/ton-eth-bridge-contracts"
 url = "https://github.com/everscale-org/ton-eth-bridge-relay"
 
 [[repo]]
-url = "https://github.com/everscale-org/ton-eth-bridge-token-contracts"
-
-[[repo]]
 url = "https://github.com/everscale-org/TON-OS-DApp-Server-deploy"
 
 [[repo]]
@@ -687,19 +1209,16 @@ url = "https://github.com/everscale-org/TonSdk"
 url = "https://github.com/everscale-org/tonswap-frontend"
 
 [[repo]]
-url = "https://github.com/EverscaleGuild/homebrew-stable"
-
-[[repo]]
 url = "https://github.com/extcrystalix/crystalix-extention"
 
 [[repo]]
 url = "https://github.com/extraton/debrowser"
 
 [[repo]]
-url = "https://github.com/extraton/php-ton-client"
+url = "https://github.com/extraton/extraton-extension"
 
 [[repo]]
-url = "https://github.com/freeton-wallet/wallet"
+url = "https://github.com/extraton/php-ton-client"
 
 [[repo]]
 url = "https://github.com/gram-net/gram-sdk"
@@ -720,6 +1239,10 @@ url = "https://github.com/INTONNATION/FreeTON-Rust-Node"
 url = "https://github.com/INTONNATION/freeton-smc-scripts"
 
 [[repo]]
+url = "https://github.com/INTONNATION/SubscriptionManager"
+tags = ["DevOps"]
+
+[[repo]]
 url = "https://github.com/INTONNATION/ton-os-dapp-server-deploy"
 
 [[repo]]
@@ -735,6 +1258,26 @@ url = "https://github.com/INTONNATION/tondev-vscode"
 url = "https://github.com/INTONNATION/tonos-se-installers"
 
 [[repo]]
+url = "https://github.com/itgoldio/everscale-dapp-server"
+tags = ["DevOps"]
+
+[[repo]]
+url = "https://github.com/itgoldio/everscale-nft-helper"
+tags = ["NFT"]
+
+[[repo]]
+url = "https://github.com/itgoldio/everscale-tip"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/itgoldio/everscale-tip-samples"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/itgoldio/everscale-validator"
+tags = ["DevOps"]
+
+[[repo]]
 url = "https://github.com/kobzistiy/LotteryFreeTon"
 
 [[repo]]
@@ -748,6 +1291,10 @@ url = "https://github.com/kokkekpek/simple-wallet-smart-contract"
 
 [[repo]]
 url = "https://github.com/LibertonCrypto/wallet"
+
+[[repo]]
+url = "https://github.com/mazekine/crazy-portals-contracts"
+tags = ["Dapp"]
 
 [[repo]]
 url = "https://github.com/move-ton/FreeTON-guides"
@@ -771,10 +1318,10 @@ url = "https://github.com/mytonwallet/vscode-tonsolidity-extension"
 url = "https://github.com/mytonwallet/web-extension"
 
 [[repo]]
-url = "https://github.com/nerzh/ton-client-ruby"
+url = "https://github.com/nerzh/everscale-client-ruby"
 
 [[repo]]
-url = "https://github.com/nerzh/ton-client-swift"
+url = "https://github.com/nerzh/everscale-client-swift"
 
 [[repo]]
 url = "https://github.com/NilFoundation/actions-boost-setup"
@@ -814,6 +1361,15 @@ url = "https://github.com/NilFoundation/actor-zk"
 
 [[repo]]
 url = "https://github.com/NilFoundation/application"
+
+[[repo]]
+url = "https://github.com/NilFoundation/arkworks-algebra"
+
+[[repo]]
+url = "https://github.com/NilFoundation/arkworks-curves"
+
+[[repo]]
+url = "https://github.com/NilFoundation/arkworks-std"
 
 [[repo]]
 url = "https://github.com/NilFoundation/boost-crypto3"
@@ -879,10 +1435,16 @@ url = "https://github.com/NilFoundation/crypto3-dkg"
 url = "https://github.com/NilFoundation/crypto3-environment"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-fhe"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-fil-proofs"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-hash"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-homomorphic"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-kdf"
@@ -933,6 +1495,12 @@ url = "https://github.com/NilFoundation/crypto3-scaffold"
 url = "https://github.com/NilFoundation/crypto3-stream"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-template"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-threshold"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-vdf"
 
 [[repo]]
@@ -942,7 +1510,19 @@ url = "https://github.com/NilFoundation/crypto3-zk"
 url = "https://github.com/NilFoundation/crypto3-zk-marshalling"
 
 [[repo]]
+url = "https://github.com/NilFoundation/dbms-engine"
+
+[[repo]]
 url = "https://github.com/NilFoundation/dbms-python"
+
+[[repo]]
+url = "https://github.com/NilFoundation/dbms-replication"
+
+[[repo]]
+url = "https://github.com/NilFoundation/doomretro"
+
+[[repo]]
+url = "https://github.com/NilFoundation/doomretro-circuit"
 
 [[repo]]
 url = "https://github.com/NilFoundation/dpdk"
@@ -951,13 +1531,34 @@ url = "https://github.com/NilFoundation/dpdk"
 url = "https://github.com/NilFoundation/epoll-shim"
 
 [[repo]]
+url = "https://github.com/NilFoundation/ethereum-casper-ffg-proof"
+
+[[repo]]
+url = "https://github.com/NilFoundation/ethereum-consensus-proof"
+
+[[repo]]
 url = "https://github.com/NilFoundation/ethereum-state-proof"
 
 [[repo]]
 url = "https://github.com/NilFoundation/everscale.nil.foundation"
 
 [[repo]]
+url = "https://github.com/NilFoundation/evm-layerzero-oracle"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-lorem-ipsum"
+
+[[repo]]
 url = "https://github.com/NilFoundation/evm-placeholder-verification"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-proof-market"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evmone"
+
+[[repo]]
+url = "https://github.com/NilFoundation/expressions_task"
 
 [[repo]]
 url = "https://github.com/NilFoundation/fswatch"
@@ -966,10 +1567,19 @@ url = "https://github.com/NilFoundation/fswatch"
 url = "https://github.com/NilFoundation/hwloc2-rs"
 
 [[repo]]
+url = "https://github.com/NilFoundation/lean-prover"
+
+[[repo]]
 url = "https://github.com/NilFoundation/linenoise"
 
 [[repo]]
+url = "https://github.com/NilFoundation/lorem-ipsum-cli"
+
+[[repo]]
 url = "https://github.com/NilFoundation/marshalling"
+
+[[repo]]
+url = "https://github.com/NilFoundation/mina-add-zkapp"
 
 [[repo]]
 url = "https://github.com/NilFoundation/mina-state-proof"
@@ -979,6 +1589,9 @@ url = "https://github.com/NilFoundation/module"
 
 [[repo]]
 url = "https://github.com/NilFoundation/network-marshalling"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil.foundation"
 
 [[repo]]
 url = "https://github.com/NilFoundation/pluggable-scaling-model"
@@ -999,7 +1612,13 @@ url = "https://github.com/NilFoundation/proof-market-circuit-json"
 url = "https://github.com/NilFoundation/proof-market-toolchain"
 
 [[repo]]
+url = "https://github.com/NilFoundation/proof-producer"
+
+[[repo]]
 url = "https://github.com/NilFoundation/react-components"
+
+[[repo]]
+url = "https://github.com/NilFoundation/research-excalibur-visualizer"
 
 [[repo]]
 url = "https://github.com/NilFoundation/rust-gpu-tools"
@@ -1009,6 +1628,9 @@ url = "https://github.com/NilFoundation/rust-ton"
 
 [[repo]]
 url = "https://github.com/NilFoundation/rust-tvm"
+
+[[repo]]
+url = "https://github.com/NilFoundation/solana-consensus-proof"
 
 [[repo]]
 url = "https://github.com/NilFoundation/solana-state-proof"
@@ -1053,10 +1675,16 @@ url = "https://github.com/NilFoundation/tvm-llvm"
 url = "https://github.com/NilFoundation/tvm-solidity"
 
 [[repo]]
+url = "https://github.com/NilFoundation/ui-kit"
+
+[[repo]]
 url = "https://github.com/NilFoundation/vote-saver-protocol"
 
 [[repo]]
 url = "https://github.com/NilFoundation/vote-saver-protocol-mpc"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkEVM1"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm"
@@ -1066,6 +1694,48 @@ url = "https://github.com/NilFoundation/zkllvm-assigner"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm-blueprint"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-cargo"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-circifier"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-clang"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-doom"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-examples-doom"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-libcxx"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-rslang"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-rslang-types"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-scaffold"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-soll"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-stdlib"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-template"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-transpiler"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-tutorials"
 
 [[repo]]
 url = "https://github.com/oberton/chrome_freeton_extension"
@@ -1128,25 +1798,7 @@ url = "https://github.com/radianceteam/submission_dex-architecture"
 url = "https://github.com/radianceteam/submission_launchpad-architecture"
 
 [[repo]]
-url = "https://github.com/radianceteam/ton-client-dotnet"
-
-[[repo]]
-url = "https://github.com/radianceteam/ton-client-go"
-
-[[repo]]
-url = "https://github.com/radianceteam/ton-client-java"
-
-[[repo]]
 url = "https://github.com/radianceteam/ton-client-kotlin"
-
-[[repo]]
-url = "https://github.com/radianceteam/ton-client-php"
-
-[[repo]]
-url = "https://github.com/radianceteam/ton-client-php-ext"
-
-[[repo]]
-url = "https://github.com/radianceteam/ton-client-ruby"
 
 [[repo]]
 url = "https://github.com/radianceteam/TON-SDK"
@@ -1206,16 +1858,31 @@ url = "https://github.com/RSquad/ShardEx"
 url = "https://github.com/RSquad/ton-aloof-timer"
 
 [[repo]]
+url = "https://github.com/RSquad/ton-core"
+
+[[repo]]
 url = "https://github.com/RSquad/ton-swap"
+
+[[repo]]
+url = "https://github.com/RSquad/ton-trustless-bridge-evm-contracts"
+
+[[repo]]
+url = "https://github.com/RSquad/ton-trustless-bridge-frontend"
+
+[[repo]]
+url = "https://github.com/RSquad/ton-trustless-bridge-relayer"
 
 [[repo]]
 url = "https://github.com/RSquad/ton-utils"
 
 [[repo]]
+url = "https://github.com/RSquad/tonseer-litepaper"
+
+[[repo]]
 url = "https://github.com/RSquad/xchainjs-lib"
 
 [[repo]]
-url = "https://github.com/serge-medvedev/freeton-msig-assistant"
+url = "https://github.com/serge-medvedev/everscale-msig-assistant"
 
 [[repo]]
 url = "https://github.com/serge-medvedev/freeton-staking-manager"
@@ -1233,6 +1900,9 @@ url = "https://github.com/southernlabs/ton-watcher"
 url = "https://github.com/southernlabs/waifuston-api"
 
 [[repo]]
+url = "https://github.com/Strafi/DeBot-Browser"
+
+[[repo]]
 url = "https://github.com/SVOIcom/browser-extension"
 
 [[repo]]
@@ -1242,19 +1912,10 @@ url = "https://github.com/SVOIcom/tonswap-frontend"
 url = "https://github.com/SVOIcom/tonswap-SC"
 
 [[repo]]
-url = "https://github.com/ton-actions/ton-client-blazor"
-
-[[repo]]
-url = "https://github.com/ton-actions/ton-client-dotnet"
-
-[[repo]]
-url = "https://github.com/ton-actions/tonos-se"
-
-[[repo]]
 url = "https://github.com/TonexWallet/tonex-extension"
 
 [[repo]]
-url = "https://github.com/tonlabs/appkit-js"
+url = "https://github.com/tonlabs/admin-tool"
 
 [[repo]]
 url = "https://github.com/tonlabs/arangochair"
@@ -1329,7 +1990,34 @@ url = "https://github.com/tonlabs/debots"
 url = "https://github.com/tonlabs/electron-forge-maker-appimage"
 
 [[repo]]
+url = "https://github.com/tonlabs/ever-abi"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-adnl"
+
+[[repo]]
 url = "https://github.com/tonlabs/ever-appkit-js"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-assembler"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-block"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-block-json"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-bls-lib"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-crypto"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-dht"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-executor"
 
 [[repo]]
 url = "https://github.com/tonlabs/ever-labs-bls-lib"
@@ -1338,13 +2026,40 @@ url = "https://github.com/tonlabs/ever-labs-bls-lib"
 url = "https://github.com/tonlabs/ever-labs-crypto"
 
 [[repo]]
+url = "https://github.com/tonlabs/ever-node"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-node-tools"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-overlay"
+
+[[repo]]
 url = "https://github.com/tonlabs/ever-platform-docs"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-playground"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-rldp"
 
 [[repo]]
 url = "https://github.com/tonlabs/ever-sdk"
 
 [[repo]]
 url = "https://github.com/tonlabs/ever-sdk-js"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-struct"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-tl"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-types"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-vm"
 
 [[repo]]
 url = "https://github.com/tonlabs/everdev"
@@ -1359,10 +2074,16 @@ url = "https://github.com/tonlabs/evernode-ds"
 url = "https://github.com/tonlabs/Evernode-NQ"
 
 [[repo]]
-url = "https://github.com/tonlabs/evernode-platform-docs"
+url = "https://github.com/tonlabs/evernode-se"
 
 [[repo]]
-url = "https://github.com/tonlabs/evernode-se"
+url = "https://github.com/tonlabs/eversdk-ton"
+
+[[repo]]
+url = "https://github.com/tonlabs/everx-node"
+
+[[repo]]
+url = "https://github.com/tonlabs/firebase-ios-sdk"
 
 [[repo]]
 url = "https://github.com/tonlabs/flex"
@@ -1383,7 +2104,13 @@ url = "https://github.com/tonlabs/gosh"
 url = "https://github.com/tonlabs/gosh-gitbook"
 
 [[repo]]
+url = "https://github.com/tonlabs/graphql-playground"
+
+[[repo]]
 url = "https://github.com/tonlabs/highlights"
+
+[[repo]]
+url = "https://github.com/tonlabs/ipcnv"
 
 [[repo]]
 url = "https://github.com/tonlabs/kafka-connect-arangodb"
@@ -1455,6 +2182,9 @@ url = "https://github.com/tonlabs/sdk-samples"
 url = "https://github.com/tonlabs/sodalite"
 
 [[repo]]
+url = "https://github.com/tonlabs/stdlib.sol"
+
+[[repo]]
 url = "https://github.com/tonlabs/stTONs"
 
 [[repo]]
@@ -1473,10 +2203,10 @@ url = "https://github.com/tonlabs/TestSuite4"
 url = "https://github.com/tonlabs/TIP"
 
 [[repo]]
-url = "https://github.com/tonlabs/ton-1"
+url = "https://github.com/tonlabs/tl-parser"
 
 [[repo]]
-url = "https://github.com/tonlabs/ton-client-js"
+url = "https://github.com/tonlabs/ton-1"
 
 [[repo]]
 url = "https://github.com/tonlabs/ton-client-node-js"
@@ -1545,16 +2275,13 @@ url = "https://github.com/tonlabs/ton-labs-types"
 url = "https://github.com/tonlabs/ton-labs-vm"
 
 [[repo]]
+url = "https://github.com/tonlabs/ton-monorepo"
+
+[[repo]]
 url = "https://github.com/tonlabs/ton-nfc-client"
 
 [[repo]]
-url = "https://github.com/tonlabs/TON-OS-DApp-Server"
-
-[[repo]]
 url = "https://github.com/tonlabs/ton-q-server"
-
-[[repo]]
-url = "https://github.com/tonlabs/TON-SDK"
 
 [[repo]]
 url = "https://github.com/tonlabs/TON-Solidity-Compiler"
@@ -1564,9 +2291,6 @@ url = "https://github.com/tonlabs/TON-Surf-Localization"
 
 [[repo]]
 url = "https://github.com/tonlabs/tondev"
-
-[[repo]]
-url = "https://github.com/tonlabs/tondev-vscode"
 
 [[repo]]
 url = "https://github.com/tonlabs/tonix"
@@ -1579,9 +2303,6 @@ url = "https://github.com/tonlabs/TonNfcClientSwift"
 
 [[repo]]
 url = "https://github.com/tonlabs/tonos-cli"
-
-[[repo]]
-url = "https://github.com/tonlabs/tonos-se"
 
 [[repo]]
 url = "https://github.com/tonlabs/tor-service"
@@ -1602,6 +2323,9 @@ url = "https://github.com/tonlabs/wallet-sdk-js"
 url = "https://github.com/tonlabs/worldchess"
 
 [[repo]]
+url = "https://github.com/tonlabs/x25519-dalek"
+
+[[repo]]
 url = "https://github.com/tonlabs/zstd-rs"
 
 [[repo]]
@@ -1611,4 +2335,17 @@ url = "https://github.com/tonsoft-org/alpha.browser.wallet"
 url = "https://github.com/tonsoft-org/alpha.wallet"
 
 [[repo]]
+url = "https://github.com/unboxedtype/light"
+tags = ["Developer Tools", "Language"]
+
+[[repo]]
 url = "https://github.com/varnav/freeton-node-docker"
+
+[[repo]]
+url = "https://github.com/vp-mazekine/EverCraft"
+
+[[repo]]
+url = "https://github.com/web3sp/inpage-provider-playground"
+
+[[repo]]
+url = "https://github.com/web3sp/venom-connect"

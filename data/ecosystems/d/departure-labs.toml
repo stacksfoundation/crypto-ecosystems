@@ -7,10 +7,28 @@ github_organizations = ["https://github.com/DepartureLabsIC"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/DepartureLabsIC/auth_client_demo_azle"
+
+[[repo]]
 url = "https://github.com/DepartureLabsIC/branding"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/captcha"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/dl_authorize"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/dl_events"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/dl_uuid"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/DLIP"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/DPTR_ICIPs"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/ic_event_fs"
@@ -23,6 +41,15 @@ url = "https://github.com/DepartureLabsIC/ic_state_machine"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/ledger-candid"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/leptix"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/leptonic"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/leptos"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/motoko-document-db"
@@ -40,7 +67,13 @@ url = "https://github.com/DepartureLabsIC/motoko-simple-data-store"
 url = "https://github.com/DepartureLabsIC/non-fungible-token"
 
 [[repo]]
+url = "https://github.com/DepartureLabsIC/notific-integrate"
+
+[[repo]]
 url = "https://github.com/DepartureLabsIC/package-set"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/quark-checkout"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/quark.js"
@@ -56,3 +89,9 @@ url = "https://github.com/DepartureLabsIC/rs_quark"
 
 [[repo]]
 url = "https://github.com/DepartureLabsIC/Standards"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/statig"
+
+[[repo]]
+url = "https://github.com/DepartureLabsIC/tower"

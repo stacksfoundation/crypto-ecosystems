@@ -16,6 +16,9 @@ url = "https://github.com/Zebec-protocol/batchpayment-v2"
 url = "https://github.com/Zebec-protocol/dca"
 
 [[repo]]
+url = "https://github.com/Zebec-protocol/graph-node"
+
+[[repo]]
 url = "https://github.com/Zebec-protocol/locked-airdrop"
 
 [[repo]]
@@ -28,7 +31,22 @@ url = "https://github.com/Zebec-protocol/Project-Submitted-By-Developers"
 url = "https://github.com/Zebec-protocol/ricks-solana"
 
 [[repo]]
+url = "https://github.com/Zebec-protocol/safe-contracts"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/safe-modules"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/swaps-offchain-infra"
+
+[[repo]]
 url = "https://github.com/Zebec-protocol/transaction-builder"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/wallet-selector"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/zebec-anchor"
@@ -44,6 +62,9 @@ url = "https://github.com/Zebec-protocol/zebec-program-near"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/zebec-program-v2"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/zebec-protocol-status"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/zebec-protocol.github.io"

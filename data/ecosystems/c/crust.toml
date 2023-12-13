@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/crustio"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/API-NFTSCAN/crust-nft-storage"
+
+[[repo]]
+url = "https://github.com/badkk/nft-verifier"
+
+[[repo]]
 url = "https://github.com/crustio/aip"
+
+[[repo]]
+url = "https://github.com/crustio/app-substrate-common"
 
 [[repo]]
 url = "https://github.com/crustio/apps"
@@ -20,6 +29,9 @@ url = "https://github.com/crustio/ark-point"
 
 [[repo]]
 url = "https://github.com/crustio/astar-apps"
+
+[[repo]]
+url = "https://github.com/crustio/auto-calculate"
 
 [[repo]]
 url = "https://github.com/crustio/ChainBridge"
@@ -85,6 +97,9 @@ url = "https://github.com/crustio/crust-replicas-action"
 url = "https://github.com/crustio/crust-smanager"
 
 [[repo]]
+url = "https://github.com/crustio/crust-storage-data"
+
+[[repo]]
 url = "https://github.com/crustio/crust-sworker"
 
 [[repo]]
@@ -128,6 +143,9 @@ url = "https://github.com/crustio/encrypted-ipfs"
 
 [[repo]]
 url = "https://github.com/crustio/eth-storage-contract"
+
+[[repo]]
+url = "https://github.com/crustio/ethda"
 
 [[repo]]
 url = "https://github.com/crustio/ethereum-org-website"
@@ -205,9 +223,6 @@ url = "https://github.com/crustio/ipfs-docs"
 url = "https://github.com/crustio/ipfs-upload-action"
 
 [[repo]]
-url = "https://github.com/crustio/ipfs-w3auth"
-
-[[repo]]
 url = "https://github.com/crustio/ipfs-w3auth-gateway"
 
 [[repo]]
@@ -235,16 +250,10 @@ url = "https://github.com/crustio/karst"
 url = "https://github.com/crustio/matic-docs"
 
 [[repo]]
-url = "https://github.com/crustio/moonbeam-sc"
-
-[[repo]]
-url = "https://github.com/crustio/nft-verifier"
-
-[[repo]]
-url = "https://github.com/crustio/nftscan-saver"
-
-[[repo]]
 url = "https://github.com/crustio/nodes_scripts"
+
+[[repo]]
+url = "https://github.com/crustio/nostrgram"
 
 [[repo]]
 url = "https://github.com/crustio/open-runtime-module-library"

@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/BidiPassCompany"]
 url = "https://github.com/BidiPassCompany/binance-ethereum-swap"
 
 [[repo]]
-url = "https://github.com/BidiPassCompany/crosschain-token-swap"
-
-[[repo]]
 url = "https://github.com/BidiPassCompany/demo-integration"
 
 [[repo]]
@@ -34,10 +31,13 @@ url = "https://github.com/BidiPassCompany/load-testing-rpc"
 url = "https://github.com/BidiPassCompany/sdk"
 
 [[repo]]
-url = "https://github.com/BidiPassCompany/token"
-
-[[repo]]
 url = "https://github.com/BidiPassCompany/token-sale-contracts"
 
 [[repo]]
 url = "https://github.com/BidiPassCompany/ws-frame-decoder"
+
+[[repo]]
+url = "https://github.com/uloxio/crosschain-token-swap"
+
+[[repo]]
+url = "https://github.com/uloxio/ulox-token-contract"

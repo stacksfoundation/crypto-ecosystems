@@ -7,7 +7,25 @@ github_organizations = ["https://github.com/sentioxyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/sentioxyz/api"
+
+[[repo]]
+url = "https://github.com/sentioxyz/aptos-core"
+
+[[repo]]
 url = "https://github.com/sentioxyz/aptos-go-sdk"
+
+[[repo]]
+url = "https://github.com/sentioxyz/Astar"
+
+[[repo]]
+url = "https://github.com/sentioxyz/astar-frontier"
+
+[[repo]]
+url = "https://github.com/sentioxyz/astar-runtime-overrides"
+
+[[repo]]
+url = "https://github.com/sentioxyz/bsc-erigon"
 
 [[repo]]
 url = "https://github.com/sentioxyz/CLI-MSafe"
@@ -16,13 +34,46 @@ url = "https://github.com/sentioxyz/CLI-MSafe"
 url = "https://github.com/sentioxyz/console-log-json"
 
 [[repo]]
+url = "https://github.com/sentioxyz/demo-cbeth"
+
+[[repo]]
 url = "https://github.com/sentioxyz/docs"
 
 [[repo]]
 url = "https://github.com/sentioxyz/ecosystem-projects"
 
 [[repo]]
+url = "https://github.com/sentioxyz/ensjs"
+
+[[repo]]
+url = "https://github.com/sentioxyz/erigon"
+
+[[repo]]
+url = "https://github.com/sentioxyz/erigon-lib"
+
+[[repo]]
+url = "https://github.com/sentioxyz/ethers.js"
+
+[[repo]]
+url = "https://github.com/sentioxyz/fantom-docker"
+
+[[repo]]
+url = "https://github.com/sentioxyz/frontier"
+
+[[repo]]
+url = "https://github.com/sentioxyz/go-ethereum"
+
+[[repo]]
 url = "https://github.com/sentioxyz/go-gecko"
+
+[[repo]]
+url = "https://github.com/sentioxyz/go-lucene"
+
+[[repo]]
+url = "https://github.com/sentioxyz/go-querystring-parser"
+
+[[repo]]
+url = "https://github.com/sentioxyz/go-sui-sdk"
 
 [[repo]]
 url = "https://github.com/sentioxyz/golang-lru"
@@ -31,13 +82,49 @@ url = "https://github.com/sentioxyz/golang-lru"
 url = "https://github.com/sentioxyz/goldfinch"
 
 [[repo]]
+url = "https://github.com/sentioxyz/hackathan-base"
+
+[[repo]]
+url = "https://github.com/sentioxyz/hackathon-base"
+
+[[repo]]
+url = "https://github.com/sentioxyz/join-monster"
+
+[[repo]]
 url = "https://github.com/sentioxyz/loopring36_block_parser"
+
+[[repo]]
+url = "https://github.com/sentioxyz/moonbeam"
+
+[[repo]]
+url = "https://github.com/sentioxyz/moonbeam-runtime-overrides"
 
 [[repo]]
 url = "https://github.com/sentioxyz/move"
 
 [[repo]]
+url = "https://github.com/sentioxyz/parquet-go"
+
+[[repo]]
+url = "https://github.com/sentioxyz/processor-v2-migrate"
+
+[[repo]]
 url = "https://github.com/sentioxyz/promscale"
+
+[[repo]]
+url = "https://github.com/sentioxyz/protoc-gen-grpc-gateway-ts"
+
+[[repo]]
+url = "https://github.com/sentioxyz/qs"
+
+[[repo]]
+url = "https://github.com/sentioxyz/reselect-tree"
+
+[[repo]]
+url = "https://github.com/sentioxyz/scip"
+
+[[repo]]
+url = "https://github.com/sentioxyz/scroll-geth"
 
 [[repo]]
 url = "https://github.com/sentioxyz/sentio-composer"
@@ -55,4 +142,34 @@ url = "https://github.com/sentioxyz/sentioxyz.github.io"
 url = "https://github.com/sentioxyz/solana-go"
 
 [[repo]]
+url = "https://github.com/sentioxyz/solidity-ast"
+
+[[repo]]
+url = "https://github.com/sentioxyz/sui"
+
+[[repo]]
 url = "https://github.com/sentioxyz/timescaledb-kubernetes"
+
+[[repo]]
+url = "https://github.com/sentioxyz/truffle"
+
+[[repo]]
+url = "https://github.com/sentioxyz/ts-proto"
+
+[[repo]]
+url = "https://github.com/sentioxyz/tsup"
+
+[[repo]]
+url = "https://github.com/sentioxyz/TypeChain"
+
+[[repo]]
+url = "https://github.com/sentioxyz/typemove"
+
+[[repo]]
+url = "https://github.com/sentioxyz/vitess"
+
+[[repo]]
+url = "https://github.com/sentioxyz/wasmer-go"
+
+[[repo]]
+url = "https://github.com/sentioxyz/zkevm-node"

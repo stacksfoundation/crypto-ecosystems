@@ -7,7 +7,58 @@ github_organizations = ["https://github.com/melonproject"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/melonproject/branding"
+url = "https://github.com/enzymefinance/branding"
+
+[[repo]]
+url = "https://github.com/enzymefinance/dao-fund-framework"
+
+[[repo]]
+url = "https://github.com/enzymefinance/documentation"
+
+[[repo]]
+url = "https://github.com/enzymefinance/ens-server"
+
+[[repo]]
+url = "https://github.com/enzymefinance/ENZIP"
+
+[[repo]]
+url = "https://github.com/enzymefinance/melon"
+
+[[repo]]
+url = "https://github.com/enzymefinance/melon-council-bounties"
+
+[[repo]]
+url = "https://github.com/enzymefinance/melon-subgraph"
+
+[[repo]]
+url = "https://github.com/enzymefinance/melon-website"
+
+[[repo]]
+url = "https://github.com/enzymefinance/melonjs"
+
+[[repo]]
+url = "https://github.com/enzymefinance/MFP"
+
+[[repo]]
+url = "https://github.com/enzymefinance/monitoring"
+
+[[repo]]
+url = "https://github.com/enzymefinance/oyente"
+
+[[repo]]
+url = "https://github.com/enzymefinance/paper"
+
+[[repo]]
+url = "https://github.com/enzymefinance/protocol"
+
+[[repo]]
+url = "https://github.com/enzymefinance/software-disclaimer"
+
+[[repo]]
+url = "https://github.com/melonproject-archive/data-feed"
+
+[[repo]]
+url = "https://github.com/melonproject-archive/welcome"
 
 [[repo]]
 url = "https://github.com/melonproject/competitions"
@@ -22,12 +73,6 @@ url = "https://github.com/melonproject/contribution"
 url = "https://github.com/melonproject/cross-chain-exchange-prototype"
 
 [[repo]]
-url = "https://github.com/melonproject/dao-fund-framework"
-
-[[repo]]
-url = "https://github.com/melonproject/data-feed"
-
-[[repo]]
 url = "https://github.com/melonproject/DeFi-Pulse-Adapters"
 
 [[repo]]
@@ -37,13 +82,7 @@ url = "https://github.com/melonproject/dnsimple-utils"
 url = "https://github.com/melonproject/docs"
 
 [[repo]]
-url = "https://github.com/melonproject/documentation"
-
-[[repo]]
 url = "https://github.com/melonproject/email-faucet"
-
-[[repo]]
-url = "https://github.com/melonproject/ens-server"
 
 [[repo]]
 url = "https://github.com/melonproject/eth-net-intelligence-api"
@@ -94,31 +133,16 @@ url = "https://github.com/melonproject/kyber-rate"
 url = "https://github.com/melonproject/liquidity-provider"
 
 [[repo]]
-url = "https://github.com/melonproject/melon"
-
-[[repo]]
 url = "https://github.com/melonproject/melon-chain"
 
 [[repo]]
 url = "https://github.com/melonproject/melon-cloud"
 
 [[repo]]
-url = "https://github.com/melonproject/melon-council-bounties"
-
-[[repo]]
 url = "https://github.com/melonproject/melon-lab"
 
 [[repo]]
 url = "https://github.com/melonproject/melon-mail"
-
-[[repo]]
-url = "https://github.com/melonproject/melon-subgraph"
-
-[[repo]]
-url = "https://github.com/melonproject/melon-subgraph-frontend"
-
-[[repo]]
-url = "https://github.com/melonproject/melon-website"
 
 [[repo]]
 url = "https://github.com/melonproject/melon.js"
@@ -130,25 +154,7 @@ url = "https://github.com/melonproject/meloncli"
 url = "https://github.com/melonproject/melongql"
 
 [[repo]]
-url = "https://github.com/melonproject/melonjs"
-
-[[repo]]
-url = "https://github.com/melonproject/MFP"
-
-[[repo]]
 url = "https://github.com/melonproject/migration_script"
-
-[[repo]]
-url = "https://github.com/melonproject/MIP"
-
-[[repo]]
-url = "https://github.com/melonproject/monitoring"
-
-[[repo]]
-url = "https://github.com/melonproject/oyente"
-
-[[repo]]
-url = "https://github.com/melonproject/paper"
 
 [[repo]]
 url = "https://github.com/melonproject/participation-demo"
@@ -164,9 +170,6 @@ url = "https://github.com/melonproject/price-updater"
 
 [[repo]]
 url = "https://github.com/melonproject/pricefeed"
-
-[[repo]]
-url = "https://github.com/melonproject/protocol"
 
 [[repo]]
 url = "https://github.com/melonproject/ranking"
@@ -191,15 +194,6 @@ url = "https://github.com/melonproject/satellite"
 
 [[repo]]
 url = "https://github.com/melonproject/simple-trading-bot"
-
-[[repo]]
-url = "https://github.com/melonproject/smart-contracts"
-
-[[repo]]
-url = "https://github.com/melonproject/software-disclaimer"
-
-[[repo]]
-url = "https://github.com/melonproject/subgraph"
 
 [[repo]]
 url = "https://github.com/melonproject/sync-server"
@@ -230,6 +224,3 @@ url = "https://github.com/melonproject/vesting"
 
 [[repo]]
 url = "https://github.com/melonproject/visualisation"
-
-[[repo]]
-url = "https://github.com/melonproject/welcome"

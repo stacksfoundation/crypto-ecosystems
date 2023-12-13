@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/NestedFi"]
 url = "https://github.com/NestedFi/ecosystem-projects"
 
 [[repo]]
+url = "https://github.com/NestedFi/HyVM"
+
+[[repo]]
 url = "https://github.com/NestedFi/nested-core-lego"
 
 [[repo]]
 url = "https://github.com/NestedFi/nested-ledger-plugin"
+
+[[repo]]
+url = "https://github.com/NestedFi/nested-lego-js"
 
 [[repo]]
 url = "https://github.com/NestedFi/nested-lego-js-demo"

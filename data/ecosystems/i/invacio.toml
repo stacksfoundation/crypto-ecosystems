@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/Invacio"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Invacio/Relevancy-OAuth"
+url = "https://github.com/dumpingground12222/Relevancy-OAuth"
 
 [[repo]]
 url = "https://github.com/Invacio/token"

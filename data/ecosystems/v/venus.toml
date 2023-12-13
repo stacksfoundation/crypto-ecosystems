@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/VenusProtocol"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/SwipeWallet/venus-protocol"
-
-[[repo]]
 url = "https://github.com/VenusProtocol/assets"
 
 [[repo]]
@@ -22,7 +19,16 @@ url = "https://github.com/VenusProtocol/default-token-list"
 url = "https://github.com/VenusProtocol/defiprime"
 
 [[repo]]
+url = "https://github.com/VenusProtocol/discourse-ses-email"
+
+[[repo]]
 url = "https://github.com/VenusProtocol/front-end-tech-test"
+
+[[repo]]
+url = "https://github.com/VenusProtocol/governance-contracts"
+
+[[repo]]
+url = "https://github.com/VenusProtocol/hardhat-etherscan-import"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/isolated-pools"
@@ -31,7 +37,13 @@ url = "https://github.com/VenusProtocol/isolated-pools"
 url = "https://github.com/VenusProtocol/landing"
 
 [[repo]]
+url = "https://github.com/VenusProtocol/ledger-live-plugin"
+
+[[repo]]
 url = "https://github.com/VenusProtocol/oracle"
+
+[[repo]]
+url = "https://github.com/VenusProtocol/protocol-reserve"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/saddle"
@@ -61,6 +73,9 @@ url = "https://github.com/VenusProtocol/venus-protocol"
 url = "https://github.com/VenusProtocol/venus-protocol-docs"
 
 [[repo]]
+url = "https://github.com/VenusProtocol/venus-protocol-documentation"
+
+[[repo]]
 url = "https://github.com/VenusProtocol/venus-protocol-interface"
 
 [[repo]]
@@ -68,6 +83,9 @@ url = "https://github.com/VenusProtocol/venus-scripts"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/venus-subgraph"
+
+[[repo]]
+url = "https://github.com/VenusProtocol/vips"
 
 [[repo]]
 url = "https://github.com/VenusProtocol/web3-react"

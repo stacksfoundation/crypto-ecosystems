@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/reservoirprotocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/reservoirprotocol/.github"
+
+[[repo]]
 url = "https://github.com/reservoirprotocol/api-reference"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/reservoirprotocol/client-sdk"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/core"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/datadog-agent"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/dune-docs"
@@ -25,22 +31,37 @@ url = "https://github.com/reservoirprotocol/fallback-royalty-engine"
 url = "https://github.com/reservoirprotocol/forum"
 
 [[repo]]
+url = "https://github.com/reservoirprotocol/immutable-create3-factory"
+
+[[repo]]
 url = "https://github.com/reservoirprotocol/indexer"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/instant-sell"
 
 [[repo]]
-url = "https://github.com/reservoirprotocol/marketplace"
+url = "https://github.com/reservoirprotocol/loyal-marketplace"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/manifold-marketplace"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/marketplace-fork"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/marketplace-v1"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/marketplace-v2"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/metadata"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/oracle"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/pg-analyze"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/positional-ui"
@@ -55,6 +76,21 @@ url = "https://github.com/reservoirprotocol/reservoir-discord-bot"
 url = "https://github.com/reservoirprotocol/reservoir-kit"
 
 [[repo]]
+url = "https://github.com/reservoirprotocol/reservoir-kit-starter"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/reservoir-light-indexer"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/reservoir-light-node"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/reservoir-marketplace-v1"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/reservoir-sync-node"
+
+[[repo]]
 url = "https://github.com/reservoirprotocol/reservoirprotocol.github.io"
 
 [[repo]]
@@ -62,3 +98,9 @@ url = "https://github.com/reservoirprotocol/router-demo"
 
 [[repo]]
 url = "https://github.com/reservoirprotocol/sandbox"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/seaport-oracle"
+
+[[repo]]
+url = "https://github.com/reservoirprotocol/test-tokens-metadata"

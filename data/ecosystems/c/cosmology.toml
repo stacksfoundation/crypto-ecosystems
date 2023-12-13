@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/cosmology-tech"]
 url = "https://github.com/cosmology-tech/ast-challenge"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/babel-plugin-transform-bigint"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/chain-registry"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/chainlist"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/code-challenge-v2"
@@ -37,7 +43,19 @@ url = "https://github.com/cosmology-tech/cosmology-ui"
 url = "https://github.com/cosmology-tech/cosmos-kit"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/cosmos-websocket"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/cosmostation_token_resource"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cosmwasm-as"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cosmwasm-vm-js"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cpbf"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/create-cosmos-app"
@@ -46,7 +64,19 @@ url = "https://github.com/cosmology-tech/create-cosmos-app"
 url = "https://github.com/cosmology-tech/cw-awesome"
 
 [[repo]]
-url = "https://github.com/cosmology-tech/daodao"
+url = "https://github.com/cosmology-tech/cw-check"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cw-simulate"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cw-simulate-tests"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cw-simulate-ui"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cwsc"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/injectivejs"
@@ -55,13 +85,25 @@ url = "https://github.com/cosmology-tech/injectivejs"
 url = "https://github.com/cosmology-tech/interchain"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/interchain-js"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/interchain-lcd"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/interchain-query"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/interchain-rpc"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/juno-interchain-rpc"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/kavajs"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/mesh-security"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/networks"
@@ -70,10 +112,19 @@ url = "https://github.com/cosmology-tech/networks"
 url = "https://github.com/cosmology-tech/orig-stridejs"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/osmojs"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/osmosis"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/proto-registry"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/protobuf.js"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/publish-scripts"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/quicksilverjs"
@@ -82,7 +133,19 @@ url = "https://github.com/cosmology-tech/quicksilverjs"
 url = "https://github.com/cosmology-tech/stargazejs"
 
 [[repo]]
+url = "https://github.com/cosmology-tech/starship"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/starship-action"
+
+[[repo]]
 url = "https://github.com/cosmology-tech/stridejs"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/telescope"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/telescope-module-boilerplate"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/telescope-react-query-test"
@@ -95,3 +158,15 @@ url = "https://github.com/cosmology-tech/teritori"
 
 [[repo]]
 url = "https://github.com/cosmology-tech/terrascope"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/ts-codegen-module-boilerplate"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/use-cw-simulate"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/vscode-cwscript"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/wasmd"

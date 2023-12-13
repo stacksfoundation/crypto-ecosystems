@@ -13,6 +13,15 @@ url = "https://github.com/desmos-labs/app-desmos"
 url = "https://github.com/desmos-labs/assetlists"
 
 [[repo]]
+url = "https://github.com/desmos-labs/bdjuno"
+
+[[repo]]
+url = "https://github.com/desmos-labs/caerus"
+
+[[repo]]
+url = "https://github.com/desmos-labs/chain-link-tool"
+
+[[repo]]
 url = "https://github.com/desmos-labs/changeset"
 
 [[repo]]
@@ -34,6 +43,9 @@ url = "https://github.com/desmos-labs/cosmos-sdk"
 url = "https://github.com/desmos-labs/cosmos-tool"
 
 [[repo]]
+url = "https://github.com/desmos-labs/cosmwasm-advisories"
+
+[[repo]]
 url = "https://github.com/desmos-labs/cw-nfts"
 
 [[repo]]
@@ -46,9 +58,6 @@ url = "https://github.com/desmos-labs/cw-template"
 url = "https://github.com/desmos-labs/dam"
 
 [[repo]]
-url = "https://github.com/desmos-labs/dapp-sdk"
-
-[[repo]]
 url = "https://github.com/desmos-labs/desmjs"
 
 [[repo]]
@@ -59,15 +68,6 @@ url = "https://github.com/desmos-labs/desmos-bindings"
 
 [[repo]]
 url = "https://github.com/desmos-labs/desmos-contracts"
-
-[[repo]]
-url = "https://github.com/desmos-labs/desmos-faucet"
-
-[[repo]]
-url = "https://github.com/desmos-labs/desmos-mainnet-verifier"
-
-[[repo]]
-url = "https://github.com/desmos-labs/desmos-website"
 
 [[repo]]
 url = "https://github.com/desmos-labs/discord-bot"
@@ -83,6 +83,9 @@ url = "https://github.com/desmos-labs/docs"
 
 [[repo]]
 url = "https://github.com/desmos-labs/dpm"
+
+[[repo]]
+url = "https://github.com/desmos-labs/dpm-apis"
 
 [[repo]]
 url = "https://github.com/desmos-labs/faucet"
@@ -124,9 +127,6 @@ url = "https://github.com/desmos-labs/ibc-rs"
 url = "https://github.com/desmos-labs/introduction"
 
 [[repo]]
-url = "https://github.com/desmos-labs/juno"
-
-[[repo]]
 url = "https://github.com/desmos-labs/keplr-chain-registry"
 
 [[repo]]
@@ -154,10 +154,13 @@ url = "https://github.com/desmos-labs/mooncake-analytics"
 url = "https://github.com/desmos-labs/morpheus"
 
 [[repo]]
+url = "https://github.com/desmos-labs/osmosis"
+
+[[repo]]
 url = "https://github.com/desmos-labs/osmosis-frontend"
 
 [[repo]]
-url = "https://github.com/desmos-labs/plutus"
+url = "https://github.com/desmos-labs/pbjson"
 
 [[repo]]
 url = "https://github.com/desmos-labs/plutus-apis"
@@ -184,13 +187,13 @@ url = "https://github.com/desmos-labs/restake"
 url = "https://github.com/desmos-labs/scoreboard"
 
 [[repo]]
-url = "https://github.com/desmos-labs/sotera"
-
-[[repo]]
 url = "https://github.com/desmos-labs/soteria"
 
 [[repo]]
 url = "https://github.com/desmos-labs/start-chain"
+
+[[repo]]
+url = "https://github.com/desmos-labs/states"
 
 [[repo]]
 url = "https://github.com/desmos-labs/tendermint"
@@ -220,6 +223,9 @@ url = "https://github.com/desmos-labs/xenia"
 url = "https://github.com/forbole/accounts-bootstrap"
 
 [[repo]]
+url = "https://github.com/forbole/agoric-validator-profiles"
+
+[[repo]]
 url = "https://github.com/forbole/akash"
 
 [[repo]]
@@ -227,6 +233,9 @@ url = "https://github.com/forbole/akash-net"
 
 [[repo]]
 url = "https://github.com/forbole/amber-network-entities"
+
+[[repo]]
+url = "https://github.com/forbole/apisix-go-plugin-runner"
 
 [[repo]]
 url = "https://github.com/forbole/awesome-akash"
@@ -248,9 +257,6 @@ url = "https://github.com/forbole/bdtool"
 
 [[repo]]
 url = "https://github.com/forbole/betanet"
-
-[[repo]]
-url = "https://github.com/forbole/big-dipper"
 
 [[repo]]
 url = "https://github.com/forbole/big-dipper"
@@ -301,6 +307,9 @@ url = "https://github.com/forbole/big-dipper-landing-revamp"
 url = "https://github.com/forbole/big-dipper-networks"
 
 [[repo]]
+url = "https://github.com/forbole/bigdipper-2.0-helm-chart"
+
+[[repo]]
 url = "https://github.com/forbole/bookkeeper"
 
 [[repo]]
@@ -308,6 +317,9 @@ url = "https://github.com/forbole/bot_monitor"
 
 [[repo]]
 url = "https://github.com/forbole/careers"
+
+[[repo]]
+url = "https://github.com/forbole/comdex"
 
 [[repo]]
 url = "https://github.com/forbole/cosmos-exporter"
@@ -439,6 +451,9 @@ url = "https://github.com/forbole/migrate_script"
 url = "https://github.com/forbole/mrm-preset-forbole-rn"
 
 [[repo]]
+url = "https://github.com/forbole/multiversx"
+
+[[repo]]
 url = "https://github.com/forbole/njuno"
 
 [[repo]]
@@ -496,6 +511,9 @@ url = "https://github.com/forbole/something-special"
 url = "https://github.com/forbole/ssr"
 
 [[repo]]
+url = "https://github.com/forbole/ssv-key"
+
+[[repo]]
 url = "https://github.com/forbole/stafihub-network"
 
 [[repo]]
@@ -548,9 +566,6 @@ url = "https://github.com/forbole/uglifyjs2"
 
 [[repo]]
 url = "https://github.com/forbole/UI-UX"
-
-[[repo]]
-url = "https://github.com/forbole/UIUX"
 
 [[repo]]
 url = "https://github.com/forbole/UIUX"

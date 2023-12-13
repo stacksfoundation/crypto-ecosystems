@@ -7,10 +7,7 @@ github_organizations = ["https://github.com/anoma"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/anoma/aleo-setup"
-
-[[repo]]
-url = "https://github.com/anoma/alpha"
+url = "https://github.com/anoma/alucard"
 
 [[repo]]
 url = "https://github.com/anoma/anoma"
@@ -20,6 +17,12 @@ url = "https://github.com/anoma/anoma-alpha"
 
 [[repo]]
 url = "https://github.com/anoma/anoma-wasm-multitoken"
+
+[[repo]]
+url = "https://github.com/anoma/anoma-wire-formats"
+
+[[repo]]
+url = "https://github.com/anoma/building-namada-sdk-to-wasm"
 
 [[repo]]
 url = "https://github.com/anoma/dev-utils"
@@ -52,7 +55,13 @@ url = "https://github.com/anoma/ferveo"
 url = "https://github.com/anoma/geb"
 
 [[repo]]
+url = "https://github.com/anoma/geb-bool"
+
+[[repo]]
 url = "https://github.com/anoma/group-threshold-crypto"
+
+[[repo]]
+url = "https://github.com/anoma/highlightjs-juvix"
 
 [[repo]]
 url = "https://github.com/anoma/homebrew-juvix"
@@ -67,10 +76,49 @@ url = "https://github.com/anoma/juvix-archived"
 url = "https://github.com/anoma/juvix-circuits"
 
 [[repo]]
+url = "https://github.com/anoma/juvix-containers"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-docs"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-e2e-demo"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-eth-workshop"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-installer"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-mode"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-nightly-builds"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-quickcheck"
+
+[[repo]]
 url = "https://github.com/anoma/juvix-stdlib"
 
 [[repo]]
-url = "https://github.com/anoma/juvix-temp"
+url = "https://github.com/anoma/juvix-template"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-test"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-to-geb-to-vampIR"
+
+[[repo]]
+url = "https://github.com/anoma/juvix-workshop"
+
+[[repo]]
+url = "https://github.com/anoma/kudos-snipets"
+
+[[repo]]
+url = "https://github.com/anoma/kudos-snippets"
 
 [[repo]]
 url = "https://github.com/anoma/masp"
@@ -85,16 +133,34 @@ url = "https://github.com/anoma/masp-phase2"
 url = "https://github.com/anoma/minijuvix"
 
 [[repo]]
+url = "https://github.com/anoma/mpc-solver-approx"
+
+[[repo]]
 url = "https://github.com/anoma/namada"
 
 [[repo]]
 url = "https://github.com/anoma/namada-audit"
 
 [[repo]]
+url = "https://github.com/anoma/namada-docs"
+
+[[repo]]
 url = "https://github.com/anoma/namada-interface"
 
 [[repo]]
+url = "https://github.com/anoma/namada-masp-params"
+
+[[repo]]
+url = "https://github.com/anoma/namada-masp-verification"
+
+[[repo]]
+url = "https://github.com/anoma/namada-sdk-starter"
+
+[[repo]]
 url = "https://github.com/anoma/namada-testnets"
+
+[[repo]]
+url = "https://github.com/anoma/namada-testnets-1"
 
 [[repo]]
 url = "https://github.com/anoma/namada-testnets-2"
@@ -106,19 +172,16 @@ url = "https://github.com/anoma/namada-trusted-setup"
 url = "https://github.com/anoma/namada-whitepaper"
 
 [[repo]]
+url = "https://github.com/anoma/p2p-network"
+
+[[repo]]
 url = "https://github.com/anoma/plonkup"
 
 [[repo]]
 url = "https://github.com/anoma/plonkup-hash"
 
 [[repo]]
-url = "https://github.com/anoma/prototype"
-
-[[repo]]
 url = "https://github.com/anoma/research"
-
-[[repo]]
-url = "https://github.com/anoma/spec"
 
 [[repo]]
 url = "https://github.com/anoma/specs"
@@ -127,22 +190,70 @@ url = "https://github.com/anoma/specs"
 url = "https://github.com/anoma/taiga"
 
 [[repo]]
-url = "https://github.com/anoma/test_runner"
+url = "https://github.com/anoma/taiga-simulator"
 
 [[repo]]
-url = "https://github.com/anoma/trusted-setup-ceremony"
-
-[[repo]]
-url = "https://github.com/anoma/trusted-setup-ceremony-coordinator"
+url = "https://github.com/anoma/tiny-bip39"
 
 [[repo]]
 url = "https://github.com/anoma/typhon"
 
 [[repo]]
+url = "https://github.com/anoma/typhon-sml"
+
+[[repo]]
+url = "https://github.com/anoma/using-namada-sdk-poc"
+
+[[repo]]
+url = "https://github.com/anoma/using-namada-sdk-poc-2"
+
+[[repo]]
 url = "https://github.com/anoma/vamp-ir"
 
 [[repo]]
+url = "https://github.com/anoma/vamp-ir-exit-codes"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-extra-export"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-geb"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-halo2-divideZ"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-haskell"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-improv"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-json-export"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-json5"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-quiet"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-repl"
+
+[[repo]]
+url = "https://github.com/anoma/vamp-ir-repl-1"
+
+[[repo]]
+url = "https://github.com/anoma/VampIR-Book"
+
+[[repo]]
+url = "https://github.com/anoma/verify-beacon"
+
+[[repo]]
 url = "https://github.com/anoma/vscode-juvix"
+
+[[repo]]
+url = "https://github.com/anoma/vscode-vampir"
 
 [[repo]]
 url = "https://github.com/anoma/wasm-workspace"

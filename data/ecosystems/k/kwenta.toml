@@ -7,13 +7,19 @@ github_organizations = ["https://github.com/Kwenta"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Kwenta/aggregation-terminal"
+
+[[repo]]
 url = "https://github.com/Kwenta/blog-redirect"
 
 [[repo]]
 url = "https://github.com/Kwenta/brand-kit"
 
 [[repo]]
-url = "https://github.com/Kwenta/cross-margin-manager"
+url = "https://github.com/Kwenta/cannon-std"
+
+[[repo]]
+url = "https://github.com/Kwenta/code-challenge"
 
 [[repo]]
 url = "https://github.com/Kwenta/curve-subgraph"
@@ -23,6 +29,9 @@ url = "https://github.com/Kwenta/Documentation"
 
 [[repo]]
 url = "https://github.com/Kwenta/foundry-scaffold"
+
+[[repo]]
+url = "https://github.com/Kwenta/governance"
 
 [[repo]]
 url = "https://github.com/Kwenta/hype"
@@ -43,10 +52,22 @@ url = "https://github.com/Kwenta/kwenta-api"
 url = "https://github.com/Kwenta/kwenta-data"
 
 [[repo]]
-url = "https://github.com/Kwenta/kwenta-nft"
+url = "https://github.com/Kwenta/kwenta-python-sdk"
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-sdk"
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-state-log"
 
 [[repo]]
 url = "https://github.com/Kwenta/kwenta-subgraph"
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-test"
+
+[[repo]]
+url = "https://github.com/Kwenta/lyra-interface"
 
 [[repo]]
 url = "https://github.com/Kwenta/lyra-scripts"
@@ -61,10 +82,31 @@ url = "https://github.com/Kwenta/next-price-keeper"
 url = "https://github.com/Kwenta/optimized-images-loader"
 
 [[repo]]
+url = "https://github.com/Kwenta/radicle-interface"
+
+[[repo]]
 url = "https://github.com/Kwenta/raise-NFT"
 
 [[repo]]
+url = "https://github.com/Kwenta/referral-nfts"
+
+[[repo]]
 url = "https://github.com/Kwenta/reward-distributor"
+
+[[repo]]
+url = "https://github.com/Kwenta/scw-contracts"
+
+[[repo]]
+url = "https://github.com/Kwenta/SIPs"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin-integrations"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin-v3"
 
 [[repo]]
 url = "https://github.com/Kwenta/synthswap"

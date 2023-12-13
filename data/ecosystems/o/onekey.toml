@@ -43,9 +43,6 @@ url = "https://github.com/OneKeyHQ/blockbook"
 url = "https://github.com/OneKeyHQ/blockchain-libs"
 
 [[repo]]
-url = "https://github.com/OneKeyHQ/bluetooth-firmware"
-
-[[repo]]
 url = "https://github.com/OneKeyHQ/bluetooth-firmware-classic"
 
 [[repo]]
@@ -53,6 +50,12 @@ url = "https://github.com/OneKeyHQ/bluetooth-firmware-touch"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/chains"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/coin-selection"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/coinselect"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/contracts"
@@ -74,9 +77,6 @@ url = "https://github.com/OneKeyHQ/detect-provider"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/docs"
-
-[[repo]]
-url = "https://github.com/OneKeyHQ/documents"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/documents_archived"
@@ -103,7 +103,16 @@ url = "https://github.com/OneKeyHQ/firmware"
 url = "https://github.com/OneKeyHQ/firmware-updater"
 
 [[repo]]
+url = "https://github.com/OneKeyHQ/firmware-x"
+
+[[repo]]
 url = "https://github.com/OneKeyHQ/google-style-precommit-hook"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/hardware-js-sdk"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/HWI"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/jcore-react-native"
@@ -115,6 +124,9 @@ url = "https://github.com/OneKeyHQ/jpush-react-native"
 url = "https://github.com/OneKeyHQ/jsc-android-buildscripts"
 
 [[repo]]
+url = "https://github.com/OneKeyHQ/libopencm3-gd32"
+
+[[repo]]
 url = "https://github.com/OneKeyHQ/libsol"
 
 [[repo]]
@@ -122,6 +134,9 @@ url = "https://github.com/OneKeyHQ/literal-blacklist"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/live"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/lndhub.go"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/lv_binding_micropython"
@@ -133,10 +148,10 @@ url = "https://github.com/OneKeyHQ/lvgl"
 url = "https://github.com/OneKeyHQ/micropython"
 
 [[repo]]
-url = "https://github.com/OneKeyHQ/networklist-org"
+url = "https://github.com/OneKeyHQ/MultiPlatformBleAdapter"
 
 [[repo]]
-url = "https://github.com/OneKeyHQ/Nordic-Thingy52-FW"
+url = "https://github.com/OneKeyHQ/networklist-org"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/old-onekey-firmware"
@@ -149,9 +164,6 @@ url = "https://github.com/OneKeyHQ/onekey-eslint"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/onekey-extension-libs"
-
-[[repo]]
-url = "https://github.com/OneKeyHQ/onekey-github-actions"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/onekey-marketing-lite"
@@ -167,6 +179,12 @@ url = "https://github.com/OneKeyHQ/onekey-ui-playground"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/OnekeyWalletWeb3Provider"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/ord"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/pidcodes.github.com"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/portal"
@@ -188,6 +206,9 @@ url = "https://github.com/OneKeyHQ/python-trezor"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/react-native-animated-charts"
+
+[[repo]]
+url = "https://github.com/OneKeyHQ/react-native-ble-plx"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/react-native-cloud-fs"

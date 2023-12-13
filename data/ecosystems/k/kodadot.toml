@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/kodadot"]
 url = "https://github.com/kodadot/.github"
 
 [[repo]]
+url = "https://github.com/kodadot/allowlist"
+
+[[repo]]
 url = "https://github.com/kodadot/awesome-kodadot"
 
 [[repo]]
@@ -17,6 +20,7 @@ url = "https://github.com/kodadot/bao"
 
 [[repo]]
 url = "https://github.com/kodadot/battlefield"
+missing = true
 
 [[repo]]
 url = "https://github.com/kodadot/big-files"
@@ -26,9 +30,14 @@ url = "https://github.com/kodadot/click"
 
 [[repo]]
 url = "https://github.com/kodadot/cloudflare-jpeg"
+missing = true
 
 [[repo]]
-url = "https://github.com/kodadot/dark-magick"
+url = "https://github.com/kodadot/community"
+missing = true
+
+[[repo]]
+url = "https://github.com/kodadot/developers"
 
 [[repo]]
 url = "https://github.com/kodadot/docs"
@@ -37,22 +46,29 @@ url = "https://github.com/kodadot/docs"
 url = "https://github.com/kodadot/eco-nft"
 
 [[repo]]
+url = "https://github.com/kodadot/fandom"
+
+[[repo]]
 url = "https://github.com/kodadot/galactic-senate"
+
+[[repo]]
+url = "https://github.com/kodadot/grants"
 
 [[repo]]
 url = "https://github.com/kodadot/ipfs-only-hash"
 
 [[repo]]
 url = "https://github.com/kodadot/kodaborator"
+missing = true
 
 [[repo]]
 url = "https://github.com/kodadot/kodadot-presskit"
 
 [[repo]]
-url = "https://github.com/kodadot/kodadot-status"
+url = "https://github.com/kodadot/kodadot.github.io"
 
 [[repo]]
-url = "https://github.com/kodadot/kodadot.github.io"
+url = "https://github.com/kodadot/loligo"
 
 [[repo]]
 url = "https://github.com/kodadot/magick"
@@ -79,16 +95,26 @@ url = "https://github.com/kodadot/packages"
 url = "https://github.com/kodadot/permafrost"
 
 [[repo]]
+url = "https://github.com/kodadot/polkadot-bled"
+
+[[repo]]
 url = "https://github.com/kodadot/rmrk-spec"
 
 [[repo]]
 url = "https://github.com/kodadot/rubick"
 
 [[repo]]
+url = "https://github.com/kodadot/runners"
+
+[[repo]]
 url = "https://github.com/kodadot/sigil-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/kodadot/snek"
+
+[[repo]]
+url = "https://github.com/kodadot/stick"
 
 [[repo]]
 url = "https://github.com/kodadot/sub-scaffold"
@@ -100,7 +126,13 @@ url = "https://github.com/kodadot/subql-dictionary"
 url = "https://github.com/kodadot/substrate-connect"
 
 [[repo]]
+url = "https://github.com/kodadot/subwork"
+
+[[repo]]
 url = "https://github.com/kodadot/unique"
+
+[[repo]]
+url = "https://github.com/kodadot/uniquery"
 
 [[repo]]
 url = "https://github.com/kodadot/uptime"

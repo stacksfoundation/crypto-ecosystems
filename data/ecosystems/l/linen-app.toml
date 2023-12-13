@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/linen-app"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/linen-app/analytics-ios"
+
+[[repo]]
 url = "https://github.com/linen-app/artis"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/linen-app/dharma.js"
 
 [[repo]]
 url = "https://github.com/linen-app/ethereum-common"
+
+[[repo]]
+url = "https://github.com/linen-app/ethereum-org-website"
 
 [[repo]]
 url = "https://github.com/linen-app/ethers-web3-bridge"

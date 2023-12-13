@@ -19,6 +19,9 @@ url = "https://github.com/OriginTrail/assertion-tools"
 url = "https://github.com/OriginTrail/auto-updater"
 
 [[repo]]
+url = "https://github.com/OriginTrail/ChatDKG"
+
+[[repo]]
 url = "https://github.com/OriginTrail/command-executor"
 
 [[repo]]
@@ -52,10 +55,16 @@ url = "https://github.com/OriginTrail/dkg.js"
 url = "https://github.com/OriginTrail/dkg.php"
 
 [[repo]]
+url = "https://github.com/OriginTrail/dkg.py"
+
+[[repo]]
 url = "https://github.com/OriginTrail/Documents"
 
 [[repo]]
 url = "https://github.com/OriginTrail/EPCIS"
+
+[[repo]]
+url = "https://github.com/OriginTrail/epcis-erm"
 
 [[repo]]
 url = "https://github.com/OriginTrail/frontier"
@@ -68,6 +77,9 @@ url = "https://github.com/OriginTrail/houston-dashboard"
 
 [[repo]]
 url = "https://github.com/OriginTrail/houston-v4"
+
+[[repo]]
+url = "https://github.com/OriginTrail/houston-v6"
 
 [[repo]]
 url = "https://github.com/OriginTrail/hsv3"
@@ -133,6 +145,9 @@ url = "https://github.com/OriginTrail/ot-whitepaper"
 url = "https://github.com/OriginTrail/php-json-ld"
 
 [[repo]]
+url = "https://github.com/OriginTrail/pyld"
+
+[[repo]]
 url = "https://github.com/OriginTrail/ReadTheDocs"
 
 [[repo]]
@@ -155,9 +170,6 @@ url = "https://github.com/OriginTrail/starfleet-bounty-contracts"
 
 [[repo]]
 url = "https://github.com/OriginTrail/starfleet-node"
-
-[[repo]]
-url = "https://github.com/OriginTrail/starfleet-parachain"
 
 [[repo]]
 url = "https://github.com/OriginTrail/subscan-projects-info"

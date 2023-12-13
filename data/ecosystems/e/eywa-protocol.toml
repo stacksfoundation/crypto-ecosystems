@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/eywa-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/eywa-protocol/4pool"
+
+[[repo]]
 url = "https://github.com/eywa-protocol/bls-crypto"
 
 [[repo]]
@@ -19,10 +22,19 @@ url = "https://github.com/eywa-protocol/contracts"
 url = "https://github.com/eywa-protocol/eywa-alpha-testers-list"
 
 [[repo]]
+url = "https://github.com/eywa-protocol/eywa-cdp"
+
+[[repo]]
+url = "https://github.com/eywa-protocol/eywa-clp"
+
+[[repo]]
 url = "https://github.com/eywa-protocol/eywa-constants"
 
 [[repo]]
 url = "https://github.com/eywa-protocol/eywa-landing"
+
+[[repo]]
+url = "https://github.com/eywa-protocol/eywa-oracle"
 
 [[repo]]
 url = "https://github.com/eywa-protocol/harmony"
@@ -38,6 +50,9 @@ url = "https://github.com/eywa-protocol/solana-integration"
 
 [[repo]]
 url = "https://github.com/eywa-protocol/tornado-core"
+
+[[repo]]
+url = "https://github.com/eywa-protocol/validator-docs"
 
 [[repo]]
 url = "https://github.com/eywa-protocol/wallet"

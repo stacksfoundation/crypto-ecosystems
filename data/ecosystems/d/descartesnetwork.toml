@@ -22,9 +22,6 @@ url = "https://github.com/DescartesNetwork/balansol"
 url = "https://github.com/DescartesNetwork/bounty-system"
 
 [[repo]]
-url = "https://github.com/DescartesNetwork/bulksender"
-
-[[repo]]
 url = "https://github.com/DescartesNetwork/chat-p2p"
 
 [[repo]]
@@ -41,6 +38,12 @@ url = "https://github.com/DescartesNetwork/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/desig"
+
+[[repo]]
+url = "https://github.com/DescartesNetwork/desig-home"
+
+[[repo]]
+url = "https://github.com/DescartesNetwork/desig-web3"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/desnet-homepage"
@@ -83,6 +86,9 @@ url = "https://github.com/DescartesNetwork/jupiter-integration"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/kylan-app"
+
+[[repo]]
+url = "https://github.com/DescartesNetwork/kylan-client"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/kylan-static"
@@ -139,9 +145,6 @@ url = "https://github.com/DescartesNetwork/sen-academy-warehouse"
 url = "https://github.com/DescartesNetwork/sen-assets"
 
 [[repo]]
-url = "https://github.com/DescartesNetwork/sen-balancer"
-
-[[repo]]
 url = "https://github.com/DescartesNetwork/sen-booster"
 
 [[repo]]
@@ -166,12 +169,6 @@ url = "https://github.com/DescartesNetwork/sen-IDL-Parser"
 url = "https://github.com/DescartesNetwork/sen-js"
 
 [[repo]]
-url = "https://github.com/DescartesNetwork/sen-lighting-tunnel"
-
-[[repo]]
-url = "https://github.com/DescartesNetwork/sen-lightning-tunnel"
-
-[[repo]]
 url = "https://github.com/DescartesNetwork/sen-lp"
 
 [[repo]]
@@ -193,7 +190,7 @@ url = "https://github.com/DescartesNetwork/sen-otc-prog"
 url = "https://github.com/DescartesNetwork/sen-parser"
 
 [[repo]]
-url = "https://github.com/DescartesNetwork/sen-prifi"
+url = "https://github.com/DescartesNetwork/sen-sage"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/sen-scripts"
@@ -203,6 +200,9 @@ url = "https://github.com/DescartesNetwork/sen-static"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/sen-store"
+
+[[repo]]
+url = "https://github.com/DescartesNetwork/sen-suite"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/sen-swap"
@@ -293,3 +293,6 @@ url = "https://github.com/DescartesNetwork/zeta-markets-iframe"
 
 [[repo]]
 url = "https://github.com/DescartesNetwork/zkSen"
+
+[[repo]]
+url = "https://github.com/tuphan-dn/bulksender"

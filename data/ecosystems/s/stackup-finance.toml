@@ -7,7 +7,10 @@ github_organizations = ["https://github.com/stackupfinance"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/stackupfinance/stackup"
+url = "https://github.com/stackup-wallet/contracts"
+
+[[repo]]
+url = "https://github.com/stackup-wallet/stackup"
 
 [[repo]]
 url = "https://github.com/stackupfinance/stackup-nft"

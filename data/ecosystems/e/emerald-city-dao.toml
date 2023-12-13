@@ -61,6 +61,9 @@ url = "https://github.com/emerald-dao/emerald-academy"
 url = "https://github.com/emerald-dao/emerald-academy-v2"
 
 [[repo]]
+url = "https://github.com/emerald-dao/emerald-bot"
+
+[[repo]]
 url = "https://github.com/emerald-dao/emerald-bot-frontend"
 
 [[repo]]
@@ -79,6 +82,9 @@ url = "https://github.com/emerald-dao/emerald-pass"
 url = "https://github.com/emerald-dao/emerald-pass-v2"
 
 [[repo]]
+url = "https://github.com/emerald-dao/EmeraldOZ"
+
+[[repo]]
 url = "https://github.com/emerald-dao/float"
 
 [[repo]]
@@ -88,7 +94,13 @@ url = "https://github.com/emerald-dao/flow-ft"
 url = "https://github.com/emerald-dao/flow-interaction-template-service"
 
 [[repo]]
+url = "https://github.com/emerald-dao/flownaut"
+
+[[repo]]
 url = "https://github.com/emerald-dao/geeft"
+
+[[repo]]
+url = "https://github.com/emerald-dao/intermediate-cadence-course"
 
 [[repo]]
 url = "https://github.com/emerald-dao/lego-verifiers"

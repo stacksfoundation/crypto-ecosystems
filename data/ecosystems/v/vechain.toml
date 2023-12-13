@@ -58,10 +58,16 @@ url = "https://github.com/vechain/connex.driver"
 url = "https://github.com/vechain/connex.driver-nodejs"
 
 [[repo]]
+url = "https://github.com/vechain/cordova-plugin-qrscanner"
+
+[[repo]]
 url = "https://github.com/vechain/crowdsale-contracts"
 
 [[repo]]
 url = "https://github.com/vechain/docs"
+
+[[repo]]
+url = "https://github.com/vechain/ethers.js"
 
 [[repo]]
 url = "https://github.com/vechain/explorer"
@@ -94,6 +100,9 @@ url = "https://github.com/vechain/inspector"
 url = "https://github.com/vechain/inspector-app"
 
 [[repo]]
+url = "https://github.com/vechain/ionic-plugin-deeplinks"
+
+[[repo]]
 url = "https://github.com/vechain/lite.sync.vecha.in"
 
 [[repo]]
@@ -101,6 +110,9 @@ url = "https://github.com/vechain/mass"
 
 [[repo]]
 url = "https://github.com/vechain/my-tokens"
+
+[[repo]]
+url = "https://github.com/vechain/nft-registry"
 
 [[repo]]
 url = "https://github.com/vechain/picasso"
@@ -125,6 +137,7 @@ url = "https://github.com/vechain/testnet.inspector.app"
 
 [[repo]]
 url = "https://github.com/vechain/thor"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/vechain/thor-builtins"
@@ -239,6 +252,3 @@ url = "https://github.com/zzGHzz/thor-builtin"
 
 [[repo]]
 url = "https://github.com/zzGHzz/thor-go-example"
-
-[[repo]]
-url = "https://github.com/zzGHzz/web3-providers-connex"

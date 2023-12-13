@@ -55,6 +55,9 @@ url = "https://github.com/SwingbyProtocol/cli"
 url = "https://github.com/SwingbyProtocol/cron-jobs"
 
 [[repo]]
+url = "https://github.com/SwingbyProtocol/DAO-frontend"
+
+[[repo]]
 url = "https://github.com/SwingbyProtocol/defi-contract"
 
 [[repo]]
@@ -77,6 +80,9 @@ url = "https://github.com/SwingbyProtocol/go-ethereum"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/go-sdk"
+
+[[repo]]
+url = "https://github.com/SwingbyProtocol/header"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/integration-testing"
@@ -130,10 +136,16 @@ url = "https://github.com/SwingbyProtocol/skybridge-contract"
 url = "https://github.com/SwingbyProtocol/skybridge-doc"
 
 [[repo]]
+url = "https://github.com/SwingbyProtocol/skypools-app"
+
+[[repo]]
 url = "https://github.com/SwingbyProtocol/SpecOne"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/swc"
+
+[[repo]]
+url = "https://github.com/SwingbyProtocol/swingby-token-bridge"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/swips"
@@ -149,6 +161,9 @@ url = "https://github.com/SwingbyProtocol/tss-lib"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/tx-indexer"
+
+[[repo]]
+url = "https://github.com/SwingbyProtocol/widget"
 
 [[repo]]
 url = "https://github.com/SwingbyProtocol/widget-sdk"

@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/forta-network"]
 url = "https://github.com/forta-network/airdrop-autotask"
 
 [[repo]]
+url = "https://github.com/forta-network/bot-alert-rate"
+
+[[repo]]
 url = "https://github.com/forta-network/bot-review-checklist"
+
+[[repo]]
+url = "https://github.com/forta-network/disco"
 
 [[repo]]
 url = "https://github.com/forta-network/docs"
@@ -19,7 +25,13 @@ url = "https://github.com/forta-network/docs"
 url = "https://github.com/forta-network/docs-1"
 
 [[repo]]
+url = "https://github.com/forta-network/etherscan-label-bot"
+
+[[repo]]
 url = "https://github.com/forta-network/forta-api"
+
+[[repo]]
+url = "https://github.com/forta-network/forta-bot-db"
 
 [[repo]]
 url = "https://github.com/forta-network/forta-bot-examples"
@@ -46,10 +58,28 @@ url = "https://github.com/forta-network/forta-node"
 url = "https://github.com/forta-network/forta-snapshot-strategy"
 
 [[repo]]
+url = "https://github.com/forta-network/forta-solidus-bot"
+
+[[repo]]
+url = "https://github.com/forta-network/go-bot-publish-cli"
+
+[[repo]]
+url = "https://github.com/forta-network/go-bot-template"
+
+[[repo]]
+url = "https://github.com/forta-network/go-merge-types"
+
+[[repo]]
+url = "https://github.com/forta-network/go-multicall"
+
+[[repo]]
 url = "https://github.com/forta-network/hardhat-forta"
 
 [[repo]]
 url = "https://github.com/forta-network/labelled-datasets"
+
+[[repo]]
+url = "https://github.com/forta-network/metamask-snap"
 
 [[repo]]
 url = "https://github.com/forta-network/security-framework"

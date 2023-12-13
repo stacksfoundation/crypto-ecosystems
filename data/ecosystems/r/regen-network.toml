@@ -7,10 +7,13 @@ github_organizations = ["https://github.com/regen-network"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/regen-network/analysis-ready-data"
+url = "https://github.com/clevinson/github-data-notebooks"
 
 [[repo]]
-url = "https://github.com/regen-network/axelar-msg-bridge"
+url = "https://github.com/regen-network/.github"
+
+[[repo]]
+url = "https://github.com/regen-network/analysis-ready-data"
 
 [[repo]]
 url = "https://github.com/regen-network/backend-challenge"
@@ -40,9 +43,6 @@ url = "https://github.com/regen-network/cosmos-client"
 url = "https://github.com/regen-network/cosmos-client-rs"
 
 [[repo]]
-url = "https://github.com/regen-network/cosmos-key-manager"
-
-[[repo]]
 url = "https://github.com/regen-network/cosmos-modules"
 
 [[repo]]
@@ -70,6 +70,9 @@ url = "https://github.com/regen-network/eco-solidity"
 url = "https://github.com/regen-network/ecodata-payout"
 
 [[repo]]
+url = "https://github.com/regen-network/esp-arch"
+
+[[repo]]
 url = "https://github.com/regen-network/esp-runner"
 
 [[repo]]
@@ -88,7 +91,7 @@ url = "https://github.com/regen-network/gaia"
 url = "https://github.com/regen-network/GameOfZones"
 
 [[repo]]
-url = "https://github.com/regen-network/github-data-notebooks"
+url = "https://github.com/regen-network/gherkin2markdown"
 
 [[repo]]
 url = "https://github.com/regen-network/go-amino"
@@ -107,6 +110,9 @@ url = "https://github.com/regen-network/governance"
 
 [[repo]]
 url = "https://github.com/regen-network/grasslands-demo"
+
+[[repo]]
+url = "https://github.com/regen-network/groups-ui"
 
 [[repo]]
 url = "https://github.com/regen-network/hackmd-docs"
@@ -137,6 +143,9 @@ url = "https://github.com/regen-network/ind-soc"
 
 [[repo]]
 url = "https://github.com/regen-network/ind-template"
+
+[[repo]]
+url = "https://github.com/regen-network/indexer"
 
 [[repo]]
 url = "https://github.com/regen-network/keystone"
@@ -196,10 +205,16 @@ url = "https://github.com/regen-network/regen-registry"
 url = "https://github.com/regen-network/regen-registry-credit-classes"
 
 [[repo]]
+url = "https://github.com/regen-network/regen-registry-handbook"
+
+[[repo]]
 url = "https://github.com/regen-network/regen-registry-ops"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-registry-program"
+
+[[repo]]
+url = "https://github.com/regen-network/regen-registry-program-guide"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-registry-standards"
@@ -212,6 +227,9 @@ url = "https://github.com/regen-network/regen-s2-ard"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-sanity"
+
+[[repo]]
+url = "https://github.com/regen-network/regen-server"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-web"
@@ -229,7 +247,13 @@ url = "https://github.com/regen-network/relayer"
 url = "https://github.com/regen-network/rhizome-db"
 
 [[repo]]
+url = "https://github.com/regen-network/rnd-dev-team"
+
+[[repo]]
 url = "https://github.com/regen-network/rust-binding"
+
+[[repo]]
+url = "https://github.com/regen-network/sanity-graph-import"
 
 [[repo]]
 url = "https://github.com/regen-network/tendermint"

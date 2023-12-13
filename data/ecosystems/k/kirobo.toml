@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/kiroboio"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/kiroboio/abi-decoder"
+
+[[repo]]
 url = "https://github.com/kiroboio/assets"
 
 [[repo]]
 url = "https://github.com/kiroboio/bcoin"
+
+[[repo]]
+url = "https://github.com/kiroboio/ki-activator-visualization-lib"
 
 [[repo]]
 url = "https://github.com/kiroboio/ki-eth-contracts"
@@ -31,7 +37,19 @@ url = "https://github.com/kiroboio/ki-eth-vault"
 url = "https://github.com/kiroboio/ki-eth-vault-translations"
 
 [[repo]]
+url = "https://github.com/kiroboio/ki-fct-corelib"
+
+[[repo]]
+url = "https://github.com/kiroboio/ki-fct-sdk-starter"
+
+[[repo]]
+url = "https://github.com/kiroboio/ki-flow-plugins"
+
+[[repo]]
 url = "https://github.com/kiroboio/ki-safe-matic"
+
+[[repo]]
+url = "https://github.com/kiroboio/ki-vb-parser"
 
 [[repo]]
 url = "https://github.com/kiroboio/ledger-live-common"
@@ -46,7 +64,19 @@ url = "https://github.com/kiroboio/lib-ledger-core"
 url = "https://github.com/kiroboio/lib-ledger-core-node-bindings"
 
 [[repo]]
+url = "https://github.com/kiroboio/react-diagram"
+
+[[repo]]
+url = "https://github.com/kiroboio/react-flow"
+
+[[repo]]
+url = "https://github.com/kiroboio/TypeChain"
+
+[[repo]]
 url = "https://github.com/kiroboio/undo-e2e-tests"
+
+[[repo]]
+url = "https://github.com/kiroboio/uniswap_v2-sdk"
 
 [[repo]]
 url = "https://github.com/kiroboio/uniswap_widgets"
@@ -58,6 +88,9 @@ url = "https://github.com/kiroboio/uniswapv2-solc0.8"
 url = "https://github.com/kiroboio/vault-e2e-tests"
 
 [[repo]]
+url = "https://github.com/kiroboio/visual-builder-parser"
+
+[[repo]]
 url = "https://github.com/kiroboio/web3-discord-bot"
 
 [[repo]]
@@ -65,6 +98,9 @@ url = "https://github.com/kiroboio/web3-discord-nodejs-metamask-bot"
 
 [[repo]]
 url = "https://github.com/kiroboio/web3-react"
+
+[[repo]]
+url = "https://github.com/kiroboio/web3-react-connect-v2"
 
 [[repo]]
 url = "https://github.com/kiroboio/web3-react-native"

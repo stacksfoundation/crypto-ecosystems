@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/flooz-link"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/flooz-link/biometric_storage"
+
+[[repo]]
 url = "https://github.com/flooz-link/biometric_store"
 
 [[repo]]
@@ -23,6 +26,9 @@ url = "https://github.com/flooz-link/flooz-trade-contracts"
 
 [[repo]]
 url = "https://github.com/flooz-link/flutterfire"
+
+[[repo]]
+url = "https://github.com/flooz-link/jovial_svg"
 
 [[repo]]
 url = "https://github.com/flooz-link/mobile_scanner"

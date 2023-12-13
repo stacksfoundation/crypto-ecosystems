@@ -43,6 +43,9 @@ url = "https://github.com/VerusCoin/BitGoJS"
 url = "https://github.com/VerusCoin/blake2b"
 
 [[repo]]
+url = "https://github.com/VerusCoin/blake2b-wasm"
+
+[[repo]]
 url = "https://github.com/VerusCoin/boost"
 
 [[repo]]
@@ -73,6 +76,9 @@ url = "https://github.com/VerusCoin/explorer"
 url = "https://github.com/VerusCoin/falcon.py"
 
 [[repo]]
+url = "https://github.com/VerusCoin/fft-conv-pytorch"
+
+[[repo]]
 url = "https://github.com/VerusCoin/insight-api-komodo"
 
 [[repo]]
@@ -80,6 +86,9 @@ url = "https://github.com/VerusCoin/insight-ui-komodo"
 
 [[repo]]
 url = "https://github.com/VerusCoin/Media-Assets"
+
+[[repo]]
+url = "https://github.com/VerusCoin/MnemonicSwift"
 
 [[repo]]
 url = "https://github.com/VerusCoin/nheqminer"
@@ -95,6 +104,9 @@ url = "https://github.com/VerusCoin/react-native-verus-light-client"
 
 [[repo]]
 url = "https://github.com/VerusCoin/RecoverWalletKeys"
+
+[[repo]]
+url = "https://github.com/VerusCoin/rust_verusd_rpc_server"
 
 [[repo]]
 url = "https://github.com/VerusCoin/s-nomp"

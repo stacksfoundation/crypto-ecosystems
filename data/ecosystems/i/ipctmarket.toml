@@ -10,13 +10,13 @@ github_organizations = ["https://github.com/impactMarket"]
 url = "https://github.com/impactMarket/airgrab-backend"
 
 [[repo]]
-url = "https://github.com/impactMarket/api"
-
-[[repo]]
 url = "https://github.com/impactMarket/app"
 
 [[repo]]
 url = "https://github.com/impactMarket/backend"
+
+[[repo]]
+url = "https://github.com/impactMarket/celo-ethers-wrapper"
 
 [[repo]]
 url = "https://github.com/impactMarket/celo-monorepo"
@@ -31,19 +31,19 @@ url = "https://github.com/impactMarket/default-token-list"
 url = "https://github.com/impactMarket/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/impactMarket/eslint-config-im"
-
-[[repo]]
 url = "https://github.com/impactMarket/eslint-config-impact-market"
 
 [[repo]]
 url = "https://github.com/impactMarket/global"
 
 [[repo]]
+url = "https://github.com/impactMarket/identity"
+
+[[repo]]
 url = "https://github.com/impactMarket/impact-market-smart-contracts"
 
 [[repo]]
-url = "https://github.com/impactMarket/impact-market-token"
+url = "https://github.com/impactMarket/learn-and-earn"
 
 [[repo]]
 url = "https://github.com/impactMarket/mobile-app"
@@ -61,16 +61,19 @@ url = "https://github.com/impactMarket/react-celo"
 url = "https://github.com/impactMarket/romulus-interface"
 
 [[repo]]
-url = "https://github.com/impactMarket/smart-contracts"
-
-[[repo]]
 url = "https://github.com/impactMarket/smart-contracts-alpha-version"
 
 [[repo]]
 url = "https://github.com/impactMarket/subgraph"
 
 [[repo]]
+url = "https://github.com/impactMarket/subgraph-micro-credit"
+
+[[repo]]
 url = "https://github.com/impactMarket/subgraph-ubi-management"
+
+[[repo]]
+url = "https://github.com/impactMarket/support-issues"
 
 [[repo]]
 url = "https://github.com/impactMarket/translations"
@@ -89,9 +92,6 @@ url = "https://github.com/impactMarket/utils"
 
 [[repo]]
 url = "https://github.com/impactMarket/utils-old"
-
-[[repo]]
-url = "https://github.com/impactMarket/utils2"
 
 [[repo]]
 url = "https://github.com/impactMarket/web"

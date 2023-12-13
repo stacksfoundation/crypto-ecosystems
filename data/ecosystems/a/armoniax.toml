@@ -10,10 +10,22 @@ github_organizations = ["https://github.com/armoniax"]
 url = "https://github.com/armoniax/abieos"
 
 [[repo]]
+url = "https://github.com/armoniax/amax-dapp-demo"
+
+[[repo]]
+url = "https://github.com/armoniax/amax-python-toolkits"
+
+[[repo]]
 url = "https://github.com/armoniax/amax-synapse"
 
 [[repo]]
+url = "https://github.com/armoniax/amax-web-ide"
+
+[[repo]]
 url = "https://github.com/armoniax/amax.aips"
+
+[[repo]]
+url = "https://github.com/armoniax/amax.bootcamp"
 
 [[repo]]
 url = "https://github.com/armoniax/amax.cdt"
@@ -29,9 +41,6 @@ url = "https://github.com/armoniax/amax.dockers"
 
 [[repo]]
 url = "https://github.com/armoniax/amax.eva.chain"
-
-[[repo]]
-url = "https://github.com/armoniax/amax.explorer"
 
 [[repo]]
 url = "https://github.com/armoniax/amax.explorer.ts"
@@ -55,10 +64,22 @@ url = "https://github.com/armoniax/amaxjs"
 url = "https://github.com/armoniax/amaxscan"
 
 [[repo]]
+url = "https://github.com/armoniax/amaxscan_v1"
+
+[[repo]]
+url = "https://github.com/armoniax/amaxup.evmsnap"
+
+[[repo]]
+url = "https://github.com/armoniax/amaxup.evmsnap.contracts"
+
+[[repo]]
 url = "https://github.com/armoniax/amc-dev-docs"
 
 [[repo]]
 url = "https://github.com/armoniax/amc-dev-docs-cn"
+
+[[repo]]
+url = "https://github.com/armoniax/ans.contracts"
 
 [[repo]]
 url = "https://github.com/armoniax/aplink-docs"
@@ -76,10 +97,19 @@ url = "https://github.com/armoniax/apps"
 url = "https://github.com/armoniax/arc.contracts"
 
 [[repo]]
+url = "https://github.com/armoniax/arm-core-java-sdk"
+
+[[repo]]
+url = "https://github.com/armoniax/arm-wallet-ui"
+
+[[repo]]
 url = "https://github.com/armoniax/blockscout"
 
 [[repo]]
 url = "https://github.com/armoniax/bsc"
+
+[[repo]]
+url = "https://github.com/armoniax/buoy-nodejs"
 
 [[repo]]
 url = "https://github.com/armoniax/cargo-eosiocontract"
@@ -91,10 +121,16 @@ url = "https://github.com/armoniax/dart-esr-amax"
 url = "https://github.com/armoniax/dex.contracts"
 
 [[repo]]
+url = "https://github.com/armoniax/element-desktop"
+
+[[repo]]
+url = "https://github.com/armoniax/element-web"
+
+[[repo]]
 url = "https://github.com/armoniax/eos-go"
 
 [[repo]]
-url = "https://github.com/armoniax/eosio-web-ide"
+url = "https://github.com/armoniax/eos-vm"
 
 [[repo]]
 url = "https://github.com/armoniax/eosjs"
@@ -109,6 +145,15 @@ url = "https://github.com/armoniax/flutter-sdk-amaxdart"
 url = "https://github.com/armoniax/frontier"
 
 [[repo]]
+url = "https://github.com/armoniax/go-secp256k1"
+
+[[repo]]
+url = "https://github.com/armoniax/go-uuoskit"
+
+[[repo]]
+url = "https://github.com/armoniax/gotosocial"
+
+[[repo]]
 url = "https://github.com/armoniax/history-tools"
 
 [[repo]]
@@ -121,16 +166,31 @@ url = "https://github.com/armoniax/mdao.contracts"
 url = "https://github.com/armoniax/nftone.contracts"
 
 [[repo]]
+url = "https://github.com/armoniax/NodeBB"
+
+[[repo]]
+url = "https://github.com/armoniax/OSSRH-89019"
+
+[[repo]]
 url = "https://github.com/armoniax/oxo.contracts"
 
 [[repo]]
 url = "https://github.com/armoniax/picomath"
 
 [[repo]]
+url = "https://github.com/armoniax/prompts"
+
+[[repo]]
+url = "https://github.com/armoniax/pyeoskit"
+
+[[repo]]
 url = "https://github.com/armoniax/ScatterAppExtension"
 
 [[repo]]
 url = "https://github.com/armoniax/ScatterWebExtension"
+
+[[repo]]
+url = "https://github.com/armoniax/secp256k1-zkp"
 
 [[repo]]
 url = "https://github.com/armoniax/slips"
@@ -140,9 +200,6 @@ url = "https://github.com/armoniax/sygnal"
 
 [[repo]]
 url = "https://github.com/armoniax/tg.contracts"
-
-[[repo]]
-url = "https://github.com/armoniax/xdao.contracts"
 
 [[repo]]
 url = "https://github.com/armoniax/yubihsm-shell"

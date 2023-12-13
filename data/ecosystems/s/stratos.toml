@@ -22,6 +22,15 @@ url = "https://github.com/stratosnet/big-dipper"
 url = "https://github.com/stratosnet/big-dipper-2.0-cosmos"
 
 [[repo]]
+url = "https://github.com/stratosnet/big-dipper-networks"
+
+[[repo]]
+url = "https://github.com/stratosnet/blockscout"
+
+[[repo]]
+url = "https://github.com/stratosnet/chain-registry"
+
+[[repo]]
 url = "https://github.com/stratosnet/cid"
 
 [[repo]]
@@ -31,19 +40,49 @@ url = "https://github.com/stratosnet/contract-metadata"
 url = "https://github.com/stratosnet/cosmjs"
 
 [[repo]]
+url = "https://github.com/stratosnet/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/stratosnet/ecosystem"
+
+[[repo]]
 url = "https://github.com/stratosnet/go-cid"
 
 [[repo]]
 url = "https://github.com/stratosnet/GRPCProto"
 
 [[repo]]
+url = "https://github.com/stratosnet/ledger-go"
+
+[[repo]]
+url = "https://github.com/stratosnet/ledger-stratos-go"
+
+[[repo]]
+url = "https://github.com/stratosnet/mainnet"
+
+[[repo]]
 url = "https://github.com/stratosnet/sds"
+
+[[repo]]
+url = "https://github.com/stratosnet/security-audits"
+
+[[repo]]
+url = "https://github.com/stratosnet/sips"
 
 [[repo]]
 url = "https://github.com/stratosnet/stratos-chain"
 
 [[repo]]
 url = "https://github.com/stratosnet/stratos-chain-testnet"
+
+[[repo]]
+url = "https://github.com/stratosnet/stratos-contracts"
+
+[[repo]]
+url = "https://github.com/stratosnet/stratos-cosmosjs-types"
+
+[[repo]]
+url = "https://github.com/stratosnet/stratos-doc"
 
 [[repo]]
 url = "https://github.com/stratosnet/stratos-sdk"
@@ -53,3 +92,9 @@ url = "https://github.com/stratosnet/stratos-token-economy"
 
 [[repo]]
 url = "https://github.com/stratosnet/stratos-token-erc20"
+
+[[repo]]
+url = "https://github.com/stratosnet/stratosnet.github.io"
+
+[[repo]]
+url = "https://github.com/stratosnet/token-lists"

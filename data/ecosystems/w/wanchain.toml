@@ -19,6 +19,9 @@ url = "https://github.com/wanchain/bridge-contract"
 url = "https://github.com/wanchain/btc-address-import"
 
 [[repo]]
+url = "https://github.com/wanchain/cardano-crosschain-contracts"
+
+[[repo]]
 url = "https://github.com/wanchain/crossBtc"
 
 [[repo]]
@@ -98,6 +101,9 @@ url = "https://github.com/wanchain/iwan-java-sdk"
 url = "https://github.com/wanchain/iwan-js-sdk"
 
 [[repo]]
+url = "https://github.com/wanchain/message-bridge-contracts"
+
+[[repo]]
 url = "https://github.com/wanchain/meteor-dapp-wallet"
 
 [[repo]]
@@ -107,13 +113,7 @@ url = "https://github.com/wanchain/meteor-package-accounts"
 url = "https://github.com/wanchain/mobile-wallet-updates"
 
 [[repo]]
-url = "https://github.com/wanchain/multi-collateral-contract"
-
-[[repo]]
 url = "https://github.com/wanchain/multicall"
-
-[[repo]]
-url = "https://github.com/wanchain/my-wan-wallet"
 
 [[repo]]
 url = "https://github.com/wanchain/my-wan-wallet"
@@ -135,9 +135,6 @@ url = "https://github.com/wanchain/pos-ui-server"
 
 [[repo]]
 url = "https://github.com/wanchain/scan-pos"
-
-[[repo]]
-url = "https://github.com/wanchain/scanPos"
 
 [[repo]]
 url = "https://github.com/wanchain/schnorr-mpc"
@@ -258,9 +255,6 @@ url = "https://github.com/wanchain/wanchain_docs"
 
 [[repo]]
 url = "https://github.com/wanchain/wanchainjs"
-
-[[repo]]
-url = "https://github.com/wanchain/wandWallet"
 
 [[repo]]
 url = "https://github.com/wanchain/wanmask"

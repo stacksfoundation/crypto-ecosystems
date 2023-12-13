@@ -103,6 +103,9 @@ url = "https://github.com/adshares/dockerization"
 url = "https://github.com/adshares/dockerization-framework"
 
 [[repo]]
+url = "https://github.com/adshares/elympics"
+
+[[repo]]
 url = "https://github.com/adshares/esc"
 
 [[repo]]
@@ -115,6 +118,9 @@ url = "https://github.com/adshares/grafana-block-countdown"
 url = "https://github.com/adshares/grafana-status-dot"
 
 [[repo]]
+url = "https://github.com/adshares/hummingbot"
+
+[[repo]]
 url = "https://github.com/adshares/installer"
 
 [[repo]]
@@ -124,13 +130,16 @@ url = "https://github.com/adshares/landing-page"
 url = "https://github.com/adshares/php-ecrecover"
 
 [[repo]]
-url = "https://github.com/adshares/server"
+url = "https://github.com/adshares/sgh-hq"
 
 [[repo]]
 url = "https://github.com/adshares/test"
 
 [[repo]]
 url = "https://github.com/adshares/test-website"
+
+[[repo]]
+url = "https://github.com/adshares/wolt-hq"
 
 [[repo]]
 url = "https://github.com/adshares/wordpress-plugin"

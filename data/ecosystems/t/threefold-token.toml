@@ -7,6 +7,36 @@ github_organizations = ["https://github.com/threefoldtech"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/freeflowuniverse/freeflow_git"
+
+[[repo]]
+url = "https://github.com/freeflowuniverse/freeflow_kutana_backend"
+
+[[repo]]
+url = "https://github.com/freeflowuniverse/freeflow_kutana_mtu"
+
+[[repo]]
+url = "https://github.com/freeflowuniverse/freeflow_kutana_ui"
+
+[[repo]]
+url = "https://github.com/freeflowuniverse/tf-peertube"
+
+[[repo]]
+url = "https://github.com/threefoldfoundation/www_inid.io"
+
+[[repo]]
+url = "https://github.com/threefoldfoundation/www_owncloud"
+
+[[repo]]
+url = "https://github.com/threefoldfoundation/www_simulator"
+
+[[repo]]
+url = "https://github.com/threefoldfoundation/www_threefold_tech"
+
+[[repo]]
+url = "https://github.com/threefoldfoundation/www_webstack_poc"
+
+[[repo]]
 url = "https://github.com/threefoldtech/0-autobuilder"
 
 [[repo]]
@@ -58,10 +88,7 @@ url = "https://github.com/threefoldtech/0-stor_v2"
 url = "https://github.com/threefoldtech/0-templates"
 
 [[repo]]
-url = "https://github.com/threefoldtech/3Bot_connect"
-
-[[repo]]
-url = "https://github.com/threefoldtech/3bot_wallet"
+url = "https://github.com/threefoldtech/3bot"
 
 [[repo]]
 url = "https://github.com/threefoldtech/3git"
@@ -124,6 +151,9 @@ url = "https://github.com/threefoldtech/Chat"
 url = "https://github.com/threefoldtech/circles_reporting_tool"
 
 [[repo]]
+url = "https://github.com/threefoldtech/cloud-console"
+
+[[repo]]
 url = "https://github.com/threefoldtech/cloud-container"
 
 [[repo]]
@@ -142,6 +172,9 @@ url = "https://github.com/threefoldtech/corex"
 url = "https://github.com/threefoldtech/CosmWasm-wasmd"
 
 [[repo]]
+url = "https://github.com/threefoldtech/cpu-benchmark-simple"
+
+[[repo]]
 url = "https://github.com/threefoldtech/crpgp"
 
 [[repo]]
@@ -149,9 +182,6 @@ url = "https://github.com/threefoldtech/cscart-threefold"
 
 [[repo]]
 url = "https://github.com/threefoldtech/demo"
-
-[[repo]]
-url = "https://github.com/threefoldtech/demo-chains-js"
 
 [[repo]]
 url = "https://github.com/threefoldtech/demo_chains_js_POC"
@@ -175,12 +205,6 @@ url = "https://github.com/threefoldtech/digital_twin"
 url = "https://github.com/threefoldtech/digitalmeX"
 
 [[repo]]
-url = "https://github.com/threefoldtech/digitaltwin"
-
-[[repo]]
-url = "https://github.com/threefoldtech/digitaltwin-lib"
-
-[[repo]]
 url = "https://github.com/threefoldtech/digitaltwin_lib_archive"
 
 [[repo]]
@@ -197,6 +221,9 @@ url = "https://github.com/threefoldtech/example_trigger"
 
 [[repo]]
 url = "https://github.com/threefoldtech/explorer-api"
+
+[[repo]]
+url = "https://github.com/threefoldtech/farmerbot"
 
 [[repo]]
 url = "https://github.com/threefoldtech/FFTChain"
@@ -223,16 +250,10 @@ url = "https://github.com/threefoldtech/freeflow_caprover"
 url = "https://github.com/threefoldtech/freeflow_twin_main"
 
 [[repo]]
-url = "https://github.com/threefoldtech/freeflowconnect_backend"
+url = "https://github.com/threefoldtech/freeflow_twin_main_app"
 
 [[repo]]
-url = "https://github.com/threefoldtech/freeflowconnect_frontend"
-
-[[repo]]
-url = "https://github.com/threefoldtech/freeflowconnect_janus"
-
-[[repo]]
-url = "https://github.com/threefoldtech/freeflowdevenv"
+url = "https://github.com/threefoldtech/freeflow_twin_main_notification_sync"
 
 [[repo]]
 url = "https://github.com/threefoldtech/freeflowdevenv_archive"
@@ -241,16 +262,19 @@ url = "https://github.com/threefoldtech/freeflowdevenv_archive"
 url = "https://github.com/threefoldtech/g8stor-client-pypi"
 
 [[repo]]
-url = "https://github.com/threefoldtech/go-rmb"
-
-[[repo]]
 url = "https://github.com/threefoldtech/go-substrate-rpc-client"
 
 [[repo]]
 url = "https://github.com/threefoldtech/Grants-Program"
 
 [[repo]]
+url = "https://github.com/threefoldtech/grid3-client-go"
+
+[[repo]]
 url = "https://github.com/threefoldtech/grid3-go"
+
+[[repo]]
+url = "https://github.com/threefoldtech/grid3_client_go"
 
 [[repo]]
 url = "https://github.com/threefoldtech/grid3_client_rs"
@@ -259,22 +283,31 @@ url = "https://github.com/threefoldtech/grid3_client_rs"
 url = "https://github.com/threefoldtech/grid3_client_ts"
 
 [[repo]]
+url = "https://github.com/threefoldtech/grid3_clientv"
+
+[[repo]]
+url = "https://github.com/threefoldtech/grid3_deployments_builder"
+
+[[repo]]
 url = "https://github.com/threefoldtech/grid3_testnet_feedback"
 
 [[repo]]
 url = "https://github.com/threefoldtech/grid_broker"
 
 [[repo]]
-url = "https://github.com/threefoldtech/grid_explorer_ui"
+url = "https://github.com/threefoldtech/grid_deployment"
 
 [[repo]]
 url = "https://github.com/threefoldtech/Grid_monitoring"
 
 [[repo]]
-url = "https://github.com/threefoldtech/grid_proxy_server"
+url = "https://github.com/threefoldtech/grid_weblets"
 
 [[repo]]
-url = "https://github.com/threefoldtech/grid_weblets"
+url = "https://github.com/threefoldtech/grid_weblets-test-workflow"
+
+[[repo]]
+url = "https://github.com/threefoldtech/gridify"
 
 [[repo]]
 url = "https://github.com/threefoldtech/home"
@@ -283,13 +316,13 @@ url = "https://github.com/threefoldtech/home"
 url = "https://github.com/threefoldtech/info_3bot"
 
 [[repo]]
+url = "https://github.com/threefoldtech/info_grid"
+
+[[repo]]
 url = "https://github.com/threefoldtech/info_specs_grid3"
 
 [[repo]]
 url = "https://github.com/threefoldtech/info_tfchain"
-
-[[repo]]
-url = "https://github.com/threefoldtech/info_tfgrid"
 
 [[repo]]
 url = "https://github.com/threefoldtech/info_tftech_archived"
@@ -379,13 +412,13 @@ url = "https://github.com/threefoldtech/k3os"
 url = "https://github.com/threefoldtech/libp2p-relay"
 
 [[repo]]
+url = "https://github.com/threefoldtech/logagg"
+
+[[repo]]
 url = "https://github.com/threefoldtech/lua-cpp-jwt"
 
 [[repo]]
 url = "https://github.com/threefoldtech/lua-resty-iyo-auth"
-
-[[repo]]
-url = "https://github.com/threefoldtech/marketplace-charts"
 
 [[repo]]
 url = "https://github.com/threefoldtech/mastodon"
@@ -403,10 +436,16 @@ url = "https://github.com/threefoldtech/minio-perf"
 url = "https://github.com/threefoldtech/minting_v3"
 
 [[repo]]
+url = "https://github.com/threefoldtech/mycelium"
+
+[[repo]]
 url = "https://github.com/threefoldtech/neph"
 
 [[repo]]
 url = "https://github.com/threefoldtech/nixos-generators"
+
+[[repo]]
+url = "https://github.com/threefoldtech/nnc"
 
 [[repo]]
 url = "https://github.com/threefoldtech/node-0-templates"
@@ -425,9 +464,6 @@ url = "https://github.com/threefoldtech/oauth-proxy"
 
 [[repo]]
 url = "https://github.com/threefoldtech/one-click-apps"
-
-[[repo]]
-url = "https://github.com/threefoldtech/onlyoffice_3botlogin"
 
 [[repo]]
 url = "https://github.com/threefoldtech/onlyoffice_3botlogin_archive"
@@ -457,28 +493,25 @@ url = "https://github.com/threefoldtech/paywhittf"
 url = "https://github.com/threefoldtech/pkid"
 
 [[repo]]
-url = "https://github.com/threefoldtech/pkid-node-client"
-
-[[repo]]
 url = "https://github.com/threefoldtech/pkid_nest"
 
 [[repo]]
 url = "https://github.com/threefoldtech/pkid_node_client"
 
 [[repo]]
-url = "https://github.com/threefoldtech/pkid_python_sdk"
-
-[[repo]]
 url = "https://github.com/threefoldtech/pkid_python_sdk_archive"
-
-[[repo]]
-url = "https://github.com/threefoldtech/Planetary-Network"
 
 [[repo]]
 url = "https://github.com/threefoldtech/planetary_network"
 
 [[repo]]
+url = "https://github.com/threefoldtech/planetary_network_desktop_client"
+
+[[repo]]
 url = "https://github.com/threefoldtech/planetary_network_flutter"
+
+[[repo]]
+url = "https://github.com/threefoldtech/playground"
 
 [[repo]]
 url = "https://github.com/threefoldtech/profile-manager-extension"
@@ -487,10 +520,16 @@ url = "https://github.com/threefoldtech/profile-manager-extension"
 url = "https://github.com/threefoldtech/publish-flist"
 
 [[repo]]
-url = "https://github.com/threefoldtech/publisher"
+url = "https://github.com/threefoldtech/pulumi-provider-grid"
+
+[[repo]]
+url = "https://github.com/threefoldtech/pulumi-threefold"
 
 [[repo]]
 url = "https://github.com/threefoldtech/qemu"
+
+[[repo]]
+url = "https://github.com/threefoldtech/qss-ipfs-pinningserver"
 
 [[repo]]
 url = "https://github.com/threefoldtech/quality"
@@ -503,6 +542,9 @@ url = "https://github.com/threefoldtech/rbus"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rchain"
+
+[[repo]]
+url = "https://github.com/threefoldtech/research"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rfs"
@@ -532,22 +574,28 @@ url = "https://github.com/threefoldtech/rivine-UI"
 url = "https://github.com/threefoldtech/rmb"
 
 [[repo]]
-url = "https://github.com/threefoldtech/rmb-go"
-
-[[repo]]
 url = "https://github.com/threefoldtech/rmb-proxy"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rmb-rs"
 
 [[repo]]
+url = "https://github.com/threefoldtech/rmb-sdk-go"
+
+[[repo]]
 url = "https://github.com/threefoldtech/rmb-sdk-rs"
+
+[[repo]]
+url = "https://github.com/threefoldtech/rmb-sdk-ts"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rmb_archive"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rmb_go"
+
+[[repo]]
+url = "https://github.com/threefoldtech/rmb_sdk_ts"
 
 [[repo]]
 url = "https://github.com/threefoldtech/rmb_ts"
@@ -577,9 +625,6 @@ url = "https://github.com/threefoldtech/shim-logs"
 url = "https://github.com/threefoldtech/slides2html"
 
 [[repo]]
-url = "https://github.com/threefoldtech/substrate-activation-service"
-
-[[repo]]
 url = "https://github.com/threefoldtech/substrate-client"
 
 [[repo]]
@@ -592,16 +637,10 @@ url = "https://github.com/threefoldtech/substrate-pallet-tft-price"
 url = "https://github.com/threefoldtech/substrate-pallet-vesting"
 
 [[repo]]
-url = "https://github.com/threefoldtech/substrate-pallets"
-
-[[repo]]
 url = "https://github.com/threefoldtech/substrate-research"
 
 [[repo]]
 url = "https://github.com/threefoldtech/substrate-telemetry"
-
-[[repo]]
-url = "https://github.com/threefoldtech/substrate-tfgrid-ts-types"
 
 [[repo]]
 url = "https://github.com/threefoldtech/taiga-back"
@@ -634,10 +673,16 @@ url = "https://github.com/threefoldtech/test_feedback"
 url = "https://github.com/threefoldtech/tf-acmeserver"
 
 [[repo]]
+url = "https://github.com/threefoldtech/tf-farming-calculator"
+
+[[repo]]
+url = "https://github.com/threefoldtech/tf-forms"
+
+[[repo]]
 url = "https://github.com/threefoldtech/tf-freeflow-grid-deployer"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tf-gitea"
+url = "https://github.com/threefoldtech/tf-grid-cli"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf-images"
@@ -646,22 +691,13 @@ url = "https://github.com/threefoldtech/tf-images"
 url = "https://github.com/threefoldtech/tf-map"
 
 [[repo]]
-url = "https://github.com/threefoldtech/TF-NetworkConnector"
-
-[[repo]]
 url = "https://github.com/threefoldtech/tf-pdf"
-
-[[repo]]
-url = "https://github.com/threefoldtech/tf-peertube"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf-pinning-service"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf-profile-manager"
-
-[[repo]]
-url = "https://github.com/threefoldtech/tf-support-live"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf-tracker"
@@ -671,6 +707,15 @@ url = "https://github.com/threefoldtech/tf_chatbot"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf_cockpit"
+
+[[repo]]
+url = "https://github.com/threefoldtech/TF_Grid_3.12_4.0"
+
+[[repo]]
+url = "https://github.com/threefoldtech/TF_Grid_3.50_4.0"
+
+[[repo]]
+url = "https://github.com/threefoldtech/tf_gridproxy_client"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tf_jukebox"
@@ -694,7 +739,16 @@ url = "https://github.com/threefoldtech/tfbins"
 url = "https://github.com/threefoldtech/tfchain"
 
 [[repo]]
+url = "https://github.com/threefoldtech/tfchain3"
+
+[[repo]]
+url = "https://github.com/threefoldtech/tfchain4_poc"
+
+[[repo]]
 url = "https://github.com/threefoldtech/tfchain_activation_service"
+
+[[repo]]
+url = "https://github.com/threefoldtech/tfchain_block_explorer"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfchain_client"
@@ -721,13 +775,13 @@ url = "https://github.com/threefoldtech/tfchain_pallets"
 url = "https://github.com/threefoldtech/tfchain_portal"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tfchain_tft"
-
-[[repo]]
 url = "https://github.com/threefoldtech/tfchain_tft_bridge"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfchain_type_registry"
+
+[[repo]]
+url = "https://github.com/threefoldtech/tfconnect_pkid"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfdao"
@@ -739,10 +793,10 @@ url = "https://github.com/threefoldtech/tfexplorer"
 url = "https://github.com/threefoldtech/tfgateway"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tfgrid-api-client"
+url = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tfgrid-substrate"
+url = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfgrid_dashboard"
@@ -757,22 +811,22 @@ url = "https://github.com/threefoldtech/tfgrid_simulator"
 url = "https://github.com/threefoldtech/tfgrid_stats"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tfgrid_v_sdk"
-
-[[repo]]
 url = "https://github.com/threefoldtech/tfgridclient_proxy"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfgridclient_v"
 
 [[repo]]
-url = "https://github.com/threefoldtech/tfsupport"
+url = "https://github.com/threefoldtech/tfmchain"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tfsupport"
 
 [[repo]]
 url = "https://github.com/threefoldtech/tft-pricing-oracle"
+
+[[repo]]
+url = "https://github.com/threefoldtech/threebot-deployer"
 
 [[repo]]
 url = "https://github.com/threefoldtech/threebot_coredns"
@@ -794,9 +848,6 @@ url = "https://github.com/threefoldtech/Threefold-Circles-front-dist"
 
 [[repo]]
 url = "https://github.com/threefoldtech/threefold-forums"
-
-[[repo]]
-url = "https://github.com/threefoldtech/threefold-login-js-sdk"
 
 [[repo]]
 url = "https://github.com/threefoldtech/threefold-login-python-sdk"
@@ -829,13 +880,7 @@ url = "https://github.com/threefoldtech/threefold_hub"
 url = "https://github.com/threefoldtech/threefold_login_js_sdk"
 
 [[repo]]
-url = "https://github.com/threefoldtech/threefold_login_pkid_example"
-
-[[repo]]
 url = "https://github.com/threefoldtech/threefold_login_pkid_example_archive"
-
-[[repo]]
-url = "https://github.com/threefoldtech/threefold_wallet"
 
 [[repo]]
 url = "https://github.com/threefoldtech/threefold_wallet_archive"
@@ -844,19 +889,16 @@ url = "https://github.com/threefoldtech/threefold_wallet_archive"
 url = "https://github.com/threefoldtech/tokio-worker-pool"
 
 [[repo]]
-url = "https://github.com/threefoldtech/ts-rmb-client"
-
-[[repo]]
 url = "https://github.com/threefoldtech/tutorials"
-
-[[repo]]
-url = "https://github.com/threefoldtech/twin_aydo"
 
 [[repo]]
 url = "https://github.com/threefoldtech/twin_server"
 
 [[repo]]
 url = "https://github.com/threefoldtech/twin_server_v2"
+
+[[repo]]
+url = "https://github.com/threefoldtech/vbuilders"
 
 [[repo]]
 url = "https://github.com/threefoldtech/vdc"
@@ -871,16 +913,25 @@ url = "https://github.com/threefoldtech/vdc-solutions-charts"
 url = "https://github.com/threefoldtech/velero-plugin-for-aws"
 
 [[repo]]
+url = "https://github.com/threefoldtech/verasure"
+
+[[repo]]
 url = "https://github.com/threefoldtech/vgrid"
 
 [[repo]]
 url = "https://github.com/threefoldtech/vstor"
 
 [[repo]]
-url = "https://github.com/threefoldtech/wallet-next"
+url = "https://github.com/threefoldtech/web3_proxy"
+
+[[repo]]
+url = "https://github.com/threefoldtech/web3gw"
 
 [[repo]]
 url = "https://github.com/threefoldtech/web_research"
+
+[[repo]]
+url = "https://github.com/threefoldtech/webgw"
 
 [[repo]]
 url = "https://github.com/threefoldtech/weblet-starter-template"
@@ -890,9 +941,6 @@ url = "https://github.com/threefoldtech/weblets_pocs"
 
 [[repo]]
 url = "https://github.com/threefoldtech/website_example"
-
-[[repo]]
-url = "https://github.com/threefoldtech/webstack"
 
 [[repo]]
 url = "https://github.com/threefoldtech/webtechno_playground"
@@ -910,43 +958,22 @@ url = "https://github.com/threefoldtech/workload-types"
 url = "https://github.com/threefoldtech/www-mastodon"
 
 [[repo]]
-url = "https://github.com/threefoldtech/www_3bot_org"
-
-[[repo]]
 url = "https://github.com/threefoldtech/www_3bot_org_archive"
 
 [[repo]]
-url = "https://github.com/threefoldtech/www_digitaltwin"
-
-[[repo]]
-url = "https://github.com/threefoldtech/www_inid.io"
-
-[[repo]]
-url = "https://github.com/threefoldtech/www_owncloud"
-
-[[repo]]
-url = "https://github.com/threefoldtech/www_simulator"
-
-[[repo]]
-url = "https://github.com/threefoldtech/www_threefold.tech"
-
-[[repo]]
-url = "https://github.com/threefoldtech/www_threefold_tech"
-
-[[repo]]
-url = "https://github.com/threefoldtech/yggdrasil-desktop-client"
-
-[[repo]]
-url = "https://github.com/threefoldtech/yggdrasil-flutter-plugin"
-
-[[repo]]
 url = "https://github.com/threefoldtech/yggdrasil_flutter"
+
+[[repo]]
+url = "https://github.com/threefoldtech/zbc_poc"
 
 [[repo]]
 url = "https://github.com/threefoldtech/zbus"
 
 [[repo]]
 url = "https://github.com/threefoldtech/zeroCI"
+
+[[repo]]
+url = "https://github.com/threefoldtech/zeroci-ui"
 
 [[repo]]
 url = "https://github.com/threefoldtech/ZeroTierOne"

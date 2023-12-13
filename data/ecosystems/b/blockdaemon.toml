@@ -19,6 +19,9 @@ url = "https://github.com/Blockdaemon/ansible-grafana"
 url = "https://github.com/Blockdaemon/ansible-promtail"
 
 [[repo]]
+url = "https://github.com/Blockdaemon/assets"
+
+[[repo]]
 url = "https://github.com/Blockdaemon/azure-cli"
 
 [[repo]]
@@ -56,6 +59,12 @@ url = "https://github.com/Blockdaemon/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/devgrants"
+
+[[repo]]
+url = "https://github.com/Blockdaemon/docs"
+
+[[repo]]
+url = "https://github.com/Blockdaemon/docs-1"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/erigon"
@@ -151,6 +160,9 @@ url = "https://github.com/Blockdaemon/msrestazure-for-python"
 url = "https://github.com/Blockdaemon/MyCrypto"
 
 [[repo]]
+url = "https://github.com/Blockdaemon/networks"
+
+[[repo]]
 url = "https://github.com/Blockdaemon/node-client-sdk"
 
 [[repo]]
@@ -164,9 +176,6 @@ url = "https://github.com/Blockdaemon/onpremise"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/Open-Grants-Program"
-
-[[repo]]
-url = "https://github.com/Blockdaemon/oracle-feeder"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/osmosis"
@@ -209,9 +218,6 @@ url = "https://github.com/Blockdaemon/solana-go"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/solana-snapshot-finder"
-
-[[repo]]
-url = "https://github.com/Blockdaemon/solana-snapshot-service"
 
 [[repo]]
 url = "https://github.com/Blockdaemon/something-special"

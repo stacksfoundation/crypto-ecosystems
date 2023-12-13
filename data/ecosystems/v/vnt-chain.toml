@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/vntchain"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/vntchain-bak/VNTChainRPCGateway"
+
+[[repo]]
 url = "https://github.com/vntchain/BlockMaze"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/vntchain/go-vnt"
 
 [[repo]]
 url = "https://github.com/vntchain/kepler"
+
+[[repo]]
+url = "https://github.com/vntchain/linkis"
 
 [[repo]]
 url = "https://github.com/vntchain/SM2-encrypt-and-decrypt"
@@ -77,9 +83,6 @@ url = "https://github.com/vntchain/vnt.js"
 
 [[repo]]
 url = "https://github.com/vntchain/vnt_contract-master"
-
-[[repo]]
-url = "https://github.com/vntchain/VNTChainRPCGateway"
 
 [[repo]]
 url = "https://github.com/vntchain/wallet-extension"

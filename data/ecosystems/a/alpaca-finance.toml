@@ -16,13 +16,34 @@ url = "https://github.com/alpaca-finance/alpaca-sdk-example"
 url = "https://github.com/alpaca-finance/alpaca-stablecoin"
 
 [[repo]]
+url = "https://github.com/alpaca-finance/alpaca-v2-automated-vault"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/alpaca-v2-money-market"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/alperp-contract"
+
+[[repo]]
 url = "https://github.com/alpaca-finance/alpies-contract"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/bsc-alpaca-contract"
 
 [[repo]]
+url = "https://github.com/alpaca-finance/crypto-addr-serialize"
+
+[[repo]]
 url = "https://github.com/alpaca-finance/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/DefiLlama-yield-server"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/enhanced_rpc"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/joe-tokenlists"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/keepers-contracts"
@@ -35,6 +56,9 @@ url = "https://github.com/alpaca-finance/pancake-swap-core"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/pancakeswap-sdk"
+
+[[repo]]
+url = "https://github.com/alpaca-finance/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/alpaca-finance/scientix-contract"

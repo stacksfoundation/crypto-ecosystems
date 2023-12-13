@@ -10,31 +10,34 @@ github_organizations = ["https://github.com/abacus-network"]
 url = "https://github.com/abacus-network/abacus-app-template"
 
 [[repo]]
-url = "https://github.com/abacus-network/abacus-controller"
-
-[[repo]]
-url = "https://github.com/abacus-network/abacus-monorepo"
-
-[[repo]]
-url = "https://github.com/abacus-network/abacus-nft"
-
-[[repo]]
-url = "https://github.com/abacus-network/abacus-token"
-
-[[repo]]
 url = "https://github.com/abacus-network/axelar-local-gmp-examples"
 
 [[repo]]
-url = "https://github.com/abacus-network/celo-ethers-provider"
+url = "https://github.com/hyperlane-xyz/celo-ethers-provider"
 
 [[repo]]
-url = "https://github.com/abacus-network/coingecko-rs"
+url = "https://github.com/hyperlane-xyz/coingecko-rs"
 
 [[repo]]
-url = "https://github.com/abacus-network/docs"
+url = "https://github.com/hyperlane-xyz/docs"
 
 [[repo]]
-url = "https://github.com/abacus-network/ethers-rs"
+url = "https://github.com/hyperlane-xyz/ethers-rs"
 
 [[repo]]
-url = "https://github.com/abacus-network/gameboy-emulator"
+url = "https://github.com/hyperlane-xyz/gameboy-emulator"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-app-template"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-controller"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-monorepo"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-nft"
+
+[[repo]]
+url = "https://github.com/hyperlane-xyz/hyperlane-token"

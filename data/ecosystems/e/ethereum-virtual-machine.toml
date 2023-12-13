@@ -1,16 +1,13 @@
 # Ecosystem Level Information
 title = "Ethereum Virtual Machine"
 
-sub_ecosystems = []
+sub_ecosystems = ["Merlion", "Particle Network", "The Graph"]
 
-github_organizations = []
+github_organizations = ["https://github.com/VaultsProtocol"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/akula-bft/akula"
-
-[[repo]]
-url = "https://github.com/appliedzkp/zkevm-circuits"
 
 [[repo]]
 url = "https://github.com/bluealloy/revm"
@@ -20,3 +17,12 @@ url = "https://github.com/ethereum/go-ethereum"
 
 [[repo]]
 url = "https://github.com/openethereum/openethereum"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zkevm-circuits"
+
+[[repo]]
+url = "https://github.com/VaultsProtocol/Vaults"
+
+[[repo]]
+url = "https://github.com/VaultsProtocol/VaultsProtocol"

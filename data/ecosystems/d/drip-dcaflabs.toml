@@ -10,7 +10,19 @@ github_organizations = ["https://github.com/dcaf-labs"]
 url = "https://github.com/dcaf-labs/.github"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/anchor-client-gen"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/anchor-test-action"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/backpack"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/binary"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/drip-backend-v2"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/drip-client"
@@ -22,10 +34,16 @@ url = "https://github.com/dcaf-labs/drip-sdk"
 url = "https://github.com/dcaf-labs/drip-sdk-example"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/drip-v2-backend"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/go-gecko"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/metaplex-program-library"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/mock-helius"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/native-to-anchor"
@@ -34,16 +52,46 @@ url = "https://github.com/dcaf-labs/native-to-anchor"
 url = "https://github.com/dcaf-labs/openapi-io-ts"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/pixels-program"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/pre-authorized-debit"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/solana-drip-go"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/solana-go"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/solana-go-clients"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/solana-go-retryable-http-client"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/solana-indexer-gen-types"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/solana-program-library"
 
 [[repo]]
+url = "https://github.com/dcaf-labs/solana-program-parser"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/solana-token-swap-go"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/solana-whirlpool-go"
+
+[[repo]]
 url = "https://github.com/dcaf-labs/solana_vanity_generator"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/squads-cli"
+
+[[repo]]
+url = "https://github.com/dcaf-labs/squads-mpl"
 
 [[repo]]
 url = "https://github.com/dcaf-labs/token-list"

@@ -13,6 +13,12 @@ url = "https://github.com/casper-ecosystem/.github"
 url = "https://github.com/casper-ecosystem/auction-manager"
 
 [[repo]]
+url = "https://github.com/casper-ecosystem/authorization-keys-example"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/caller-example"
+
+[[repo]]
 url = "https://github.com/casper-ecosystem/cargo-casper"
 
 [[repo]]
@@ -46,22 +52,19 @@ url = "https://github.com/casper-ecosystem/casper-js-sdk"
 url = "https://github.com/casper-ecosystem/casper-js-sdk-archive"
 
 [[repo]]
+url = "https://github.com/casper-ecosystem/casper-manager"
+
+[[repo]]
 url = "https://github.com/casper-ecosystem/casper-nft-cep47"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/casper-rust"
 
 [[repo]]
-url = "https://github.com/casper-ecosystem/casperblockchain-data"
-
-[[repo]]
 url = "https://github.com/casper-ecosystem/casperchess-single"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/casperecosystem-io-data"
-
-[[repo]]
-url = "https://github.com/casper-ecosystem/caspertigers-barebone"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/CasperTigersStatic"
@@ -76,13 +79,16 @@ url = "https://github.com/casper-ecosystem/caspookem"
 url = "https://github.com/casper-ecosystem/cep-78-enhanced-nft"
 
 [[repo]]
+url = "https://github.com/casper-ecosystem/cep18"
+
+[[repo]]
 url = "https://github.com/casper-ecosystem/contract-upgrade-example"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/counter"
 
 [[repo]]
-url = "https://github.com/casper-ecosystem/enhanced-nft"
+url = "https://github.com/casper-ecosystem/developer-rewards"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/erc20"
@@ -166,7 +172,13 @@ url = "https://github.com/casper-ecosystem/sih-workshop-2"
 url = "https://github.com/casper-ecosystem/sih-workshop-2-template"
 
 [[repo]]
+url = "https://github.com/casper-ecosystem/storage-example"
+
+[[repo]]
 url = "https://github.com/casper-ecosystem/tetris-casper-game"
+
+[[repo]]
+url = "https://github.com/casper-ecosystem/tutorials-example-wasm"
 
 [[repo]]
 url = "https://github.com/casper-ecosystem/two-party-multi-sig"

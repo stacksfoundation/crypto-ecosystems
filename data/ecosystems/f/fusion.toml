@@ -43,6 +43,9 @@ url = "https://github.com/FUSIONFoundation/Documentation"
 url = "https://github.com/FUSIONFoundation/efsn"
 
 [[repo]]
+url = "https://github.com/FUSIONFoundation/ethereum-lists-chains"
+
+[[repo]]
 url = "https://github.com/FUSIONFoundation/FIPs"
 
 [[repo]]
@@ -50,6 +53,9 @@ url = "https://github.com/FUSIONFoundation/frc758"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/FRC759"
+
+[[repo]]
+url = "https://github.com/FUSIONFoundation/FRC759-1"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/fsn-netstats"

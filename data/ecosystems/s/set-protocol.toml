@@ -7,6 +7,24 @@ github_organizations = ["https://github.com/SetProtocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/IndexCoop/IIPS"
+
+[[repo]]
+url = "https://github.com/IndexCoop/index-coop-analytics"
+
+[[repo]]
+url = "https://github.com/IndexCoop/index-coop-smart-contracts"
+
+[[repo]]
+url = "https://github.com/IndexCoop/index-rebalance-utils"
+
+[[repo]]
+url = "https://github.com/IndexCoop/index-ui"
+
+[[repo]]
+url = "https://github.com/IndexCoop/ITIPS"
+
+[[repo]]
 url = "https://github.com/SetProtocol/aave-fork"
 
 [[repo]]
@@ -16,40 +34,28 @@ url = "https://github.com/SetProtocol/awesome-set-protocol"
 url = "https://github.com/SetProtocol/developer-onboarding"
 
 [[repo]]
-url = "https://github.com/SetProtocol/IIPS"
-
-[[repo]]
 url = "https://github.com/SetProtocol/index-coop"
-
-[[repo]]
-url = "https://github.com/SetProtocol/index-coop-analytics"
-
-[[repo]]
-url = "https://github.com/SetProtocol/index-coop-contracts"
 
 [[repo]]
 url = "https://github.com/SetProtocol/index-coop-contracts-legacy"
 
 [[repo]]
-url = "https://github.com/SetProtocol/index-coop-smart-contracts"
-
-[[repo]]
 url = "https://github.com/SetProtocol/index-deployments"
-
-[[repo]]
-url = "https://github.com/SetProtocol/index-rebalance-utils"
-
-[[repo]]
-url = "https://github.com/SetProtocol/index-ui"
 
 [[repo]]
 url = "https://github.com/SetProtocol/institutions.indexcoop.github.io"
 
 [[repo]]
-url = "https://github.com/SetProtocol/ITIPS"
+url = "https://github.com/SetProtocol/ipfsdemo"
 
 [[repo]]
 url = "https://github.com/SetProtocol/matic-exchange-tokenlist"
+
+[[repo]]
+url = "https://github.com/SetProtocol/noir-rsa"
+
+[[repo]]
+url = "https://github.com/SetProtocol/noir_rsa_scripts"
 
 [[repo]]
 url = "https://github.com/SetProtocol/ruby-eth"
@@ -71,9 +77,6 @@ url = "https://github.com/SetProtocol/set-protocol-utils"
 
 [[repo]]
 url = "https://github.com/SetProtocol/set-protocol-v2"
-
-[[repo]]
-url = "https://github.com/SetProtocol/set-protocol-v2-contracts"
 
 [[repo]]
 url = "https://github.com/SetProtocol/set-protocol-v2-contracts-legacy"
@@ -107,6 +110,9 @@ url = "https://github.com/SetProtocol/setprotocol.js"
 
 [[repo]]
 url = "https://github.com/SetProtocol/setzer"
+
+[[repo]]
+url = "https://github.com/SetProtocol/simple-set-ui"
 
 [[repo]]
 url = "https://github.com/SetProtocol/solidity-coverage"

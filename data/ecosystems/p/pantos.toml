@@ -22,19 +22,37 @@ url = "https://github.com/pantos-io/ethrelay-evaluation"
 url = "https://github.com/pantos-io/go-ethrelay"
 
 [[repo]]
-url = "https://github.com/pantos-io/go-testimonium"
-
-[[repo]]
 url = "https://github.com/pantos-io/ioporacle"
 
 [[repo]]
 url = "https://github.com/pantos-io/nap-token"
 
 [[repo]]
-url = "https://github.com/pantos-io/testimonium"
+url = "https://github.com/pantos-io/research-dextt-prototype"
 
 [[repo]]
-url = "https://github.com/pantos-io/testimonium-evaluation"
+url = "https://github.com/pantos-io/research-ethash"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-ethrelay"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-ethrelay-evaluation"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-go-ethrelay"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-ioporacle"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-nap-token"
+
+[[repo]]
+url = "https://github.com/pantos-io/research-x-chain-smartcontracts"
+
+[[repo]]
+url = "https://github.com/pantos-io/testnet-token-list"
 
 [[repo]]
 url = "https://github.com/pantos-io/x-chain-smartcontracts"

@@ -16,6 +16,9 @@ url = "https://github.com/CosmosContracts/bdjuno"
 url = "https://github.com/CosmosContracts/bounties"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/code-and-chill"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/contract-templates"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/CosmosContracts/cosmverse"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/cw-unity-prop"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/delegations"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/docs"
@@ -64,6 +70,9 @@ url = "https://github.com/CosmosContracts/juno-tools"
 url = "https://github.com/CosmosContracts/juno-tools-docs"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/juno-ts"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/junoscan"
 
 [[repo]]
@@ -85,10 +94,16 @@ url = "https://github.com/CosmosContracts/landing-website"
 url = "https://github.com/CosmosContracts/mainnet"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/multisig-scripts"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/neta-airdrop"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/neta-frontend"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/old-website"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/osmosis-frontend"
@@ -106,6 +121,9 @@ url = "https://github.com/CosmosContracts/starport"
 url = "https://github.com/CosmosContracts/starter-kit"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/stride-pol"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/subDAOs"
 
 [[repo]]
@@ -121,7 +139,13 @@ url = "https://github.com/CosmosContracts/testnets"
 url = "https://github.com/CosmosContracts/testnets-1"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/token-bindings"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/token-factory"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/tokenfactory-contracts"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/ts-relayer"
@@ -131,6 +155,9 @@ url = "https://github.com/CosmosContracts/tutorials"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/typescript"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/warpzone"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/wasmd"

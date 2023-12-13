@@ -13,6 +13,12 @@ url = "https://github.com/MonkeDAO/carbon-credits-frontend"
 url = "https://github.com/MonkeDAO/carbon-credits-smart-contract"
 
 [[repo]]
+url = "https://github.com/MonkeDAO/daovote-app"
+
+[[repo]]
+url = "https://github.com/MonkeDAO/fetch-latest-newsletter"
+
+[[repo]]
 url = "https://github.com/MonkeDAO/monke-dao-webapp"
 
 [[repo]]
@@ -23,6 +29,15 @@ url = "https://github.com/MonkeDAO/new-fit-for-your-pfp---discord-bot"
 
 [[repo]]
 url = "https://github.com/MonkeDAO/observer"
+
+[[repo]]
+url = "https://github.com/MonkeDAO/omcvote-dapp"
+
+[[repo]]
+url = "https://github.com/MonkeDAO/omcvote-dapp-deprecated"
+
+[[repo]]
+url = "https://github.com/MonkeDAO/smb-xnft"
 
 [[repo]]
 url = "https://github.com/MonkeDAO/solana-dao-vote"

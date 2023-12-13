@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/BitskiCo"]
 url = "https://github.com/BitskiCo/0x-monorepo"
 
 [[repo]]
+url = "https://github.com/BitskiCo/account-abstraction"
+
+[[repo]]
 url = "https://github.com/BitskiCo/actix-extras"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/BitskiCo/actix-web-opentelemetry"
 
 [[repo]]
 url = "https://github.com/BitskiCo/apollographql-router"
+
+[[repo]]
+url = "https://github.com/BitskiCo/apple-apns"
 
 [[repo]]
 url = "https://github.com/BitskiCo/argocd"
@@ -70,6 +76,9 @@ url = "https://github.com/BitskiCo/cargo-cache-action"
 url = "https://github.com/BitskiCo/cockroachdb-insecure"
 
 [[repo]]
+url = "https://github.com/BitskiCo/desolaris-demo"
+
+[[repo]]
 url = "https://github.com/BitskiCo/diesel-tracing"
 
 [[repo]]
@@ -80,6 +89,12 @@ url = "https://github.com/BitskiCo/docs"
 
 [[repo]]
 url = "https://github.com/BitskiCo/docs-old"
+
+[[repo]]
+url = "https://github.com/BitskiCo/docs-web"
+
+[[repo]]
+url = "https://github.com/BitskiCo/docs-web-staging"
 
 [[repo]]
 url = "https://github.com/BitskiCo/eip-712-derive"
@@ -104,6 +119,9 @@ url = "https://github.com/BitskiCo/example-stripe-nft"
 
 [[repo]]
 url = "https://github.com/BitskiCo/example-unity-dapp"
+
+[[repo]]
+url = "https://github.com/BitskiCo/examples"
 
 [[repo]]
 url = "https://github.com/BitskiCo/gettext"
@@ -160,9 +178,6 @@ url = "https://github.com/BitskiCo/secp256k1-old"
 url = "https://github.com/BitskiCo/secp256k1.swift"
 
 [[repo]]
-url = "https://github.com/BitskiCo/secp256k1.swift.old"
-
-[[repo]]
 url = "https://github.com/BitskiCo/serde_urlencoded"
 
 [[repo]]
@@ -182,6 +197,12 @@ url = "https://github.com/BitskiCo/toml-action"
 
 [[repo]]
 url = "https://github.com/BitskiCo/Umbrella"
+
+[[repo]]
+url = "https://github.com/BitskiCo/waas-demo"
+
+[[repo]]
+url = "https://github.com/BitskiCo/WalletConnectSwift"
 
 [[repo]]
 url = "https://github.com/BitskiCo/web3-react"

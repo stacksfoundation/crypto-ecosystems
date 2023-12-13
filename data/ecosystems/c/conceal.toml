@@ -22,6 +22,9 @@ url = "https://github.com/ConcealNetwork/ccx-bisq-assets"
 url = "https://github.com/ConcealNetwork/conceal-api"
 
 [[repo]]
+url = "https://github.com/ConcealNetwork/conceal-api-cli"
+
+[[repo]]
 url = "https://github.com/ConcealNetwork/conceal-app"
 
 [[repo]]
@@ -58,16 +61,19 @@ url = "https://github.com/ConcealNetwork/conceal-guardian"
 url = "https://github.com/ConcealNetwork/conceal-guardian-pool"
 
 [[repo]]
-url = "https://github.com/ConcealNetwork/conceal-hub"
-
-[[repo]]
 url = "https://github.com/ConcealNetwork/conceal-imagery"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/conceal-lite-wallet"
 
 [[repo]]
+url = "https://github.com/ConcealNetwork/conceal-lite-wallet-old"
+
+[[repo]]
 url = "https://github.com/ConcealNetwork/conceal-mobile"
+
+[[repo]]
+url = "https://github.com/ConcealNetwork/conceal-mobile-old"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/conceal-papers"
@@ -86,9 +92,6 @@ url = "https://github.com/ConcealNetwork/conceal-services"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/conceal-stellar-website"
-
-[[repo]]
-url = "https://github.com/ConcealNetwork/conceal-wallet"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/conceal-wallet-cordova"
@@ -121,13 +124,13 @@ url = "https://github.com/ConcealNetwork/cryptonote-nodejs-pool"
 url = "https://github.com/ConcealNetwork/node-cryptonight-hashing"
 
 [[repo]]
+url = "https://github.com/ConcealNetwork/solana-token-list"
+
+[[repo]]
 url = "https://github.com/ConcealNetwork/token-list"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/wCCX"
-
-[[repo]]
-url = "https://github.com/ConcealNetwork/wrappedCCX"
 
 [[repo]]
 url = "https://github.com/ConcealNetwork/xmrig"

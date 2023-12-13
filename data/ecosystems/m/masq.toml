@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/MASQ-Project"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/MASQ-Project/action-snapcraft"
+
+[[repo]]
 url = "https://github.com/MASQ-Project/assets"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/ClusterTool"
+
+[[repo]]
+url = "https://github.com/MASQ-Project/electron-chromeapi-suite"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/MASQ-contract"
@@ -22,16 +28,22 @@ url = "https://github.com/MASQ-Project/MASQ-dapp-store"
 url = "https://github.com/MASQ-Project/MASQ-Docs"
 
 [[repo]]
-url = "https://github.com/MASQ-Project/MASQ-Greypaper"
+url = "https://github.com/MASQ-Project/MASQ-Node-issues"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/masq-terraforms"
+
+[[repo]]
+url = "https://github.com/MASQ-Project/MASQ-web3-dapp-store"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/Node"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/Node-issues"
+
+[[repo]]
+url = "https://github.com/MASQ-Project/rust-docs"
 
 [[repo]]
 url = "https://github.com/MASQ-Project/rust-in-blockchain"

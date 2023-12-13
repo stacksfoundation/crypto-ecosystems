@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/hubbleprotocol"]
 url = "https://github.com/hubbleprotocol/anchor"
 
 [[repo]]
+url = "https://github.com/hubbleprotocol/anchor-bpf-template"
+
+[[repo]]
 url = "https://github.com/hubbleprotocol/anchorpy"
 
 [[repo]]
@@ -55,13 +58,28 @@ url = "https://github.com/hubbleprotocol/hubble-docs"
 url = "https://github.com/hubbleprotocol/hubble-public-api"
 
 [[repo]]
+url = "https://github.com/hubbleprotocol/hubble-public-api-docs"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/hyperplane"
+
+[[repo]]
 url = "https://github.com/hubbleprotocol/idls"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/kamino-assets"
 
 [[repo]]
+url = "https://github.com/hubbleprotocol/kamino-audits"
+
+[[repo]]
 url = "https://github.com/hubbleprotocol/kamino-lending-sdk"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/kamino-marinade-example"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/kamino-streamflow-example"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/liq-bot"
@@ -73,10 +91,19 @@ url = "https://github.com/hubbleprotocol/liquidation_analysis"
 url = "https://github.com/hubbleprotocol/liquidator"
 
 [[repo]]
+url = "https://github.com/hubbleprotocol/liquidator-public"
+
+[[repo]]
 url = "https://github.com/hubbleprotocol/maintaining-global-state"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/merkle-distributor"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/metaplex-program-library"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/mpl-token-metadata"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/raydium-dex"
@@ -98,6 +125,9 @@ url = "https://github.com/hubbleprotocol/solana"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/solana-py"
+
+[[repo]]
+url = "https://github.com/hubbleprotocol/solana-setup-action"
 
 [[repo]]
 url = "https://github.com/hubbleprotocol/solana-shadow"

@@ -7,7 +7,22 @@ github_organizations = ["https://github.com/OmniFlix"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/OmniFlix/assetlists"
+
+[[repo]]
+url = "https://github.com/OmniFlix/awesome"
+
+[[repo]]
 url = "https://github.com/OmniFlix/chain-registry"
+
+[[repo]]
+url = "https://github.com/OmniFlix/chainlist"
+
+[[repo]]
+url = "https://github.com/OmniFlix/chainlist-1"
+
+[[repo]]
+url = "https://github.com/OmniFlix/composable-networks"
 
 [[repo]]
 url = "https://github.com/OmniFlix/cosmos-sdk"
@@ -22,7 +37,22 @@ url = "https://github.com/OmniFlix/docs"
 url = "https://github.com/OmniFlix/freeflix-media-hub"
 
 [[repo]]
+url = "https://github.com/OmniFlix/frens-cosmos-badges"
+
+[[repo]]
+url = "https://github.com/OmniFlix/gon-omniflix-ui"
+
+[[repo]]
+url = "https://github.com/OmniFlix/gon-testnets"
+
+[[repo]]
+url = "https://github.com/OmniFlix/gon-testnets-2"
+
+[[repo]]
 url = "https://github.com/OmniFlix/ibc"
+
+[[repo]]
+url = "https://github.com/OmniFlix/ibc-go"
 
 [[repo]]
 url = "https://github.com/OmniFlix/insync"
@@ -37,6 +67,9 @@ url = "https://github.com/OmniFlix/ki-networks"
 url = "https://github.com/OmniFlix/mainnet"
 
 [[repo]]
+url = "https://github.com/OmniFlix/mainnet-1"
+
+[[repo]]
 url = "https://github.com/OmniFlix/marketplace"
 
 [[repo]]
@@ -46,7 +79,13 @@ url = "https://github.com/OmniFlix/modules"
 url = "https://github.com/OmniFlix/net"
 
 [[repo]]
+url = "https://github.com/OmniFlix/nft-transfer"
+
+[[repo]]
 url = "https://github.com/OmniFlix/node"
+
+[[repo]]
+url = "https://github.com/OmniFlix/nolus-networks"
 
 [[repo]]
 url = "https://github.com/OmniFlix/nucleus"
@@ -56,6 +95,9 @@ url = "https://github.com/OmniFlix/omniflix-activity-alert-bot"
 
 [[repo]]
 url = "https://github.com/OmniFlix/omniflixhub"
+
+[[repo]]
+url = "https://github.com/OmniFlix/omniflixhub-monitor"
 
 [[repo]]
 url = "https://github.com/OmniFlix/onft"
@@ -73,7 +115,16 @@ url = "https://github.com/OmniFlix/payment-stream-ui"
 url = "https://github.com/OmniFlix/starrybot-discord"
 
 [[repo]]
+url = "https://github.com/OmniFlix/streampay"
+
+[[repo]]
+url = "https://github.com/OmniFlix/streamswap-node"
+
+[[repo]]
 url = "https://github.com/OmniFlix/studio"
+
+[[repo]]
+url = "https://github.com/OmniFlix/supply-info-api"
 
 [[repo]]
 url = "https://github.com/OmniFlix/testnet"
@@ -82,7 +133,25 @@ url = "https://github.com/OmniFlix/testnet"
 url = "https://github.com/OmniFlix/testnets"
 
 [[repo]]
+url = "https://github.com/OmniFlix/testnets-1"
+
+[[repo]]
 url = "https://github.com/OmniFlix/tgrade-public-testnets"
 
 [[repo]]
+url = "https://github.com/OmniFlix/validator-alert-bot"
+
+[[repo]]
 url = "https://github.com/OmniFlix/validator-registry"
+
+[[repo]]
+url = "https://github.com/OmniFlix/validator-registry-1"
+
+[[repo]]
+url = "https://github.com/OmniFlix/validator-registry-2"
+
+[[repo]]
+url = "https://github.com/OmniFlix/validator-registry-3"
+
+[[repo]]
+url = "https://github.com/OmniFlix/validator-registry-4"

@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/NAVCoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Encrypt-S/bitcore-p2p"
+
+[[repo]]
 url = "https://github.com/navcoin/app-bitcoin"
 
 [[repo]]
 url = "https://github.com/navcoin/app-navcoin"
-
-[[repo]]
-url = "https://github.com/navcoin/bitcore-p2p"
 
 [[repo]]
 url = "https://github.com/NAVCoin/collab.navcoin.org"
@@ -32,9 +32,6 @@ url = "https://github.com/navcoin/insight"
 
 [[repo]]
 url = "https://github.com/NAVCoin/KnowledgeBase"
-
-[[repo]]
-url = "https://github.com/NAVCoin/nav-community-site"
 
 [[repo]]
 url = "https://github.com/NAVCoin/nav-docker"
@@ -109,7 +106,13 @@ url = "https://github.com/NAVCoin/proposal-creator"
 url = "https://github.com/navcoin/public-keys"
 
 [[repo]]
+url = "https://github.com/navcoin/qa-assets"
+
+[[repo]]
 url = "https://github.com/navcoin/react-native-bitcore-mnemonic"
+
+[[repo]]
+url = "https://github.com/navcoin/secp256k1-arith"
 
 [[repo]]
 url = "https://github.com/navcoin/subscriber"

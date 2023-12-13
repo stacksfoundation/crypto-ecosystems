@@ -7,7 +7,25 @@ github_organizations = ["https://github.com/PHI-LABS-INC"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/PHI-LABS-INC/DailyMaterial"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/DailyQuest"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/dune-projects"
+
+[[repo]]
 url = "https://github.com/PHI-LABS-INC/Mumbai-phi-contract"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/passport"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/phi-campaign"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/phi-frontend-template"
 
 [[repo]]
 url = "https://github.com/PHI-LABS-INC/phi-objects"
@@ -16,4 +34,16 @@ url = "https://github.com/PHI-LABS-INC/phi-objects"
 url = "https://github.com/PHI-LABS-INC/philand-graph"
 
 [[repo]]
+url = "https://github.com/PHI-LABS-INC/philand-lib"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/PHIMaterial"
+
+[[repo]]
 url = "https://github.com/PHI-LABS-INC/Polygon-phi-contract"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/wawa-artwork"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/Wawa-contract"

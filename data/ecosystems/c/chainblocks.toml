@@ -7,319 +7,310 @@ github_organizations = ["https://github.com/chainblocks"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/chainblocks/align"
+url = "https://github.com/shards-lang/BearSSL"
 
 [[repo]]
-url = "https://github.com/chainblocks/asio"
+url = "https://github.com/shards-lang/bgfx"
 
 [[repo]]
-url = "https://github.com/chainblocks/BearSSL"
+url = "https://github.com/shards-lang/bgfx.cmake"
 
 [[repo]]
-url = "https://github.com/chainblocks/bgfx"
+url = "https://github.com/shards-lang/bimg"
 
 [[repo]]
-url = "https://github.com/chainblocks/bgfx.cmake"
+url = "https://github.com/shards-lang/bloaty"
 
 [[repo]]
-url = "https://github.com/chainblocks/bimg"
+url = "https://github.com/shards-lang/boost"
 
 [[repo]]
-url = "https://github.com/chainblocks/bloaty"
+url = "https://github.com/shards-lang/boost-align"
 
 [[repo]]
-url = "https://github.com/chainblocks/boost"
+url = "https://github.com/shards-lang/boost-asio"
 
 [[repo]]
-url = "https://github.com/chainblocks/boost-align"
+url = "https://github.com/shards-lang/boost-date_time"
 
 [[repo]]
-url = "https://github.com/chainblocks/boost-asio"
+url = "https://github.com/shards-lang/boost-filesystem"
 
 [[repo]]
-url = "https://github.com/chainblocks/boost-date_time"
+url = "https://github.com/shards-lang/brotli"
 
 [[repo]]
-url = "https://github.com/chainblocks/boost-filesystem"
+url = "https://github.com/shards-lang/bx"
 
 [[repo]]
-url = "https://github.com/chainblocks/brotli"
+url = "https://github.com/shards-lang/cancel-previous-runs"
 
 [[repo]]
-url = "https://github.com/chainblocks/bx"
+url = "https://github.com/shards-lang/cancel-workflow-action"
 
 [[repo]]
-url = "https://github.com/chainblocks/cancel-previous-runs"
+url = "https://github.com/shards-lang/cargo"
 
 [[repo]]
-url = "https://github.com/chainblocks/cancel-workflow-action"
+url = "https://github.com/shards-lang/cargo-vendor"
 
 [[repo]]
-url = "https://github.com/chainblocks/cargo"
+url = "https://github.com/shards-lang/Catch2"
 
 [[repo]]
-url = "https://github.com/chainblocks/cargo-vendor"
+url = "https://github.com/shards-lang/cereal"
 
 [[repo]]
-url = "https://github.com/chainblocks/Catch2"
+url = "https://github.com/shards-lang/chrono"
 
 [[repo]]
-url = "https://github.com/chainblocks/cereal"
+url = "https://github.com/shards-lang/context"
 
 [[repo]]
-url = "https://github.com/chainblocks/chrono"
+url = "https://github.com/shards-lang/cpp-taskflow"
 
 [[repo]]
-url = "https://github.com/chainblocks/context"
+url = "https://github.com/shards-lang/curl"
 
 [[repo]]
-url = "https://github.com/chainblocks/cpp-taskflow"
+url = "https://github.com/shards-lang/double-conversion"
 
 [[repo]]
-url = "https://github.com/chainblocks/curl"
+url = "https://github.com/shards-lang/easyloggingpp"
 
 [[repo]]
-url = "https://github.com/chainblocks/date_time"
+url = "https://github.com/shards-lang/edn"
 
 [[repo]]
-url = "https://github.com/chainblocks/double-conversion"
+url = "https://github.com/shards-lang/emscripten-webxr"
 
 [[repo]]
-url = "https://github.com/chainblocks/easyloggingpp"
+url = "https://github.com/shards-lang/filesystem"
 
 [[repo]]
-url = "https://github.com/chainblocks/edn"
+url = "https://github.com/shards-lang/folly"
 
 [[repo]]
-url = "https://github.com/chainblocks/emscripten-webxr"
+url = "https://github.com/shards-lang/glslang"
 
 [[repo]]
-url = "https://github.com/chainblocks/filesystem"
+url = "https://github.com/shards-lang/hash-library"
 
 [[repo]]
-url = "https://github.com/chainblocks/folly"
+url = "https://github.com/shards-lang/imgui-node-editor"
 
 [[repo]]
-url = "https://github.com/chainblocks/glslang"
+url = "https://github.com/shards-lang/imgui-plot"
 
 [[repo]]
-url = "https://github.com/chainblocks/hash-library"
+url = "https://github.com/shards-lang/imgui_club"
 
 [[repo]]
-url = "https://github.com/chainblocks/imgui-node-editor"
+url = "https://github.com/shards-lang/ImGuizmo"
 
 [[repo]]
-url = "https://github.com/chainblocks/imgui-plot"
+url = "https://github.com/shards-lang/implot"
 
 [[repo]]
-url = "https://github.com/chainblocks/imgui_club"
+url = "https://github.com/shards-lang/ios-cmake"
 
 [[repo]]
-url = "https://github.com/chainblocks/ImGuizmo"
+url = "https://github.com/shards-lang/ipfs-action"
 
 [[repo]]
-url = "https://github.com/chainblocks/implot"
+url = "https://github.com/shards-lang/JoltPhysics"
 
 [[repo]]
-url = "https://github.com/chainblocks/ios-cmake"
+url = "https://github.com/shards-lang/json"
 
 [[repo]]
-url = "https://github.com/chainblocks/ipfs-action"
+url = "https://github.com/shards-lang/kcp"
 
 [[repo]]
-url = "https://github.com/chainblocks/JoltPhysics"
+url = "https://github.com/shards-lang/kissfft"
 
 [[repo]]
-url = "https://github.com/chainblocks/json"
+url = "https://github.com/shards-lang/koishi"
 
 [[repo]]
-url = "https://github.com/chainblocks/kcp"
+url = "https://github.com/shards-lang/libbacktrace"
 
 [[repo]]
-url = "https://github.com/chainblocks/kissfft"
+url = "https://github.com/shards-lang/libde265"
 
 [[repo]]
-url = "https://github.com/chainblocks/koishi"
+url = "https://github.com/shards-lang/libheif"
 
 [[repo]]
-url = "https://github.com/chainblocks/libbacktrace"
+url = "https://github.com/shards-lang/libhydrogen"
 
 [[repo]]
-url = "https://github.com/chainblocks/libde265"
+url = "https://github.com/shards-lang/liburkel"
 
 [[repo]]
-url = "https://github.com/chainblocks/libheif"
+url = "https://github.com/shards-lang/linalg"
 
 [[repo]]
-url = "https://github.com/chainblocks/libhydrogen"
+url = "https://github.com/shards-lang/lmdb"
 
 [[repo]]
-url = "https://github.com/chainblocks/liburkel"
+url = "https://github.com/shards-lang/lunasvg"
 
 [[repo]]
-url = "https://github.com/chainblocks/linalg"
+url = "https://github.com/shards-lang/magic_enum"
 
 [[repo]]
-url = "https://github.com/chainblocks/lmdb"
+url = "https://github.com/shards-lang/markdeep"
 
 [[repo]]
-url = "https://github.com/chainblocks/lunasvg"
+url = "https://github.com/shards-lang/mentat"
 
 [[repo]]
-url = "https://github.com/chainblocks/magic_enum"
+url = "https://github.com/shards-lang/MimeTypes"
 
 [[repo]]
-url = "https://github.com/chainblocks/markdeep"
+url = "https://github.com/shards-lang/miniaudio"
 
 [[repo]]
-url = "https://github.com/chainblocks/mentat"
+url = "https://github.com/shards-lang/naga"
 
 [[repo]]
-url = "https://github.com/chainblocks/MimeTypes"
+url = "https://github.com/shards-lang/nameof"
 
 [[repo]]
-url = "https://github.com/chainblocks/miniaudio"
+url = "https://github.com/shards-lang/onnxruntime"
 
 [[repo]]
-url = "https://github.com/chainblocks/naga"
+url = "https://github.com/shards-lang/OpenXR-SDK"
 
 [[repo]]
-url = "https://github.com/chainblocks/nameof"
+url = "https://github.com/shards-lang/parallel-hashmap"
 
 [[repo]]
-url = "https://github.com/chainblocks/onnxruntime"
+url = "https://github.com/shards-lang/pareto"
 
 [[repo]]
-url = "https://github.com/chainblocks/OpenXR-SDK"
+url = "https://github.com/shards-lang/pdqsort"
 
 [[repo]]
-url = "https://github.com/chainblocks/parallel-hashmap"
+url = "https://github.com/shards-lang/PEGTL"
 
 [[repo]]
-url = "https://github.com/chainblocks/pareto"
+url = "https://github.com/shards-lang/prometheus-cpp"
 
 [[repo]]
-url = "https://github.com/chainblocks/pdqsort"
+url = "https://github.com/shards-lang/Publish-Docker-Github-Action"
 
 [[repo]]
-url = "https://github.com/chainblocks/PEGTL"
+url = "https://github.com/shards-lang/replxx"
 
 [[repo]]
-url = "https://github.com/chainblocks/prometheus-cpp"
+url = "https://github.com/shards-lang/rpmalloc"
 
 [[repo]]
-url = "https://github.com/chainblocks/Publish-Docker-Github-Action"
+url = "https://github.com/shards-lang/rust-ctor"
 
 [[repo]]
-url = "https://github.com/chainblocks/replxx"
+url = "https://github.com/shards-lang/rust-registry"
 
 [[repo]]
-url = "https://github.com/chainblocks/rpmalloc"
+url = "https://github.com/shards-lang/rust-web3"
 
 [[repo]]
-url = "https://github.com/chainblocks/rust-ctor"
+url = "https://github.com/shards-lang/rust_tracy_client"
 
 [[repo]]
-url = "https://github.com/chainblocks/rust-registry"
+url = "https://github.com/shards-lang/SDL"
 
 [[repo]]
-url = "https://github.com/chainblocks/rust-web3"
+url = "https://github.com/shards-lang/SDL-org"
 
 [[repo]]
-url = "https://github.com/chainblocks/rust_tracy_client"
+url = "https://github.com/shards-lang/serialization-formats"
 
 [[repo]]
-url = "https://github.com/chainblocks/SDL"
+url = "https://github.com/shards-lang/setup-ipfs"
 
 [[repo]]
-url = "https://github.com/chainblocks/SDL-org"
+url = "https://github.com/shards-lang/setup-msys2"
 
 [[repo]]
-url = "https://github.com/chainblocks/serialization-formats"
+url = "https://github.com/shards-lang/smoldot"
 
 [[repo]]
-url = "https://github.com/chainblocks/setup-ipfs"
+url = "https://github.com/shards-lang/snappy"
 
 [[repo]]
-url = "https://github.com/chainblocks/setup-msys2"
+url = "https://github.com/shards-lang/spdlog"
 
 [[repo]]
-url = "https://github.com/chainblocks/smoldot"
+url = "https://github.com/shards-lang/SPIRV-Cross"
 
 [[repo]]
-url = "https://github.com/chainblocks/snappy"
+url = "https://github.com/shards-lang/SPIRV-Headers"
 
 [[repo]]
-url = "https://github.com/chainblocks/spdlog"
+url = "https://github.com/shards-lang/SPIRV-Tools"
 
 [[repo]]
-url = "https://github.com/chainblocks/SPIRV-Cross"
+url = "https://github.com/shards-lang/SPSCQueue"
 
 [[repo]]
-url = "https://github.com/chainblocks/SPIRV-Headers"
+url = "https://github.com/shards-lang/stb"
 
 [[repo]]
-url = "https://github.com/chainblocks/SPIRV-Tools"
+url = "https://github.com/shards-lang/substrate-api-client"
 
 [[repo]]
-url = "https://github.com/chainblocks/SPSCQueue"
+url = "https://github.com/shards-lang/tgbot-cpp"
 
 [[repo]]
-url = "https://github.com/chainblocks/stb"
+url = "https://github.com/shards-lang/tinygltf"
 
 [[repo]]
-url = "https://github.com/chainblocks/substrate-api-client"
+url = "https://github.com/shards-lang/toolchain"
 
 [[repo]]
-url = "https://github.com/chainblocks/tgbot-cpp"
+url = "https://github.com/shards-lang/upx"
 
 [[repo]]
-url = "https://github.com/chainblocks/tinygltf"
+url = "https://github.com/shards-lang/USD"
 
 [[repo]]
-url = "https://github.com/chainblocks/toolchain"
+url = "https://github.com/shards-lang/utf8.h"
 
 [[repo]]
-url = "https://github.com/chainblocks/upx"
+url = "https://github.com/shards-lang/wabt"
 
 [[repo]]
-url = "https://github.com/chainblocks/USD"
+url = "https://github.com/shards-lang/wasienv"
 
 [[repo]]
-url = "https://github.com/chainblocks/utf8.h"
+url = "https://github.com/shards-lang/wasm-micro-runtime"
 
 [[repo]]
-url = "https://github.com/chainblocks/wabt"
+url = "https://github.com/shards-lang/wasm3"
 
 [[repo]]
-url = "https://github.com/chainblocks/wasienv"
+url = "https://github.com/shards-lang/wgpu"
 
 [[repo]]
-url = "https://github.com/chainblocks/wasm-micro-runtime"
+url = "https://github.com/shards-lang/wgpu-native"
 
 [[repo]]
-url = "https://github.com/chainblocks/wasm3"
+url = "https://github.com/shards-lang/winterfell"
 
 [[repo]]
-url = "https://github.com/chainblocks/wgpu"
+url = "https://github.com/shards-lang/XNNPACK"
 
 [[repo]]
-url = "https://github.com/chainblocks/wgpu-native"
+url = "https://github.com/shards-lang/xvfb-action"
 
 [[repo]]
-url = "https://github.com/chainblocks/winterfell"
+url = "https://github.com/shards-lang/xxHash"
 
 [[repo]]
-url = "https://github.com/chainblocks/XNNPACK"
+url = "https://github.com/shards-lang/yas"
 
 [[repo]]
-url = "https://github.com/chainblocks/xvfb-action"
-
-[[repo]]
-url = "https://github.com/chainblocks/xxHash"
-
-[[repo]]
-url = "https://github.com/chainblocks/yas"
-
-[[repo]]
-url = "https://github.com/chainblocks/zep"
+url = "https://github.com/shards-lang/zep"

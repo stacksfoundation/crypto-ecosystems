@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/deeper-chain"]
 url = "https://github.com/deeper-chain/blockscout"
 
 [[repo]]
-url = "https://github.com/deeper-chain/chain_watcher"
-
-[[repo]]
 url = "https://github.com/deeper-chain/common-contracts"
 
 [[repo]]
@@ -31,10 +28,19 @@ url = "https://github.com/deeper-chain/deeper-balances"
 url = "https://github.com/deeper-chain/deeper-chain"
 
 [[repo]]
+url = "https://github.com/deeper-chain/deeper-dev-upptime"
+
+[[repo]]
 url = "https://github.com/deeper-chain/deeper-machine"
 
 [[repo]]
+url = "https://github.com/deeper-chain/deeper-upptime"
+
+[[repo]]
 url = "https://github.com/deeper-chain/deeperchain-docs"
+
+[[repo]]
+url = "https://github.com/deeper-chain/deepergpt-ui"
 
 [[repo]]
 url = "https://github.com/deeper-chain/deeperscan"
@@ -43,13 +49,13 @@ url = "https://github.com/deeper-chain/deeperscan"
 url = "https://github.com/deeper-chain/deeperscan-nft"
 
 [[repo]]
+url = "https://github.com/deeper-chain/dep-docs"
+
+[[repo]]
 url = "https://github.com/deeper-chain/desub"
 
 [[repo]]
 url = "https://github.com/deeper-chain/DeveloperCommunity"
-
-[[repo]]
-url = "https://github.com/deeper-chain/DeveloperHub"
 
 [[repo]]
 url = "https://github.com/deeper-chain/frontier"
@@ -59,6 +65,9 @@ url = "https://github.com/deeper-chain/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/deeper-chain/Grants-Program"
+
+[[repo]]
+url = "https://github.com/deeper-chain/hd-wallet"
 
 [[repo]]
 url = "https://github.com/deeper-chain/integration-tests"
@@ -76,6 +85,9 @@ url = "https://github.com/deeper-chain/polkascan-explorer-ui"
 url = "https://github.com/deeper-chain/polygonbridge"
 
 [[repo]]
+url = "https://github.com/deeper-chain/proxy-wallet"
+
+[[repo]]
 url = "https://github.com/deeper-chain/py-scale-codec"
 
 [[repo]]
@@ -86,6 +98,9 @@ url = "https://github.com/deeper-chain/tops-chain"
 
 [[repo]]
 url = "https://github.com/deeper-chain/txwrapper"
+
+[[repo]]
+url = "https://github.com/deeper-chain/wallet-core-interact"
 
 [[repo]]
 url = "https://github.com/deeper-chain/web3d"

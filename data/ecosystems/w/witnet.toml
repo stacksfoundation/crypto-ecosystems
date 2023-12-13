@@ -13,9 +13,6 @@ url = "https://github.com/witnet/aragon-govern-discord-integration"
 url = "https://github.com/witnet/async-jsonrpc-client"
 
 [[repo]]
-url = "https://github.com/witnet/bls-bn128"
-
-[[repo]]
 url = "https://github.com/witnet/bls-signatures-rs"
 
 [[repo]]
@@ -32,9 +29,6 @@ url = "https://github.com/witnet/cbor-codec"
 
 [[repo]]
 url = "https://github.com/witnet/community-bot"
-
-[[repo]]
-url = "https://github.com/witnet/data-feed-app"
 
 [[repo]]
 url = "https://github.com/witnet/data-feeds-explorer"
@@ -58,10 +52,13 @@ url = "https://github.com/witnet/http-post-adapter"
 url = "https://github.com/witnet/marketplace-api"
 
 [[repo]]
-url = "https://github.com/witnet/ntp"
+url = "https://github.com/witnet/my-wit-wallet"
 
 [[repo]]
-url = "https://github.com/witnet/price_feed_poller"
+url = "https://github.com/witnet/my-wit-wallet-website"
+
+[[repo]]
+url = "https://github.com/witnet/ntp"
 
 [[repo]]
 url = "https://github.com/witnet/protobuf-convert"
@@ -109,7 +106,7 @@ url = "https://github.com/witnet/witnet-bounties"
 url = "https://github.com/witnet/witnet-ethereum-block-relay"
 
 [[repo]]
-url = "https://github.com/witnet/witnet-ethereum-bridge"
+url = "https://github.com/witnet/witnet-feeds"
 
 [[repo]]
 url = "https://github.com/witnet/witnet-integrations"
@@ -119,9 +116,6 @@ url = "https://github.com/witnet/witnet-operator-tools"
 
 [[repo]]
 url = "https://github.com/witnet/witnet-polkadot"
-
-[[repo]]
-url = "https://github.com/witnet/witnet-price-feed-examples"
 
 [[repo]]
 url = "https://github.com/witnet/witnet-price-feeds"
@@ -142,16 +136,28 @@ url = "https://github.com/witnet/witnet-requests-js"
 url = "https://github.com/witnet/witnet-rust"
 
 [[repo]]
+url = "https://github.com/witnet/witnet-solidity"
+
+[[repo]]
 url = "https://github.com/witnet/witnet-solidity-bridge"
 
 [[repo]]
+url = "https://github.com/witnet/witnet-utils"
+
+[[repo]]
 url = "https://github.com/witnet/witnet.dart"
+
+[[repo]]
+url = "https://github.com/witnet/witnet.dart-1"
 
 [[repo]]
 url = "https://github.com/witnet/witnet_wallet"
 
 [[repo]]
 url = "https://github.com/witnet/witty-creatures"
+
+[[repo]]
+url = "https://github.com/witnet/witty-jsonrpc"
 
 [[repo]]
 url = "https://github.com/witnet/xmpp-rs"

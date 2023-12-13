@@ -25,6 +25,9 @@ url = "https://github.com/ChainSafe/AGP-Report"
 url = "https://github.com/ChainSafe/AGPs"
 
 [[repo]]
+url = "https://github.com/ChainSafe/aleo-snap"
+
+[[repo]]
 url = "https://github.com/ChainSafe/Anemone"
 
 [[repo]]
@@ -55,10 +58,16 @@ url = "https://github.com/ChainSafe/as-merkle-tree"
 url = "https://github.com/ChainSafe/as-sha256"
 
 [[repo]]
+url = "https://github.com/ChainSafe/audit-report-template"
+
+[[repo]]
 url = "https://github.com/ChainSafe/audits"
 
 [[repo]]
 url = "https://github.com/ChainSafe/babel-plugin-inline-binary-import"
+
+[[repo]]
+url = "https://github.com/ChainSafe/battlefield-ethereum"
 
 [[repo]]
 url = "https://github.com/ChainSafe/beacon-state-upload"
@@ -68,6 +77,12 @@ url = "https://github.com/ChainSafe/besu"
 
 [[repo]]
 url = "https://github.com/ChainSafe/bit-utils"
+
+[[repo]]
+url = "https://github.com/ChainSafe/BlockRacers"
+
+[[repo]]
+url = "https://github.com/ChainSafe/BlockRacersGame"
 
 [[repo]]
 url = "https://github.com/ChainSafe/blockscout"
@@ -92,6 +107,9 @@ url = "https://github.com/ChainSafe/bls-keystore"
 
 [[repo]]
 url = "https://github.com/ChainSafe/blst-ts"
+
+[[repo]]
+url = "https://github.com/ChainSafe/bncrawler"
 
 [[repo]]
 url = "https://github.com/ChainSafe/browser-storage-hooks"
@@ -145,9 +163,6 @@ url = "https://github.com/ChainSafe/chainbridge-docs"
 url = "https://github.com/ChainSafe/chainbridge-ethereum-trie"
 
 [[repo]]
-url = "https://github.com/ChainSafe/chainbridge-landing"
-
-[[repo]]
 url = "https://github.com/ChainSafe/chainbridge-migration"
 
 [[repo]]
@@ -196,12 +211,6 @@ url = "https://github.com/ChainSafe/chainlink-polkadot"
 url = "https://github.com/ChainSafe/chains"
 
 [[repo]]
-url = "https://github.com/ChainSafe/ChainSafe-Demo"
-
-[[repo]]
-url = "https://github.com/ChainSafe/ChainSafe-Demo-Project-Files"
-
-[[repo]]
 url = "https://github.com/ChainSafe/ChainSafe-Demo-WebGL"
 
 [[repo]]
@@ -214,10 +223,16 @@ url = "https://github.com/ChainSafe/ChainSafe-Demo-WW"
 url = "https://github.com/ChainSafe/ChainSafe-Demo-WWProject-Files"
 
 [[repo]]
+url = "https://github.com/ChainSafe/ChainSafe.GamingSDK.EVM.Unity"
+
+[[repo]]
 url = "https://github.com/ChainSafe/consensus-specs"
 
 [[repo]]
 url = "https://github.com/ChainSafe/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/ChainSafe/cumulus"
 
 [[repo]]
 url = "https://github.com/ChainSafe/dapp-boilerplate"
@@ -268,6 +283,9 @@ url = "https://github.com/ChainSafe/ECOHacks"
 url = "https://github.com/ChainSafe/eip-2335-json-schema"
 
 [[repo]]
+url = "https://github.com/ChainSafe/engineering-handbook"
+
+[[repo]]
 url = "https://github.com/ChainSafe/enr"
 
 [[repo]]
@@ -280,7 +298,13 @@ url = "https://github.com/ChainSafe/ens-aztec-privacy"
 url = "https://github.com/ChainSafe/entrepreneurship-society-demo"
 
 [[repo]]
+url = "https://github.com/ChainSafe/erigon"
+
+[[repo]]
 url = "https://github.com/ChainSafe/eslint-config"
+
+[[repo]]
+url = "https://github.com/ChainSafe/eslint-config-ipfs"
 
 [[repo]]
 url = "https://github.com/ChainSafe/eslint-plugin-node"
@@ -307,9 +331,6 @@ url = "https://github.com/ChainSafe/eth-net-intelligence-api"
 url = "https://github.com/ChainSafe/eth2-bls-wasm"
 
 [[repo]]
-url = "https://github.com/ChainSafe/eth2-crawler"
-
-[[repo]]
 url = "https://github.com/ChainSafe/eth2-gindex-tests"
 
 [[repo]]
@@ -334,13 +355,13 @@ url = "https://github.com/ChainSafe/eth2.0-spec-test-util"
 url = "https://github.com/ChainSafe/eth2.0-spec-tests"
 
 [[repo]]
-url = "https://github.com/ChainSafe/eth2.0-specs"
-
-[[repo]]
 url = "https://github.com/ChainSafe/eth2.0-ssz"
 
 [[repo]]
 url = "https://github.com/ChainSafe/ethereum-etl"
+
+[[repo]]
+url = "https://github.com/ChainSafe/ethereum-testnet-bootstrapper"
 
 [[repo]]
 url = "https://github.com/ChainSafe/ethereumj"
@@ -350,6 +371,9 @@ url = "https://github.com/ChainSafe/ethereumjs-client"
 
 [[repo]]
 url = "https://github.com/ChainSafe/ethereumjs-orbitdb-blockchain"
+
+[[repo]]
+url = "https://github.com/ChainSafe/EthereumRPCSharp"
 
 [[repo]]
 url = "https://github.com/ChainSafe/ethermint"
@@ -370,7 +394,13 @@ url = "https://github.com/ChainSafe/ethermint-scripts"
 url = "https://github.com/ChainSafe/ethers.js"
 
 [[repo]]
+url = "https://github.com/ChainSafe/EthersCSharp"
+
+[[repo]]
 url = "https://github.com/ChainSafe/ethersjs-genaddress"
+
+[[repo]]
+url = "https://github.com/ChainSafe/EthersSharp"
 
 [[repo]]
 url = "https://github.com/ChainSafe/EthIndia2019"
@@ -445,6 +475,9 @@ url = "https://github.com/ChainSafe/game-web3gl"
 url = "https://github.com/ChainSafe/game-web3wallet"
 
 [[repo]]
+url = "https://github.com/ChainSafe/gaming-builders-program-website"
+
+[[repo]]
 url = "https://github.com/ChainSafe/ganache-cli"
 
 [[repo]]
@@ -455,6 +488,9 @@ url = "https://github.com/ChainSafe/geth"
 
 [[repo]]
 url = "https://github.com/ChainSafe/geth-dev-assistant"
+
+[[repo]]
+url = "https://github.com/ChainSafe/github-analytics"
 
 [[repo]]
 url = "https://github.com/ChainSafe/go-cumulus"
@@ -532,6 +568,9 @@ url = "https://github.com/ChainSafe/gsn"
 url = "https://github.com/ChainSafe/hacknet"
 
 [[repo]]
+url = "https://github.com/ChainSafe/halo2curves"
+
+[[repo]]
 url = "https://github.com/ChainSafe/HELPq"
 
 [[repo]]
@@ -557,6 +596,9 @@ url = "https://github.com/ChainSafe/is-ip"
 
 [[repo]]
 url = "https://github.com/ChainSafe/it-handshake"
+
+[[repo]]
+url = "https://github.com/ChainSafe/js-datastore-core"
 
 [[repo]]
 url = "https://github.com/ChainSafe/js-libp2p"
@@ -625,13 +667,19 @@ url = "https://github.com/ChainSafe/libp2p-ts"
 url = "https://github.com/ChainSafe/life"
 
 [[repo]]
+url = "https://github.com/ChainSafe/lighthouse"
+
+[[repo]]
+url = "https://github.com/ChainSafe/lighthouse-metrics"
+
+[[repo]]
 url = "https://github.com/ChainSafe/liscon-ui"
 
 [[repo]]
 url = "https://github.com/ChainSafe/lodestar"
 
 [[repo]]
-url = "https://github.com/ChainSafe/lodestar-landing"
+url = "https://github.com/ChainSafe/lodestar-metrics"
 
 [[repo]]
 url = "https://github.com/ChainSafe/lodestar-quickstart"
@@ -650,6 +698,9 @@ url = "https://github.com/ChainSafe/lotus"
 
 [[repo]]
 url = "https://github.com/ChainSafe/mantis"
+
+[[repo]]
+url = "https://github.com/ChainSafe/marketplace-landing"
 
 [[repo]]
 url = "https://github.com/ChainSafe/metamask-eth2"
@@ -676,13 +727,25 @@ url = "https://github.com/ChainSafe/mina-snap"
 url = "https://github.com/ChainSafe/minasnap"
 
 [[repo]]
+url = "https://github.com/ChainSafe/Multix"
+
+[[repo]]
 url = "https://github.com/ChainSafe/near-snap"
+
+[[repo]]
+url = "https://github.com/ChainSafe/netmask"
 
 [[repo]]
 url = "https://github.com/ChainSafe/noble-secp256k1"
 
 [[repo]]
 url = "https://github.com/ChainSafe/node-fast-crc32c"
+
+[[repo]]
+url = "https://github.com/ChainSafe/node-gcstats"
+
+[[repo]]
+url = "https://github.com/ChainSafe/node-prometheus-gc-stats"
 
 [[repo]]
 url = "https://github.com/ChainSafe/node-snappy-stream"
@@ -727,6 +790,9 @@ url = "https://github.com/ChainSafe/persistent-ts"
 url = "https://github.com/ChainSafe/PINT"
 
 [[repo]]
+url = "https://github.com/ChainSafe/polkadot"
+
+[[repo]]
 url = "https://github.com/ChainSafe/polkadot-launch"
 
 [[repo]]
@@ -748,6 +814,9 @@ url = "https://github.com/ChainSafe/postgres-docker"
 url = "https://github.com/ChainSafe/powergate"
 
 [[repo]]
+url = "https://github.com/ChainSafe/protocol"
+
+[[repo]]
 url = "https://github.com/ChainSafe/prysm-testnet-site"
 
 [[repo]]
@@ -760,6 +829,12 @@ url = "https://github.com/ChainSafe/pyrmont"
 url = "https://github.com/ChainSafe/react-scratchpad"
 
 [[repo]]
+url = "https://github.com/ChainSafe/recursive-zk-bridge"
+
+[[repo]]
+url = "https://github.com/ChainSafe/ref-fvm"
+
+[[repo]]
 url = "https://github.com/ChainSafe/rlp"
 
 [[repo]]
@@ -770,6 +845,12 @@ url = "https://github.com/ChainSafe/rust-bls-derivation"
 
 [[repo]]
 url = "https://github.com/ChainSafe/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/ChainSafe/rust-libp2p-nym"
+
+[[repo]]
+url = "https://github.com/ChainSafe/rust-multiaddr"
 
 [[repo]]
 url = "https://github.com/ChainSafe/rwot7"
@@ -793,9 +874,6 @@ url = "https://github.com/ChainSafe/sha256-rust-wasm"
 url = "https://github.com/ChainSafe/sharding-storybook"
 
 [[repo]]
-url = "https://github.com/ChainSafe/shared-eslint-config"
-
-[[repo]]
 url = "https://github.com/ChainSafe/shyft_ethereumjs-vm"
 
 [[repo]]
@@ -805,10 +883,16 @@ url = "https://github.com/ChainSafe/simpleserialize.com"
 url = "https://github.com/ChainSafe/slashing-protection-interchange-tests"
 
 [[repo]]
+url = "https://github.com/ChainSafe/snap-tooling"
+
+[[repo]]
 url = "https://github.com/ChainSafe/snaps-skunkworks"
 
 [[repo]]
 url = "https://github.com/ChainSafe/sparse-merkle-js"
+
+[[repo]]
+url = "https://github.com/ChainSafe/ssv-rs"
 
 [[repo]]
 url = "https://github.com/ChainSafe/ssz"
@@ -832,31 +916,13 @@ url = "https://github.com/ChainSafe/substrate-node-template"
 url = "https://github.com/ChainSafe/swap.kiwi"
 
 [[repo]]
-url = "https://github.com/ChainSafe/sygma-celo-module"
-
-[[repo]]
-url = "https://github.com/ChainSafe/sygma-core"
-
-[[repo]]
-url = "https://github.com/ChainSafe/sygma-core-example"
-
-[[repo]]
 url = "https://github.com/ChainSafe/sygma-landing"
-
-[[repo]]
-url = "https://github.com/ChainSafe/sygma-optimism-module"
-
-[[repo]]
-url = "https://github.com/ChainSafe/sygma-quorum-module"
 
 [[repo]]
 url = "https://github.com/ChainSafe/sygma-sdk"
 
 [[repo]]
-url = "https://github.com/ChainSafe/sygma-solidity"
-
-[[repo]]
-url = "https://github.com/ChainSafe/sygma-ui"
+url = "https://github.com/ChainSafe/sygma-validator-faucet"
 
 [[repo]]
 url = "https://github.com/ChainSafe/template-snap-monorepo"
@@ -878,6 +944,9 @@ url = "https://github.com/ChainSafe/thegarii"
 
 [[repo]]
 url = "https://github.com/ChainSafe/threads.js"
+
+[[repo]]
+url = "https://github.com/ChainSafe/threshlib"
 
 [[repo]]
 url = "https://github.com/ChainSafe/toshimon-statechannels"
@@ -904,7 +973,13 @@ url = "https://github.com/ChainSafe/typescript-lib-template"
 url = "https://github.com/ChainSafe/ui-monorepo"
 
 [[repo]]
+url = "https://github.com/ChainSafe/uint8-varint"
+
+[[repo]]
 url = "https://github.com/ChainSafe/uint8arrays"
+
+[[repo]]
+url = "https://github.com/ChainSafe/unicorn"
 
 [[repo]]
 url = "https://github.com/ChainSafe/uniswap-frontend"
@@ -925,28 +1000,43 @@ url = "https://github.com/ChainSafe/varint"
 url = "https://github.com/ChainSafe/vdf-js"
 
 [[repo]]
+url = "https://github.com/ChainSafe/vite-component-librarie-template"
+
+[[repo]]
+url = "https://github.com/ChainSafe/vrf-lootbox-contracts"
+
+[[repo]]
 url = "https://github.com/ChainSafe/W-OTS"
 
 [[repo]]
 url = "https://github.com/ChainSafe/wallet-selector"
 
 [[repo]]
-url = "https://github.com/ChainSafe/web3-context"
+url = "https://github.com/ChainSafe/wazero"
 
 [[repo]]
-url = "https://github.com/ChainSafe/web3.js"
+url = "https://github.com/ChainSafe/web3-context"
 
 [[repo]]
 url = "https://github.com/ChainSafe/web3.js-plugin-chainlink"
 
 [[repo]]
+url = "https://github.com/ChainSafe/web3.js-plugin-template"
+
+[[repo]]
+url = "https://github.com/ChainSafe/web3.js-plugin-tokens"
+
+[[repo]]
 url = "https://github.com/ChainSafe/web3.unity"
+
+[[repo]]
+url = "https://github.com/ChainSafe/web3.unity-private"
 
 [[repo]]
 url = "https://github.com/ChainSafe/web3js-example-react-app"
 
 [[repo]]
-url = "https://github.com/ChainSafe/web3js-landing"
+url = "https://github.com/ChainSafe/web3js-plugins"
 
 [[repo]]
 url = "https://github.com/ChainSafe/WebSocket-Node"
@@ -956,6 +1046,15 @@ url = "https://github.com/ChainSafe/WeiPay"
 
 [[repo]]
 url = "https://github.com/ChainSafe/whiteblock-aion"
+
+[[repo]]
+url = "https://github.com/ChainSafe/yarn-workspaces-typescript-template"
+
+[[repo]]
+url = "https://github.com/ChainSafe/Zipline-lightclient"
+
+[[repo]]
+url = "https://github.com/ChainSafe/zombienet"
 
 [[repo]]
 url = "https://github.com/NodeFactoryIo/atom-solidity-comments"
@@ -1138,9 +1237,6 @@ url = "https://github.com/NodeFactoryIo/split-payment-web"
 url = "https://github.com/NodeFactoryIo/standup-bot"
 
 [[repo]]
-url = "https://github.com/NodeFactoryIo/strip-comments"
-
-[[repo]]
 url = "https://github.com/NodeFactoryIo/typeorm"
 
 [[repo]]
@@ -1178,3 +1274,9 @@ url = "https://github.com/NodeFactoryIo/winston-loki"
 
 [[repo]]
 url = "https://github.com/NodeFactoryIo/witx-md-generator-action"
+
+[[repo]]
+url = "https://github.com/web3/web3.js"
+
+[[repo]]
+url = "https://github.com/web3/web3js-landing"

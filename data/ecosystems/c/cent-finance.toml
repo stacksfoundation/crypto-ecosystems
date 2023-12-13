@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/centfinance"]
 url = "https://github.com/centfinance/assets"
 
 [[repo]]
+url = "https://github.com/centfinance/Balancer.Controller"
+
+[[repo]]
+url = "https://github.com/centfinance/Balancer.ControllerSPA"
+
+[[repo]]
 url = "https://github.com/centfinance/Cent.Omnibridge"
 
 [[repo]]
@@ -17,6 +23,9 @@ url = "https://github.com/centfinance/Cent.Wallet"
 
 [[repo]]
 url = "https://github.com/centfinance/Cent.Wallet_API"
+
+[[repo]]
+url = "https://github.com/centfinance/Cent.Website"
 
 [[repo]]
 url = "https://github.com/centfinance/CentToken"
@@ -67,6 +76,9 @@ url = "https://github.com/centfinance/RewardsDaemon"
 url = "https://github.com/centfinance/RewardsDashboard"
 
 [[repo]]
+url = "https://github.com/centfinance/sourcify"
+
+[[repo]]
 url = "https://github.com/centfinance/symmetric-farming-subgraph"
 
 [[repo]]
@@ -94,13 +106,25 @@ url = "https://github.com/centfinance/Symmetric.Core"
 url = "https://github.com/centfinance/Symmetric.CoreContracts-v2"
 
 [[repo]]
+url = "https://github.com/centfinance/Symmetric.CoreContracts-v2-Tezos"
+
+[[repo]]
 url = "https://github.com/centfinance/Symmetric.CustMulticall"
+
+[[repo]]
+url = "https://github.com/centfinance/Symmetric.Deployments"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.ExchangeUI"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.Farms"
+
+[[repo]]
+url = "https://github.com/centfinance/Symmetric.Frontend-Tezos"
+
+[[repo]]
+url = "https://github.com/centfinance/Symmetric.Frontend-v3"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.ipfs-push"
@@ -118,9 +142,6 @@ url = "https://github.com/centfinance/Symmetric.PoolsUI"
 url = "https://github.com/centfinance/Symmetric.Rewards"
 
 [[repo]]
-url = "https://github.com/centfinance/Symmetric.Sdk-v2"
-
-[[repo]]
 url = "https://github.com/centfinance/Symmetric.Sor"
 
 [[repo]]
@@ -131,6 +152,9 @@ url = "https://github.com/centfinance/Symmetric.Subgraph"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.Subgraph-v2"
+
+[[repo]]
+url = "https://github.com/centfinance/Symmetric.Subgraph-v3"
 
 [[repo]]
 url = "https://github.com/centfinance/Symmetric.SymmCoin"
@@ -146,3 +170,6 @@ url = "https://github.com/centfinance/Tezos"
 
 [[repo]]
 url = "https://github.com/centfinance/tokenbridge"
+
+[[repo]]
+url = "https://github.com/centfinance/tokenlists"

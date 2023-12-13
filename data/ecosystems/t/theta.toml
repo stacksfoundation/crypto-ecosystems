@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/thetatoken"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/blockchain-etl/theta-etl"
+
+[[repo]]
 url = "https://github.com/thetatoken/app-ethereum"
 
 [[repo]]
 url = "https://github.com/thetatoken/chains"
+
+[[repo]]
+url = "https://github.com/thetatoken/dapp-nft-staking-demo"
 
 [[repo]]
 url = "https://github.com/thetatoken/guardian-mainnet-guide"
@@ -40,6 +46,9 @@ url = "https://github.com/thetatoken/tdrop-governance"
 url = "https://github.com/thetatoken/tdrop-marketplace"
 
 [[repo]]
+url = "https://github.com/thetatoken/theta-blocks"
+
+[[repo]]
 url = "https://github.com/thetatoken/theta-drop-connect-example"
 
 [[repo]]
@@ -52,7 +61,7 @@ url = "https://github.com/thetatoken/theta-erc20-token-sale"
 url = "https://github.com/thetatoken/theta-eth-rpc-adaptor"
 
 [[repo]]
-url = "https://github.com/thetatoken/theta-etl"
+url = "https://github.com/thetatoken/theta-foodcourt"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-hardhat-demo"
@@ -68,6 +77,9 @@ url = "https://github.com/thetatoken/theta-launcher"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-mainnet-integration-guide"
+
+[[repo]]
+url = "https://github.com/thetatoken/theta-metachain-guide"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-metamask-demo"
@@ -99,6 +111,9 @@ url = "https://github.com/thetatoken/theta-rosetta-rpc-adaptor"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-tool-ethereum-erc20-snapshot"
+
+[[repo]]
+url = "https://github.com/thetatoken/theta-video-api-demo"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-wallet-web"

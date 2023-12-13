@@ -16,6 +16,9 @@ url = "https://github.com/figment-networks/avalanche-indexer"
 url = "https://github.com/figment-networks/bakerhub-indexer"
 
 [[repo]]
+url = "https://github.com/figment-networks/celestia--networks"
+
+[[repo]]
 url = "https://github.com/figment-networks/celo-blockchain"
 
 [[repo]]
@@ -29,9 +32,6 @@ url = "https://github.com/figment-networks/celo-rosetta-api"
 
 [[repo]]
 url = "https://github.com/figment-networks/contracts"
-
-[[repo]]
-url = "https://github.com/figment-networks/core"
 
 [[repo]]
 url = "https://github.com/figment-networks/cosmos-omnibus"
@@ -55,7 +55,7 @@ url = "https://github.com/figment-networks/custom-markdown"
 url = "https://github.com/figment-networks/datahub-cors-dev-proxy"
 
 [[repo]]
-url = "https://github.com/figment-networks/datahub-learn"
+url = "https://github.com/figment-networks/datateam-sigma-plugins-km-text"
 
 [[repo]]
 url = "https://github.com/figment-networks/docs"
@@ -65,9 +65,6 @@ url = "https://github.com/figment-networks/ethereum-worker"
 
 [[repo]]
 url = "https://github.com/figment-networks/example-subgraph"
-
-[[repo]]
-url = "https://github.com/figment-networks/extractor-cosmos"
 
 [[repo]]
 url = "https://github.com/figment-networks/extractor-tendermint"
@@ -94,13 +91,7 @@ url = "https://github.com/figment-networks/filecoin-indexer"
 url = "https://github.com/figment-networks/fireblocks"
 
 [[repo]]
-url = "https://github.com/figment-networks/firehose-cosmos"
-
-[[repo]]
 url = "https://github.com/figment-networks/firehose-docs"
-
-[[repo]]
-url = "https://github.com/figment-networks/firehose-tendermint"
 
 [[repo]]
 url = "https://github.com/figment-networks/flow-go-sdk"
@@ -166,9 +157,6 @@ url = "https://github.com/figment-networks/indexer-scheduler"
 url = "https://github.com/figment-networks/indexing-engine"
 
 [[repo]]
-url = "https://github.com/figment-networks/juno"
-
-[[repo]]
 url = "https://github.com/figment-networks/kava-worker"
 
 [[repo]]
@@ -193,6 +181,9 @@ url = "https://github.com/figment-networks/learn-tutorials"
 url = "https://github.com/figment-networks/learn-web3-dapp"
 
 [[repo]]
+url = "https://github.com/figment-networks/ledger-app-plugin"
+
+[[repo]]
 url = "https://github.com/figment-networks/mina-archive-proxy"
 
 [[repo]]
@@ -205,7 +196,13 @@ url = "https://github.com/figment-networks/mina-pool-payout"
 url = "https://github.com/figment-networks/miner_exporter"
 
 [[repo]]
+url = "https://github.com/figment-networks/multiversx"
+
+[[repo]]
 url = "https://github.com/figment-networks/near-indexer"
+
+[[repo]]
+url = "https://github.com/figment-networks/network-athens3"
 
 [[repo]]
 url = "https://github.com/figment-networks/networks"
@@ -230,9 +227,6 @@ url = "https://github.com/figment-networks/oasishub-indexer"
 
 [[repo]]
 url = "https://github.com/figment-networks/ops-challenge-skeleton"
-
-[[repo]]
-url = "https://github.com/figment-networks/osmosis"
 
 [[repo]]
 url = "https://github.com/figment-networks/pagy-cursor"
@@ -268,10 +262,13 @@ url = "https://github.com/figment-networks/rosetta-staking-api-proposal"
 url = "https://github.com/figment-networks/skale-indexer"
 
 [[repo]]
+url = "https://github.com/figment-networks/sso"
+
+[[repo]]
 url = "https://github.com/figment-networks/subgraph-cosmos-example"
 
 [[repo]]
-url = "https://github.com/figment-networks/tendermint"
+url = "https://github.com/figment-networks/super-rotary-phone"
 
 [[repo]]
 url = "https://github.com/figment-networks/tendermint-protobuf-def"
@@ -298,6 +295,12 @@ url = "https://github.com/figment-networks/tsdx"
 url = "https://github.com/figment-networks/tutorials"
 
 [[repo]]
+url = "https://github.com/figment-networks/validator-profiles"
+
+[[repo]]
+url = "https://github.com/figment-networks/visualize-staking-api-flows"
+
+[[repo]]
 url = "https://github.com/figment-networks/wallet-tutorial"
 
 [[repo]]
@@ -308,3 +311,21 @@ url = "https://github.com/figment-networks/web3-mirror-tutorial"
 
 [[repo]]
 url = "https://github.com/figment-networks/workflow"
+
+[[repo]]
+url = "https://github.com/graphprotocol/extractor-cosmos"
+
+[[repo]]
+url = "https://github.com/graphprotocol/firehose-cosmos"
+
+[[repo]]
+url = "https://github.com/graphprotocol/firehose-cosmos-archived"
+
+[[repo]]
+url = "https://github.com/graphprotocol/juno"
+
+[[repo]]
+url = "https://github.com/graphprotocol/osmosis"
+
+[[repo]]
+url = "https://github.com/graphprotocol/tendermint"

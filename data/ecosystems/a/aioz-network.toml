@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/AIOZNetwork"]
 url = "https://github.com/AIOZNetwork/aioz-explorer"
 
 [[repo]]
+url = "https://github.com/AIOZNetwork/aioz-node"
+
+[[repo]]
+url = "https://github.com/AIOZNetwork/aioz-w3s-s3-docs"
+
+[[repo]]
 url = "https://github.com/AIOZNetwork/bep20-contracts"
 
 [[repo]]
@@ -23,6 +29,9 @@ url = "https://github.com/AIOZNetwork/ethermint"
 
 [[repo]]
 url = "https://github.com/AIOZNetwork/mainnet"
+
+[[repo]]
+url = "https://github.com/AIOZNetwork/pinning-service-cli"
 
 [[repo]]
 url = "https://github.com/AIOZNetwork/testnets"

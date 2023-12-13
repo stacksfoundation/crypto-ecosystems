@@ -13,6 +13,9 @@ url = "https://github.com/ZooFarming/Audit"
 url = "https://github.com/ZooFarming/auto-divider"
 
 [[repo]]
+url = "https://github.com/ZooFarming/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/ZooFarming/ecosystem-projects"
 
 [[repo]]
@@ -29,3 +32,9 @@ url = "https://github.com/ZooFarming/zoo-keeper-serverless-api"
 
 [[repo]]
 url = "https://github.com/ZooFarming/ZooGene-Contracts"
+
+[[repo]]
+url = "https://github.com/ZooFarming/ZooGenes-3D-Assests"
+
+[[repo]]
+url = "https://github.com/ZooFarming/ZooGenes-3D-Assets"

@@ -19,19 +19,25 @@ url = "https://github.com/dfx-finance/contracts"
 url = "https://github.com/dfx-finance/DeFi-Pulse-Adapters"
 
 [[repo]]
+url = "https://github.com/dfx-finance/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/dfx-finance/dfx-circ-supply"
 
 [[repo]]
-url = "https://github.com/dfx-finance/dfx-token"
+url = "https://github.com/dfx-finance/dfx-remittances"
 
 [[repo]]
-url = "https://github.com/dfx-finance/protocol"
+url = "https://github.com/dfx-finance/dfx-token"
 
 [[repo]]
 url = "https://github.com/dfx-finance/protocol-v1-deprecated"
 
 [[repo]]
 url = "https://github.com/dfx-finance/protocol-v2"
+
+[[repo]]
+url = "https://github.com/dfx-finance/protocol-v3"
 
 [[repo]]
 url = "https://github.com/dfx-finance/simple-security-toolkit"
@@ -41,6 +47,9 @@ url = "https://github.com/dfx-finance/snapshot-spaces"
 
 [[repo]]
 url = "https://github.com/dfx-finance/subgraph"
+
+[[repo]]
+url = "https://github.com/dfx-finance/ve-info"
 
 [[repo]]
 url = "https://github.com/dfx-finance/zapper-studio"

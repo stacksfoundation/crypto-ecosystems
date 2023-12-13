@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/lino-network"]
 url = "https://github.com/lino-network/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/lino-network/dlive.github.io"
+
+[[repo]]
 url = "https://github.com/lino-network/DliveTools"
 
 [[repo]]
@@ -50,9 +53,6 @@ url = "https://github.com/lino-network/gortmp_z"
 
 [[repo]]
 url = "https://github.com/lino-network/hls.js"
-
-[[repo]]
-url = "https://github.com/lino-network/ios-tool"
 
 [[repo]]
 url = "https://github.com/lino-network/lino"
@@ -101,3 +101,6 @@ url = "https://github.com/lino-network/vue-apollo"
 
 [[repo]]
 url = "https://github.com/lino-network/vue-class-component"
+
+[[repo]]
+url = "https://github.com/lino-network/web-api-test"

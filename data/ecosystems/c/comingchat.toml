@@ -16,6 +16,9 @@ url = "https://github.com/coming-chat/aptos-cid"
 url = "https://github.com/coming-chat/aptos-red-packet"
 
 [[repo]]
+url = "https://github.com/coming-chat/auto-client"
+
+[[repo]]
 url = "https://github.com/coming-chat/awesome-move"
 
 [[repo]]
@@ -25,10 +28,16 @@ url = "https://github.com/coming-chat/base-docker-enviroment"
 url = "https://github.com/coming-chat/bevy"
 
 [[repo]]
+url = "https://github.com/coming-chat/celer-rpc"
+
+[[repo]]
 url = "https://github.com/coming-chat/ChainXSDK-iOS"
 
 [[repo]]
 url = "https://github.com/coming-chat/coming-bug"
+
+[[repo]]
+url = "https://github.com/coming-chat/coming-go-v2"
 
 [[repo]]
 url = "https://github.com/coming-chat/coming-web3-provider"
@@ -41,6 +50,9 @@ url = "https://github.com/coming-chat/ComingID"
 
 [[repo]]
 url = "https://github.com/coming-chat/DaoMoment"
+
+[[repo]]
+url = "https://github.com/coming-chat/devops-agent"
 
 [[repo]]
 url = "https://github.com/coming-chat/Dmens"
@@ -58,6 +70,9 @@ url = "https://github.com/coming-chat/electrs"
 url = "https://github.com/coming-chat/go-aptos-sdk"
 
 [[repo]]
+url = "https://github.com/coming-chat/go-dmens-sdk"
+
+[[repo]]
 url = "https://github.com/coming-chat/go-ethereum-arbitrum"
 
 [[repo]]
@@ -65,6 +80,9 @@ url = "https://github.com/coming-chat/go-owcrypt"
 
 [[repo]]
 url = "https://github.com/coming-chat/go-red-packet"
+
+[[repo]]
+url = "https://github.com/coming-chat/go-sui-indexer"
 
 [[repo]]
 url = "https://github.com/coming-chat/go-sui-sdk"
@@ -82,13 +100,22 @@ url = "https://github.com/coming-chat/graph-node"
 url = "https://github.com/coming-chat/HelloMove"
 
 [[repo]]
+url = "https://github.com/coming-chat/intra-swap-core"
+
+[[repo]]
 url = "https://github.com/coming-chat/IPFS-Upload-Relay"
+
+[[repo]]
+url = "https://github.com/coming-chat/juno"
 
 [[repo]]
 url = "https://github.com/coming-chat/k8s-deploy-cli"
 
 [[repo]]
 url = "https://github.com/coming-chat/keyring"
+
+[[repo]]
+url = "https://github.com/coming-chat/kiosk-royalty"
 
 [[repo]]
 url = "https://github.com/coming-chat/lcs"
@@ -98,6 +125,9 @@ url = "https://github.com/coming-chat/light-white-paper"
 
 [[repo]]
 url = "https://github.com/coming-chat/mempool"
+
+[[repo]]
+url = "https://github.com/coming-chat/mempool-v2"
 
 [[repo]]
 url = "https://github.com/coming-chat/merlin"
@@ -118,25 +148,31 @@ url = "https://github.com/coming-chat/pallet-nft"
 url = "https://github.com/coming-chat/postgresql-migration-guide"
 
 [[repo]]
-url = "https://github.com/coming-chat/red-packet"
-
-[[repo]]
 url = "https://github.com/coming-chat/starcoin-go"
 
 [[repo]]
 url = "https://github.com/coming-chat/substrate"
 
 [[repo]]
+url = "https://github.com/coming-chat/sui-cat"
+
+[[repo]]
+url = "https://github.com/coming-chat/sui-nft"
+
+[[repo]]
 url = "https://github.com/coming-chat/sui-red-packet"
+
+[[repo]]
+url = "https://github.com/coming-chat/super-rotary-phone"
 
 [[repo]]
 url = "https://github.com/coming-chat/trust-web3-provider"
 
 [[repo]]
-url = "https://github.com/coming-chat/v2-subgraph"
+url = "https://github.com/coming-chat/uniswapv3-sdk"
 
 [[repo]]
-url = "https://github.com/coming-chat/wallet-connect-kotlin"
+url = "https://github.com/coming-chat/v2-subgraph"
 
 [[repo]]
 url = "https://github.com/coming-chat/wallet-SDK"
@@ -146,3 +182,12 @@ url = "https://github.com/coming-chat/wallet-sdk-android"
 
 [[repo]]
 url = "https://github.com/coming-chat/wallet-swift-package"
+
+[[repo]]
+url = "https://github.com/coming-chat/zkgroup"
+
+[[repo]]
+url = "https://github.com/coming-chat/zksync2-go"
+
+[[repo]]
+url = "https://github.com/imtianx/wallet-connect-kotlin"

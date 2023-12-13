@@ -19,6 +19,9 @@ url = "https://github.com/grindytech/crypto-ecosystems"
 url = "https://github.com/grindytech/cumulus"
 
 [[repo]]
+url = "https://github.com/grindytech/drand"
+
+[[repo]]
 url = "https://github.com/grindytech/ethereum"
 
 [[repo]]
@@ -37,6 +40,15 @@ url = "https://github.com/grindytech/gafi-app"
 url = "https://github.com/grindytech/gafi-docs"
 
 [[repo]]
+url = "https://github.com/grindytech/gafi-market"
+
+[[repo]]
+url = "https://github.com/grindytech/gafi-market-be"
+
+[[repo]]
+url = "https://github.com/grindytech/gafi-market-fe"
+
+[[repo]]
 url = "https://github.com/grindytech/gafi-query"
 
 [[repo]]
@@ -44,6 +56,12 @@ url = "https://github.com/grindytech/gafi-test"
 
 [[repo]]
 url = "https://github.com/grindytech/gafi-whitelist"
+
+[[repo]]
+url = "https://github.com/grindytech/gafi-whitelist-ts"
+
+[[repo]]
+url = "https://github.com/grindytech/ge-blockchain"
 
 [[repo]]
 url = "https://github.com/grindytech/hne-station-backend"
@@ -64,13 +82,28 @@ url = "https://github.com/grindytech/moonbeam"
 url = "https://github.com/grindytech/nimbus"
 
 [[repo]]
+url = "https://github.com/grindytech/obce"
+
+[[repo]]
+url = "https://github.com/grindytech/pallet-assets-chain-extension"
+
+[[repo]]
 url = "https://github.com/grindytech/polkadot"
 
 [[repo]]
+url = "https://github.com/grindytech/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/grindytech/rust-secp256k1"
+
+[[repo]]
+url = "https://github.com/grindytech/stendhal"
 
 [[repo]]
 url = "https://github.com/grindytech/substrate"
 
 [[repo]]
 url = "https://github.com/grindytech/substrate-node-template"
+
+[[repo]]
+url = "https://github.com/grindytech/Substrate.NET.API"

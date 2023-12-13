@@ -7,13 +7,16 @@ github_organizations = ["https://github.com/oscoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/monadic-xyz/gossip"
+
+[[repo]]
+url = "https://github.com/monadic-xyz/ipfs"
+
+[[repo]]
 url = "https://github.com/oscoin/avl-auth"
 
 [[repo]]
 url = "https://github.com/oscoin/base32-z-bytestring"
-
-[[repo]]
-url = "https://github.com/oscoin/ci"
 
 [[repo]]
 url = "https://github.com/oscoin/dapp-prototypes"
@@ -25,12 +28,6 @@ url = "https://github.com/oscoin/docker-haskell"
 url = "https://github.com/oscoin/ed25519-crash-repro"
 
 [[repo]]
-url = "https://github.com/oscoin/gossip"
-
-[[repo]]
-url = "https://github.com/oscoin/governance"
-
-[[repo]]
 url = "https://github.com/oscoin/graph-api"
 
 [[repo]]
@@ -40,13 +37,7 @@ url = "https://github.com/oscoin/graphlib"
 url = "https://github.com/oscoin/hs-git"
 
 [[repo]]
-url = "https://github.com/oscoin/ipfs"
-
-[[repo]]
 url = "https://github.com/oscoin/ipfs-test-network-container"
-
-[[repo]]
-url = "https://github.com/oscoin/mvp"
 
 [[repo]]
 url = "https://github.com/oscoin/oscoin"
@@ -85,9 +76,6 @@ url = "https://github.com/oscoin/osrank-vis"
 url = "https://github.com/oscoin/qc-instances"
 
 [[repo]]
-url = "https://github.com/oscoin/radicle-registry"
-
-[[repo]]
 url = "https://github.com/oscoin/reductive"
 
 [[repo]]
@@ -109,7 +97,13 @@ url = "https://github.com/oscoin/whitepaper"
 url = "https://github.com/oscoin/whitepaper-cn"
 
 [[repo]]
-url = "https://github.com/oscoin/z-base32-bytestring"
+url = "https://github.com/oscoin/zockervols"
 
 [[repo]]
-url = "https://github.com/oscoin/zockervols"
+url = "https://github.com/radicle-dev/infra"
+
+[[repo]]
+url = "https://github.com/radicle-dev/radicle-registry"
+
+[[repo]]
+url = "https://github.com/radicle-dev/radicle-upstream"

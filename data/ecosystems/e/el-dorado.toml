@@ -22,6 +22,9 @@ url = "https://github.com/eldoradoio/DAO-Hack-Month"
 url = "https://github.com/eldoradoio/dao-templates"
 
 [[repo]]
+url = "https://github.com/eldoradoio/eldorado-pay-demo"
+
+[[repo]]
 url = "https://github.com/eldoradoio/ethonline-2020"
 
 [[repo]]
@@ -34,4 +37,10 @@ url = "https://github.com/eldoradoio/hacktherainbow"
 url = "https://github.com/eldoradoio/make-crypto-mobile-hackathon"
 
 [[repo]]
+url = "https://github.com/eldoradoio/tatum-kms"
+
+[[repo]]
 url = "https://github.com/eldoradoio/TestnetTronFaucet"
+
+[[repo]]
+url = "https://github.com/eldoradoio/upptime"

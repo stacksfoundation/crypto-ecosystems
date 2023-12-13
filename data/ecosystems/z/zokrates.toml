@@ -7,8 +7,7 @@ github_organizations = ["https://github.com/Zokrates"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/compositeapp/ZKPlayground"
-tags = ["Developer Tool"]
+url = "https://github.com/MoonfishApp/ZKPlayground"
 
 [[repo]]
 url = "https://github.com/Zokrates/cross-circle"

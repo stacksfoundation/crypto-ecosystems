@@ -16,7 +16,16 @@ url = "https://github.com/LIT-Protocol/arweave-uploader"
 url = "https://github.com/LIT-Protocol/awesome"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/bls-bench"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/bls_dkg"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/bls_flutter_bridge"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/blsful"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/blst"
@@ -25,7 +34,16 @@ url = "https://github.com/LIT-Protocol/blst"
 url = "https://github.com/LIT-Protocol/blsttc"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/Brand-Kit"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/buffer"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/bulletproofs"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/cait-sith"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/celo-blockchain"
@@ -35,6 +53,12 @@ url = "https://github.com/LIT-Protocol/CeramicIntegration"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/CeramicIntegrationExample"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/chitchat"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/claim-key-demo-nodejs"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/Cloudflare-Lit-Protocol-integration"
@@ -49,10 +73,25 @@ url = "https://github.com/LIT-Protocol/cloudflare-litgate-rust"
 url = "https://github.com/LIT-Protocol/CommunityEngagementProduct"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/cosmjs-with-lit"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/cosmos-pkp"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/cosmos-pkp-development"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/Cross-chain-Lit-Protocol-signature-verification"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/curv"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/demo-email-sms-auth"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/demo-encrypt-decrypt-nodejs"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/demo-lit-js-sdk-v2-react-encrypt-decrypt"
@@ -64,22 +103,70 @@ url = "https://github.com/LIT-Protocol/demo-project-react-template"
 url = "https://github.com/LIT-Protocol/deno"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/discussions"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/docs"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/Ecosystem-Ideas"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/elliptic-curves"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/env_logger"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/ethers-rs"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/fastify-bugsnag"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/fd-lock"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/flutter-sdk"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/foundry"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/GatherController"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/getlit"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/getlit-contracts"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/GoogleDriveOauth"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/gpt"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/graphene"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/hardhat"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/hd-keys-ecdsa"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/hotwallet-signing-example"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/indeetv-frontend-demo"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/indeetv-worker"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/iqlusioninc-crates"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/js-libp2p-webrtc-direct"
@@ -88,7 +175,16 @@ url = "https://github.com/LIT-Protocol/js-libp2p-webrtc-direct"
 url = "https://github.com/LIT-Protocol/js-sdk"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/js-sdk-pr-47"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/js-sdk-pr-56-cosmos-signer"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/js-serverless-function-test"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/jsonwebtoken"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/jwt-verification-service"
@@ -118,6 +214,12 @@ url = "https://github.com/LIT-Protocol/lit-accs-validator-sdk"
 url = "https://github.com/LIT-Protocol/lit-action-ceramic-signing-demo"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/lit-apps"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/lit-bls-wasm"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/lit-bundlr-example"
 
 [[repo]]
@@ -128,6 +230,9 @@ url = "https://github.com/LIT-Protocol/lit-cloudflare-frontend"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/lit-cloudflare-unlock-sdk"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/lit-connect-modal"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/lit-demo-simple-string-encrypt"
@@ -169,6 +274,12 @@ url = "https://github.com/LIT-Protocol/lit-oauth"
 url = "https://github.com/LIT-Protocol/lit-only-serverside-sdk-example"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/lit-pkp-auth-demo"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/lit-pkp-cosmos"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/lit-pkp-sdk"
 
 [[repo]]
@@ -176,6 +287,9 @@ url = "https://github.com/LIT-Protocol/lit-protocol-on-celo"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/lit-protocol-shopify"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/lit-sdk-v2-examples"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/lit-services-docs"
@@ -193,7 +307,13 @@ url = "https://github.com/LIT-Protocol/lit-share-modal-v3"
 url = "https://github.com/LIT-Protocol/lit-share-modal-v3-vanilla-js"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/lit-sling-uniswap"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/lit-wp-lit-gated"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/LitGatewayFrontend"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/LitGrants"
@@ -202,7 +322,13 @@ url = "https://github.com/LIT-Protocol/LitGrants"
 url = "https://github.com/LIT-Protocol/LitNodeContracts"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/mikrotik-api-rs"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/MintLIT"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/networks"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/node-secureworker"
@@ -220,13 +346,22 @@ url = "https://github.com/LIT-Protocol/open-friend"
 url = "https://github.com/LIT-Protocol/open-friend-backend"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/openzeppelin-contracts-diamond"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/peerlist"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/pinata-sdk"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/pkp-ethers"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/pkp-ethers.js-deprecated"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/pkp-social-auth-example"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/pkp-walletconnect"
@@ -236,6 +371,9 @@ url = "https://github.com/LIT-Protocol/react-native-example"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/relay-server"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/revm"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/rlp"
@@ -250,10 +388,16 @@ url = "https://github.com/LIT-Protocol/rust-ipfs-api"
 url = "https://github.com/LIT-Protocol/rust-web3-lit"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/scripts"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/sdk-examples"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/secrets.js"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/serde-encrypt"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/sev-snp-utils"
@@ -265,7 +409,13 @@ url = "https://github.com/LIT-Protocol/share-modal-v3-playground"
 url = "https://github.com/LIT-Protocol/siwe"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/siwe-recap"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/systemctl"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/test-pkp-ethers"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/threshold_crypto_ui"
@@ -274,7 +424,13 @@ url = "https://github.com/LIT-Protocol/threshold_crypto_ui"
 url = "https://github.com/LIT-Protocol/Token-Gated-Content-for-Website-Builders"
 
 [[repo]]
+url = "https://github.com/LIT-Protocol/traits"
+
+[[repo]]
 url = "https://github.com/LIT-Protocol/uint8arrays"
+
+[[repo]]
+url = "https://github.com/LIT-Protocol/verifiable-share-encryption"
 
 [[repo]]
 url = "https://github.com/LIT-Protocol/web3modal"

@@ -7,6 +7,18 @@ github_organizations = []
 
 # Repositories
 [[repo]]
+url = "https://github.com/kesar/dfuse-proxy"
+
+[[repo]]
+url = "https://github.com/kesar/IPFS-PHP"
+
+[[repo]]
+url = "https://github.com/kesar/pinata-php"
+
+[[repo]]
+url = "https://github.com/kesar/price-feeder"
+
+[[repo]]
 url = "https://github.com/NebulaProtocol/chainbase"
 
 [[repo]]
@@ -14,9 +26,6 @@ url = "https://github.com/NebulaProtocol/delphioracle"
 
 [[repo]]
 url = "https://github.com/NebulaProtocol/dfuse-feeder"
-
-[[repo]]
-url = "https://github.com/NebulaProtocol/dfuse-proxy"
 
 [[repo]]
 url = "https://github.com/NebulaProtocol/eos"
@@ -43,9 +52,6 @@ url = "https://github.com/NebulaProtocol/fake-terminal-website"
 url = "https://github.com/NebulaProtocol/ipfs"
 
 [[repo]]
-url = "https://github.com/NebulaProtocol/IPFS-PHP"
-
-[[repo]]
 url = "https://github.com/NebulaProtocol/issues"
 
 [[repo]]
@@ -53,12 +59,6 @@ url = "https://github.com/NebulaProtocol/js-ipfs-api"
 
 [[repo]]
 url = "https://github.com/NebulaProtocol/php-ipfs-api"
-
-[[repo]]
-url = "https://github.com/NebulaProtocol/pinata-php"
-
-[[repo]]
-url = "https://github.com/NebulaProtocol/price-feeder"
 
 [[repo]]
 url = "https://github.com/NebulaProtocol/producerjson"

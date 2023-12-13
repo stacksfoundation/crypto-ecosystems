@@ -16,7 +16,16 @@ url = "https://github.com/public-awesome/advisories"
 url = "https://github.com/public-awesome/assets"
 
 [[repo]]
+url = "https://github.com/public-awesome/astroport-core"
+
+[[repo]]
+url = "https://github.com/public-awesome/audits"
+
+[[repo]]
 url = "https://github.com/public-awesome/Autolinker.js"
+
+[[repo]]
+url = "https://github.com/public-awesome/badges"
 
 [[repo]]
 url = "https://github.com/public-awesome/badges-webapp"
@@ -31,7 +40,16 @@ url = "https://github.com/public-awesome/big-dipper-2.0-cosmos"
 url = "https://github.com/public-awesome/chain-registry"
 
 [[repo]]
-url = "https://github.com/public-awesome/coingecko"
+url = "https://github.com/public-awesome/chainlist"
+
+[[repo]]
+url = "https://github.com/public-awesome/code-explorer"
+
+[[repo]]
+url = "https://github.com/public-awesome/constellations-book"
+
+[[repo]]
+url = "https://github.com/public-awesome/core"
 
 [[repo]]
 url = "https://github.com/public-awesome/cosmjs"
@@ -40,7 +58,13 @@ url = "https://github.com/public-awesome/cosmjs"
 url = "https://github.com/public-awesome/cosmodal"
 
 [[repo]]
+url = "https://github.com/public-awesome/cosmology-chain-registry"
+
+[[repo]]
 url = "https://github.com/public-awesome/cosmos-gravity-bridge"
+
+[[repo]]
+url = "https://github.com/public-awesome/cosmos-kit"
 
 [[repo]]
 url = "https://github.com/public-awesome/cosmos-multisig-ui"
@@ -49,13 +73,40 @@ url = "https://github.com/public-awesome/cosmos-multisig-ui"
 url = "https://github.com/public-awesome/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/public-awesome/cosmwasm"
+
+[[repo]]
+url = "https://github.com/public-awesome/couch-burner"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-ibc-demo"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-ics721"
+
+[[repo]]
 url = "https://github.com/public-awesome/cw-nfts"
 
 [[repo]]
 url = "https://github.com/public-awesome/cw-plus"
 
 [[repo]]
+url = "https://github.com/public-awesome/cw-wager"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw3-fixed-multisig-dapp"
+
+[[repo]]
 url = "https://github.com/public-awesome/cw721-ibc"
+
+[[repo]]
+url = "https://github.com/public-awesome/dao-contracts"
+
+[[repo]]
+url = "https://github.com/public-awesome/dao-dao-ui"
+
+[[repo]]
+url = "https://github.com/public-awesome/daos"
 
 [[repo]]
 url = "https://github.com/public-awesome/deep_space"
@@ -73,6 +124,9 @@ url = "https://github.com/public-awesome/Emeris-Airdrop"
 url = "https://github.com/public-awesome/explorer-1"
 
 [[repo]]
+url = "https://github.com/public-awesome/fren.party"
+
+[[repo]]
 url = "https://github.com/public-awesome/gaia"
 
 [[repo]]
@@ -88,7 +142,19 @@ url = "https://github.com/public-awesome/Gravity-Bridge"
 url = "https://github.com/public-awesome/Gravity-Docs"
 
 [[repo]]
+url = "https://github.com/public-awesome/gravity-nft-demo"
+
+[[repo]]
+url = "https://github.com/public-awesome/graz"
+
+[[repo]]
+url = "https://github.com/public-awesome/iavl"
+
+[[repo]]
 url = "https://github.com/public-awesome/ibc"
+
+[[repo]]
+url = "https://github.com/public-awesome/ibc-apps"
 
 [[repo]]
 url = "https://github.com/public-awesome/ibc-go"
@@ -100,13 +166,28 @@ url = "https://github.com/public-awesome/ibc-rs"
 url = "https://github.com/public-awesome/ics721"
 
 [[repo]]
+url = "https://github.com/public-awesome/infinity"
+
+[[repo]]
+url = "https://github.com/public-awesome/infinity-pool"
+
+[[repo]]
+url = "https://github.com/public-awesome/infinity-swap"
+
+[[repo]]
 url = "https://github.com/public-awesome/interchain-accounts-demo"
 
 [[repo]]
 url = "https://github.com/public-awesome/ipfs-proxy"
 
 [[repo]]
+url = "https://github.com/public-awesome/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/public-awesome/keplr-extension"
+
+[[repo]]
+url = "https://github.com/public-awesome/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/public-awesome/launchpad"
@@ -136,7 +217,19 @@ url = "https://github.com/public-awesome/marketplace-proxy-demo"
 url = "https://github.com/public-awesome/modules"
 
 [[repo]]
+url = "https://github.com/public-awesome/multisig-ui"
+
+[[repo]]
+url = "https://github.com/public-awesome/nakomoto-coefficient-calculator"
+
+[[repo]]
 url = "https://github.com/public-awesome/names"
+
+[[repo]]
+url = "https://github.com/public-awesome/nois-contracts"
+
+[[repo]]
+url = "https://github.com/public-awesome/NoPixels-CW"
 
 [[repo]]
 url = "https://github.com/public-awesome/osmosis"
@@ -151,7 +244,13 @@ url = "https://github.com/public-awesome/osmosis-info"
 url = "https://github.com/public-awesome/pegasus"
 
 [[repo]]
+url = "https://github.com/public-awesome/pegasus-trade"
+
+[[repo]]
 url = "https://github.com/public-awesome/pulsar-ssd1306"
+
+[[repo]]
+url = "https://github.com/public-awesome/quasar-minter-demo"
 
 [[repo]]
 url = "https://github.com/public-awesome/rs-caip"
@@ -181,13 +280,16 @@ url = "https://github.com/public-awesome/stargaze"
 url = "https://github.com/public-awesome/Stargaze-Assets"
 
 [[repo]]
-url = "https://github.com/public-awesome/stargaze-contracts"
+url = "https://github.com/public-awesome/stargaze-burn"
+
+[[repo]]
+url = "https://github.com/public-awesome/stargaze-codes"
+
+[[repo]]
+url = "https://github.com/public-awesome/stargaze-codes-explorer"
 
 [[repo]]
 url = "https://github.com/public-awesome/stargaze-js"
-
-[[repo]]
-url = "https://github.com/public-awesome/stargaze-nft"
 
 [[repo]]
 url = "https://github.com/public-awesome/stargaze-pages"
@@ -220,6 +322,9 @@ url = "https://github.com/public-awesome/supply-info-api"
 url = "https://github.com/public-awesome/swap"
 
 [[repo]]
+url = "https://github.com/public-awesome/swap-deprecated"
+
+[[repo]]
 url = "https://github.com/public-awesome/tendermint"
 
 [[repo]]
@@ -235,7 +340,16 @@ url = "https://github.com/public-awesome/terra-spacecamp"
 url = "https://github.com/public-awesome/testnets"
 
 [[repo]]
+url = "https://github.com/public-awesome/ts-codegen"
+
+[[repo]]
+url = "https://github.com/public-awesome/ts-relayer"
+
+[[repo]]
 url = "https://github.com/public-awesome/wasmd"
+
+[[repo]]
+url = "https://github.com/public-awesome/wasmtester"
 
 [[repo]]
 url = "https://github.com/public-awesome/web30"

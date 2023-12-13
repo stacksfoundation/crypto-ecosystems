@@ -7,7 +7,22 @@ github_organizations = ["https://github.com/ConcaveFi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ConcaveFi/account-abstraction-starter"
+
+[[repo]]
 url = "https://github.com/ConcaveFi/assets"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/balancer-math"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/balpy"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/bashcave"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/cavepod"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/concave-core"
@@ -17,3 +32,30 @@ url = "https://github.com/ConcaveFi/concave-frontend"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/concave-seed"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/conduit"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/Contrast"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/contrast-gitbook"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/oracle-actor-poc"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/pbr"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/synthswap"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/token-extensions"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/txs"

@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/LayerZero-Labs"]
 url = "https://github.com/LayerZero-Labs/aptos-core"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/Audits"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/blockhash-example"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/boilerplate"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/btc-b"
@@ -22,22 +28,52 @@ url = "https://github.com/LayerZero-Labs/dapp-radar-library"
 url = "https://github.com/LayerZero-Labs/ethers.js"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/hippospace-aptos-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/LayerZero"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/lil-pudgy-onft"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/logos"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/lz_gauges"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/mainnet-testnet-bridge"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/metis-subgraph-node"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/move-to-ts"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/oft-transfer-script"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/oft-wrapper"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/omnichain-governance-executor"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/oracle-example"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/plugin-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/prettier-plugin-solidity"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/request-oft-demo"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/safe-react"
@@ -58,7 +94,19 @@ url = "https://github.com/LayerZero-Labs/snapshot-strategies"
 url = "https://github.com/LayerZero-Labs/solidity-examples"
 
 [[repo]]
+url = "https://github.com/LayerZero-Labs/solidity-stringutils"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/ua-utils"
+
+[[repo]]
 url = "https://github.com/LayerZero-Labs/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/LayerZero-Labs/walletconnect-utils"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/wrapped-asset-bridge"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/x-trader-joe-bridge-example"

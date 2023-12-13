@@ -28,7 +28,7 @@ url = "https://github.com/avihai-developer/ic-nano-wallet"
 url = "https://github.com/avihai-developer/nano.protocol.lib.js"
 
 [[repo]]
-url = "https://github.com/BenedictThompson/NANOLightWallet"
+url = "https://github.com/BenedictThompson-zz/NANOLightWallet"
 
 [[repo]]
 url = "https://github.com/BitDesert/MyNanoNinja"
@@ -49,10 +49,7 @@ url = "https://github.com/brainblocks/brainblocks-ios-sdk"
 url = "https://github.com/brainblocks/woocommerce-brainblocks"
 
 [[repo]]
-url = "https://github.com/brandonrninefive/RaiGames-Bot"
-
-[[repo]]
-url = "https://github.com/brantwynn/brainblocks-drupal"
+url = "https://github.com/brandontruggles/RaiGames-Bot"
 
 [[repo]]
 url = "https://github.com/BrianPugh/python-rai-rpc"
@@ -82,7 +79,7 @@ url = "https://github.com/cyril/atom-nano-status-bar"
 url = "https://github.com/DaJaffaMan/nanotify-twitch-extension"
 
 [[repo]]
-url = "https://github.com/dalinhuang99/betify"
+url = "https://github.com/dalindev/betify"
 
 [[repo]]
 url = "https://github.com/dansup/php-raiblocks"
@@ -113,6 +110,12 @@ url = "https://github.com/frankh/nano"
 
 [[repo]]
 url = "https://github.com/frankh/nano-vanity"
+
+[[repo]]
+url = "https://github.com/fu5ha/nano-rs"
+
+[[repo]]
+url = "https://github.com/fu5ha/nanopow-rs-node"
 
 [[repo]]
 url = "https://github.com/getcanoe/canoe"
@@ -172,7 +175,7 @@ url = "https://github.com/joltwallet/nano_lib"
 url = "https://github.com/Joohansson/nanolinks"
 
 [[repo]]
-url = "https://github.com/joshporter1/raivue"
+url = "https://github.com/jporter-dev/raivue"
 
 [[repo]]
 url = "https://github.com/juanjux/raimixer"
@@ -238,6 +241,12 @@ url = "https://github.com/michael1011/nanogo"
 url = "https://github.com/michielpost/NanoRPC"
 
 [[repo]]
+url = "https://github.com/MikeRow/BananoPHP"
+
+[[repo]]
+url = "https://github.com/MikeRow/easyraikitphp"
+
+[[repo]]
 url = "https://github.com/n9Mtq4/NanodeLinkBot"
 
 [[repo]]
@@ -274,6 +283,9 @@ url = "https://github.com/nanocurrency/generate-epoch-blocks"
 url = "https://github.com/nanocurrency/lmdb"
 
 [[repo]]
+url = "https://github.com/nanocurrency/lxd-github-runner"
+
+[[repo]]
 url = "https://github.com/nanocurrency/musig-nano"
 
 [[repo]]
@@ -294,6 +306,9 @@ url = "https://github.com/nanocurrency/nano-pow"
 
 [[repo]]
 url = "https://github.com/nanocurrency/nano-pow-server"
+
+[[repo]]
+url = "https://github.com/nanocurrency/nano-prom-exporter"
 
 [[repo]]
 url = "https://github.com/nanocurrency/nano-vanity"
@@ -327,9 +342,6 @@ url = "https://github.com/nanocurrency/protocol"
 
 [[repo]]
 url = "https://github.com/nanocurrency/qtci"
-
-[[repo]]
-url = "https://github.com/nanocurrency/raiblocks"
 
 [[repo]]
 url = "https://github.com/nanocurrency/roadmap"
@@ -431,7 +443,7 @@ url = "https://github.com/s1na/nano-go"
 url = "https://github.com/s1na/nanoc"
 
 [[repo]]
-url = "https://github.com/SergiySW/easyraikitphp"
+url = "https://github.com/saltednut/brainblocks-drupal"
 
 [[repo]]
 url = "https://github.com/SergiySW/NanoWalletBot"
@@ -464,13 +476,7 @@ url = "https://github.com/Stormtv/nano-alias"
 url = "https://github.com/swartjean/nano-tipbot"
 
 [[repo]]
-url = "https://github.com/termhn/nano-rs"
-
-[[repo]]
 url = "https://github.com/termhn/nanopow-rs"
-
-[[repo]]
-url = "https://github.com/termhn/nanopow-rs-node"
 
 [[repo]]
 url = "https://github.com/thehen101/Rain"
@@ -488,9 +494,6 @@ url = "https://github.com/ThunderOps/nano-exporter"
 url = "https://github.com/undercoded/nano-art-concepts"
 
 [[repo]]
-url = "https://github.com/undercoded/php4nano"
-
-[[repo]]
 url = "https://github.com/vardthomas/Aggrex.RaiSharp"
 
 [[repo]]
@@ -506,7 +509,7 @@ url = "https://github.com/xboston/nano-vanity"
 url = "https://github.com/xenonnsmb/nano-generator"
 
 [[repo]]
-url = "https://github.com/zargot/nanorpc"
+url = "https://github.com/zargot/nanorpc-c"
 
 [[repo]]
-url = "https://github.com/zargot/nanorpc-c"
+url = "https://github.com/zargot/nanorpc-go"

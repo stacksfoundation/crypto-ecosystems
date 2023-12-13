@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Boba (OMG Network)"
 
-sub_ecosystems = ["Across Protocol", "OoolongSwap"]
+sub_ecosystems = ["OoolongSwap"]
 
 github_organizations = ["https://github.com/bobanetwork", "https://github.com/omgnetwork"]
 
@@ -10,13 +10,20 @@ github_organizations = ["https://github.com/bobanetwork", "https://github.com/om
 url = "https://github.com/bobanetwork/account-abstraction"
 
 [[repo]]
+url = "https://github.com/bobanetwork/blocks-subgraph"
+
+[[repo]]
 url = "https://github.com/bobanetwork/blockscout"
 
 [[repo]]
 url = "https://github.com/bobanetwork/boba"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/bobanetwork/boba-cross-chain-bridges"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-galxe"
 
 [[repo]]
 url = "https://github.com/bobanetwork/boba-v3"
@@ -31,6 +38,15 @@ url = "https://github.com/bobanetwork/bundler"
 url = "https://github.com/bobanetwork/chains"
 
 [[repo]]
+url = "https://github.com/bobanetwork/Faucet"
+
+[[repo]]
+url = "https://github.com/bobanetwork/forkdiff"
+
+[[repo]]
+url = "https://github.com/bobanetwork/gateway"
+
+[[repo]]
 url = "https://github.com/bobanetwork/go-ethereum"
 
 [[repo]]
@@ -40,10 +56,16 @@ url = "https://github.com/bobanetwork/go-opera"
 url = "https://github.com/bobanetwork/hackathons"
 
 [[repo]]
+url = "https://github.com/bobanetwork/hardhat"
+
+[[repo]]
 url = "https://github.com/bobanetwork/hc101-bobabase"
 
 [[repo]]
 url = "https://github.com/bobanetwork/HybridCompute_Tutorial"
+
+[[repo]]
+url = "https://github.com/bobanetwork/interface"
 
 [[repo]]
 url = "https://github.com/bobanetwork/l2beat"
@@ -58,7 +80,13 @@ url = "https://github.com/bobanetwork/merkle_patricia_tree"
 url = "https://github.com/bobanetwork/multisig"
 
 [[repo]]
+url = "https://github.com/bobanetwork/optimism"
+
+[[repo]]
 url = "https://github.com/bobanetwork/reference-optimistic-geth"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-deployments"
 
 [[repo]]
 url = "https://github.com/bobanetwork/safe-eth-py"
@@ -67,13 +95,31 @@ url = "https://github.com/bobanetwork/safe-eth-py"
 url = "https://github.com/bobanetwork/safe-react"
 
 [[repo]]
+url = "https://github.com/bobanetwork/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-wallet-web"
+
+[[repo]]
+url = "https://github.com/bobanetwork/starlight"
+
+[[repo]]
 url = "https://github.com/bobanetwork/sushiswap"
+
+[[repo]]
+url = "https://github.com/bobanetwork/timber"
+
+[[repo]]
+url = "https://github.com/bobanetwork/token-list"
 
 [[repo]]
 url = "https://github.com/bobanetwork/turing-workshop-2022"
 
 [[repo]]
 url = "https://github.com/bobanetwork/uniswap_proposal_simulation"
+
+[[repo]]
+url = "https://github.com/bobanetwork/universal-router"
 
 [[repo]]
 url = "https://github.com/bobanetwork/v3-anchorage"
@@ -91,16 +137,25 @@ url = "https://github.com/bobanetwork/v3-erigon-interfaces"
 url = "https://github.com/bobanetwork/v3-erigon-lib"
 
 [[repo]]
+url = "https://github.com/bobanetwork/v3-minierigon"
+
+[[repo]]
 url = "https://github.com/bobanetwork/v3-op-geth"
 
 [[repo]]
-url = "https://github.com/bobanetwork/v3-optimism"
+url = "https://github.com/bobanetwork/v3-slingshot"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-subgraph"
+
+[[repo]]
+url = "https://github.com/bobanetwork/zkdvrf"
 
 [[repo]]
 url = "https://github.com/celer-network/cBridge-transfer-widget"
 
 [[repo]]
-url = "https://github.com/connext/nxtp"
+url = "https://github.com/connext/monorepo"
 
 [[repo]]
 url = "https://github.com/deri-protocol/source-deri.fi"

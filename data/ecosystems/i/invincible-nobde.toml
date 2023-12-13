@@ -1,0 +1,97 @@
+# Ecosystem Level Information
+title = "Invincible Nobde"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/ziptalk"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/ziptalk/3tree-frontend"
+
+[[repo]]
+url = "https://github.com/ziptalk/3tree-server"
+
+[[repo]]
+url = "https://github.com/ziptalk/Aleo_Frontend"
+
+[[repo]]
+url = "https://github.com/ziptalk/alone5"
+
+[[repo]]
+url = "https://github.com/ziptalk/ASWAP"
+
+[[repo]]
+url = "https://github.com/ziptalk/BNB_INVI_Contract"
+
+[[repo]]
+url = "https://github.com/ziptalk/Evridge"
+
+[[repo]]
+url = "https://github.com/ziptalk/Flutter-UIKit"
+
+[[repo]]
+url = "https://github.com/ziptalk/helipad-mvp"
+
+[[repo]]
+url = "https://github.com/ziptalk/Invincible_Node_Aptos"
+
+[[repo]]
+url = "https://github.com/ziptalk/Invincible_node_backend"
+
+[[repo]]
+url = "https://github.com/ziptalk/Invincible_node_front"
+
+[[repo]]
+url = "https://github.com/ziptalk/kakao-ziptalk-bot"
+
+[[repo]]
+url = "https://github.com/ziptalk/Matzipfive-information"
+
+[[repo]]
+url = "https://github.com/ziptalk/Near_BOS_app"
+
+[[repo]]
+url = "https://github.com/ziptalk/NFTCam-backend"
+
+[[repo]]
+url = "https://github.com/ziptalk/NFTCam-iOS"
+
+[[repo]]
+url = "https://github.com/ziptalk/NFTCam-RN"
+
+[[repo]]
+url = "https://github.com/ziptalk/QDS-monorepo"
+
+[[repo]]
+url = "https://github.com/ziptalk/QVE-Glitch-Hackathon"
+
+[[repo]]
+url = "https://github.com/ziptalk/QVE_aptos_hackathon"
+
+[[repo]]
+url = "https://github.com/ziptalk/QVE_dashboard_front"
+
+[[repo]]
+url = "https://github.com/ziptalk/QVE_Encode_Solana_Hackathon"
+
+[[repo]]
+url = "https://github.com/ziptalk/QVE_protocol"
+
+[[repo]]
+url = "https://github.com/ziptalk/shushuk_information"
+
+[[repo]]
+url = "https://github.com/ziptalk/Uniswap_Data_Bot"
+
+[[repo]]
+url = "https://github.com/ziptalk/Yours-Wallet"
+
+[[repo]]
+url = "https://github.com/ziptalk/YOURS_BE_NEST"
+
+[[repo]]
+url = "https://github.com/ziptalk/Yours_DSD_BE"
+
+[[repo]]
+url = "https://github.com/ziptalk/Yours_Grizzlython_Solana"

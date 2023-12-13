@@ -7,14 +7,34 @@ github_organizations = ["https://github.com/dscvr-one"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dscvr-one/candid"
+
+[[repo]]
+url = "https://github.com/dscvr-one/cdk-rs"
+
+[[repo]]
+url = "https://github.com/dscvr-one/deepsize"
+
+[[repo]]
 url = "https://github.com/dscvr-one/dscvr-dip721-og"
+
+[[repo]]
+url = "https://github.com/dscvr-one/dscvr-ic-service-worker"
+
+[[repo]]
+url = "https://github.com/dscvr-one/fleek-storage-js"
+
+[[repo]]
+url = "https://github.com/dscvr-one/ic"
 
 [[repo]]
 url = "https://github.com/dscvr-one/ic-drip"
 
 [[repo]]
-url = "https://github.com/dscvr-one/soulbound-token"
+url = "https://github.com/dscvr-one/metamagic"
 
 [[repo]]
 url = "https://github.com/dscvr-one/nns-registry"
 
+[[repo]]
+url = "https://github.com/dscvr-one/soulbound-token"

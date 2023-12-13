@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/pieFi-platform"]
 url = "https://github.com/pieFi-platform/.github"
 
 [[repo]]
+url = "https://github.com/pieFi-platform/hashgraph-name-hgraphio-sdk"
+
+[[repo]]
 url = "https://github.com/pieFi-platform/hashgraph-name-resolution-sdk"
 
 [[repo]]
 url = "https://github.com/pieFi-platform/hedera-solidity-deployer"
+
+[[repo]]
+url = "https://github.com/pieFi-platform/piefi-connect-sdk"
 
 [[repo]]
 url = "https://github.com/pieFi-platform/simple-dao"

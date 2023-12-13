@@ -7,6 +7,24 @@ github_organizations = ["https://github.com/privacy-scaling-explorations"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/acceleration-program"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/anon-aadhaar"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/bandada"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/bls12_381"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/chiquito"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/circom-ecdsa-p256"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/coordinator-service"
 
 [[repo]]
@@ -16,10 +34,16 @@ url = "https://github.com/privacy-scaling-explorations/crypt-keeper-extension"
 url = "https://github.com/privacy-scaling-explorations/crypt-keeper-mobile"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/DefinitelySetup"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/e2e-zk-ecdsa"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/eth-tests"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/folding-schemes"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/github-ops"
@@ -28,7 +52,16 @@ url = "https://github.com/privacy-scaling-explorations/github-ops"
 url = "https://github.com/privacy-scaling-explorations/go-ethereum"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/groth-p0tion"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/halo2"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/halo2-solidity-verifier"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/halo2_solidity_verifier"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/halo2curves"
@@ -52,6 +85,15 @@ url = "https://github.com/privacy-scaling-explorations/keccak_circuit"
 url = "https://github.com/privacy-scaling-explorations/maci"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/maci-coordinator"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/maci-phase2-setup"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/MACI-v2"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/maze"
 
 [[repo]]
@@ -61,7 +103,31 @@ url = "https://github.com/privacy-scaling-explorations/mixer"
 url = "https://github.com/privacy-scaling-explorations/mpt-witness-generator"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/mpz"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/multifolding-poc"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/multisetups"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/Nova"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/nova-bench"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/Nova-Scotia"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/p0tion"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/p256-circom"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/p256-halo2"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/pairing"
@@ -70,19 +136,13 @@ url = "https://github.com/privacy-scaling-explorations/pairing"
 url = "https://github.com/privacy-scaling-explorations/perpetualpowersoftau"
 
 [[repo]]
-url = "https://github.com/privacy-scaling-explorations/plonk-verifier"
-
-[[repo]]
 url = "https://github.com/privacy-scaling-explorations/poseidon"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/poseidon_in_circomlib_check"
 
 [[repo]]
-url = "https://github.com/privacy-scaling-explorations/pse.github.io"
-
-[[repo]]
-url = "https://github.com/privacy-scaling-explorations/pse_landingpage"
+url = "https://github.com/privacy-scaling-explorations/pse-gfis"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/qdh"
@@ -91,22 +151,52 @@ url = "https://github.com/privacy-scaling-explorations/qdh"
 url = "https://github.com/privacy-scaling-explorations/qdh-admin"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/qf"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/researches"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/rln"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/security"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/semaphore-phase2-setup"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/snark-verifier"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/sugesto"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/taz-apps"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/technical-reports"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/UniRep"
 
 [[repo]]
+url = "https://github.com/privacy-scaling-explorations/vFSM"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/webauth-circom"
+
+[[repo]]
 url = "https://github.com/privacy-scaling-explorations/website"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/website-v2"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zk-contribution-program"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zk-groups"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/zk-keeper"
@@ -143,3 +233,12 @@ url = "https://github.com/privacy-scaling-explorations/zkey-manager"
 
 [[repo]]
 url = "https://github.com/privacy-scaling-explorations/zkp-app-boilerplate"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zkvm-ideas"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zkwasm-ideas"
+
+[[repo]]
+url = "https://github.com/privacy-scaling-explorations/zuzalu-feedback"

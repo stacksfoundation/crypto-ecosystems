@@ -7,22 +7,82 @@ github_organizations = ["https://github.com/maidsafe"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/maidsafe/accumulator"
+url = "https://github.com/maidsafe-archive/accumulator"
 
 [[repo]]
-url = "https://github.com/maidsafe/beaker-plugin-safe-app"
+url = "https://github.com/maidsafe-archive/beaker-plugin-safe-app"
 
 [[repo]]
-url = "https://github.com/maidsafe/beaker-plugin-safe-authenticator"
+url = "https://github.com/maidsafe-archive/beaker-plugin-safe-authenticator"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/config_file_handler"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/crust"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/datachains_sim"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/deps_downloader"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/get_if_addrs"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/invite-manager"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/jenkins-jobs"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/jenkins_sample_lib"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/MaidSafe-Transport"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/maidsafe.github.io"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe-authenticator-cli"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe-build-infrastructure"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe-web-hosting-manager-electron"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe_app_nodejs"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe_crypto"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe_examples"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/safe_launcher"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/secure_serialisation"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/sn_gossip"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/socket-collection"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/system_uri"
+
+[[repo]]
+url = "https://github.com/maidsafe-archive/tokio_utp"
 
 [[repo]]
 url = "https://github.com/maidsafe/blog-redirection"
-
-[[repo]]
-url = "https://github.com/maidsafe/blog_redirection"
-
-[[repo]]
-url = "https://github.com/maidsafe/BLS-DKG"
 
 [[repo]]
 url = "https://github.com/maidsafe/bls_bulletproofs"
@@ -35,12 +95,6 @@ url = "https://github.com/maidsafe/bls_ringct"
 
 [[repo]]
 url = "https://github.com/maidsafe/bls_signature_aggregator"
-
-[[repo]]
-url = "https://github.com/maidsafe/blst-bulletproofs"
-
-[[repo]]
-url = "https://github.com/maidsafe/blst-ringct"
 
 [[repo]]
 url = "https://github.com/maidsafe/blsttc"
@@ -67,58 +121,19 @@ url = "https://github.com/maidsafe/brb_node_qp2p"
 url = "https://github.com/maidsafe/cargo-nextest"
 
 [[repo]]
-url = "https://github.com/maidsafe/config_file_handler"
-
-[[repo]]
 url = "https://github.com/maidsafe/crdt_tree"
-
-[[repo]]
-url = "https://github.com/maidsafe/crust"
-
-[[repo]]
-url = "https://github.com/maidsafe/datachains_sim"
-
-[[repo]]
-url = "https://github.com/maidsafe/deps_downloader"
 
 [[repo]]
 url = "https://github.com/maidsafe/dev-website"
 
 [[repo]]
-url = "https://github.com/maidsafe/dev_website"
-
-[[repo]]
 url = "https://github.com/maidsafe/docs.maidsafe.net"
 
 [[repo]]
-url = "https://github.com/maidsafe/fake-clock"
-
-[[repo]]
-url = "https://github.com/maidsafe/fake_clock"
-
-[[repo]]
-url = "https://github.com/maidsafe/ffi-utils"
-
-[[repo]]
-url = "https://github.com/maidsafe/ffi_utils"
-
-[[repo]]
-url = "https://github.com/maidsafe/get_if_addrs"
+url = "https://github.com/maidsafe/ed25519_vrf"
 
 [[repo]]
 url = "https://github.com/maidsafe/interdependency-svg-generator"
-
-[[repo]]
-url = "https://github.com/maidsafe/invite-manager"
-
-[[repo]]
-url = "https://github.com/maidsafe/jenkins-jobs"
-
-[[repo]]
-url = "https://github.com/maidsafe/jenkins_sample_lib"
-
-[[repo]]
-url = "https://github.com/maidsafe/lru-time-cache"
 
 [[repo]]
 url = "https://github.com/maidsafe/lru_time_cache"
@@ -127,19 +142,10 @@ url = "https://github.com/maidsafe/lru_time_cache"
 url = "https://github.com/maidsafe/MaidSafe-DHT"
 
 [[repo]]
-url = "https://github.com/maidsafe/MaidSafe-Transport"
-
-[[repo]]
 url = "https://github.com/maidsafe/maidsafe-utilities"
 
 [[repo]]
-url = "https://github.com/maidsafe/maidsafe.github.io"
-
-[[repo]]
 url = "https://github.com/maidsafe/maidsafe.net"
-
-[[repo]]
-url = "https://github.com/maidsafe/maidsafe_utilities"
 
 [[repo]]
 url = "https://github.com/maidsafe/parsec"
@@ -158,61 +164,19 @@ url = "https://github.com/maidsafe/qjsonrpc"
 url = "https://github.com/maidsafe/qp2p"
 
 [[repo]]
-url = "https://github.com/maidsafe/quic-p2p"
-
-[[repo]]
 url = "https://github.com/maidsafe/resource_proof"
 
 [[repo]]
 url = "https://github.com/maidsafe/rfcs"
 
 [[repo]]
-url = "https://github.com/maidsafe/routing"
-
-[[repo]]
-url = "https://github.com/maidsafe/routing-sims"
-
-[[repo]]
 url = "https://github.com/maidsafe/routing_model"
-
-[[repo]]
-url = "https://github.com/maidsafe/routing_sims"
 
 [[repo]]
 url = "https://github.com/maidsafe/rust-version-bump-branch-creator"
 
 [[repo]]
 url = "https://github.com/maidsafe/rust_sodium"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-api"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-app-csharp"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-app-java"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-authenticator-cli"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-authenticator-mobile"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-bindgen"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-browser"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-build-infrastructure"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-cli"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-client-libs"
 
 [[repo]]
 url = "https://github.com/maidsafe/safe-email-app-csharp"
@@ -227,100 +191,28 @@ url = "https://github.com/maidsafe/safe-getting-started-android"
 url = "https://github.com/maidsafe/safe-getting-started-dotnet"
 
 [[repo]]
-url = "https://github.com/maidsafe/safe-gossip"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-mobile-browser"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-nd"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-network-app"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-network-app-mobile"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-network-launch-tool"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-nodejs"
-
-[[repo]]
 url = "https://github.com/maidsafe/safe-patter-js"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-testnet-tool"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-transfers"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-vault"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe-web-hosting-manager-electron"
 
 [[repo]]
 url = "https://github.com/maidsafe/safe-web-id-manager-js"
 
 [[repo]]
-url = "https://github.com/maidsafe/safe_app_csharp"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_app_java"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_app_nodejs"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_bindgen"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_browser"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_client_libs"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_crypto"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_examples"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_gossip"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_launcher"
-
-[[repo]]
-url = "https://github.com/maidsafe/safe_mobile"
-
-[[repo]]
 url = "https://github.com/maidsafe/safe_network"
+
+[[repo]]
+url = "https://github.com/maidsafe/safe_network_archive"
 
 [[repo]]
 url = "https://github.com/maidsafe/safe_ux_guidelines"
 
 [[repo]]
-url = "https://github.com/maidsafe/safe_vault"
-
-[[repo]]
 url = "https://github.com/maidsafe/safenetwork.tech"
 
 [[repo]]
-url = "https://github.com/maidsafe/secure_serialisation"
+url = "https://github.com/maidsafe/safeup"
 
 [[repo]]
 url = "https://github.com/maidsafe/secured_linked_list"
-
-[[repo]]
-url = "https://github.com/maidsafe/self-encryption"
-
-[[repo]]
-url = "https://github.com/maidsafe/self_encryption"
 
 [[repo]]
 url = "https://github.com/maidsafe/self_encryption"
@@ -329,7 +221,16 @@ url = "https://github.com/maidsafe/self_encryption"
 url = "https://github.com/maidsafe/Simulation"
 
 [[repo]]
-url = "https://github.com/maidsafe/sn"
+url = "https://github.com/maidsafe/sn-local-testnet-action"
+
+[[repo]]
+url = "https://github.com/maidsafe/sn-releases"
+
+[[repo]]
+url = "https://github.com/maidsafe/sn-testnet-action"
+
+[[repo]]
+url = "https://github.com/maidsafe/sn-testnet-deploy"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_api"
@@ -351,9 +252,6 @@ url = "https://github.com/maidsafe/sn_bindgen"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_browser"
-
-[[repo]]
-url = "https://github.com/maidsafe/sn_bulletproofs"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_cli"
@@ -395,16 +293,10 @@ url = "https://github.com/maidsafe/sn_ffi_utils"
 url = "https://github.com/maidsafe/sn_fs"
 
 [[repo]]
-url = "https://github.com/maidsafe/sn_gossip"
-
-[[repo]]
 url = "https://github.com/maidsafe/sn_java"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_launch_tool"
-
-[[repo]]
-url = "https://github.com/maidsafe/sn_membership"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_messaging"
@@ -417,9 +309,6 @@ url = "https://github.com/maidsafe/sn_node"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_nodejs"
-
-[[repo]]
-url = "https://github.com/maidsafe/sn_ringct"
 
 [[repo]]
 url = "https://github.com/maidsafe/sn_routing"
@@ -443,19 +332,19 @@ url = "https://github.com/maidsafe/sn_transfers"
 url = "https://github.com/maidsafe/sn_url"
 
 [[repo]]
-url = "https://github.com/maidsafe/snd"
+url = "https://github.com/maidsafe/stableset-experiments"
 
 [[repo]]
-url = "https://github.com/maidsafe/socket-collection"
+url = "https://github.com/maidsafe/stableset_net"
 
 [[repo]]
-url = "https://github.com/maidsafe/system_uri"
+url = "https://github.com/maidsafe/temp_safe_network"
 
 [[repo]]
 url = "https://github.com/maidsafe/terraform-ci-infra"
 
 [[repo]]
-url = "https://github.com/maidsafe/tokio_utp"
+url = "https://github.com/maidsafe/terraform-testnet-infra"
 
 [[repo]]
 url = "https://github.com/maidsafe/verify-licensing-info"

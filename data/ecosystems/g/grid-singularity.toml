@@ -13,19 +13,16 @@ url = "https://github.com/gridsingularity/canvas-node-1"
 url = "https://github.com/gridsingularity/d3a"
 
 [[repo]]
-url = "https://github.com/gridsingularity/d3a-api-client"
-
-[[repo]]
-url = "https://github.com/gridsingularity/d3a-blockchain"
-
-[[repo]]
-url = "https://github.com/gridsingularity/d3a-interface"
-
-[[repo]]
 url = "https://github.com/gridsingularity/devops_challenge"
 
 [[repo]]
+url = "https://github.com/gridsingularity/DEX-Grants-Program"
+
+[[repo]]
 url = "https://github.com/gridsingularity/fun-with-graphs"
+
+[[repo]]
+url = "https://github.com/gridsingularity/gsy-decentralized-exchange"
 
 [[repo]]
 url = "https://github.com/gridsingularity/gsy-dex"
@@ -40,6 +37,9 @@ url = "https://github.com/gridsingularity/gsy-e-sdk"
 url = "https://github.com/gridsingularity/gsy-framework"
 
 [[repo]]
+url = "https://github.com/gridsingularity/gsy-matching-engine-sdk"
+
+[[repo]]
 url = "https://github.com/gridsingularity/gsy-myco-sdk"
 
 [[repo]]
@@ -50,9 +50,6 @@ url = "https://github.com/gridsingularity/hackathon_uniswap_model"
 
 [[repo]]
 url = "https://github.com/gridsingularity/interview_tasks"
-
-[[repo]]
-url = "https://github.com/gridsingularity/myco-api-client"
 
 [[repo]]
 url = "https://github.com/gridsingularity/myco_client_rust"

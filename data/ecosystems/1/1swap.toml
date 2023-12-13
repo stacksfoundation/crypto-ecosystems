@@ -7,7 +7,7 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/1swapfi/1swap-contracts"
+url = "https://github.com/1beam/1swap-contracts"
 
 [[repo]]
-url = "https://github.com/1swapfi/solarbeam-interface"
+url = "https://github.com/1beam/solarbeam-interface"

@@ -31,6 +31,9 @@ url = "https://github.com/worldwide-asset-exchange/boost.wax"
 url = "https://github.com/worldwide-asset-exchange/brawler-erc20-token"
 
 [[repo]]
+url = "https://github.com/worldwide-asset-exchange/cdt"
+
+[[repo]]
 url = "https://github.com/worldwide-asset-exchange/chronicle-consumer-npm-examples"
 
 [[repo]]
@@ -46,7 +49,13 @@ url = "https://github.com/worldwide-asset-exchange/eos-airdrops"
 url = "https://github.com/worldwide-asset-exchange/eosio-statereceiver"
 
 [[repo]]
+url = "https://github.com/worldwide-asset-exchange/eosio_light_api"
+
+[[repo]]
 url = "https://github.com/worldwide-asset-exchange/ERC721Factory"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/namespaces"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/ScatterNetworks"
@@ -58,13 +67,22 @@ url = "https://github.com/worldwide-asset-exchange/SimpleAssets"
 url = "https://github.com/worldwide-asset-exchange/uniswap-interface"
 
 [[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-aws-cdk"
+
+[[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-blockchain"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-blockchain-legacy"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-boot-testnet"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-cdt"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-cdt-legacy"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/WAX-Contributor-Agreement"
@@ -74,6 +92,12 @@ url = "https://github.com/worldwide-asset-exchange/wax-creator"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-delphioracle"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-docker"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/WAX-DUNE"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-erc20-delivery-contract"
@@ -88,10 +112,16 @@ url = "https://github.com/worldwide-asset-exchange/wax-hapi"
 url = "https://github.com/worldwide-asset-exchange/wax-item-creation-management"
 
 [[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-json-websocket-api"
+
+[[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-labs-sm"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-labs-ui"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-marketplace-widget"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-network-documentation"
@@ -107,6 +137,9 @@ url = "https://github.com/worldwide-asset-exchange/wax-orng"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/wax-system-contracts"
+
+[[repo]]
+url = "https://github.com/worldwide-asset-exchange/wax-wallet-connect-sdks"
 
 [[repo]]
 url = "https://github.com/worldwide-asset-exchange/waxjs"

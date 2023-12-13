@@ -28,6 +28,9 @@ url = "https://github.com/dgarcia360/NEMPay"
 url = "https://github.com/evias/nem-php"
 
 [[repo]]
+url = "https://github.com/gimre-xymcity/vanitygen-cpp"
+
+[[repo]]
 url = "https://github.com/kodty/MultisigTransactionSigner"
 
 [[repo]]
@@ -62,6 +65,9 @@ url = "https://github.com/NemProject/explorer"
 
 [[repo]]
 url = "https://github.com/NemProject/faucet"
+
+[[repo]]
+url = "https://github.com/NemProject/miscellaneous"
 
 [[repo]]
 url = "https://github.com/NemProject/NanoWallet"
@@ -158,9 +164,6 @@ url = "https://github.com/NemProject/NIP"
 url = "https://github.com/NemProject/nis"
 
 [[repo]]
-url = "https://github.com/NemProject/nis-client"
-
-[[repo]]
 url = "https://github.com/NemProject/nodejs2nem"
 
 [[repo]]
@@ -174,9 +177,6 @@ url = "https://github.com/NemProject/rosetta-nem"
 
 [[repo]]
 url = "https://github.com/NemProject/slack-irc"
-
-[[repo]]
-url = "https://github.com/NemProject/vanitygen-cpp"
 
 [[repo]]
 url = "https://github.com/QuantumMechanics/NEM-sdk"

@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/likecoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/i612/ipfs-viewer"
+
+[[repo]]
 url = "https://github.com/likecoin/abi-decoder"
 
 [[repo]]
 url = "https://github.com/likecoin/about-like-co"
+
+[[repo]]
+url = "https://github.com/likecoin/address-encoder"
 
 [[repo]]
 url = "https://github.com/likecoin/app-like-co"
@@ -40,10 +46,16 @@ url = "https://github.com/likecoin/Builder3"
 url = "https://github.com/likecoin/bundlr-js-client"
 
 [[repo]]
+url = "https://github.com/likecoin/catding-iscn-wallet"
+
+[[repo]]
 url = "https://github.com/likecoin/chain-registry"
 
 [[repo]]
 url = "https://github.com/likecoin/cosmos-api"
+
+[[repo]]
+url = "https://github.com/likecoin/cosmos-ledger-tool-web"
 
 [[repo]]
 url = "https://github.com/likecoin/cosmos-poc-wallet"
@@ -52,16 +64,19 @@ url = "https://github.com/likecoin/cosmos-poc-wallet"
 url = "https://github.com/likecoin/cosmos-sdk"
 
 [[repo]]
-url = "https://github.com/likecoin/cosmostation_token_resource"
+url = "https://github.com/likecoin/cosmostation-android"
 
 [[repo]]
-url = "https://github.com/likecoin/dao"
+url = "https://github.com/likecoin/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/likecoin/depub.page"
 
 [[repo]]
 url = "https://github.com/likecoin/depub.space"
+
+[[repo]]
+url = "https://github.com/likecoin/desmjs"
 
 [[repo]]
 url = "https://github.com/likecoin/devgrants"
@@ -71,6 +86,9 @@ url = "https://github.com/likecoin/docker-nginx-amplify"
 
 [[repo]]
 url = "https://github.com/likecoin/docs"
+
+[[repo]]
+url = "https://github.com/likecoin/epub-audio"
 
 [[repo]]
 url = "https://github.com/likecoin/eth-contract-metadata"
@@ -100,19 +118,16 @@ url = "https://github.com/likecoin/hackatom-seoul-2019"
 url = "https://github.com/likecoin/hkos2018-dapp-web"
 
 [[repo]]
+url = "https://github.com/likecoin/ink-fish"
+
+[[repo]]
 url = "https://github.com/likecoin/insync"
 
 [[repo]]
 url = "https://github.com/likecoin/iob-registry"
 
 [[repo]]
-url = "https://github.com/likecoin/ipfs-viewer"
-
-[[repo]]
-url = "https://github.com/likecoin/iscn-arweave-uploader"
-
-[[repo]]
-url = "https://github.com/likecoin/iscn-batch-uploader"
+url = "https://github.com/likecoin/ipfs-only-hash"
 
 [[repo]]
 url = "https://github.com/likecoin/iscn-browser"
@@ -136,9 +151,6 @@ url = "https://github.com/likecoin/iscn-nft-tools"
 url = "https://github.com/likecoin/iscn-poc"
 
 [[repo]]
-url = "https://github.com/likecoin/iscn-registry"
-
-[[repo]]
 url = "https://github.com/likecoin/iscn-registry-index"
 
 [[repo]]
@@ -146,6 +158,9 @@ url = "https://github.com/likecoin/iscn-specs"
 
 [[repo]]
 url = "https://github.com/likecoin/juno"
+
+[[repo]]
+url = "https://github.com/likecoin/keplr-app-registry"
 
 [[repo]]
 url = "https://github.com/likecoin/keplr-chain-registry"
@@ -158,15 +173,6 @@ url = "https://github.com/likecoin/like-co"
 
 [[repo]]
 url = "https://github.com/likecoin/like-community"
-
-[[repo]]
-url = "https://github.com/likecoin/like-pay"
-
-[[repo]]
-url = "https://github.com/likecoin/LikeButton-integration"
-
-[[repo]]
-url = "https://github.com/likecoin/likechain"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin"
@@ -214,22 +220,22 @@ url = "https://github.com/likecoin/likecoin-email-templates"
 url = "https://github.com/likecoin/likecoin-eth-util"
 
 [[repo]]
+url = "https://github.com/likecoin/likecoin-faucet-discord"
+
+[[repo]]
 url = "https://github.com/likecoin/likecoin-ipfs-cosmosds"
-
-[[repo]]
-url = "https://github.com/likecoin/likecoin-iscn-ipld"
-
-[[repo]]
-url = "https://github.com/likecoin/likecoin-iscn-poc"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-js"
 
 [[repo]]
+url = "https://github.com/likecoin/likecoin-nft-ar"
+
+[[repo]]
 url = "https://github.com/likecoin/likecoin-nft-dashboard"
 
 [[repo]]
-url = "https://github.com/likecoin/likecoin-nft-market"
+url = "https://github.com/likecoin/likecoin-nft-marketplace"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-poc"
@@ -239,9 +245,6 @@ url = "https://github.com/likecoin/likecoin-poc-web"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-prayer"
-
-[[repo]]
-url = "https://github.com/likecoin/likecoin-store"
 
 [[repo]]
 url = "https://github.com/likecoin/likecoin-tunnel"
@@ -280,6 +283,9 @@ url = "https://github.com/likecoin/lunie-ng"
 url = "https://github.com/likecoin/mainnet"
 
 [[repo]]
+url = "https://github.com/likecoin/matters-web"
+
+[[repo]]
 url = "https://github.com/likecoin/migrate-to-likecoin-chain"
 
 [[repo]]
@@ -287,6 +293,9 @@ url = "https://github.com/likecoin/mnemonic-secret-sharing"
 
 [[repo]]
 url = "https://github.com/likecoin/nft-book-3D-cover"
+
+[[repo]]
+url = "https://github.com/likecoin/nft-book-press"
 
 [[repo]]
 url = "https://github.com/likecoin/nginx-filebeat-amplify"
@@ -328,6 +337,9 @@ url = "https://github.com/likecoin/osmosis"
 url = "https://github.com/likecoin/osmosis-frontend"
 
 [[repo]]
+url = "https://github.com/likecoin/pdf.js"
+
+[[repo]]
 url = "https://github.com/likecoin/puttyimages-web"
 
 [[repo]]
@@ -335,6 +347,9 @@ url = "https://github.com/likecoin/pwa-module"
 
 [[repo]]
 url = "https://github.com/likecoin/pyramid_safile"
+
+[[repo]]
+url = "https://github.com/likecoin/react-native-authcore"
 
 [[repo]]
 url = "https://github.com/likecoin/react-native-image-picker"
@@ -352,6 +367,9 @@ url = "https://github.com/likecoin/relayer"
 url = "https://github.com/likecoin/relayers"
 
 [[repo]]
+url = "https://github.com/likecoin/resolute"
+
+[[repo]]
 url = "https://github.com/likecoin/restake"
 
 [[repo]]
@@ -362,6 +380,9 @@ url = "https://github.com/likecoin/slips"
 
 [[repo]]
 url = "https://github.com/likecoin/superlike-scheduler"
+
+[[repo]]
+url = "https://github.com/likecoin/tendermint-images"
 
 [[repo]]
 url = "https://github.com/likecoin/testnets"

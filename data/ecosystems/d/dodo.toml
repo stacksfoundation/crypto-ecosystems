@@ -25,6 +25,9 @@ url = "https://github.com/DODOEX/DeFi-Pulse-Adapters"
 url = "https://github.com/DODOEX/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/DODOEX/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/DODOEX/docker-yapi"
 
 [[repo]]
@@ -32,6 +35,9 @@ url = "https://github.com/DODOEX/docs"
 
 [[repo]]
 url = "https://github.com/DODOEX/dodo-audits"
+
+[[repo]]
+url = "https://github.com/DODOEX/dodo-bridge-aggregator"
 
 [[repo]]
 url = "https://github.com/DODOEX/dodo-dashboard"
@@ -43,10 +49,16 @@ url = "https://github.com/DODOEX/dodo-example"
 url = "https://github.com/DODOEX/dodo-limit-order"
 
 [[repo]]
+url = "https://github.com/DODOEX/dodo-route-contract"
+
+[[repo]]
 url = "https://github.com/DODOEX/dodo-smart-contract"
 
 [[repo]]
 url = "https://github.com/DODOEX/dodo-the-graph"
+
+[[repo]]
+url = "https://github.com/DODOEX/dodo-v3"
 
 [[repo]]
 url = "https://github.com/DODOEX/dodo-young"
@@ -61,9 +73,6 @@ url = "https://github.com/DODOEX/duneanalytics-projects"
 url = "https://github.com/DODOEX/etcdkeeper"
 
 [[repo]]
-url = "https://github.com/DODOEX/eth-security-toolbox"
-
-[[repo]]
 url = "https://github.com/DODOEX/ethereum-blocks"
 
 [[repo]]
@@ -71,9 +80,6 @@ url = "https://github.com/DODOEX/ethereum-tx-sender"
 
 [[repo]]
 url = "https://github.com/DODOEX/extension-widgets"
-
-[[repo]]
-url = "https://github.com/DODOEX/gethexporter"
 
 [[repo]]
 url = "https://github.com/DODOEX/gitCoinGrant"
@@ -97,6 +103,9 @@ url = "https://github.com/DODOEX/konva"
 url = "https://github.com/DODOEX/ledger-plugin"
 
 [[repo]]
+url = "https://github.com/DODOEX/LlamaSwap-interface"
+
+[[repo]]
 url = "https://github.com/DODOEX/messari_subgraphs"
 
 [[repo]]
@@ -118,4 +127,16 @@ url = "https://github.com/DODOEX/transaction-launcher"
 url = "https://github.com/DODOEX/web3-provider-proxy"
 
 [[repo]]
+url = "https://github.com/DODOEX/widget-preview"
+
+[[repo]]
 url = "https://github.com/DODOEX/widgets"
+
+[[repo]]
+url = "https://github.com/DODOEX/xprofiler-docker"
+
+[[repo]]
+url = "https://github.com/sa1i/eth-security-toolbox"
+
+[[repo]]
+url = "https://github.com/sa1i/gethexporter"

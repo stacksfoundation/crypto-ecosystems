@@ -18,13 +18,10 @@ url = "https://github.com/adrianhopebailie/interledgerjs"
 url = "https://github.com/BidiPassCompany/ilp-research"
 
 [[repo]]
-url = "https://github.com/brillydev/timeless"
-
-[[repo]]
 url = "https://github.com/coilhq/interledger-relay"
 
 [[repo]]
-url = "https://github.com/d1no007/easy-connector-bundle"
+url = "https://github.com/dino-rodriguez/easy-connector-bundle"
 
 [[repo]]
 url = "https://github.com/dora-gt/cs-ilp-core"
@@ -36,19 +33,37 @@ url = "https://github.com/dora-gt/ilp-materials"
 url = "https://github.com/elmurci/kilp"
 
 [[repo]]
-url = "https://github.com/emschwartz/interledger-rs"
+url = "https://github.com/hyperledger/quilt"
 
 [[repo]]
-url = "https://github.com/hyperledger/quilt"
+url = "https://github.com/interledger-deprecated/passport-http-signature"
 
 [[repo]]
 url = "https://github.com/interledger/apidoc-template"
 
 [[repo]]
+url = "https://github.com/interledger/coil-wordpress-plugin"
+
+[[repo]]
 url = "https://github.com/interledger/connector.land"
 
 [[repo]]
+url = "https://github.com/interledger/docs-design-system"
+
+[[repo]]
+url = "https://github.com/interledger/docs-styleguide"
+
+[[repo]]
+url = "https://github.com/interledger/dx-tech-test"
+
+[[repo]]
 url = "https://github.com/interledger/gsoc"
+
+[[repo]]
+url = "https://github.com/interledger/hacktoberfest"
+
+[[repo]]
+url = "https://github.com/interledger/helm-charts"
 
 [[repo]]
 url = "https://github.com/interledger/http-message-signatures"
@@ -57,10 +72,16 @@ url = "https://github.com/interledger/http-message-signatures"
 url = "https://github.com/interledger/httpbis-digest-headers"
 
 [[repo]]
+url = "https://github.com/interledger/interledger-rs"
+
+[[repo]]
 url = "https://github.com/interledger/interledger-website"
 
 [[repo]]
 url = "https://github.com/interledger/interledger.github.io"
+
+[[repo]]
+url = "https://github.com/interledger/interledger.org-developers"
 
 [[repo]]
 url = "https://github.com/interledger/jmeter-samplers"
@@ -69,16 +90,28 @@ url = "https://github.com/interledger/jmeter-samplers"
 url = "https://github.com/interledger/jsdoc-template"
 
 [[repo]]
+url = "https://github.com/interledger/mastodon"
+
+[[repo]]
+url = "https://github.com/interledger/mastodon-chart"
+
+[[repo]]
+url = "https://github.com/interledger/mastodon-gcp-terraform"
+
+[[repo]]
 url = "https://github.com/interledger/network"
 
 [[repo]]
 url = "https://github.com/interledger/open-payments"
 
 [[repo]]
-url = "https://github.com/interledger/paper"
+url = "https://github.com/interledger/open-payments-snippets"
 
 [[repo]]
-url = "https://github.com/interledger/passport-http-signature"
+url = "https://github.com/interledger/open-payments-snippets-vscode"
+
+[[repo]]
+url = "https://github.com/interledger/paper"
 
 [[repo]]
 url = "https://github.com/interledger/paymentpointers.org"
@@ -96,10 +129,16 @@ url = "https://github.com/interledger/rafiki"
 url = "https://github.com/interledger/rafiki.dev"
 
 [[repo]]
+url = "https://github.com/interledger/receipt-verifier"
+
+[[repo]]
 url = "https://github.com/interledger/rfcs"
 
 [[repo]]
 url = "https://github.com/interledger/roadmap"
+
+[[repo]]
+url = "https://github.com/interledger/settlement-engines"
 
 [[repo]]
 url = "https://github.com/interledger/simple-web-monetization-interledger"
@@ -111,13 +150,28 @@ url = "https://github.com/interledger/specref"
 url = "https://github.com/interledger/structured-headers"
 
 [[repo]]
+url = "https://github.com/interledger/testnet"
+
+[[repo]]
 url = "https://github.com/interledger/ts-tech-test"
+
+[[repo]]
+url = "https://github.com/interledger/web-extensions-tech-test"
+
+[[repo]]
+url = "https://github.com/interledger/web-monetization-extension"
+
+[[repo]]
+url = "https://github.com/interledger/web-monetization-projects"
 
 [[repo]]
 url = "https://github.com/interledger/webmonetization.dev"
 
 [[repo]]
-url = "https://github.com/interledger/webmonetization.org"
+url = "https://github.com/interledger/WM2-Glitch-exclusive-content-basic"
+
+[[repo]]
+url = "https://github.com/interledger/writer-tech-test"
 
 [[repo]]
 url = "https://github.com/interledger4j/android-stream-sender-demo"
@@ -211,9 +265,6 @@ url = "https://github.com/interledgerjs/ilp-plugin-ethereum"
 
 [[repo]]
 url = "https://github.com/interledgerjs/ilp-plugin-http"
-
-[[repo]]
-url = "https://github.com/interledgerjs/ilp-plugin-lightning"
 
 [[repo]]
 url = "https://github.com/interledgerjs/ilp-plugin-mini-accounts"
@@ -393,10 +444,19 @@ url = "https://github.com/Kava-Labs/chain-registry"
 url = "https://github.com/Kava-Labs/chains"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/cometbft"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/cometbft-db"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/connector-config"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/cosmos-ledger"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/cosmos-omnibus"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/cosmos-paychan"
@@ -409,6 +469,9 @@ url = "https://github.com/Kava-Labs/create-react-app"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/crypto-rate-utils"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/curve-assets"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/DeFi-Pulse-Adapters"
@@ -441,13 +504,22 @@ url = "https://github.com/Kava-Labs/external-adapters-js"
 url = "https://github.com/Kava-Labs/go-amino"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/go-ethereum"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/go-sdk"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/go-tools"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/grocksdb"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/hardhat-boilerplate"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/hermes"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/iavl"
@@ -483,6 +555,9 @@ url = "https://github.com/Kava-Labs/javascript-sdk"
 url = "https://github.com/Kava-Labs/kava"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/kava-blockscout-build"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/kava-bridge"
 
 [[repo]]
@@ -492,7 +567,16 @@ url = "https://github.com/Kava-Labs/kava-deputy"
 url = "https://github.com/Kava-Labs/kava-devnet"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/kava-patches"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/kava-proxy-service"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/kava-testnets"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/kava-token-list"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-tools"
@@ -508,12 +592,6 @@ url = "https://github.com/Kava-Labs/launch"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/ledger-app"
-
-[[repo]]
-url = "https://github.com/Kava-Labs/ledger-cosmos"
-
-[[repo]]
-url = "https://github.com/Kava-Labs/ledger-cosmos-go"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/ledger-kava-js"
@@ -537,6 +615,9 @@ url = "https://github.com/Kava-Labs/refund-bot"
 url = "https://github.com/Kava-Labs/relayer"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/relayer-archive"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/rosetta-kava"
 
 [[repo]]
@@ -553,6 +634,9 @@ url = "https://github.com/Kava-Labs/sig"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/slips"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/smart-order-router"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/switch"
@@ -582,6 +666,9 @@ url = "https://github.com/Kava-Labs/tss-lib"
 url = "https://github.com/Kava-Labs/vuepress-theme-cosmos"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/wallet-connect-2-prototype"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/wallet-core"
 
 [[repo]]
@@ -597,7 +684,7 @@ url = "https://github.com/martinlowinski/ilp-ping"
 url = "https://github.com/mDuo13/artemis-frontend"
 
 [[repo]]
-url = "https://github.com/sabinebertram/ilp-survey"
+url = "https://github.com/sabineschaller/ilp-survey"
 
 [[repo]]
 url = "https://github.com/sappenin/artemis-server"
@@ -606,16 +693,16 @@ url = "https://github.com/sappenin/artemis-server"
 url = "https://github.com/sappenin/ilpv4-dev-website"
 
 [[repo]]
-url = "https://github.com/sappenin/java-ilpv4-connector"
-
-[[repo]]
-url = "https://github.com/sappenin/java-ilpv4-connector-docs"
-
-[[repo]]
 url = "https://github.com/surferwat/tryvia"
 
 [[repo]]
+url = "https://github.com/tirkarp/timeless"
+
+[[repo]]
 url = "https://github.com/uroshercog/orcus"
+
+[[repo]]
+url = "https://github.com/WICG/webmonetization"
 
 [[repo]]
 url = "https://github.com/wilsonianb/ilp-pull-manager"

@@ -13,6 +13,15 @@ url = "https://github.com/fxhash/chromium-extract"
 url = "https://github.com/fxhash/fxhash-api"
 
 [[repo]]
+url = "https://github.com/fxhash/fxhash-boilerplate"
+
+[[repo]]
+url = "https://github.com/fxhash/fxhash-evm-contracts"
+
+[[repo]]
+url = "https://github.com/fxhash/fxhash-package"
+
+[[repo]]
 url = "https://github.com/fxhash/fxhash-simple-boilerplate"
 
 [[repo]]
@@ -20,6 +29,9 @@ url = "https://github.com/fxhash/fxhash-webpack-boilerplate"
 
 [[repo]]
 url = "https://github.com/fxhash/fxhash-website"
+
+[[repo]]
+url = "https://github.com/fxhash/fxlens"
 
 [[repo]]
 url = "https://github.com/fxhash/fxlib"
@@ -31,7 +43,13 @@ url = "https://github.com/fxhash/gcloud-functions"
 url = "https://github.com/fxhash/lambda-extract"
 
 [[repo]]
+url = "https://github.com/fxhash/onchfs"
+
+[[repo]]
 url = "https://github.com/fxhash/otel-tracing"
+
+[[repo]]
+url = "https://github.com/fxhash/params-boilerplate"
 
 [[repo]]
 url = "https://github.com/fxhash/specifications"

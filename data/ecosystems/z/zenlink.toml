@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Zenlink"
 
-sub_ecosystems = []
+sub_ecosystems = ["Bifrost"]
 
 github_organizations = ["https://github.com/zenlinkpro"]
 
@@ -19,10 +19,16 @@ url = "https://github.com/zenlinkpro/bifrost"
 url = "https://github.com/zenlinkpro/bifrost-kusama-squid"
 
 [[repo]]
+url = "https://github.com/zenlinkpro/bifrost-polkadot-squid"
+
+[[repo]]
 url = "https://github.com/zenlinkpro/bifrost.js"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/canvas-node"
+
+[[repo]]
+url = "https://github.com/zenlinkpro/coingecko-market-api"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/cumulus"
@@ -53,9 +59,6 @@ url = "https://github.com/zenlinkpro/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/merkle-distributor"
-
-[[repo]]
-url = "https://github.com/zenlinkpro/moonriver-blocks-subquery"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/Open-Grants-Program"
@@ -94,9 +97,6 @@ url = "https://github.com/zenlinkpro/zenlink-astar-subsquid"
 url = "https://github.com/zenlinkpro/zenlink-blocks-subquery"
 
 [[repo]]
-url = "https://github.com/zenlinkpro/zenlink-dex-contract"
-
-[[repo]]
 url = "https://github.com/zenlinkpro/Zenlink-DEX-Module"
 
 [[repo]]
@@ -107,6 +107,7 @@ url = "https://github.com/zenlinkpro/zenlink-exchange-subquery"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-integral"
+missing = true
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-interface"
@@ -122,9 +123,6 @@ url = "https://github.com/zenlinkpro/zenlink-moonriver-squid"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-security-audit"
-
-[[repo]]
-url = "https://github.com/zenlinkpro/zenlink-subsquid"
 
 [[repo]]
 url = "https://github.com/zenlinkpro/zenlink-wasm-v1"

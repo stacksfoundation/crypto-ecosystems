@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/shroom-finance"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/shroom-finance/assets"
+url = "https://github.com/niftyx/assets"
 
 [[repo]]
-url = "https://github.com/shroom-finance/get-rewards"
+url = "https://github.com/niftyx/get-rewards"
 
 [[repo]]
-url = "https://github.com/shroom-finance/snapshot-spaces"
+url = "https://github.com/niftyx/snapshot-spaces"

@@ -7,10 +7,13 @@ github_organizations = ["https://github.com/zubr-exchange"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/zubr-exchange/actix-net"
+url = "https://github.com/futex-phoenex/cacherpc"
 
 [[repo]]
-url = "https://github.com/zubr-exchange/cacherpc"
+url = "https://github.com/futex-phoenex/zubr_sdk"
+
+[[repo]]
+url = "https://github.com/zubr-exchange/actix-net"
 
 [[repo]]
 url = "https://github.com/zubr-exchange/evm"
@@ -26,6 +29,3 @@ url = "https://github.com/zubr-exchange/solana"
 
 [[repo]]
 url = "https://github.com/zubr-exchange/wormhole-networks"
-
-[[repo]]
-url = "https://github.com/zubr-exchange/zubr_sdk"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/vyperlang"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/pcaversaccio/snekmate"
+
+[[repo]]
 url = "https://github.com/vyperlang/atom-vyper"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/vyperlang/blackadder"
 
 [[repo]]
 url = "https://github.com/vyperlang/coq-vyper"
+
+[[repo]]
+url = "https://github.com/vyperlang/devconnect2023"
 
 [[repo]]
 url = "https://github.com/vyperlang/egg"
@@ -25,13 +31,13 @@ url = "https://github.com/vyperlang/gaboon"
 url = "https://github.com/vyperlang/k-vyper"
 
 [[repo]]
-url = "https://github.com/vyperlang/language-vyper"
-
-[[repo]]
 url = "https://github.com/vyperlang/learn"
 
 [[repo]]
 url = "https://github.com/vyperlang/mamushi"
+
+[[repo]]
+url = "https://github.com/vyperlang/morelia-spilota"
 
 [[repo]]
 url = "https://github.com/vyperlang/pyodide"
@@ -61,13 +67,16 @@ url = "https://github.com/vyperlang/vvm"
 url = "https://github.com/vyperlang/vyper"
 
 [[repo]]
+url = "https://github.com/vyperlang/vyper-builds"
+
+[[repo]]
 url = "https://github.com/vyperlang/vyper-debug"
 
 [[repo]]
 url = "https://github.com/vyperlang/vyper-in-browser"
 
 [[repo]]
-url = "https://github.com/vyperlang/vyper-semantics"
+url = "https://github.com/vyperlang/vyper-lsp"
 
 [[repo]]
 url = "https://github.com/vyperlang/vyper-static-linux-build"

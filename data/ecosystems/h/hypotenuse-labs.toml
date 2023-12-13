@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/hyplabs"]
 url = "https://github.com/hyplabs/AlgoSwap"
 
 [[repo]]
+url = "https://github.com/hyplabs/Ambient_Infra"
+
+[[repo]]
 url = "https://github.com/hyplabs/bitgo-trading-bot"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/hyplabs/browser-sdk"
 
 [[repo]]
 url = "https://github.com/hyplabs/chia-network.github.io"
+
+[[repo]]
+url = "https://github.com/hyplabs/CursedChrome"
 
 [[repo]]
 url = "https://github.com/hyplabs/dfinity-oracle-crypto"
@@ -58,7 +64,13 @@ url = "https://github.com/hyplabs/keybase-live-feed"
 url = "https://github.com/hyplabs/lz-collect-module"
 
 [[repo]]
+url = "https://github.com/hyplabs/lz-examples"
+
+[[repo]]
 url = "https://github.com/hyplabs/minimal_webauthn_demo"
+
+[[repo]]
+url = "https://github.com/hyplabs/modules"
 
 [[repo]]
 url = "https://github.com/hyplabs/move-nft-create"
@@ -68,6 +80,9 @@ url = "https://github.com/hyplabs/move-nft-framework"
 
 [[repo]]
 url = "https://github.com/hyplabs/spacefold"
+
+[[repo]]
+url = "https://github.com/hyplabs/starkex_wc"
 
 [[repo]]
 url = "https://github.com/hyplabs/token-geyser-v2"

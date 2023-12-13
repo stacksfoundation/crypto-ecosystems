@@ -7,85 +7,85 @@ github_organizations = ["https://github.com/contribute-torque"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/contribute-torque/a-boxed-grid"
+url = "https://github.com/scala-network/a-boxed-grid"
 
 [[repo]]
-url = "https://github.com/contribute-torque/bisq-core"
+url = "https://github.com/scala-network/bisq-core"
 
 [[repo]]
-url = "https://github.com/contribute-torque/cpuminer-opt"
+url = "https://github.com/scala-network/cpuminer-opt"
 
 [[repo]]
-url = "https://github.com/contribute-torque/GUI-miner"
+url = "https://github.com/scala-network/cryptonote-nodejs-pool"
 
 [[repo]]
-url = "https://github.com/contribute-torque/ledger-app-torque"
+url = "https://github.com/scala-network/GUI-miner"
 
 [[repo]]
-url = "https://github.com/contribute-torque/Lets-Tip-Me"
+url = "https://github.com/scala-network/ledger-app-torque"
 
 [[repo]]
-url = "https://github.com/contribute-torque/libznipfs"
+url = "https://github.com/scala-network/Lets-Tip-Me"
 
 [[repo]]
-url = "https://github.com/contribute-torque/retrieve-zn-ipfs-seedlist"
+url = "https://github.com/scala-network/libipfs"
 
 [[repo]]
-url = "https://github.com/contribute-torque/stellite-card-applet"
+url = "https://github.com/scala-network/retrieve-zn-ipfs-seedlist"
 
 [[repo]]
-url = "https://github.com/contribute-torque/stellite-card-reader"
+url = "https://github.com/scala-network/scala-hashing"
 
 [[repo]]
-url = "https://github.com/contribute-torque/stellite-card-server"
+url = "https://github.com/scala-network/scala-v7"
 
 [[repo]]
-url = "https://github.com/contribute-torque/StellitePay-API"
+url = "https://github.com/scala-network/stellite-card-applet"
 
 [[repo]]
-url = "https://github.com/contribute-torque/stellitephp"
+url = "https://github.com/scala-network/stellite-card-reader"
 
 [[repo]]
-url = "https://github.com/contribute-torque/tg_wallet"
+url = "https://github.com/scala-network/stellite-card-server"
 
 [[repo]]
-url = "https://github.com/contribute-torque/Torque"
+url = "https://github.com/scala-network/StellitePay-API"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torque-blockchain-downloader"
+url = "https://github.com/scala-network/stellitephp"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torque-hashing"
+url = "https://github.com/scala-network/TelegramWallet"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torquecart3"
+url = "https://github.com/scala-network/torque-blockchain-downloader"
 
 [[repo]]
-url = "https://github.com/contribute-torque/TorqueGUI"
+url = "https://github.com/scala-network/torquecart3"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torquemagento"
+url = "https://github.com/scala-network/TorqueGUI"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torqueps"
+url = "https://github.com/scala-network/torquemagento"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torquewhmcs"
+url = "https://github.com/scala-network/torqueps"
 
 [[repo]]
-url = "https://github.com/contribute-torque/torquewp"
+url = "https://github.com/scala-network/torquewhmcs"
 
 [[repo]]
-url = "https://github.com/contribute-torque/xtc-nodejs-pool"
+url = "https://github.com/scala-network/torquewp"
 
 [[repo]]
-url = "https://github.com/contribute-torque/xtc-stak"
+url = "https://github.com/scala-network/XLArig"
 
 [[repo]]
-url = "https://github.com/contribute-torque/XTC-Stats"
+url = "https://github.com/scala-network/xtc-stak"
 
 [[repo]]
-url = "https://github.com/contribute-torque/xtcandrig"
+url = "https://github.com/scala-network/XTC-Stats"
 
 [[repo]]
-url = "https://github.com/contribute-torque/xtcrig"
+url = "https://github.com/scala-network/xtcandrig"

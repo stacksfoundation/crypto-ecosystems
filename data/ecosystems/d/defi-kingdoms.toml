@@ -28,7 +28,13 @@ url = "https://github.com/DefiKingdoms/DefiKingdoms.github.io"
 url = "https://github.com/DefiKingdoms/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/DefiKingdoms/discord-bot-kessing"
+
+[[repo]]
 url = "https://github.com/DefiKingdoms/docs"
+
+[[repo]]
+url = "https://github.com/DefiKingdoms/MultiSigWallet"
 
 [[repo]]
 url = "https://github.com/DefiKingdoms/sdk"

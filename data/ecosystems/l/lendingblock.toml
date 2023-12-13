@@ -7,15 +7,6 @@ github_organizations = ["https://github.com/lendingblock"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/lendingblock/agile-toolkit"
-
-[[repo]]
-url = "https://github.com/lendingblock/aio-kong"
-
-[[repo]]
-url = "https://github.com/lendingblock/aio-openapi"
-
-[[repo]]
 url = "https://github.com/lendingblock/aws-codebuild-extras"
 
 [[repo]]
@@ -47,3 +38,12 @@ url = "https://github.com/lendingblock/rippled-ws-client-dashboard"
 
 [[repo]]
 url = "https://github.com/lendingblock/token-generation"
+
+[[repo]]
+url = "https://github.com/quantmind/agile-toolkit"
+
+[[repo]]
+url = "https://github.com/quantmind/aio-kong"
+
+[[repo]]
+url = "https://github.com/quantmind/aio-openapi"

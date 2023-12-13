@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/calimero-is-near"]
 url = "https://github.com/calimero-is-near/actix-diesel"
 
 [[repo]]
+url = "https://github.com/calimero-is-near/app-near"
+
+[[repo]]
 url = "https://github.com/calimero-is-near/bridge-contracts"
 
 [[repo]]
@@ -17,6 +20,15 @@ url = "https://github.com/calimero-is-near/calimero-auth-sdk"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/calimero-examples"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/calimero-sdk"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/calimero-sdk-rs"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/chat-ui-kit-react"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/docs"
@@ -28,13 +40,31 @@ url = "https://github.com/calimero-is-near/events-indexer"
 url = "https://github.com/calimero-is-near/FT"
 
 [[repo]]
+url = "https://github.com/calimero-is-near/my-near-wallet"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/near-apac-workshop"
+
+[[repo]]
 url = "https://github.com/calimero-is-near/near-api-js"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/near-api-js-1"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/near-cli"
 
 [[repo]]
+url = "https://github.com/calimero-is-near/near-discovery"
+
+[[repo]]
 url = "https://github.com/calimero-is-near/near-indexer-for-explorer"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/near-lake-framework-rs"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/near-lake-indexer"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/near-py-client"
@@ -47,3 +77,9 @@ url = "https://github.com/calimero-is-near/near-wallet"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/nearcore"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/read-rpc"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/VM"

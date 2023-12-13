@@ -7,13 +7,28 @@ github_organizations = ["https://github.com/popula-io"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/beepopula/community"
+
+[[repo]]
+url = "https://github.com/beepopula/community-genesis"
+
+[[repo]]
+url = "https://github.com/beepopula/nft-contract"
+
+[[repo]]
+url = "https://github.com/beepopula/popula-contract"
+
+[[repo]]
+url = "https://github.com/beepopula/popula-eth-shanghai"
+
+[[repo]]
+url = "https://github.com/beepopula/popula_indexer"
+
+[[repo]]
+url = "https://github.com/beepopula/popula_server"
+
+[[repo]]
 url = "https://github.com/popula-io/Bounty"
-
-[[repo]]
-url = "https://github.com/popula-io/community"
-
-[[repo]]
-url = "https://github.com/popula-io/community-genesis"
 
 [[repo]]
 url = "https://github.com/popula-io/Creator-Token-Treasury"
@@ -28,22 +43,7 @@ url = "https://github.com/popula-io/Linkdrop"
 url = "https://github.com/popula-io/Lockup"
 
 [[repo]]
-url = "https://github.com/popula-io/nft-contract"
-
-[[repo]]
-url = "https://github.com/popula-io/popula-contract"
-
-[[repo]]
-url = "https://github.com/popula-io/popula-eth-shanghai"
-
-[[repo]]
 url = "https://github.com/popula-io/popula_frontend"
-
-[[repo]]
-url = "https://github.com/popula-io/popula_indexer"
-
-[[repo]]
-url = "https://github.com/popula-io/popula_server"
 
 [[repo]]
 url = "https://github.com/popula-io/Token-Factory"

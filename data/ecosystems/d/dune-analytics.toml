@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/duneanalytics"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/duneanalytics/abstractions"
-
-[[repo]]
 url = "https://github.com/duneanalytics/cowizard"
 
 [[repo]]
@@ -28,6 +25,12 @@ url = "https://github.com/duneanalytics/docs-zh-cn"
 url = "https://github.com/duneanalytics/docsV2"
 
 [[repo]]
+url = "https://github.com/duneanalytics/dune-client"
+
+[[repo]]
+url = "https://github.com/duneanalytics/dune-query-translator"
+
+[[repo]]
 url = "https://github.com/duneanalytics/dune-v1-abstractions"
 
 [[repo]]
@@ -35,6 +38,15 @@ url = "https://github.com/duneanalytics/duneapi-client-go"
 
 [[repo]]
 url = "https://github.com/duneanalytics/duneapi-client-python"
+
+[[repo]]
+url = "https://github.com/duneanalytics/go-ethereum"
+
+[[repo]]
+url = "https://github.com/duneanalytics/harmonizer"
+
+[[repo]]
+url = "https://github.com/duneanalytics/langchain"
 
 [[repo]]
 url = "https://github.com/duneanalytics/odbc"
@@ -50,6 +62,9 @@ url = "https://github.com/duneanalytics/prometheus-trusted-advisor-exporter"
 
 [[repo]]
 url = "https://github.com/duneanalytics/prometheus_aws_cost_exporter"
+
+[[repo]]
+url = "https://github.com/duneanalytics/python-notebook-examples"
 
 [[repo]]
 url = "https://github.com/duneanalytics/spellbook"

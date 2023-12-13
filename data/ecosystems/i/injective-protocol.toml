@@ -22,6 +22,9 @@ url = "https://github.com/InjectiveLabs/b"
 url = "https://github.com/InjectiveLabs/bandchain"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/bandchain-packet"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/blockscout"
 
 [[repo]]
@@ -34,10 +37,16 @@ url = "https://github.com/InjectiveLabs/chainlink-injective"
 url = "https://github.com/InjectiveLabs/closer"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/cometbft"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/cosmos-gravity-bridge"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/CosmWasm101"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/cw-counter"
@@ -76,19 +85,22 @@ url = "https://github.com/InjectiveLabs/esbuild-plugins"
 url = "https://github.com/InjectiveLabs/etherman"
 
 [[repo]]
-url = "https://github.com/InjectiveLabs/evm-deploy-contract"
-
-[[repo]]
 url = "https://github.com/InjectiveLabs/explorer-core-plugins"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/fe-components-library"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/firehose-cosmos"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/go-cross"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/go-ethereum"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/go-ethereum-hdwallet"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/goleveldb"
@@ -103,13 +115,28 @@ url = "https://github.com/InjectiveLabs/graph-cli"
 url = "https://github.com/InjectiveLabs/graph-node"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/grpc-web"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/hummingbot"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/hummingbot_hackathon"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/iavl"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/ibc-go"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/ibc-rs"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/informal-tendermint"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-acc-converter"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-api-demo"
@@ -124,10 +151,32 @@ url = "https://github.com/InjectiveLabs/injective-cache"
 url = "https://github.com/InjectiveLabs/injective-chain-releases"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/injective-cli-ts"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/injective-core-releases"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-nuxt-basic-starter"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-nuxt-full-starter"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-nuxt-sc-counter"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-react-basic-starter"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-react-full-starter"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-create-app-template-react-sc-counter"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/injective-dex"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-equinox-rewards"
@@ -157,19 +206,31 @@ url = "https://github.com/InjectiveLabs/injective-guilds-service"
 url = "https://github.com/InjectiveLabs/injective-guilds-ui"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/injective-hedgefund"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-ledger-go"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/injective-oracle-scaffold"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-price-oracle"
 
 [[repo]]
-url = "https://github.com/InjectiveLabs/injective-price-oracle-ext"
+url = "https://github.com/InjectiveLabs/injective-proto"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-protocol-specification"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/injective-pubsub"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/injective-sdk-ts-example"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/injective-simple-sc-counter-ui"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/injective-testnet-releases"
@@ -199,6 +260,9 @@ url = "https://github.com/InjectiveLabs/jsonc"
 url = "https://github.com/InjectiveLabs/keplr-wallet"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/lenster"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/mainnet-config"
 
 [[repo]]
@@ -211,13 +275,16 @@ url = "https://github.com/InjectiveLabs/mainnet-genesis-dryrun"
 url = "https://github.com/InjectiveLabs/matic-cli"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/memongo"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/metamask-extension"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/metrics"
 
 [[repo]]
-url = "https://github.com/InjectiveLabs/network-config"
+url = "https://github.com/InjectiveLabs/nuxt-bugsnag"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/old-injective-explorer"
@@ -253,16 +320,28 @@ url = "https://github.com/InjectiveLabs/serverless-geoip"
 url = "https://github.com/InjectiveLabs/statsd-http-proxy"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/substreams-example"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/sup"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/suplog"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/swap-contract"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/tendermint"
+
+[[repo]]
+url = "https://github.com/InjectiveLabs/test-tube"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/testnet"
 
 [[repo]]
-url = "https://github.com/InjectiveLabs/testnet-config"
+url = "https://github.com/InjectiveLabs/trading-docs"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/trezor-firmware"
@@ -274,6 +353,9 @@ url = "https://github.com/InjectiveLabs/truffle"
 url = "https://github.com/InjectiveLabs/utils-go"
 
 [[repo]]
+url = "https://github.com/InjectiveLabs/validator-images"
+
+[[repo]]
 url = "https://github.com/InjectiveLabs/vdf"
 
 [[repo]]
@@ -281,6 +363,3 @@ url = "https://github.com/InjectiveLabs/wasmd"
 
 [[repo]]
 url = "https://github.com/InjectiveLabs/website"
-
-[[repo]]
-url = "https://github.com/InjectiveLabs/zeroex-go"

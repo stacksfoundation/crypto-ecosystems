@@ -28,6 +28,9 @@ url = "https://github.com/zeropoolnetwork/eth-boston"
 url = "https://github.com/zeropoolnetwork/fawkes-crypto"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/fawkes-crypto-examples"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/ff-uint"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/zeropoolnetwork/Grant-Milestone-Delivery"
 url = "https://github.com/zeropoolnetwork/groth16-wasm-benchmark"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/integration-tests"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/joinsplit_experiment"
 
 [[repo]]
@@ -44,9 +50,6 @@ url = "https://github.com/zeropoolnetwork/libzeropool"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/libzeropool-rs"
-
-[[repo]]
-url = "https://github.com/zeropoolnetwork/libzeropool-wasm"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/MiMCTree"
@@ -88,22 +91,19 @@ url = "https://github.com/zeropoolnetwork/poseidon-params-safety-checker"
 url = "https://github.com/zeropoolnetwork/poseidon-solidity-benchmark"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/r1cs-file-rs"
-
-[[repo]]
 url = "https://github.com/zeropoolnetwork/updatablemerkletree"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/wasm-bindgen-rayon"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/wasm-mt-pool-helpers"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/website"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zcoinselect"
-
-[[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-api-js"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-client-js"
@@ -127,9 +127,6 @@ url = "https://github.com/zeropoolnetwork/zeropool-frontend-static"
 url = "https://github.com/zeropoolnetwork/zeropool-indexeddb"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-js"
-
-[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-near"
 
 [[repo]]
@@ -148,13 +145,19 @@ url = "https://github.com/zeropoolnetwork/zeropool-substrate-faucet"
 url = "https://github.com/zeropoolnetwork/zeropool-substrate-groth16-example"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-substrate-pallet"
-
-[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-support-js"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-test-params"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-tx"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-utils"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-waves"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zp-chrome-extension"

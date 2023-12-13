@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ribbon-finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ribbon-finance/aevo-audit"
+
+[[repo]]
 url = "https://github.com/ribbon-finance/audit"
 
 [[repo]]
@@ -28,7 +31,13 @@ url = "https://github.com/ribbon-finance/experiments-site"
 url = "https://github.com/ribbon-finance/GammaProtocol"
 
 [[repo]]
+url = "https://github.com/ribbon-finance/GammaProtocol-OTC"
+
+[[repo]]
 url = "https://github.com/ribbon-finance/governance"
+
+[[repo]]
+url = "https://github.com/ribbon-finance/governance-v2"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ido-contracts"
@@ -62,6 +71,7 @@ url = "https://github.com/ribbon-finance/ribbon-v1"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-v2"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-v2-earn"
@@ -82,10 +92,4 @@ url = "https://github.com/ribbon-finance/snapshot-strategies"
 url = "https://github.com/ribbon-finance/strangles-frontend"
 
 [[repo]]
-url = "https://github.com/ribbon-finance/structured-products"
-
-[[repo]]
 url = "https://github.com/ribbon-finance/telegram-auction-bot"
-
-[[repo]]
-url = "https://github.com/ribbon-finance/token"

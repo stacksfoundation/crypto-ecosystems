@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/liquality"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/liquality/agent"
-
-[[repo]]
 url = "https://github.com/liquality/agent-status"
 
 [[repo]]
@@ -31,9 +28,6 @@ url = "https://github.com/liquality/browser-extensions"
 url = "https://github.com/liquality/cal-generator"
 
 [[repo]]
-url = "https://github.com/liquality/chainabstractionlayer"
-
-[[repo]]
 url = "https://github.com/liquality/chainify"
 
 [[repo]]
@@ -41,6 +35,9 @@ url = "https://github.com/liquality/chainify-docs"
 
 [[repo]]
 url = "https://github.com/liquality/coinselect"
+
+[[repo]]
+url = "https://github.com/liquality/connect-sdk"
 
 [[repo]]
 url = "https://github.com/liquality/core-lib"
@@ -58,9 +55,6 @@ url = "https://github.com/liquality/documentation"
 url = "https://github.com/liquality/electrs-batch-server"
 
 [[repo]]
-url = "https://github.com/liquality/error-handler"
-
-[[repo]]
 url = "https://github.com/liquality/error-parser"
 
 [[repo]]
@@ -73,6 +67,15 @@ url = "https://github.com/liquality/explorer"
 url = "https://github.com/liquality/fee-suggestions"
 
 [[repo]]
+url = "https://github.com/liquality/gastank-extension"
+
+[[repo]]
+url = "https://github.com/liquality/group-mints"
+
+[[repo]]
+url = "https://github.com/liquality/group-mints-next"
+
+[[repo]]
 url = "https://github.com/liquality/hw-web-bridge"
 
 [[repo]]
@@ -83,9 +86,6 @@ url = "https://github.com/liquality/ledger-live-desktop"
 
 [[repo]]
 url = "https://github.com/liquality/ledger-web-bridge"
-
-[[repo]]
-url = "https://github.com/liquality/ledger-webusb-bridge"
 
 [[repo]]
 url = "https://github.com/liquality/ledgerjs"
@@ -109,6 +109,9 @@ url = "https://github.com/liquality/liquality-near-contract-helper"
 url = "https://github.com/liquality/liquality-node-config"
 
 [[repo]]
+url = "https://github.com/liquality/liquality-sdk-demo"
+
+[[repo]]
 url = "https://github.com/liquality/liquality-swap"
 
 [[repo]]
@@ -116,6 +119,9 @@ url = "https://github.com/liquality/liquality.github.io"
 
 [[repo]]
 url = "https://github.com/liquality/near-htlc-contracts"
+
+[[repo]]
+url = "https://github.com/liquality/sui-wallet"
 
 [[repo]]
 url = "https://github.com/liquality/swap-diag"
@@ -139,4 +145,22 @@ url = "https://github.com/liquality/value-management-system"
 url = "https://github.com/liquality/wallet"
 
 [[repo]]
+url = "https://github.com/liquality/wallet-api"
+
+[[repo]]
 url = "https://github.com/liquality/wallet-core"
+
+[[repo]]
+url = "https://github.com/liquality/wallet-sdk"
+
+[[repo]]
+url = "https://github.com/liquality/wav-game"
+
+[[repo]]
+url = "https://github.com/liquality/wav-game-contracts"
+
+[[repo]]
+url = "https://github.com/liquality/wav-game-data"
+
+[[repo]]
+url = "https://github.com/liquality/web-examples"

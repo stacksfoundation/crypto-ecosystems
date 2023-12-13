@@ -19,6 +19,9 @@ url = "https://github.com/CoolBitX-Technology/bitcoin.org"
 url = "https://github.com/CoolBitX-Technology/bitgo-utxo-lib"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/blockchain-info"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/changelly-js"
 
 [[repo]]
@@ -49,6 +52,9 @@ url = "https://github.com/CoolBitX-Technology/coolwallet-docs"
 url = "https://github.com/CoolBitX-Technology/coolwallet-ios"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/coolwallet-pro-se"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-sdk"
 
 [[repo]]
@@ -64,6 +70,9 @@ url = "https://github.com/CoolBitX-Technology/cp-bitcoind"
 url = "https://github.com/CoolBitX-Technology/cp-cash-out-api"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/cp-contract-event-listener"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-tsconfig-test"
 
 [[repo]]
@@ -77,6 +86,9 @@ url = "https://github.com/CoolBitX-Technology/CWS-API-test"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/electrumx"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/financial-team-airdrop-nft-gh-page"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/icon-sdk-js"
@@ -110,6 +122,12 @@ url = "https://github.com/CoolBitX-Technology/react-native-tcp"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-touch-id"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-navigation"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-navigation-native"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/sapphire"
@@ -178,6 +196,9 @@ url = "https://github.com/CoolBitX-Technology/sygna-bridge-util-py"
 url = "https://github.com/CoolBitX-Technology/sygna-hub-api-doc"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/sygna-hub-toolkit"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/transactid-library-java"
 
 [[repo]]
@@ -185,6 +206,9 @@ url = "https://github.com/CoolBitX-Technology/truffle-hdwallet-provider"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/walletconnect-registry"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/web-examples"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/zencashjs"

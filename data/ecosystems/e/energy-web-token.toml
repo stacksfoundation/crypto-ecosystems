@@ -28,6 +28,9 @@ url = "https://github.com/energywebfoundation/assets"
 url = "https://github.com/energywebfoundation/authority-node"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/avn-dev-node"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/bip39"
 
 [[repo]]
@@ -70,6 +73,9 @@ url = "https://github.com/energywebfoundation/der-census"
 url = "https://github.com/energywebfoundation/did-auth-proxy"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/did-auth-proxy-helm"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/discrete-scurve-calculator"
 
 [[repo]]
@@ -97,6 +103,9 @@ url = "https://github.com/energywebfoundation/dsb-messagebroker-helm"
 url = "https://github.com/energywebfoundation/dsb_client.py"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/elia-energyblocks-vcs"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/elocity-setup-docs"
 
 [[repo]]
@@ -112,6 +121,9 @@ url = "https://github.com/energywebfoundation/engie-solar-crowdfunding"
 url = "https://github.com/energywebfoundation/ens-app"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/ens-app-v3"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/ens-ui"
 
 [[repo]]
@@ -119,6 +131,9 @@ url = "https://github.com/energywebfoundation/ens.domains"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/ensjs"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/ensjs-v3"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/erpc-helm"
@@ -298,9 +313,6 @@ url = "https://github.com/energywebfoundation/gsn-contracts"
 url = "https://github.com/energywebfoundation/gsn-template"
 
 [[repo]]
-url = "https://github.com/energywebfoundation/iam-cache-server"
-
-[[repo]]
 url = "https://github.com/energywebfoundation/iam-cache-server-helm"
 
 [[repo]]
@@ -314,9 +326,6 @@ url = "https://github.com/energywebfoundation/iam-contracts"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/iam-org-creator"
-
-[[repo]]
-url = "https://github.com/energywebfoundation/iam-roles"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/jobs"
@@ -394,6 +403,9 @@ url = "https://github.com/energywebfoundation/origin-nvenergy-poc"
 url = "https://github.com/energywebfoundation/origin-utils-general-contracts"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/owf-project-proposals"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/paper"
 
 [[repo]]
@@ -421,7 +433,16 @@ url = "https://github.com/energywebfoundation/pjm-origin-monorepo"
 url = "https://github.com/energywebfoundation/polkadot"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/polkadot-apps"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/polkadot-js-apps"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/precise-proofs"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/rust-movies-test"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/safe-contracts"
@@ -434,6 +455,12 @@ url = "https://github.com/energywebfoundation/safe-relay-service"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/safe-wallet-web"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/sample-go-app"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/secretstore-contracts"
@@ -478,6 +505,9 @@ url = "https://github.com/energywebfoundation/sonnen-edis-poc-lib"
 url = "https://github.com/energywebfoundation/sonnen-edis-poc-ui"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/ss58-registry"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/ssi"
 
 [[repo]]
@@ -494,6 +524,9 @@ url = "https://github.com/energywebfoundation/staking-pool-ui"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/staking-ui"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/subscan-projects-info"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/switchboard-dapp"
@@ -544,6 +577,12 @@ url = "https://github.com/energywebfoundation/uport-did-driver"
 url = "https://github.com/energywebfoundation/ute-issuer-api"
 
 [[repo]]
+url = "https://github.com/energywebfoundation/vc-api"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/vc-api-owf"
+
+[[repo]]
 url = "https://github.com/energywebfoundation/volta-faucet"
 
 [[repo]]
@@ -551,6 +590,12 @@ url = "https://github.com/energywebfoundation/volta-system-contracts"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/volta-system-tests"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/wagmi-references"
+
+[[repo]]
+url = "https://github.com/energywebfoundation/worker-contract"
 
 [[repo]]
 url = "https://github.com/energywebfoundation/wrapped-native"

@@ -1,0 +1,40 @@
+# Ecosystem Level Information
+title = "WeaveDB"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/weavedb"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/weavedb/arweave-js"
+
+[[repo]]
+url = "https://github.com/weavedb/fpjson"
+
+[[repo]]
+url = "https://github.com/weavedb/fpjson-website"
+
+[[repo]]
+url = "https://github.com/weavedb/roidjs"
+
+[[repo]]
+url = "https://github.com/weavedb/warp"
+
+[[repo]]
+url = "https://github.com/weavedb/warp-contracts-lmdb"
+
+[[repo]]
+url = "https://github.com/weavedb/warp-contracts-plugins"
+
+[[repo]]
+url = "https://github.com/weavedb/weavedb"
+
+[[repo]]
+url = "https://github.com/weavedb/weavedb-dashboard"
+
+[[repo]]
+url = "https://github.com/weavedb/weavedb-docs"
+
+[[repo]]
+url = "https://github.com/weavedb/webmax.js"

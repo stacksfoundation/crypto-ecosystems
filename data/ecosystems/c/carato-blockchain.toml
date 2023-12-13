@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/carato-blockchain"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/carato-blockchain/api"
+url = "https://github.com/carato-dao/api"
 
 [[repo]]
-url = "https://github.com/carato-blockchain/smart-contracts"
+url = "https://github.com/carato-dao/smart-contracts"
 
 [[repo]]
-url = "https://github.com/carato-blockchain/wallet"
+url = "https://github.com/carato-dao/wallet"
 
 [[repo]]
-url = "https://github.com/carato-blockchain/website"
+url = "https://github.com/carato-dao/website"

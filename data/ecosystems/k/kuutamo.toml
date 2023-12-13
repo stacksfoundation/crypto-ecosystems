@@ -7,13 +7,34 @@ github_organizations = ["https://github.com/kuutamolabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/kuutamolabs/bdk"
+
+[[repo]]
 url = "https://github.com/kuutamolabs/cloud-customer-docs"
 
 [[repo]]
-url = "https://github.com/kuutamolabs/kuutamod"
+url = "https://github.com/kuutamolabs/deployment-example"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/eth-staking-knd"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/kld-ui"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/ldk-lsp-client"
 
 [[repo]]
 url = "https://github.com/kuutamolabs/lightning-knd"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/lightning-tui"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/lightning-ui"
+
+[[repo]]
+url = "https://github.com/kuutamolabs/near-indexer-for-explorer"
 
 [[repo]]
 url = "https://github.com/kuutamolabs/near-prometheus-exporter"

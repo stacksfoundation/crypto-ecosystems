@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/RequestNetwork"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/RequestNetwork/Apps_CTBK"
-
-[[repo]]
 url = "https://github.com/RequestNetwork/blockchain-engineer-recruitement-test"
 
 [[repo]]
@@ -19,10 +16,16 @@ url = "https://github.com/RequestNetwork/central"
 url = "https://github.com/RequestNetwork/crowdfunding"
 
 [[repo]]
+url = "https://github.com/RequestNetwork/demo-api"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/docker-images"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/docs.request.finance"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/docs.request.network"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/documentation"
@@ -56,6 +59,15 @@ url = "https://github.com/RequestNetwork/payments-subgraph"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/price-aggregators-subgraph"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/public-issues"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-node-js"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-node.js"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/react-request-network"
@@ -104,6 +116,12 @@ url = "https://github.com/RequestNetwork/storage-subgraph"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/support"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/template-web3-app"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/turbo-request-app"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/workadventure"

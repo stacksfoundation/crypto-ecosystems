@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/Ludex-Labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Ludex-Labs/.github"
+
+[[repo]]
 url = "https://github.com/Ludex-Labs/ika"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ludex-join-solana"
 
 [[repo]]
 url = "https://github.com/Ludex-Labs/ludex-sdk-js"

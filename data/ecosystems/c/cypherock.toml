@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/Cypherock"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Cypherock/cypherock-common"
+
+[[repo]]
+url = "https://github.com/Cypherock/cypherock-cysync"
+
+[[repo]]
 url = "https://github.com/Cypherock/cysync-desktop"
 
 [[repo]]
@@ -40,13 +46,34 @@ url = "https://github.com/Cypherock/cysync-module-server"
 url = "https://github.com/Cypherock/cysync-module-wallet"
 
 [[repo]]
+url = "https://github.com/Cypherock/cysync-scripts"
+
+[[repo]]
+url = "https://github.com/Cypherock/emfi-board"
+
+[[repo]]
+url = "https://github.com/Cypherock/MPC-TSS"
+
+[[repo]]
+url = "https://github.com/Cypherock/nanopb"
+
+[[repo]]
+url = "https://github.com/Cypherock/sdk"
+
+[[repo]]
 url = "https://github.com/Cypherock/snap-passwordManager"
+
+[[repo]]
+url = "https://github.com/Cypherock/Unity"
 
 [[repo]]
 url = "https://github.com/Cypherock/WalletScrutinyCom"
 
 [[repo]]
 url = "https://github.com/Cypherock/x1_wallet_firmware"
+
+[[repo]]
+url = "https://github.com/Cypherock/x1_wallet_firmware_build_image"
 
 [[repo]]
 url = "https://github.com/Cypherock/x1_wallet_hal_stm32"

@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/hirosystems"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hirosystems/.github"
+
+[[repo]]
 url = "https://github.com/hirosystems/API-Automation"
+
+[[repo]]
+url = "https://github.com/hirosystems/api-toolkit"
+
+[[repo]]
+url = "https://github.com/hirosystems/apiTest"
 
 [[repo]]
 url = "https://github.com/hirosystems/app.co-api"
@@ -25,7 +34,22 @@ url = "https://github.com/hirosystems/blockchain-metrics"
 url = "https://github.com/hirosystems/btc-us-website"
 
 [[repo]]
+url = "https://github.com/hirosystems/btcweb3"
+
+[[repo]]
+url = "https://github.com/hirosystems/chainhook"
+
+[[repo]]
+url = "https://github.com/hirosystems/chainstats"
+
+[[repo]]
 url = "https://github.com/hirosystems/charts"
+
+[[repo]]
+url = "https://github.com/hirosystems/clar2wasm"
+
+[[repo]]
+url = "https://github.com/hirosystems/clar2wasm-mini"
 
 [[repo]]
 url = "https://github.com/hirosystems/clarinet"
@@ -37,6 +61,9 @@ url = "https://github.com/hirosystems/clarinet-2"
 url = "https://github.com/hirosystems/clarity-examples"
 
 [[repo]]
+url = "https://github.com/hirosystems/clarity-factory"
+
+[[repo]]
 url = "https://github.com/hirosystems/clarity-jupyter-kernel"
 
 [[repo]]
@@ -46,13 +73,7 @@ url = "https://github.com/hirosystems/clarity-lsp"
 url = "https://github.com/hirosystems/clarity-notebook"
 
 [[repo]]
-url = "https://github.com/hirosystems/clarity-repl"
-
-[[repo]]
 url = "https://github.com/hirosystems/clarity-starter"
-
-[[repo]]
-url = "https://github.com/hirosystems/clarity-starters"
 
 [[repo]]
 url = "https://github.com/hirosystems/clarity.tmbundle"
@@ -67,12 +88,6 @@ url = "https://github.com/hirosystems/community-meeting"
 url = "https://github.com/hirosystems/connect"
 
 [[repo]]
-url = "https://github.com/hirosystems/create-stacks"
-
-[[repo]]
-url = "https://github.com/hirosystems/dap-types"
-
-[[repo]]
 url = "https://github.com/hirosystems/debug_types"
 
 [[repo]]
@@ -80,6 +95,12 @@ url = "https://github.com/hirosystems/debugger-demo"
 
 [[repo]]
 url = "https://github.com/hirosystems/deno"
+
+[[repo]]
+url = "https://github.com/hirosystems/desktop-wallet"
+
+[[repo]]
+url = "https://github.com/hirosystems/dev-counter"
 
 [[repo]]
 url = "https://github.com/hirosystems/docker-osxcross-rust"
@@ -124,10 +145,25 @@ url = "https://github.com/hirosystems/heystack"
 url = "https://github.com/hirosystems/hirosystems-thomas-clarinet-updates-110722"
 
 [[repo]]
+url = "https://github.com/hirosystems/hord"
+
+[[repo]]
 url = "https://github.com/hirosystems/js.org"
 
 [[repo]]
+url = "https://github.com/hirosystems/ledger-stacks"
+
+[[repo]]
+url = "https://github.com/hirosystems/lockstacks"
+
+[[repo]]
+url = "https://github.com/hirosystems/lunar-hirover"
+
+[[repo]]
 url = "https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources"
+
+[[repo]]
+url = "https://github.com/hirosystems/multisig-cli"
 
 [[repo]]
 url = "https://github.com/hirosystems/multisig-stx-btc"
@@ -139,7 +175,19 @@ url = "https://github.com/hirosystems/neon-docker"
 url = "https://github.com/hirosystems/nft-nyc-exclusive-app"
 
 [[repo]]
-url = "https://github.com/hirosystems/orchestra"
+url = "https://github.com/hirosystems/okapi"
+
+[[repo]]
+url = "https://github.com/hirosystems/orchestra-archive"
+
+[[repo]]
+url = "https://github.com/hirosystems/ordhook"
+
+[[repo]]
+url = "https://github.com/hirosystems/ordinals-api"
+
+[[repo]]
+url = "https://github.com/hirosystems/ordinals-explorer"
 
 [[repo]]
 url = "https://github.com/hirosystems/osxcross"
@@ -148,16 +196,31 @@ url = "https://github.com/hirosystems/osxcross"
 url = "https://github.com/hirosystems/piggy-bank"
 
 [[repo]]
+url = "https://github.com/hirosystems/pox-clarinet-tests"
+
+[[repo]]
 url = "https://github.com/hirosystems/prettier-config"
+
+[[repo]]
+url = "https://github.com/hirosystems/rfc-clarity-lang-converter"
+
+[[repo]]
+url = "https://github.com/hirosystems/rfc-hiro-platform-auth"
+
+[[repo]]
+url = "https://github.com/hirosystems/rfc-web3-oauth"
+
+[[repo]]
+url = "https://github.com/hirosystems/rust-jsonrpc"
 
 [[repo]]
 url = "https://github.com/hirosystems/rx"
 
 [[repo]]
-url = "https://github.com/hirosystems/sips"
+url = "https://github.com/hirosystems/schemars"
 
 [[repo]]
-url = "https://github.com/hirosystems/stacking"
+url = "https://github.com/hirosystems/sips"
 
 [[repo]]
 url = "https://github.com/hirosystems/stacks-2-1-testing"
@@ -172,10 +235,34 @@ url = "https://github.com/hirosystems/stacks-billboard"
 url = "https://github.com/hirosystems/stacks-blockchain-api"
 
 [[repo]]
+url = "https://github.com/hirosystems/stacks-devnet-api"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-e2e-testing"
+
+[[repo]]
 url = "https://github.com/hirosystems/stacks-encoding-native-js"
 
 [[repo]]
-url = "https://github.com/hirosystems/stacks-hyperchains"
+url = "https://github.com/hirosystems/stacks-event-replay"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-node-event-consumer"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-pyth-bridge"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-regtest-env"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-repl"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-rpc-proxy"
+
+[[repo]]
+url = "https://github.com/hirosystems/stacks-scout"
 
 [[repo]]
 url = "https://github.com/hirosystems/stacks-subnets"
@@ -196,7 +283,16 @@ url = "https://github.com/hirosystems/stacks.js-examples"
 url = "https://github.com/hirosystems/stacks.js-starters"
 
 [[repo]]
+url = "https://github.com/hirosystems/stats"
+
+[[repo]]
+url = "https://github.com/hirosystems/subnet-demo-app"
+
+[[repo]]
 url = "https://github.com/hirosystems/todos"
+
+[[repo]]
+url = "https://github.com/hirosystems/token-metadata-api"
 
 [[repo]]
 url = "https://github.com/hirosystems/token-metadata-service"
@@ -218,3 +314,12 @@ url = "https://github.com/hirosystems/trichards-stacks-blockchain-api"
 
 [[repo]]
 url = "https://github.com/hirosystems/ui"
+
+[[repo]]
+url = "https://github.com/hirosystems/vitest-environment-clarinet"
+
+[[repo]]
+url = "https://github.com/hirosystems/vscode-extensions"
+
+[[repo]]
+url = "https://github.com/hirosystems/wallet"

@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/smartcontractkit"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/0xmikko/cerberus"
+
+[[repo]]
+url = "https://github.com/0xpolarzero/chainlink-fall-2022-hackathon"
+
+[[repo]]
 url = "https://github.com/aalu1418/cfx-eth-chainlink-bridge"
-
-[[repo]]
-url = "https://github.com/alphachainio/chainlink-lottery"
-
-[[repo]]
-url = "https://github.com/alphachainio/chainlink_feeds"
 
 [[repo]]
 url = "https://github.com/banyancomputer/chainlink-proof-validator"
@@ -22,7 +22,19 @@ url = "https://github.com/banyancomputer/chainlink-proof-validator"
 url = "https://github.com/benchlab/ChainLinkJS"
 
 [[repo]]
+url = "https://github.com/Bhaney44/ChainLinkHackathonSpring2022"
+
+[[repo]]
 url = "https://github.com/blockarcade/iost-adapter"
+
+[[repo]]
+url = "https://github.com/Breaking-C0de/contracts"
+
+[[repo]]
+url = "https://github.com/ChainAccelOrg/chainlink-lottery"
+
+[[repo]]
+url = "https://github.com/ChainAccelOrg/chainlink_feeds"
 
 [[repo]]
 url = "https://github.com/chainlink-hackathon2020-insurance/insurance-product"
@@ -46,6 +58,9 @@ url = "https://github.com/Conflux-Network-Global/demo-cfx-chainlink"
 url = "https://github.com/Conviley/master-thesis-smart-contract-system"
 
 [[repo]]
+url = "https://github.com/Dhruv-2003/Wasp"
+
+[[repo]]
 url = "https://github.com/dvargas92495/wings"
 
 [[repo]]
@@ -61,13 +76,7 @@ url = "https://github.com/Fiews/FluxAggregatorLedgerWithdraw"
 url = "https://github.com/fribeiro1/chainlinkutils"
 
 [[repo]]
-url = "https://github.com/FusionLedger/TussleNet"
-
-[[repo]]
-url = "https://github.com/genievot/sedo-network"
-
-[[repo]]
-url = "https://github.com/hackbg/chainlink-fullstack"
+url = "https://github.com/GigameshGarages/TussleNet"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/random-bridge"
@@ -124,7 +133,7 @@ url = "https://github.com/LaurentTrk/chainlink-substrate-tutorial"
 url = "https://github.com/LaurentTrk/ki.dot"
 
 [[repo]]
-url = "https://github.com/Machu-Pichu/hackathon"
+url = "https://github.com/Machu-Pichu/ETHOnline-hackathon"
 
 [[repo]]
 url = "https://github.com/masaun/amberdata-prediction-and-betting-dApp-of-token-price"
@@ -148,16 +157,13 @@ url = "https://github.com/masaun/stor-demo-v1"
 url = "https://github.com/MDJ-Labs/stallion-run"
 
 [[repo]]
-url = "https://github.com/MikaelLazarev/cerberus"
-
-[[repo]]
 url = "https://github.com/NavyAdmiral/linkmarines"
 
 [[repo]]
 url = "https://github.com/nghianv-1868/token-back-chainlink"
 
 [[repo]]
-url = "https://github.com/OpenQDev/chainlink-adapters"
+url = "https://github.com/OctobayArchive/chainlink-adapters"
 
 [[repo]]
 url = "https://github.com/pappas999/Tesla-External-Adapter"
@@ -175,13 +181,10 @@ url = "https://github.com/PatrickAlphaC/nft-mix"
 url = "https://github.com/PegNet-Community/pegnet-chainlink-client"
 
 [[repo]]
-url = "https://github.com/polar0/chainlink-fall-2022-hackathon"
-
-[[repo]]
 url = "https://github.com/protofire/chainlink-external-adapter-example"
 
 [[repo]]
-url = "https://github.com/reale/ipa-cl-ea"
+url = "https://github.com/realeroberto/ipa-cl-ea"
 
 [[repo]]
 url = "https://github.com/RoomTemperatureIQ/indigonetwork"
@@ -203,6 +206,9 @@ url = "https://github.com/shamb0/cl-chg-2020-agem"
 
 [[repo]]
 url = "https://github.com/SimplyVC/panic"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/.github"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/0x-monorepo"
@@ -283,9 +289,6 @@ url = "https://github.com/smartcontractkit/bnc-convert-adapter"
 url = "https://github.com/smartcontractkit/bountibot"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/box"
-
-[[repo]]
 url = "https://github.com/smartcontractkit/bq-example-contract"
 
 [[repo]]
@@ -307,13 +310,46 @@ url = "https://github.com/smartcontractkit/cachet-monitor"
 url = "https://github.com/smartcontractkit/caigo"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/cairo-starter-kit"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/cbor"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-cross-chain-name-service"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-cross-chain-nft"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-defi-lending"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-liquidation-protector"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/ccip-optimism"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/ccip-owner-contracts"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/ccip-read"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-starter-kit-foundry"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-starter-kit-hardhat"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/ccip-tic-tac-toe"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/chain-selectors"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/chainlink"
@@ -322,19 +358,25 @@ url = "https://github.com/smartcontractkit/chainlink"
 url = "https://github.com/smartcontractkit/chainlink-anchorpy"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/chainlink-automation-templates"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/chainlink-brownie-contracts"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/chainlink-docs"
+url = "https://github.com/smartcontractkit/chainlink-cosmos"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/chainlink-env"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/chainlink-github-actions"
+url = "https://github.com/smartcontractkit/chainlink-fullstack"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/chainlink-hardhat-box"
+url = "https://github.com/smartcontractkit/chainlink-functions-demo-app"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/chainlink-github-actions"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/chainlink-in-web2-fh22"
@@ -397,6 +439,9 @@ url = "https://github.com/smartcontractkit/chainlink-testing-framework"
 url = "https://github.com/smartcontractkit/Chainlinked"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/cl-func-samples"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/cmc-adapter"
 
 [[repo]]
@@ -424,9 +469,6 @@ url = "https://github.com/smartcontractkit/cryptocompare-adapter"
 url = "https://github.com/smartcontractkit/cryptocompare-vwap-adapter"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/ctf-ci-e2e-action"
-
-[[repo]]
 url = "https://github.com/smartcontractkit/currencyapi-adapter"
 
 [[repo]]
@@ -436,13 +478,13 @@ url = "https://github.com/smartcontractkit/currencylayer-adapter"
 url = "https://github.com/smartcontractkit/dapptools-starter-kit"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/datastreams-demo"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/defi-minimal"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/DefinitelyTyped"
-
-[[repo]]
-url = "https://github.com/smartcontractkit/deploy-hardhat"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/deployer"
@@ -457,6 +499,15 @@ url = "https://github.com/smartcontractkit/devops-devcontainer"
 url = "https://github.com/smartcontractkit/DEVREL-collaborative-nft-tutorial"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/devrel-digital-signatures"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/devrel-merkle-tree"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/devrel-testing-with-hardhat"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/docker-cache"
 
 [[repo]]
@@ -466,16 +517,10 @@ url = "https://github.com/smartcontractkit/dockest"
 url = "https://github.com/smartcontractkit/documentation"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/dummy-external-adapter"
-
-[[repo]]
 url = "https://github.com/smartcontractkit/dwolla-adapter"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/ea-framework-js"
-
-[[repo]]
-url = "https://github.com/smartcontractkit/ea-metrics-example"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/ea-metrics-monitoring"
@@ -494,6 +539,9 @@ url = "https://github.com/smartcontractkit/ens-resolver"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/env"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/env-enc"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/epfl-dedis-kyber"
@@ -515,9 +563,6 @@ url = "https://github.com/smartcontractkit/ethers.js"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/ethwrite-adapter"
-
-[[repo]]
-url = "https://github.com/smartcontractkit/evm-rpc-websocket-exporter"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/example-test-repo"
@@ -544,6 +589,12 @@ url = "https://github.com/smartcontractkit/feed-registry-example"
 url = "https://github.com/smartcontractkit/fixer-adapter"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/foundry-chainlink-plugin"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/foundry-chainlink-toolkit"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/foundry-starter-kit"
 
 [[repo]]
@@ -554,6 +605,45 @@ url = "https://github.com/smartcontractkit/full-blockchain-solidity-course-js"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/full-blockchain-solidity-course-py"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-aws-currency-data"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-aws-iot-core"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-bigquery-weather"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-google-bigquery"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-google-vertex-ai"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-hardhat-starter-kit"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-insurance"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-lens-eventbrite"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-meta-giveaway"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-the-graph-uniswap"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-toolkit"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-toolkit-workshop"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/functions-twilio-spotify"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/gencodec"
@@ -572,6 +662,9 @@ url = "https://github.com/smartcontractkit/go-libp2p-kad-dht"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/go-libp2p-tls"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/go-plugin"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/go-slack"
@@ -595,6 +688,9 @@ url = "https://github.com/smartcontractkit/go.uuid"
 url = "https://github.com/smartcontractkit/gojq"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/golangci-lint-action"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/gonum"
 
 [[repo]]
@@ -611,6 +707,15 @@ url = "https://github.com/smartcontractkit/gormigrate"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/goverage"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/grpc-proxy"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/hardhat-chainlink"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/hardhat-chainlink-example"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/hardhat-network"
@@ -634,9 +739,6 @@ url = "https://github.com/smartcontractkit/homu-testing"
 url = "https://github.com/smartcontractkit/huff-starter-kit"
 
 [[repo]]
-url = "https://github.com/smartcontractkit/integrations-framework"
-
-[[repo]]
 url = "https://github.com/smartcontractkit/juno"
 
 [[repo]]
@@ -656,9 +758,6 @@ url = "https://github.com/smartcontractkit/libocr"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/limiter"
-
-[[repo]]
-url = "https://github.com/smartcontractkit/link-token-maticnetwork"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/link-token-sidechain-evm"
@@ -707,6 +806,9 @@ url = "https://github.com/smartcontractkit/near-protocol-contracts"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/nomics-adapter"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/notify-wallet-balance"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/ocr2keepers"
@@ -760,6 +862,9 @@ url = "https://github.com/smartcontractkit/por-demo-contracts"
 url = "https://github.com/smartcontractkit/pre-commit-docker-jinja2"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/prediction-game"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/prometheus"
 
 [[repo]]
@@ -775,7 +880,28 @@ url = "https://github.com/smartcontractkit/push-gha-metrics-action"
 url = "https://github.com/smartcontractkit/qa-charts"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-circuitbreaker"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-giveaway"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-historical-prices-api"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-lootbox"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-mysterybox"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/quickstarts-vrf-balance-manager"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/repo-ganache-sourcemap-bug"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/risk-management-network"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/rust-sgx-sdk"
@@ -801,6 +927,9 @@ url = "https://github.com/smartcontractkit/solana-flux-aggregator"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/solana-go"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/solana-prediction-game"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/solana-starter-kit"
@@ -878,6 +1007,9 @@ url = "https://github.com/smartcontractkit/synth-index-coinpaprika-adapter"
 url = "https://github.com/smartcontractkit/synth-index-cryptoapis-adapter"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/tdh2"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/terra-chainlink-demo"
 
 [[repo]]
@@ -888,6 +1020,9 @@ url = "https://github.com/smartcontractkit/terra.go"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/terraform-aws-wireguard"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/timelock-worker"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/tool-versions-to-env-action"
@@ -917,10 +1052,19 @@ url = "https://github.com/smartcontractkit/update-pr-branch"
 url = "https://github.com/smartcontractkit/upkeep-contracts"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/usechainlinkfunctions"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/viper"
 
 [[repo]]
+url = "https://github.com/smartcontractkit/vrf-direct-funding-example"
+
+[[repo]]
 url = "https://github.com/smartcontractkit/vrf-experiences"
+
+[[repo]]
+url = "https://github.com/smartcontractkit/wasp"
 
 [[repo]]
 url = "https://github.com/smartcontractkit/wei_watchers"
@@ -984,6 +1128,9 @@ url = "https://github.com/vijayengineer/Cohealth"
 
 [[repo]]
 url = "https://github.com/viraja1/content_moderation"
+
+[[repo]]
+url = "https://github.com/VitalJeevanjot/sedo-network"
 
 [[repo]]
 url = "https://github.com/WilsonBillkia/bane"

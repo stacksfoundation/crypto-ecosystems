@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/bifrost-platform"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/bifrost-platform/AssetInfo"
+url = "https://github.com/bifrost-platform/apps"
 
 [[repo]]
-url = "https://github.com/bifrost-platform/AssetInfos"
+url = "https://github.com/bifrost-platform/AssetInfo"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/batch_transfer"
@@ -28,6 +28,9 @@ url = "https://github.com/bifrost-platform/BiFi-staking-protocol"
 url = "https://github.com/bifrost-platform/BiFi-X"
 
 [[repo]]
+url = "https://github.com/bifrost-platform/bifrost-frontier"
+
+[[repo]]
 url = "https://github.com/bifrost-platform/bifrost-node"
 
 [[repo]]
@@ -40,10 +43,22 @@ url = "https://github.com/bifrost-platform/bifrost-relayer"
 url = "https://github.com/bifrost-platform/bifrost-relayer-lib"
 
 [[repo]]
+url = "https://github.com/bifrost-platform/bifrost-relayer.py"
+
+[[repo]]
+url = "https://github.com/bifrost-platform/bifrost-relayer.rs"
+
+[[repo]]
+url = "https://github.com/bifrost-platform/bifrost-snapshots"
+
+[[repo]]
 url = "https://github.com/bifrost-platform/bifrost-substrate"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/BifrostHub"
+
+[[repo]]
+url = "https://github.com/bifrost-platform/chainlist"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/DeFi-Pulse-Adapters"
@@ -67,13 +82,22 @@ url = "https://github.com/bifrost-platform/flashloan-cooking"
 url = "https://github.com/bifrost-platform/frontier"
 
 [[repo]]
+url = "https://github.com/bifrost-platform/gas-price-oracle"
+
+[[repo]]
 url = "https://github.com/bifrost-platform/mev-geth-demo"
+
+[[repo]]
+url = "https://github.com/bifrost-platform/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/RunnersScenario"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/solidity-contract-configs"
+
+[[repo]]
+url = "https://github.com/bifrost-platform/substrate"
 
 [[repo]]
 url = "https://github.com/bifrost-platform/wyvern-js"

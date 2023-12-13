@@ -13,9 +13,6 @@ url = "https://github.com/decred/angular-bitcore-wallet-client"
 url = "https://github.com/decred/atomicswap"
 
 [[repo]]
-url = "https://github.com/decred/authit"
-
-[[repo]]
 url = "https://github.com/decred/base58"
 
 [[repo]]
@@ -149,6 +146,9 @@ url = "https://github.com/decred/dcrtime"
 url = "https://github.com/decred/dcrtimegui"
 
 [[repo]]
+url = "https://github.com/decred/dcrtimejs"
+
+[[repo]]
 url = "https://github.com/decred/dcrutil"
 
 [[repo]]
@@ -261,6 +261,9 @@ url = "https://github.com/decred/tinydecred"
 
 [[repo]]
 url = "https://github.com/decred/tumblebit"
+
+[[repo]]
+url = "https://github.com/decred/umbrel-app-store"
 
 [[repo]]
 url = "https://github.com/decred/vspd"

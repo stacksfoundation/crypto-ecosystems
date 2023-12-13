@@ -16,6 +16,18 @@ url = "https://github.com/ferrumnet/apeswap-swap-core"
 url = "https://github.com/ferrumnet/assets"
 
 [[repo]]
+url = "https://github.com/ferrumnet/authenticator"
+
+[[repo]]
+url = "https://github.com/ferrumnet/authenticator-backend"
+
+[[repo]]
+url = "https://github.com/ferrumnet/authenticator-bot"
+
+[[repo]]
+url = "https://github.com/ferrumnet/authenticator-frontend"
+
+[[repo]]
 url = "https://github.com/ferrumnet/aws-lambda-helper"
 
 [[repo]]
@@ -23,6 +35,9 @@ url = "https://github.com/ferrumnet/bignumber.js"
 
 [[repo]]
 url = "https://github.com/ferrumnet/bip39"
+
+[[repo]]
+url = "https://github.com/ferrumnet/blockscout"
 
 [[repo]]
 url = "https://github.com/ferrumnet/bnb-tx-decoder"
@@ -35,6 +50,12 @@ url = "https://github.com/ferrumnet/bridge-v1-node"
 
 [[repo]]
 url = "https://github.com/ferrumnet/bs58check"
+
+[[repo]]
+url = "https://github.com/ferrumnet/casper-bridge-frontend"
+
+[[repo]]
+url = "https://github.com/ferrumnet/casper_staking"
 
 [[repo]]
 url = "https://github.com/ferrumnet/crypto-js"
@@ -55,6 +76,9 @@ url = "https://github.com/ferrumnet/eth-contract-metadata"
 url = "https://github.com/ferrumnet/ethereumj"
 
 [[repo]]
+url = "https://github.com/ferrumnet/fdslite"
+
+[[repo]]
 url = "https://github.com/ferrumnet/fenova"
 
 [[repo]]
@@ -64,13 +88,25 @@ url = "https://github.com/ferrumnet/ferrum-chain-clients"
 url = "https://github.com/ferrumnet/ferrum-crypto"
 
 [[repo]]
+url = "https://github.com/ferrumnet/ferrum-faucet"
+
+[[repo]]
 url = "https://github.com/ferrumnet/ferrum-gateway"
 
 [[repo]]
-url = "https://github.com/ferrumnet/ferrum-network-infinitySwap-and-bridge-architecture"
+url = "https://github.com/ferrumnet/ferrum-network"
 
 [[repo]]
 url = "https://github.com/ferrumnet/ferrum-network-multiSwap-and-bridge-architecture"
+
+[[repo]]
+url = "https://github.com/ferrumnet/ferrum-network-staking-smart-contracts"
+
+[[repo]]
+url = "https://github.com/ferrumnet/ferrum-network-staking-smart-contracts-1"
+
+[[repo]]
+url = "https://github.com/ferrumnet/ferrum-network-staking-smart-contracts-2"
 
 [[repo]]
 url = "https://github.com/ferrumnet/ferrum-network-whitepaper"
@@ -91,7 +127,7 @@ url = "https://github.com/ferrumnet/ferrum-supply-api"
 url = "https://github.com/ferrumnet/ferrum-token-list"
 
 [[repo]]
-url = "https://github.com/ferrumnet/ferrum-x-network"
+url = "https://github.com/ferrumnet/FIBER-Engine-Backend"
 
 [[repo]]
 url = "https://github.com/ferrumnet/forge"
@@ -169,7 +205,19 @@ url = "https://github.com/ferrumnet/qrcode-generator"
 url = "https://github.com/ferrumnet/quantum-portal-explorer-backend"
 
 [[repo]]
+url = "https://github.com/ferrumnet/quantum-portal-js"
+
+[[repo]]
 url = "https://github.com/ferrumnet/quantum-portal-smart-contracts"
+
+[[repo]]
+url = "https://github.com/ferrumnet/quantum-portal-tutorial-code-and-examples"
+
+[[repo]]
+url = "https://github.com/ferrumnet/snap-hodl"
+
+[[repo]]
+url = "https://github.com/ferrumnet/snapshot"
 
 [[repo]]
 url = "https://github.com/ferrumnet/solc-js"
@@ -184,10 +232,16 @@ url = "https://github.com/ferrumnet/staking"
 url = "https://github.com/ferrumnet/staking-casper-frontend"
 
 [[repo]]
+url = "https://github.com/ferrumnet/staking-frontend"
+
+[[repo]]
 url = "https://github.com/ferrumnet/staking-generic"
 
 [[repo]]
 url = "https://github.com/ferrumnet/staking-nft-frontend"
+
+[[repo]]
+url = "https://github.com/ferrumnet/statescan-v2"
 
 [[repo]]
 url = "https://github.com/ferrumnet/substrate"
@@ -196,10 +250,10 @@ url = "https://github.com/ferrumnet/substrate"
 url = "https://github.com/ferrumnet/techpaper"
 
 [[repo]]
-url = "https://github.com/ferrumnet/toke-deployment-upgrade-guide"
+url = "https://github.com/ferrumnet/toke-deployment-upgrade-guide-redacted"
 
 [[repo]]
-url = "https://github.com/ferrumnet/toke-deployment-upgrade-guide-redacted"
+url = "https://github.com/ferrumnet/tokenSupply"
 
 [[repo]]
 url = "https://github.com/ferrumnet/totp-lambda"
@@ -230,6 +284,9 @@ url = "https://github.com/ferrumnet/unifyre-wallet-plan"
 
 [[repo]]
 url = "https://github.com/ferrumnet/unifyre-web-components"
+
+[[repo]]
+url = "https://github.com/ferrumnet/unique-random-number-generator"
 
 [[repo]]
 url = "https://github.com/ferrumnet/wallet"

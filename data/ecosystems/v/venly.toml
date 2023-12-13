@@ -79,6 +79,9 @@ url = "https://github.com/ArkaneNetwork/hedera-improvement-proposal"
 url = "https://github.com/ArkaneNetwork/js-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/koen-test"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/libsass-maven-plugin"
 
 [[repo]]
@@ -109,6 +112,9 @@ url = "https://github.com/ArkaneNetwork/spring-boot-java-example"
 url = "https://github.com/ArkaneNetwork/spring-boot-kotlin-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/token-assets"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/tron-node-monitor"
 
 [[repo]]
@@ -119,6 +125,9 @@ url = "https://github.com/ArkaneNetwork/TruffleDemo"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/Unity-SDK"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/Unity-SDK-Samples"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/vechain-node-monitor"
@@ -133,13 +142,31 @@ url = "https://github.com/ArkaneNetwork/vue-intercom"
 url = "https://github.com/ArkaneNetwork/vuelidate.ts"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/wagmi-dev-references"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/walletconnect-guide"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/walletconnect-web-examples"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/web3-arkane-provider"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/web3-arkane-provider-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/web3-onboard"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/web3-provider-engine"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/web3-react"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/web3-react-venly"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/web3j"

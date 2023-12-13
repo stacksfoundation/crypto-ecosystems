@@ -19,16 +19,28 @@ url = "https://github.com/OriginProtocol/bigquery-etl"
 url = "https://github.com/OriginProtocol/civic-proxy"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/contract-metadata"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/crossmint-client-sdk"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/crwn-clothing-v2"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/crypto-merch-how-to"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/curve-assets"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/defi-sdk"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/defiyield-self-integrations"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/discover-dapps"
@@ -52,7 +64,13 @@ url = "https://github.com/OriginProtocol/etherwallet"
 url = "https://github.com/OriginProtocol/flask-recaptcha"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/harberger-tax"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/hardhat"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/heroku-buildpack-nx-monorepo"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/ledger-live-common"
@@ -67,6 +85,12 @@ url = "https://github.com/OriginProtocol/minimal-proxy-example"
 url = "https://github.com/OriginProtocol/nft-launchpad"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/oeth-dapp"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/oeth.com"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/origin"
 
 [[repo]]
@@ -79,7 +103,10 @@ url = "https://github.com/OriginProtocol/origin-bridge"
 url = "https://github.com/OriginProtocol/origin-cms"
 
 [[repo]]
-url = "https://github.com/OriginProtocol/origin-dapp"
+url = "https://github.com/OriginProtocol/origin-defi"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/origin-defi-docs"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/origin-devops"
@@ -100,7 +127,13 @@ url = "https://github.com/OriginProtocol/origin-how-to"
 url = "https://github.com/OriginProtocol/origin-js"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/origin-labels"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/origin-mobile"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/origin-monorepo"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/origin-playground"
@@ -112,6 +145,9 @@ url = "https://github.com/OriginProtocol/origin-schemas"
 url = "https://github.com/OriginProtocol/origin-scratchpad"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/origin-squid"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/origin-storybook"
 
 [[repo]]
@@ -119,6 +155,9 @@ url = "https://github.com/OriginProtocol/origin-tracer"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/origin-website"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/originators"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/ousd-analytics"
@@ -148,7 +187,13 @@ url = "https://github.com/OriginProtocol/react-native-samsung-bks"
 url = "https://github.com/OriginProtocol/security"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/stolen"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/story.xyz"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/storypoints"
 
 [[repo]]
 url = "https://github.com/OriginProtocol/strategy-monitor"
@@ -178,4 +223,13 @@ url = "https://github.com/OriginProtocol/token-profile"
 url = "https://github.com/OriginProtocol/tokens"
 
 [[repo]]
+url = "https://github.com/OriginProtocol/veogv"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/wash-inspector"
+
+[[repo]]
 url = "https://github.com/OriginProtocol/website-frontend"
+
+[[repo]]
+url = "https://github.com/OriginProtocol/yield"

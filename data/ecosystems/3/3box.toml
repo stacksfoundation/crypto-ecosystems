@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/3box"]
 url = "https://github.com/3box/3box"
 
 [[repo]]
-url = "https://github.com/3box/3box-account"
-
-[[repo]]
 url = "https://github.com/3box/3box-activity"
 
 [[repo]]
@@ -23,9 +20,6 @@ url = "https://github.com/3box/3box-api"
 
 [[repo]]
 url = "https://github.com/3box/3box-auth"
-
-[[repo]]
-url = "https://github.com/3box/3box-chatbox"
 
 [[repo]]
 url = "https://github.com/3box/3box-chatbox-react"
@@ -58,16 +52,10 @@ url = "https://github.com/3box/3box-js-iframe"
 url = "https://github.com/3box/3box-load-simulation"
 
 [[repo]]
-url = "https://github.com/3box/3box-node-api"
-
-[[repo]]
 url = "https://github.com/3box/3box-orbitdb-plugins"
 
 [[repo]]
 url = "https://github.com/3box/3box-pinning-node"
-
-[[repo]]
-url = "https://github.com/3box/3box-profile"
 
 [[repo]]
 url = "https://github.com/3box/3box-profile-edit-react"
@@ -97,7 +85,13 @@ url = "https://github.com/3box/3id-resolver"
 url = "https://github.com/3box/amazon-ecs-render-task-definition"
 
 [[repo]]
+url = "https://github.com/3box/beetle"
+
+[[repo]]
 url = "https://github.com/3box/ceramic-anchor-allowlist"
+
+[[repo]]
+url = "https://github.com/3box/ceramic-http-client-rs"
 
 [[repo]]
 url = "https://github.com/3box/ceramic-infra-scripts"
@@ -109,6 +103,12 @@ url = "https://github.com/3box/ceramic-integration-tests"
 url = "https://github.com/3box/ceramic-stats"
 
 [[repo]]
+url = "https://github.com/3box/ceramic-tests"
+
+[[repo]]
+url = "https://github.com/3box/cloud-insights"
+
+[[repo]]
 url = "https://github.com/3box/confidential-workshop"
 
 [[repo]]
@@ -116,6 +116,9 @@ url = "https://github.com/3box/dappcon-workshop"
 
 [[repo]]
 url = "https://github.com/3box/dashboard"
+
+[[repo]]
+url = "https://github.com/3box/data-pipes"
 
 [[repo]]
 url = "https://github.com/3box/dev-portal"
@@ -139,7 +142,10 @@ url = "https://github.com/3box/go-ds-s3"
 url = "https://github.com/3box/go-ipfs"
 
 [[repo]]
-url = "https://github.com/3box/identity-wallet-js"
+url = "https://github.com/3box/go-libp2p-pubsub"
+
+[[repo]]
+url = "https://github.com/3box/goose"
 
 [[repo]]
 url = "https://github.com/3box/ipfs-fs-to-s3-datastore"
@@ -149,9 +155,6 @@ url = "https://github.com/3box/ipfs-log"
 
 [[repo]]
 url = "https://github.com/3box/ipfs-pinset-migration"
-
-[[repo]]
-url = "https://github.com/3box/js-3id-blockchain-utils"
 
 [[repo]]
 url = "https://github.com/3box/js-datastore-s3"
@@ -164,6 +167,9 @@ url = "https://github.com/3box/js-libp2p-pubsub"
 
 [[repo]]
 url = "https://github.com/3box/js-multisize-image"
+
+[[repo]]
+url = "https://github.com/3box/keramik"
 
 [[repo]]
 url = "https://github.com/3box/muport-core-js"
@@ -202,16 +208,25 @@ url = "https://github.com/3box/orbit-db-store"
 url = "https://github.com/3box/orbitdb-dagsync"
 
 [[repo]]
-url = "https://github.com/3box/pipeline-tools"
+url = "https://github.com/3box/otelcol"
 
 [[repo]]
-url = "https://github.com/3box/pipelinetools"
+url = "https://github.com/3box/pipeline-tools"
 
 [[repo]]
 url = "https://github.com/3box/plugins"
 
 [[repo]]
 url = "https://github.com/3box/profile-hover"
+
+[[repo]]
+url = "https://github.com/3box/rs-did"
+
+[[repo]]
+url = "https://github.com/3box/rust-ceramic"
+
+[[repo]]
+url = "https://github.com/3box/rust-ceramic-migration-tests"
 
 [[repo]]
 url = "https://github.com/3box/sss-wasm"
@@ -223,4 +238,13 @@ url = "https://github.com/3box/terraform-aws-s3-bucket"
 url = "https://github.com/3box/userspace"
 
 [[repo]]
+url = "https://github.com/3box/wheel"
+
+[[repo]]
 url = "https://github.com/3box/wreckingball"
+
+[[repo]]
+url = "https://github.com/ceramicnetwork/js-3id-blockchain-utils"
+
+[[repo]]
+url = "https://github.com/ceramicstudio/js-3id-did-provider"

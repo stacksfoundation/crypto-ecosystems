@@ -1,11 +1,14 @@
 # Ecosystem Level Information
 title = "Acala"
 
-sub_ecosystems = []
+sub_ecosystems = ["Colorful Notion", "Setheum Labs"]
 
-github_organizations = ["https://github.com/AcalaNetwork"]
+github_organizations = ["https://github.com/Acala-EVM-Dapps", "https://github.com/AcalaNetwork"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/Acala-EVM-Dapps/Acala-PolkaWorld-Dapp-Hackathon-2022"
+
 [[repo]]
 url = "https://github.com/AcalaNetwork/Acala"
 
@@ -32,6 +35,9 @@ url = "https://github.com/AcalaNetwork/acala-events-subql"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/acala-evm-dev-docs"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/acala-evm-indexer-examples"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/acala-evm-tests"
@@ -85,6 +91,9 @@ url = "https://github.com/AcalaNetwork/acala-trace"
 url = "https://github.com/AcalaNetwork/acala-transfer-subql"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/acala-types.js"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/acala-utils"
 
 [[repo]]
@@ -112,6 +121,9 @@ url = "https://github.com/AcalaNetwork/apps"
 url = "https://github.com/AcalaNetwork/aquadao"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/asset-router"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/auction-bot"
 
 [[repo]]
@@ -133,9 +145,6 @@ url = "https://github.com/AcalaNetwork/bodhi.js"
 url = "https://github.com/AcalaNetwork/cdp-bot-template"
 
 [[repo]]
-url = "https://github.com/AcalaNetwork/chain-sync-server"
-
-[[repo]]
 url = "https://github.com/AcalaNetwork/ChainBridge"
 
 [[repo]]
@@ -154,9 +163,6 @@ url = "https://github.com/AcalaNetwork/claim-vesting-service"
 url = "https://github.com/AcalaNetwork/collateral-auction-bot-example"
 
 [[repo]]
-url = "https://github.com/AcalaNetwork/collateral-auction-bot-template"
-
-[[repo]]
 url = "https://github.com/AcalaNetwork/comet"
 
 [[repo]]
@@ -164,9 +170,6 @@ url = "https://github.com/AcalaNetwork/contracts"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/data-warn-bot"
-
-[[repo]]
-url = "https://github.com/AcalaNetwork/decode-error-after-upgrade"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/defillama-acala-tvl"
@@ -181,6 +184,9 @@ url = "https://github.com/AcalaNetwork/docs"
 url = "https://github.com/AcalaNetwork/e2e"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/e2e-tests"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/ecosystem-template"
 
 [[repo]]
@@ -191,6 +197,12 @@ url = "https://github.com/AcalaNetwork/eth-rpc-adaptor"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/ethereum"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/Euphrates"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/EuphratesDoc"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/evm"
@@ -205,6 +217,9 @@ url = "https://github.com/AcalaNetwork/evm-dapp-collection"
 url = "https://github.com/AcalaNetwork/evm-examples"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/evm-forwarder"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/evm-playground"
 
 [[repo]]
@@ -217,7 +232,13 @@ url = "https://github.com/AcalaNetwork/evm-tests"
 url = "https://github.com/AcalaNetwork/faucet-bot"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/FaucetBot"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/fork-off-substrate"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/governor"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/Grant-Milestone-Delivery"
@@ -230,6 +251,9 @@ url = "https://github.com/AcalaNetwork/hardhat-tutorials"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/issue-collection"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/jsonrpsee"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/karura-dashboard"
@@ -254,6 +278,9 @@ url = "https://github.com/AcalaNetwork/linkdrop-monorepo"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/lucky-running-nodes"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/nuts-swap-adapter"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/Open-Grants-Program"
@@ -295,6 +322,9 @@ url = "https://github.com/AcalaNetwork/react-components"
 url = "https://github.com/AcalaNetwork/ren-substrate-example"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/runtime-viewer"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/safe-client-gateway"
 
 [[repo]]
@@ -316,6 +346,12 @@ url = "https://github.com/AcalaNetwork/safe-transaction-service"
 url = "https://github.com/AcalaNetwork/scripts"
 
 [[repo]]
+url = "https://github.com/AcalaNetwork/sdk-stable-asset"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/smoldot"
+
+[[repo]]
 url = "https://github.com/AcalaNetwork/srtool-actions"
 
 [[repo]]
@@ -332,6 +368,9 @@ url = "https://github.com/AcalaNetwork/subql-health-check"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/substrate"
+
+[[repo]]
+url = "https://github.com/AcalaNetwork/subway"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/test-rust"
@@ -368,3 +407,21 @@ url = "https://github.com/AcalaNetwork/wormhole-relayer"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/xcm-format"
+
+[[repo]]
+url = "https://github.com/bracketloader/wormhole"
+
+[[repo]]
+url = "https://github.com/gamedaoco/gamedao-protocol"
+
+[[repo]]
+url = "https://github.com/LyiZri/funBlock"
+
+[[repo]]
+url = "https://github.com/open-web3-stack/guardian"
+
+[[repo]]
+url = "https://github.com/rillafi/protocol-contracts"
+
+[[repo]]
+url = "https://github.com/subvisual/discoveryDAO"

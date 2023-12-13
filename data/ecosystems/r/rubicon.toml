@@ -19,16 +19,40 @@ url = "https://github.com/RubiconDeFi/DiscordGasBot"
 url = "https://github.com/RubiconDeFi/docs"
 
 [[repo]]
+url = "https://github.com/RubiconDeFi/eslint-mdx-action"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/hummingbot"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/hummingbot-gateway"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/launchpad-starter"
+
+[[repo]]
 url = "https://github.com/RubiconDeFi/optimism-snapshot"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/rainbowkit"
 
 [[repo]]
+url = "https://github.com/RubiconDeFi/rubi-bots"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/rubi-bots-internalFork"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/rubi-protocol-v2"
+
+[[repo]]
 url = "https://github.com/RubiconDeFi/rubi-py"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/rubi-rs"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/rubi-spellbook"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/rubi-subgraphs"
@@ -61,9 +85,6 @@ url = "https://github.com/RubiconDeFi/rubicon-op-summer-airdrop"
 url = "https://github.com/RubiconDeFi/rubicon-protocol-v1"
 
 [[repo]]
-url = "https://github.com/RubiconDeFi/rubicon-rs"
-
-[[repo]]
 url = "https://github.com/RubiconDeFi/rubicon-subgraph"
 
 [[repo]]
@@ -80,6 +101,9 @@ url = "https://github.com/RubiconDeFi/v1-subgraphs"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/web3-react"
+
+[[repo]]
+url = "https://github.com/RubiconDeFi/web3modal-examples"
 
 [[repo]]
 url = "https://github.com/RubiconDeFi/zapper-studio"

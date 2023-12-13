@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/U-Network"]
 url = "https://github.com/U-Network/bnbridge.exchange"
 
 [[repo]]
-url = "https://github.com/U-Network/explorer"
-
-[[repo]]
 url = "https://github.com/U-Network/smart-contract"
 
 [[repo]]
@@ -25,7 +22,10 @@ url = "https://github.com/U-Network/UNetwork"
 url = "https://github.com/U-Network/UnetworkBot"
 
 [[repo]]
-url = "https://github.com/U-Network/web3.js"
+url = "https://github.com/U-Network/www"
 
 [[repo]]
-url = "https://github.com/U-Network/www"
+url = "https://github.com/uuu-network/explorer"
+
+[[repo]]
+url = "https://github.com/uuu-network/web3.js"

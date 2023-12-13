@@ -10,7 +10,7 @@ github_organizations = ["https://github.com/HeroFi"]
 url = "https://github.com/HeroFi/assets"
 
 [[repo]]
-url = "https://github.com/HeroFi/smart-contracts"
+url = "https://github.com/HeroFi/tokens"
 
 [[repo]]
-url = "https://github.com/HeroFi/tokens"
+url = "https://github.com/rofi-platform/smart-contracts"

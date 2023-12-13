@@ -13,6 +13,9 @@ url = "https://github.com/equilibrium-eosdt/api"
 url = "https://github.com/equilibrium-eosdt/apps"
 
 [[repo]]
+url = "https://github.com/equilibrium-eosdt/astar-apps"
+
+[[repo]]
 url = "https://github.com/equilibrium-eosdt/bounties"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/equilibrium-eosdt/common"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/curve-dao-contracts"
+
+[[repo]]
+url = "https://github.com/equilibrium-eosdt/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/dex-api"
@@ -49,6 +55,9 @@ url = "https://github.com/equilibrium-eosdt/eosdt-js"
 url = "https://github.com/equilibrium-eosdt/eosdt-js-legacy"
 
 [[repo]]
+url = "https://github.com/equilibrium-eosdt/eq-networks"
+
+[[repo]]
 url = "https://github.com/equilibrium-eosdt/equilab-api"
 
 [[repo]]
@@ -59,9 +68,6 @@ url = "https://github.com/equilibrium-eosdt/equilibrium-curve-amm"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/equilibrium-eosdt.github.io"
-
-[[repo]]
-url = "https://github.com/equilibrium-eosdt/equilibrium-exchange"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/equilibrium-exchange-wrappers"
@@ -151,10 +157,25 @@ url = "https://github.com/equilibrium-eosdt/substrate-api-client"
 url = "https://github.com/equilibrium-eosdt/substrate-fixed"
 
 [[repo]]
+url = "https://github.com/equilibrium-eosdt/sushi-analytics"
+
+[[repo]]
 url = "https://github.com/equilibrium-eosdt/token-profile"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/typenum"
+
+[[repo]]
+url = "https://github.com/equilibrium-eosdt/uikit"
+
+[[repo]]
+url = "https://github.com/equilibrium-eosdt/wagmi-ref"
+
+[[repo]]
+url = "https://github.com/equilibrium-eosdt/walletconnect-monorepo"
+
+[[repo]]
+url = "https://github.com/equilibrium-eosdt/web3modal"
 
 [[repo]]
 url = "https://github.com/equilibrium-eosdt/widget"

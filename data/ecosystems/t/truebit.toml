@@ -28,9 +28,6 @@ url = "https://github.com/TrueBitFoundation/example-app"
 url = "https://github.com/TrueBitFoundation/incentive-layer"
 
 [[repo]]
-url = "https://github.com/TrueBitFoundation/interactive-coin-offerings"
-
-[[repo]]
 url = "https://github.com/TrueBitFoundation/jit-runner"
 
 [[repo]]
@@ -58,6 +55,9 @@ url = "https://github.com/TrueBitFoundation/truebit-toolchain"
 url = "https://github.com/TrueBitFoundation/truebit-website"
 
 [[repo]]
+url = "https://github.com/TrueBitFoundation/wasienv"
+
+[[repo]]
 url = "https://github.com/TrueBitFoundation/wasm-computation-layer"
 
 [[repo]]
@@ -70,4 +70,7 @@ url = "https://github.com/TrueBitFoundation/wasm-preprocessing"
 url = "https://github.com/TrueBitFoundation/webasm-solidity"
 
 [[repo]]
-url = "https://github.com/TrueBitFoundation/wiki"
+url = "https://github.com/TruebitProtocol/interactive-coin-offerings"
+
+[[repo]]
+url = "https://github.com/TruebitProtocol/wiki"

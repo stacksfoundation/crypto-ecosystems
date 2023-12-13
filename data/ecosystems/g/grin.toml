@@ -50,10 +50,6 @@ url = "https://github.com/cyclefortytwo/i2p-rs"
 url = "https://github.com/cyclefortytwo/iron_cuckatoo"
 
 [[repo]]
-url = "https://github.com/cyclefortytwo/ironbelly"
-tags = ["Wallet"]
-
-[[repo]]
 url = "https://github.com/cyclefortytwo/ironbelly.app"
 
 [[repo]]
@@ -101,6 +97,9 @@ url = "https://github.com/gottstech/grinwallet-nodejs"
 [[repo]]
 url = "https://github.com/grinfans/Niffler"
 tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/i1skn/ironbelly"
 
 [[repo]]
 url = "https://github.com/jackzhp/grin-java"

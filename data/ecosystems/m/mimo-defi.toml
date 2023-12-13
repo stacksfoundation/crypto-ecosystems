@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/mimoprotocol"]
 url = "https://github.com/mimoprotocol/bugtracker"
 
 [[repo]]
+url = "https://github.com/mimoprotocol/changelog"
+
+[[repo]]
 url = "https://github.com/mimoprotocol/DefiLlama-Adapters"
 
 [[repo]]
@@ -41,9 +44,6 @@ url = "https://github.com/mimoprotocol/mimo-docs"
 
 [[repo]]
 url = "https://github.com/mimoprotocol/mimo-intial-liquidity-contracts"
-
-[[repo]]
-url = "https://github.com/mimoprotocol/mimo-rocket-contracts"
 
 [[repo]]
 url = "https://github.com/mimoprotocol/mimo-sdk"

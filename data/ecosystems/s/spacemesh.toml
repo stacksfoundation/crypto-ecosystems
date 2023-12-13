@@ -22,6 +22,9 @@ url = "https://github.com/spacemeshos/api"
 url = "https://github.com/spacemeshos/app"
 
 [[repo]]
+url = "https://github.com/spacemeshos/app-spacemesh"
+
+[[repo]]
 url = "https://github.com/spacemeshos/automesh"
 
 [[repo]]
@@ -35,12 +38,6 @@ url = "https://github.com/spacemeshos/bls-wasm"
 
 [[repo]]
 url = "https://github.com/spacemeshos/bug-reports"
-
-[[repo]]
-url = "https://github.com/spacemeshos/cli-wallet"
-
-[[repo]]
-url = "https://github.com/spacemeshos/CLIWallet"
 
 [[repo]]
 url = "https://github.com/spacemeshos/collector"
@@ -73,7 +70,19 @@ url = "https://github.com/spacemeshos/ed25519"
 url = "https://github.com/spacemeshos/ed25519-client"
 
 [[repo]]
+url = "https://github.com/spacemeshos/ed25519-recovery"
+
+[[repo]]
 url = "https://github.com/spacemeshos/ed25519-WASM"
+
+[[repo]]
+url = "https://github.com/spacemeshos/ed25519_bip32"
+
+[[repo]]
+url = "https://github.com/spacemeshos/ed25519_bip32_wasm"
+
+[[repo]]
+url = "https://github.com/spacemeshos/electron-devtools-installer"
 
 [[repo]]
 url = "https://github.com/spacemeshos/explorer-backend"
@@ -103,6 +112,9 @@ url = "https://github.com/spacemeshos/go-ext-wasm"
 url = "https://github.com/spacemeshos/go-ledger-sdk"
 
 [[repo]]
+url = "https://github.com/spacemeshos/go-libp2p-asn-util"
+
+[[repo]]
 url = "https://github.com/spacemeshos/go-scale"
 
 [[repo]]
@@ -128,6 +140,9 @@ url = "https://github.com/spacemeshos/gpost"
 
 [[repo]]
 url = "https://github.com/spacemeshos/gpu-post"
+
+[[repo]]
+url = "https://github.com/spacemeshos/hare2-simulator"
 
 [[repo]]
 url = "https://github.com/spacemeshos/incubator-milagro-crypto"
@@ -175,6 +190,9 @@ url = "https://github.com/spacemeshos/multisig-server"
 url = "https://github.com/spacemeshos/node-mock"
 
 [[repo]]
+url = "https://github.com/spacemeshos/notebooks"
+
+[[repo]]
 url = "https://github.com/spacemeshos/oracle_server"
 
 [[repo]]
@@ -193,9 +211,6 @@ url = "https://github.com/spacemeshos/poet-core-api"
 url = "https://github.com/spacemeshos/POET-OLD"
 
 [[repo]]
-url = "https://github.com/spacemeshos/poet-ref"
-
-[[repo]]
 url = "https://github.com/spacemeshos/poet2"
 
 [[repo]]
@@ -203,6 +218,9 @@ url = "https://github.com/spacemeshos/pos-server"
 
 [[repo]]
 url = "https://github.com/spacemeshos/post"
+
+[[repo]]
+url = "https://github.com/spacemeshos/post-rs"
 
 [[repo]]
 url = "https://github.com/spacemeshos/product"
@@ -220,7 +238,28 @@ url = "https://github.com/spacemeshos/python-pure25519"
 url = "https://github.com/spacemeshos/python-spacemesh"
 
 [[repo]]
+url = "https://github.com/spacemeshos/QA-smapp"
+
+[[repo]]
+url = "https://github.com/spacemeshos/quipu-specs"
+
+[[repo]]
+url = "https://github.com/spacemeshos/RandomX"
+
+[[repo]]
+url = "https://github.com/spacemeshos/randomx-rs"
+
+[[repo]]
+url = "https://github.com/spacemeshos/remote-wallet"
+
+[[repo]]
 url = "https://github.com/spacemeshos/research"
+
+[[repo]]
+url = "https://github.com/spacemeshos/scrypt-jane"
+
+[[repo]]
+url = "https://github.com/spacemeshos/scrypt-jane-rs"
 
 [[repo]]
 url = "https://github.com/spacemeshos/scrypt_playground"
@@ -230,9 +269,6 @@ url = "https://github.com/spacemeshos/sha256-simd"
 
 [[repo]]
 url = "https://github.com/spacemeshos/sigslib"
-
-[[repo]]
-url = "https://github.com/spacemeshos/sm"
 
 [[repo]]
 url = "https://github.com/spacemeshos/sm-codec"
@@ -247,7 +283,13 @@ url = "https://github.com/spacemeshos/smapp"
 url = "https://github.com/spacemeshos/smart-contract-experiment"
 
 [[repo]]
+url = "https://github.com/spacemeshos/smcli"
+
+[[repo]]
 url = "https://github.com/spacemeshos/SMIPS"
+
+[[repo]]
+url = "https://github.com/spacemeshos/smkeys"
 
 [[repo]]
 url = "https://github.com/spacemeshos/smops"
@@ -263,6 +305,9 @@ url = "https://github.com/spacemeshos/smWallet"
 
 [[repo]]
 url = "https://github.com/spacemeshos/spacemesh-rs"
+
+[[repo]]
+url = "https://github.com/spacemeshos/spacemesh-sdk"
 
 [[repo]]
 url = "https://github.com/spacemeshos/spacemesh-watch"
@@ -289,9 +334,6 @@ url = "https://github.com/spacemeshos/tapbot"
 url = "https://github.com/spacemeshos/telemetry"
 
 [[repo]]
-url = "https://github.com/spacemeshos/terminal-wallet"
-
-[[repo]]
 url = "https://github.com/spacemeshos/testnet-guide"
 
 [[repo]]
@@ -311,6 +353,9 @@ url = "https://github.com/spacemeshos/wasmparser.rs"
 
 [[repo]]
 url = "https://github.com/spacemeshos/website-theme"
+
+[[repo]]
+url = "https://github.com/spacemeshos/wiki"
 
 [[repo]]
 url = "https://github.com/spacemeshos/ws-helm-charts"

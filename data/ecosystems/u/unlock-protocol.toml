@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/unlock-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/unlock-protocol/advent-calendar-2022"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/alphatweet"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/alphatwt"
 
 [[repo]]
@@ -31,10 +37,19 @@ url = "https://github.com/unlock-protocol/depay-evm-router"
 url = "https://github.com/unlock-protocol/discord-integration"
 
 [[repo]]
+url = "https://github.com/unlock-protocol/discount-hook"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/docs"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/eth-gas-reporter"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/eth-phishing-detect"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/ethdenver-treasure-hunt"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/ethereumbook"
@@ -67,6 +82,9 @@ url = "https://github.com/unlock-protocol/governance"
 url = "https://github.com/unlock-protocol/governance-seatbelt"
 
 [[repo]]
+url = "https://github.com/unlock-protocol/hackathon-demo"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/hardhat-plugin-example"
 
 [[repo]]
@@ -76,7 +94,13 @@ url = "https://github.com/unlock-protocol/hardhat-plugin-ts-example"
 url = "https://github.com/unlock-protocol/hardlydifficult-eth"
 
 [[repo]]
+url = "https://github.com/unlock-protocol/key-purchaser"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/locked.fyi"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/mc-square"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/member-wall"
@@ -97,6 +121,9 @@ url = "https://github.com/unlock-protocol/nft-twitter-ext"
 url = "https://github.com/unlock-protocol/openzeppelin-contracts"
 
 [[repo]]
+url = "https://github.com/unlock-protocol/partner-fee-hook"
+
+[[repo]]
 url = "https://github.com/unlock-protocol/password-required-hook"
 
 [[repo]]
@@ -107,6 +134,9 @@ url = "https://github.com/unlock-protocol/radicle"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/react-example"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/red-packet-2023"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/rimble-ui"
@@ -140,6 +170,9 @@ url = "https://github.com/unlock-protocol/unlock-dashboard"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/unlock-ethpass-nextjs"
+
+[[repo]]
+url = "https://github.com/unlock-protocol/unlock-labs-delegation"
 
 [[repo]]
 url = "https://github.com/unlock-protocol/unlock-subgraph"

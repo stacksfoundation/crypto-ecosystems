@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/lbryio"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/LBRYFoundation/lbry-wunderbot"
+
+[[repo]]
+url = "https://github.com/LBRYFoundation/lbry.fund"
+
+[[repo]]
+url = "https://github.com/LBRYFoundation/pool"
+
+[[repo]]
 url = "https://github.com/lbryio/aiorpcX"
 
 [[repo]]
@@ -43,15 +52,6 @@ url = "https://github.com/lbryio/ccache"
 url = "https://github.com/lbryio/ccminer"
 
 [[repo]]
-url = "https://github.com/lbryio/chain"
-
-[[repo]]
-url = "https://github.com/lbryio/chain-watcher"
-
-[[repo]]
-url = "https://github.com/lbryio/chainquery"
-
-[[repo]]
 url = "https://github.com/lbryio/claimtrie"
 
 [[repo]]
@@ -64,9 +64,6 @@ url = "https://github.com/lbryio/color"
 url = "https://github.com/lbryio/comment-server"
 
 [[repo]]
-url = "https://github.com/lbryio/commentron"
-
-[[repo]]
 url = "https://github.com/lbryio/components"
 
 [[repo]]
@@ -77,9 +74,6 @@ url = "https://github.com/lbryio/dashboard"
 
 [[repo]]
 url = "https://github.com/lbryio/dh-virtualenv"
-
-[[repo]]
-url = "https://github.com/lbryio/dispendium"
 
 [[repo]]
 url = "https://github.com/lbryio/dmca"
@@ -118,9 +112,6 @@ url = "https://github.com/lbryio/grooming"
 url = "https://github.com/lbryio/harold"
 
 [[repo]]
-url = "https://github.com/lbryio/herald"
-
-[[repo]]
 url = "https://github.com/lbryio/herald.go"
 
 [[repo]]
@@ -148,16 +139,10 @@ url = "https://github.com/lbryio/lbcutil"
 url = "https://github.com/lbryio/lbcwallet"
 
 [[repo]]
-url = "https://github.com/lbryio/lbry"
-
-[[repo]]
 url = "https://github.com/lbryio/lbry-android"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry-android-sdk"
-
-[[repo]]
-url = "https://github.com/lbryio/lbry-app"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry-desktop"
@@ -223,19 +208,10 @@ url = "https://github.com/lbryio/lbry-unity"
 url = "https://github.com/lbryio/lbry-vanitygen"
 
 [[repo]]
-url = "https://github.com/lbryio/lbry-wallet-sync-server"
-
-[[repo]]
-url = "https://github.com/lbryio/lbry-wunderbot"
-
-[[repo]]
 url = "https://github.com/lbryio/lbry-yt-transfer"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry.com"
-
-[[repo]]
-url = "https://github.com/lbryio/lbry.fund"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry.go"
@@ -245,9 +221,6 @@ url = "https://github.com/lbryio/lbry.id"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry.in"
-
-[[repo]]
-url = "https://github.com/lbryio/lbry.io"
 
 [[repo]]
 url = "https://github.com/lbryio/lbry.tech"
@@ -260,9 +233,6 @@ url = "https://github.com/lbryio/lbrycrd-dependencies"
 
 [[repo]]
 url = "https://github.com/lbryio/lbrycrd-gpu"
-
-[[repo]]
-url = "https://github.com/lbryio/lbrycrd.go"
 
 [[repo]]
 url = "https://github.com/lbryio/lbryinc"
@@ -280,12 +250,6 @@ url = "https://github.com/lbryio/lbryschema"
 url = "https://github.com/lbryio/lbryschema.go"
 
 [[repo]]
-url = "https://github.com/lbryio/lbrytv"
-
-[[repo]]
-url = "https://github.com/lbryio/lbrytv-player"
-
-[[repo]]
 url = "https://github.com/lbryio/lbryum"
 
 [[repo]]
@@ -296,9 +260,6 @@ url = "https://github.com/lbryio/lbryumx"
 
 [[repo]]
 url = "https://github.com/lbryio/lbryweb"
-
-[[repo]]
-url = "https://github.com/lbryio/lbryweb.go"
 
 [[repo]]
 url = "https://github.com/lbryio/libtorrent"
@@ -325,28 +286,7 @@ url = "https://github.com/lbryio/notifica"
 url = "https://github.com/lbryio/null.go"
 
 [[repo]]
-url = "https://github.com/lbryio/odysee-android"
-
-[[repo]]
-url = "https://github.com/lbryio/odysee-api"
-
-[[repo]]
-url = "https://github.com/lbryio/odysee-ios"
-
-[[repo]]
-url = "https://github.com/lbryio/odysee-livestream-player"
-
-[[repo]]
-url = "https://github.com/lbryio/odysee-media-server"
-
-[[repo]]
-url = "https://github.com/lbryio/odysee-roku"
-
-[[repo]]
 url = "https://github.com/lbryio/open.lbry.com"
-
-[[repo]]
-url = "https://github.com/lbryio/open.lbry.io"
 
 [[repo]]
 url = "https://github.com/lbryio/orchstr8"
@@ -370,7 +310,7 @@ url = "https://github.com/lbryio/piratebay.com"
 url = "https://github.com/lbryio/pixelboard"
 
 [[repo]]
-url = "https://github.com/lbryio/pool"
+url = "https://github.com/lbryio/proposals"
 
 [[repo]]
 url = "https://github.com/lbryio/py-lbry"
@@ -412,16 +352,10 @@ url = "https://github.com/lbryio/rocksdb"
 url = "https://github.com/lbryio/roku"
 
 [[repo]]
-url = "https://github.com/lbryio/rosetta-bitcoin"
-
-[[repo]]
 url = "https://github.com/lbryio/rosetta-lbry"
 
 [[repo]]
 url = "https://github.com/lbryio/s3up"
-
-[[repo]]
-url = "https://github.com/lbryio/scribe"
 
 [[repo]]
 url = "https://github.com/lbryio/seeder"
@@ -475,9 +409,6 @@ url = "https://github.com/lbryio/torba"
 url = "https://github.com/lbryio/tracker"
 
 [[repo]]
-url = "https://github.com/lbryio/transcoder"
-
-[[repo]]
 url = "https://github.com/lbryio/twitter-tipbot"
 
 [[repo]]
@@ -499,10 +430,40 @@ url = "https://github.com/lbryio/web-daemon"
 url = "https://github.com/lbryio/web-wallet"
 
 [[repo]]
-url = "https://github.com/lbryio/webredirect"
-
-[[repo]]
 url = "https://github.com/lbryio/www.spee.ch"
 
 [[repo]]
 url = "https://github.com/lbryio/ytsync"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/chainquery"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/commentron"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/dispendium"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-android"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-api"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-ios"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-livestream-player"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-media-server"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/odysee-roku"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/player-server"
+
+[[repo]]
+url = "https://github.com/OdyseeTeam/transcoder"

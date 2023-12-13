@@ -28,6 +28,9 @@ url = "https://github.com/Curve-Labs/backend-challenge"
 url = "https://github.com/Curve-Labs/celo-monorepo"
 
 [[repo]]
+url = "https://github.com/Curve-Labs/celo-validator-scripts"
+
+[[repo]]
 url = "https://github.com/Curve-Labs/CO2ken"
 
 [[repo]]
@@ -52,16 +55,28 @@ url = "https://github.com/Curve-Labs/frontend-challenge"
 url = "https://github.com/Curve-Labs/hyperdao"
 
 [[repo]]
+url = "https://github.com/Curve-Labs/ie-bacalhau"
+
+[[repo]]
 url = "https://github.com/Curve-Labs/interspecies-labs"
 
 [[repo]]
 url = "https://github.com/Curve-Labs/Kolektivo"
 
 [[repo]]
+url = "https://github.com/Curve-Labs/lit-privacy"
+
+[[repo]]
+url = "https://github.com/Curve-Labs/lit-privacy-sdk"
+
+[[repo]]
 url = "https://github.com/Curve-Labs/nec-dao-staking"
 
 [[repo]]
 url = "https://github.com/Curve-Labs/necDAO-uniswap"
+
+[[repo]]
+url = "https://github.com/Curve-Labs/NGI-search"
 
 [[repo]]
 url = "https://github.com/Curve-Labs/openraise-dapp"
@@ -73,4 +88,13 @@ url = "https://github.com/Curve-Labs/robinhoodcoop"
 url = "https://github.com/Curve-Labs/subgraph"
 
 [[repo]]
+url = "https://github.com/Curve-Labs/symmetric-research"
+
+[[repo]]
+url = "https://github.com/Curve-Labs/template-impact-evaluator"
+
+[[repo]]
 url = "https://github.com/Curve-Labs/The-Sphere"
+
+[[repo]]
+url = "https://github.com/Curve-Labs/wot_hcktn"

@@ -7,10 +7,10 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/CoopNetwork/GMD-blockchain"
+url = "https://github.com/TheCoopNetwork/GMD-blockchain"
 
 [[repo]]
-url = "https://github.com/CoopNetwork/GMD-node-app"
+url = "https://github.com/TheCoopNetwork/GMD-node-app"
 
 [[repo]]
-url = "https://github.com/CoopNetwork/GMD-nodejs-sdk"
+url = "https://github.com/TheCoopNetwork/GMD-nodejs-sdk"

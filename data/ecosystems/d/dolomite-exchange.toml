@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/dolomite-exchange"]
 url = "https://github.com/dolomite-exchange/abi-encoder-v2-java"
 
 [[repo]]
+url = "https://github.com/dolomite-exchange/defi-llama-yield-server"
+
+[[repo]]
 url = "https://github.com/dolomite-exchange/DefiLlama-Adapters"
 
 [[repo]]
@@ -74,3 +77,9 @@ url = "https://github.com/dolomite-exchange/token-assets"
 
 [[repo]]
 url = "https://github.com/dolomite-exchange/web3-provider-engine"
+
+[[repo]]
+url = "https://github.com/dolomite-exchange/zap-sdk"
+
+[[repo]]
+url = "https://github.com/dolomite-exchange/zapper-fi-studio"

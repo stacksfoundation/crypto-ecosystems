@@ -28,6 +28,12 @@ url = "https://github.com/galacticcouncil/analytics"
 url = "https://github.com/galacticcouncil/api-docs"
 
 [[repo]]
+url = "https://github.com/galacticcouncil/api-types"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/app-substrate-common"
+
+[[repo]]
 url = "https://github.com/galacticcouncil/apps"
 
 [[repo]]
@@ -52,9 +58,6 @@ url = "https://github.com/galacticcouncil/Basilisk-dev-docs"
 url = "https://github.com/galacticcouncil/Basilisk-docs"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/Basilisk-mining-ui"
-
-[[repo]]
 url = "https://github.com/galacticcouncil/Basilisk-node"
 
 [[repo]]
@@ -62,6 +65,9 @@ url = "https://github.com/galacticcouncil/basilisk-squid"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/basilisk-ui"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/Basilisk-ui-old"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/Basilisk-wallet-ui"
@@ -85,7 +91,22 @@ url = "https://github.com/galacticcouncil/bench-bot"
 url = "https://github.com/galacticcouncil/bench-wizard"
 
 [[repo]]
+url = "https://github.com/galacticcouncil/blockscout"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/blockscout-frontend"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/bridge"
+
+[[repo]]
 url = "https://github.com/galacticcouncil/calamar"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/chains"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/chopsticks"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/common"
@@ -94,10 +115,13 @@ url = "https://github.com/galacticcouncil/common"
 url = "https://github.com/galacticcouncil/conventional-changelog-config-spec"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/cross-chain-sdk"
+url = "https://github.com/galacticcouncil/cumulus"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/cumulus"
+url = "https://github.com/galacticcouncil/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/Faucet-bot"
@@ -112,10 +136,13 @@ url = "https://github.com/galacticcouncil/guidelines-example"
 url = "https://github.com/galacticcouncil/halva"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/Hydra-mining-ui"
+url = "https://github.com/galacticcouncil/HydraDX-api"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/HydraDX-api"
+url = "https://github.com/galacticcouncil/HydraDX-api-jobs"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/HydraDX-api-old"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-app"
@@ -151,13 +178,22 @@ url = "https://github.com/galacticcouncil/HydraDX-node"
 url = "https://github.com/galacticcouncil/HydraDX-rewards"
 
 [[repo]]
+url = "https://github.com/galacticcouncil/HydraDX-rococo-data-squid"
+
+[[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-simulations"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/hydradx-squid"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-subsquid"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-traits"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/HydraDX-ui"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/HydraDX-wasm"
@@ -172,10 +208,10 @@ url = "https://github.com/galacticcouncil/HydraDX-web-old"
 url = "https://github.com/galacticcouncil/infrastructure"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/lbp-info"
+url = "https://github.com/galacticcouncil/InvArch-XCM-Builder"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/lbp-squid"
+url = "https://github.com/galacticcouncil/lbp-info"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/metadata-portal"
@@ -197,6 +233,12 @@ url = "https://github.com/galacticcouncil/polkadot-charts"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/polkadot-deployer"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/polkadot-sdk"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/polkadot_network_directory"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/polkalert"
@@ -238,13 +280,13 @@ url = "https://github.com/galacticcouncil/tank.ansible-polkadot"
 url = "https://github.com/galacticcouncil/testnet-deployment"
 
 [[repo]]
-url = "https://github.com/galacticcouncil/trade-app"
-
-[[repo]]
 url = "https://github.com/galacticcouncil/ui"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/warehouse"
+
+[[repo]]
+url = "https://github.com/galacticcouncil/xcm-sdk"
 
 [[repo]]
 url = "https://github.com/galacticcouncil/xcm-tools"

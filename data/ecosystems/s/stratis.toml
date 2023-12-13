@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/stratisproject"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/stratisproject/android-28"
-
-[[repo]]
 url = "https://github.com/stratisproject/android-ndk-21"
 
 [[repo]]
@@ -20,9 +17,6 @@ url = "https://github.com/stratisproject/archive_azure-quickstart-templates"
 
 [[repo]]
 url = "https://github.com/stratisproject/archive_stratis"
-
-[[repo]]
-url = "https://github.com/stratisproject/bitcore"
 
 [[repo]]
 url = "https://github.com/stratisproject/bitcore-lib-cirrus"
@@ -82,9 +76,6 @@ url = "https://github.com/stratisproject/electrum-stratis-server"
 url = "https://github.com/stratisproject/FederatedSidechains"
 
 [[repo]]
-url = "https://github.com/stratisproject/FullNodeUI"
-
-[[repo]]
 url = "https://github.com/stratisproject/HashLib"
 
 [[repo]]
@@ -98,6 +89,9 @@ url = "https://github.com/stratisproject/libbitcoin-system"
 
 [[repo]]
 url = "https://github.com/stratisproject/LibbitcoinAndroidTestApp"
+
+[[repo]]
+url = "https://github.com/stratisproject/MasternodeSetupTool"
 
 [[repo]]
 url = "https://github.com/stratisproject/MediaConverterApi"
@@ -203,7 +197,7 @@ url = "https://github.com/stratisproject/StraxUI"
 url = "https://github.com/stratisproject/TCPServer"
 
 [[repo]]
-url = "https://github.com/stratisproject/Unity3dIntegration"
+url = "https://github.com/stratisproject/UnrealDemoGameProject"
 
 [[repo]]
 url = "https://github.com/stratisproject/UnrealEnginePlugin"

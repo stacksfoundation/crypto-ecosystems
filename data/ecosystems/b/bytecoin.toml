@@ -23,7 +23,7 @@ url = "https://github.com/bcndev/bytecoin-go"
 url = "https://github.com/bcndev/bytecoin-gui"
 
 [[repo]]
-url = "https://github.com/bcndev/bytecoin-javascript"
+url = "https://github.com/bcndev/bytecoin-js"
 
 [[repo]]
 url = "https://github.com/bcndev/ledger-app-bytecoin"
@@ -56,10 +56,10 @@ url = "https://github.com/BYTECOlN/Bytecoin"
 url = "https://github.com/cryptozona/bytecoinBCN"
 
 [[repo]]
-url = "https://github.com/Ratnet/Bytecoin-Faucet"
+url = "https://github.com/NotJustCoins/BCN-Cryptonote-Pool"
 
 [[repo]]
-url = "https://github.com/sevendoorknobs/BCN-Cryptonote-Pool"
+url = "https://github.com/Ratnet/Bytecoin-Faucet"
 
 [[repo]]
 url = "https://github.com/xdo-soft/CryptoNoteMultiWalletMonitor"

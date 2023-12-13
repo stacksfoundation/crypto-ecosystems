@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/nervina-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Magickbase/godwoken-explorer-ui"
+
+[[repo]]
+url = "https://github.com/Magickbase/godwoken_explorer"
+
+[[repo]]
 url = "https://github.com/nervina-labs/aliyun-oss-ruby-sdk"
+
+[[repo]]
+url = "https://github.com/nervina-labs/axon-faucet"
 
 [[repo]]
 url = "https://github.com/nervina-labs/ckb-cota-scripts"
@@ -28,19 +37,10 @@ url = "https://github.com/nervina-labs/ckb-system-scripts"
 url = "https://github.com/nervina-labs/ckb-time-scripts"
 
 [[repo]]
-url = "https://github.com/nervina-labs/compact-nft-aggregator"
-
-[[repo]]
-url = "https://github.com/nervina-labs/compact-nft-generator"
-
-[[repo]]
 url = "https://github.com/nervina-labs/compact-nft-smt"
 
 [[repo]]
 url = "https://github.com/nervina-labs/compact-nft-smt-go"
-
-[[repo]]
-url = "https://github.com/nervina-labs/compact-registry-aggregator"
 
 [[repo]]
 url = "https://github.com/nervina-labs/cota-aggregator"
@@ -50,9 +50,6 @@ url = "https://github.com/nervina-labs/cota-docs"
 
 [[repo]]
 url = "https://github.com/nervina-labs/cota-generator"
-
-[[repo]]
-url = "https://github.com/nervina-labs/cota-nft-entries-syncer"
 
 [[repo]]
 url = "https://github.com/nervina-labs/cota-registry-aggregator"
@@ -82,13 +79,25 @@ url = "https://github.com/nervina-labs/flashsigner-sdk-js"
 url = "https://github.com/nervina-labs/general_nft_license"
 
 [[repo]]
-url = "https://github.com/nervina-labs/godwoken-explorer-ui"
-
-[[repo]]
-url = "https://github.com/nervina-labs/godwoken_explorer"
-
-[[repo]]
 url = "https://github.com/nervina-labs/heroku-buildpack-ruby"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-docs"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-ethers-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-evm-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-lib-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-react-native-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-sdk-go"
 
 [[repo]]
 url = "https://github.com/nervina-labs/joyid-smt"
@@ -103,7 +112,7 @@ url = "https://github.com/nervina-labs/mibao-ui"
 url = "https://github.com/nervina-labs/nervina.cn"
 
 [[repo]]
-url = "https://github.com/nervina-labs/nervina.io"
+url = "https://github.com/nervina-labs/nft-free-minter"
 
 [[repo]]
 url = "https://github.com/nervina-labs/nft-wallet"

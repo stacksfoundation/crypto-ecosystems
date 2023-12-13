@@ -46,10 +46,13 @@ url = "https://github.com/compound-finance/comet-extension-template"
 url = "https://github.com/compound-finance/comet-migrator"
 
 [[repo]]
+url = "https://github.com/compound-finance/comet-wrapper"
+
+[[repo]]
 url = "https://github.com/compound-finance/comp.vote"
 
 [[repo]]
-url = "https://github.com/compound-finance/compound-chain"
+url = "https://github.com/compound-finance/comp.vote-1"
 
 [[repo]]
 url = "https://github.com/compound-finance/compound-components"
@@ -62,6 +65,9 @@ url = "https://github.com/compound-finance/compound-eureka"
 
 [[repo]]
 url = "https://github.com/compound-finance/compound-finance.github.io"
+
+[[repo]]
+url = "https://github.com/compound-finance/compound-governance"
 
 [[repo]]
 url = "https://github.com/compound-finance/compound-hardhat-plugins"
@@ -101,6 +107,15 @@ url = "https://github.com/compound-finance/cumulus"
 url = "https://github.com/compound-finance/DeFi-Pulse-Adapters"
 
 [[repo]]
+url = "https://github.com/compound-finance/EIPs"
+
+[[repo]]
+url = "https://github.com/compound-finance/encumber-factory"
+
+[[repo]]
+url = "https://github.com/compound-finance/encumber_samples"
+
+[[repo]]
 url = "https://github.com/compound-finance/erlang-keccakf1600"
 
 [[repo]]
@@ -120,6 +135,9 @@ url = "https://github.com/compound-finance/ethereumjs-vm"
 
 [[repo]]
 url = "https://github.com/compound-finance/etherscan"
+
+[[repo]]
+url = "https://github.com/compound-finance/foundry"
 
 [[repo]]
 url = "https://github.com/compound-finance/ganache-cli"
@@ -164,6 +182,12 @@ url = "https://github.com/compound-finance/polkadotjs-api"
 url = "https://github.com/compound-finance/polkadotjs-common"
 
 [[repo]]
+url = "https://github.com/compound-finance/polygon-token-list"
+
+[[repo]]
+url = "https://github.com/compound-finance/quark"
+
+[[repo]]
 url = "https://github.com/compound-finance/quest"
 
 [[repo]]
@@ -201,9 +225,6 @@ url = "https://github.com/compound-finance/solidity-parser-antlr"
 
 [[repo]]
 url = "https://github.com/compound-finance/substrate"
-
-[[repo]]
-url = "https://github.com/compound-finance/substrate-1"
 
 [[repo]]
 url = "https://github.com/compound-finance/substrate-gh"

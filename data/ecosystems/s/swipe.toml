@@ -28,9 +28,6 @@ url = "https://github.com/SwipeWallet/defiprime"
 url = "https://github.com/SwipeWallet/ganache-cli"
 
 [[repo]]
-url = "https://github.com/SwipeWallet/swap-data"
-
-[[repo]]
 url = "https://github.com/SwipeWallet/Swipe-BSC-Network"
 
 [[repo]]
@@ -82,10 +79,10 @@ url = "https://github.com/SwipeWallet/tokenlists-org"
 url = "https://github.com/SwipeWallet/tokens-info"
 
 [[repo]]
-url = "https://github.com/SwipeWallet/venus-config"
+url = "https://github.com/VenusProtocol/venus-config"
 
 [[repo]]
-url = "https://github.com/SwipeWallet/venus-js"
+url = "https://github.com/VenusProtocol/venus-js"
 
 [[repo]]
-url = "https://github.com/SwipeWallet/venus-protocol"
+url = "https://github.com/VenusProtocol/venus-protocol"

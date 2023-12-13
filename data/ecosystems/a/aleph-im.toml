@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/aleph-im"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/aleph-im/active-record-sdk"
+
+[[repo]]
 url = "https://github.com/aleph-im/aioipfs"
 
 [[repo]]
@@ -22,6 +25,12 @@ url = "https://github.com/aleph-im/aleph-blogs"
 url = "https://github.com/aleph-im/aleph-client"
 
 [[repo]]
+url = "https://github.com/aleph-im/aleph-cloud-tools"
+
+[[repo]]
+url = "https://github.com/aleph-im/aleph-docs"
+
+[[repo]]
 url = "https://github.com/aleph-im/aleph-explorer"
 
 [[repo]]
@@ -29,6 +38,12 @@ url = "https://github.com/aleph-im/aleph-github-actions"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-im-media"
+
+[[repo]]
+url = "https://github.com/aleph-im/aleph-indexer-framework"
+
+[[repo]]
+url = "https://github.com/aleph-im/aleph-indexer-library"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-java"
@@ -49,6 +64,9 @@ url = "https://github.com/aleph-im/aleph-proxy"
 url = "https://github.com/aleph-im/aleph-pytezos"
 
 [[repo]]
+url = "https://github.com/aleph-im/aleph-scoring"
+
+[[repo]]
 url = "https://github.com/aleph-im/aleph-sdk-docs-js"
 
 [[repo]]
@@ -61,13 +79,22 @@ url = "https://github.com/aleph-im/aleph-sdk-docs-ts"
 url = "https://github.com/aleph-im/aleph-sdk-go"
 
 [[repo]]
+url = "https://github.com/aleph-im/aleph-sdk-python"
+
+[[repo]]
 url = "https://github.com/aleph-im/aleph-sdk-ts"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-site"
 
 [[repo]]
+url = "https://github.com/aleph-im/aleph-solana-contract"
+
+[[repo]]
 url = "https://github.com/aleph-im/aleph-swap-dapp"
+
+[[repo]]
+url = "https://github.com/aleph-im/aleph-tezos-event-indexer"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-token-nrc20"
@@ -80,6 +107,9 @@ url = "https://github.com/aleph-im/aleph-vm"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-vm-demos"
+
+[[repo]]
+url = "https://github.com/aleph-im/aleph-vrf"
 
 [[repo]]
 url = "https://github.com/aleph-im/aleph-whitepaper"
@@ -104,6 +134,18 @@ url = "https://github.com/aleph-im/erc20-snapshot"
 
 [[repo]]
 url = "https://github.com/aleph-im/erc20-token"
+
+[[repo]]
+url = "https://github.com/aleph-im/front-aleph-account-page"
+
+[[repo]]
+url = "https://github.com/aleph-im/front-aleph-cloud-page"
+
+[[repo]]
+url = "https://github.com/aleph-im/front-aleph-core"
+
+[[repo]]
+url = "https://github.com/aleph-im/front-aleph-website-page"
 
 [[repo]]
 url = "https://github.com/aleph-im/grub"
@@ -167,12 +209,6 @@ url = "https://github.com/aleph-im/simple-dapp"
 
 [[repo]]
 url = "https://github.com/aleph-im/SmartContract"
-
-[[repo]]
-url = "https://github.com/aleph-im/solana-indexer-framework"
-
-[[repo]]
-url = "https://github.com/aleph-im/solana-indexer-library"
 
 [[repo]]
 url = "https://github.com/aleph-im/step-info"

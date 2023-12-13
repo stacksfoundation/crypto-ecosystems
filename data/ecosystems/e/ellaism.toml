@@ -79,16 +79,10 @@ url = "https://github.com/ellaism/meteor-dapp-wallet"
 url = "https://github.com/ellaism/mina-slack"
 
 [[repo]]
-url = "https://github.com/ellaism/multi-geth"
-
-[[repo]]
 url = "https://github.com/ellaism/multisig-transparency"
 
 [[repo]]
 url = "https://github.com/ellaism/open-ethereum-pool"
-
-[[repo]]
-url = "https://github.com/ellaism/parity"
 
 [[repo]]
 url = "https://github.com/ellaism/parity-config"
@@ -146,3 +140,6 @@ url = "https://github.com/ellaism/wallet-core"
 
 [[repo]]
 url = "https://github.com/ellaism/wiki"
+
+[[repo]]
+url = "https://github.com/multi-geth/multi-geth"

@@ -19,10 +19,25 @@ url = "https://github.com/marinade-finance/DefiLlama-Adapters"
 url = "https://github.com/marinade-finance/delegation-strategy"
 
 [[repo]]
+url = "https://github.com/marinade-finance/delegation-strategy-2"
+
+[[repo]]
+url = "https://github.com/marinade-finance/delegation-strategy-pipeline"
+
+[[repo]]
+url = "https://github.com/marinade-finance/elusiv"
+
+[[repo]]
+url = "https://github.com/marinade-finance/goki"
+
+[[repo]]
 url = "https://github.com/marinade-finance/governance-ui"
 
 [[repo]]
 url = "https://github.com/marinade-finance/how-to-integrate-marinade"
+
+[[repo]]
+url = "https://github.com/marinade-finance/hubble-common"
 
 [[repo]]
 url = "https://github.com/marinade-finance/jobs"
@@ -49,6 +64,12 @@ url = "https://github.com/marinade-finance/mango-ui-v3"
 url = "https://github.com/marinade-finance/maridrop"
 
 [[repo]]
+url = "https://github.com/marinade-finance/marinade-apy"
+
+[[repo]]
+url = "https://github.com/marinade-finance/marinade-common-rs-cli"
+
+[[repo]]
 url = "https://github.com/marinade-finance/marinade-gitbook"
 
 [[repo]]
@@ -67,6 +88,12 @@ url = "https://github.com/marinade-finance/marinade-ts-cli"
 url = "https://github.com/marinade-finance/marinade-ts-sdk"
 
 [[repo]]
+url = "https://github.com/marinade-finance/marinade-web-config"
+
+[[repo]]
+url = "https://github.com/marinade-finance/marinade-widget"
+
+[[repo]]
 url = "https://github.com/marinade-finance/metaplex-program-library"
 
 [[repo]]
@@ -82,6 +109,9 @@ url = "https://github.com/marinade-finance/multisig-ui"
 url = "https://github.com/marinade-finance/oyster"
 
 [[repo]]
+url = "https://github.com/marinade-finance/quarry"
+
+[[repo]]
 url = "https://github.com/marinade-finance/quarry-claimer"
 
 [[repo]]
@@ -89,6 +119,9 @@ url = "https://github.com/marinade-finance/quarry-cli"
 
 [[repo]]
 url = "https://github.com/marinade-finance/quarry-cli-old"
+
+[[repo]]
+url = "https://github.com/marinade-finance/scope"
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana"
@@ -100,10 +133,25 @@ url = "https://github.com/marinade-finance/solana-js-utils"
 url = "https://github.com/marinade-finance/solana-program-library"
 
 [[repo]]
+url = "https://github.com/marinade-finance/solana-snapshot-etl"
+
+[[repo]]
+url = "https://github.com/marinade-finance/solana-snapshot-finder"
+
+[[repo]]
+url = "https://github.com/marinade-finance/solana-snapshot-manager"
+
+[[repo]]
+url = "https://github.com/marinade-finance/spl-gov-notifier"
+
+[[repo]]
 url = "https://github.com/marinade-finance/stake-o-matic"
 
 [[repo]]
 url = "https://github.com/marinade-finance/staking-status"
+
+[[repo]]
+url = "https://github.com/marinade-finance/sugar"
 
 [[repo]]
 url = "https://github.com/marinade-finance/tokadapt"
@@ -118,4 +166,13 @@ url = "https://github.com/marinade-finance/token-list-builder"
 url = "https://github.com/marinade-finance/token-vesting"
 
 [[repo]]
+url = "https://github.com/marinade-finance/tribeca"
+
+[[repo]]
 url = "https://github.com/marinade-finance/tribeca-non-quarry-config"
+
+[[repo]]
+url = "https://github.com/marinade-finance/vipers"
+
+[[repo]]
+url = "https://github.com/marinade-finance/voter-stake-registry"

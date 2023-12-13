@@ -7,6 +7,7 @@ sub_ecosystems = [
   "Definix",
   "KlaySwap",
   "Kronos",
+  "Neoping",
   "Pangea Swap Protocol",
   "Stakely Protocol",
   "Wemix",
@@ -25,7 +26,13 @@ url = "https://github.com/han-um/Blot"
 url = "https://github.com/klaytn/3d-nft-gallery"
 
 [[repo]]
+url = "https://github.com/klaytn/aa-bundler"
+
+[[repo]]
 url = "https://github.com/klaytn/awesome-klaytn"
+
+[[repo]]
+url = "https://github.com/klaytn/bridgeregistry"
 
 [[repo]]
 url = "https://github.com/klaytn/canonical-wklay"
@@ -34,25 +41,25 @@ url = "https://github.com/klaytn/canonical-wklay"
 url = "https://github.com/klaytn/caver-java"
 
 [[repo]]
-url = "https://github.com/klaytn/caver-java-boilerplate"
-
-[[repo]]
 url = "https://github.com/klaytn/caver-java-examples"
 
 [[repo]]
 url = "https://github.com/klaytn/caver-js"
 
 [[repo]]
-url = "https://github.com/klaytn/caver-js-boilerplate"
-
-[[repo]]
 url = "https://github.com/klaytn/caver-js-examples"
 
 [[repo]]
-url = "https://github.com/klaytn/cn-staging-contract-tests"
+url = "https://github.com/klaytn/cn-staking-contract-tests"
 
 [[repo]]
-url = "https://github.com/klaytn/cn-staking-contract-tests"
+url = "https://github.com/klaytn/config"
+
+[[repo]]
+url = "https://github.com/klaytn/contract-demo-poll"
+
+[[repo]]
+url = "https://github.com/klaytn/contract-template"
 
 [[repo]]
 url = "https://github.com/klaytn/count-bapp-android"
@@ -71,6 +78,39 @@ url = "https://github.com/klaytn/enterprise_proxy"
 
 [[repo]]
 url = "https://github.com/klaytn/enterprise_proxy_lite"
+
+[[repo]]
+url = "https://github.com/klaytn/examples"
+
+[[repo]]
+url = "https://github.com/klaytn/finder"
+
+[[repo]]
+url = "https://github.com/klaytn/finder-api"
+
+[[repo]]
+url = "https://github.com/klaytn/finder-fe"
+
+[[repo]]
+url = "https://github.com/klaytn/finder-helm-chart"
+
+[[repo]]
+url = "https://github.com/klaytn/finder-infra"
+
+[[repo]]
+url = "https://github.com/klaytn/finder-spark"
+
+[[repo]]
+url = "https://github.com/klaytn/governance-contracts-audit"
+
+[[repo]]
+url = "https://github.com/klaytn/Guardian"
+
+[[repo]]
+url = "https://github.com/klaytn/hardhat-utils"
+
+[[repo]]
+url = "https://github.com/klaytn/hardhat-utils-examples"
 
 [[repo]]
 url = "https://github.com/klaytn/helm-charts"
@@ -95,6 +135,7 @@ url = "https://github.com/klaytn/klaystagram"
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn-ansible"
@@ -121,7 +162,7 @@ url = "https://github.com/klaytn/klaytn-deploy"
 url = "https://github.com/klaytn/klaytn-dev-sandbox"
 
 [[repo]]
-url = "https://github.com/klaytn/klaytn-dex"
+url = "https://github.com/klaytn/klaytn-developer-sdk"
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn-dex-contracts"
@@ -142,16 +183,25 @@ url = "https://github.com/klaytn/klaytn-docs"
 url = "https://github.com/klaytn/klaytn-docs-ko"
 
 [[repo]]
+url = "https://github.com/klaytn/klaytn-docs-vn"
+
+[[repo]]
 url = "https://github.com/klaytn/klaytn-etl"
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn-faucet"
 
 [[repo]]
+url = "https://github.com/klaytn/klaytn-hackerhouse"
+
+[[repo]]
 url = "https://github.com/klaytn/klaytn-integration-tests"
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn-load-tester"
+
+[[repo]]
+url = "https://github.com/klaytn/klaytn-metaverse-package-docs"
 
 [[repo]]
 url = "https://github.com/klaytn/klaytn-net-intelligence-api"
@@ -184,6 +234,9 @@ url = "https://github.com/klaytn/klaytn-safe-contracts"
 url = "https://github.com/klaytn/klaytn-safe-react"
 
 [[repo]]
+url = "https://github.com/klaytn/klaytn-service-sdk"
+
+[[repo]]
 url = "https://github.com/klaytn/klaytn-snap"
 
 [[repo]]
@@ -214,16 +267,16 @@ url = "https://github.com/klaytn/klip-web3-provider"
 url = "https://github.com/klaytn/local-klaytn-deploy"
 
 [[repo]]
-url = "https://github.com/klaytn/locust-load-tester"
+url = "https://github.com/klaytn/metaverse-knowledge-kit"
+
+[[repo]]
+url = "https://github.com/klaytn/OpenSDK"
 
 [[repo]]
 url = "https://github.com/klaytn/payer-express"
 
 [[repo]]
 url = "https://github.com/klaytn/project-management"
-
-[[repo]]
-url = "https://github.com/klaytn/reward-tester"
 
 [[repo]]
 url = "https://github.com/klaytn/rosetta-klaytn"
@@ -233,12 +286,6 @@ url = "https://github.com/klaytn/rosetta-sdk-go-klaytn"
 
 [[repo]]
 url = "https://github.com/klaytn/safe-react"
-
-[[repo]]
-url = "https://github.com/klaytn/sc-vt"
-
-[[repo]]
-url = "https://github.com/klaytn/service-chain-deploy"
 
 [[repo]]
 url = "https://github.com/klaytn/servicechain-contracts"
@@ -256,10 +303,16 @@ url = "https://github.com/klaytn/servicechain-value-transfer-examples"
 url = "https://github.com/klaytn/smart-contract-best-practices-kr"
 
 [[repo]]
+url = "https://github.com/klaytn/treasury-rebalance"
+
+[[repo]]
 url = "https://github.com/klaytn/truffle-hdwallet-provider-klaytn"
 
 [[repo]]
 url = "https://github.com/klaytn/tx-latency-measurement"
+
+[[repo]]
+url = "https://github.com/klaytn/web3klaytn"
 
 [[repo]]
 url = "https://github.com/klaytn/xgo"

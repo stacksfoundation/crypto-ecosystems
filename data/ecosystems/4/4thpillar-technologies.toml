@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/The4thPillarOfficial"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/The4thPillarOfficial/0x-api"
+url = "https://github.com/4thtech/0x-api"
 
 [[repo]]
-url = "https://github.com/The4thPillarOfficial/assets"
+url = "https://github.com/4thtech/assets"
 
 [[repo]]
-url = "https://github.com/The4thPillarOfficial/browser-extension"
+url = "https://github.com/4thtech/browser-extension"
 
 [[repo]]
-url = "https://github.com/The4thPillarOfficial/smart-contracts"
+url = "https://github.com/4thtech/smart-contracts"

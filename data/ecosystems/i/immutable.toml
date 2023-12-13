@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/immutable"]
 url = "https://github.com/AmbrusStudio/launcher"
 
 [[repo]]
+url = "https://github.com/Guerrin-Hackathon/guerrin_fe"
+
+[[repo]]
 url = "https://github.com/immutable/0x-relayer-registry"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/immutable/arch-frontend"
 
 [[repo]]
 url = "https://github.com/immutable/atlantis-drift-detection"
+
+[[repo]]
+url = "https://github.com/immutable/BLUI-Unreal"
 
 [[repo]]
 url = "https://github.com/immutable/bmi-calculator"
@@ -55,6 +61,9 @@ url = "https://github.com/immutable/go-solidity-sha3"
 url = "https://github.com/immutable/gods-unchained-api"
 
 [[repo]]
+url = "https://github.com/immutable/gu-animator"
+
+[[repo]]
 url = "https://github.com/immutable/gu-collectable-solidity"
 
 [[repo]]
@@ -64,6 +73,27 @@ url = "https://github.com/immutable/gu-composited-card"
 url = "https://github.com/immutable/gu-game-api"
 
 [[repo]]
+url = "https://github.com/immutable/ig-animator"
+
+[[repo]]
+url = "https://github.com/immutable/igs-contracts"
+
+[[repo]]
+url = "https://github.com/immutable/im-data-blockchain-ethereum-etl"
+
+[[repo]]
+url = "https://github.com/immutable/im-data-blockchain-etl-dataflow"
+
+[[repo]]
+url = "https://github.com/immutable/im-data-ethereum-etl"
+
+[[repo]]
+url = "https://github.com/immutable/immutable-seaport"
+
+[[repo]]
+url = "https://github.com/immutable/immutable-zkevm-example-marketplace"
+
+[[repo]]
 url = "https://github.com/immutable/immutable.github.io"
 
 [[repo]]
@@ -71,6 +101,10 @@ url = "https://github.com/immutable/imx-contracts"
 
 [[repo]]
 url = "https://github.com/immutable/imx-core-sdk"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/immutable/imx-core-sdk-csharp"
 
 [[repo]]
 url = "https://github.com/immutable/imx-core-sdk-golang"
@@ -88,9 +122,6 @@ url = "https://github.com/immutable/imx-docs"
 url = "https://github.com/immutable/imx-examples"
 
 [[repo]]
-url = "https://github.com/immutable/imx-integration-example"
-
-[[repo]]
 url = "https://github.com/immutable/imx-reactjs-integration-example"
 
 [[repo]]
@@ -101,6 +132,9 @@ url = "https://github.com/immutable/imx-stark-utils-swift"
 
 [[repo]]
 url = "https://github.com/immutable/imx-starknet"
+
+[[repo]]
+url = "https://github.com/immutable/imx-unity-sdk"
 
 [[repo]]
 url = "https://github.com/immutable/imx-wallet-sdk-ios"
@@ -127,6 +161,12 @@ url = "https://github.com/immutable/lottie-pixi"
 url = "https://github.com/immutable/lottie-web"
 
 [[repo]]
+url = "https://github.com/immutable/lottie-web-pixi"
+
+[[repo]]
+url = "https://github.com/immutable/lottie-web-threejs"
+
+[[repo]]
 url = "https://github.com/immutable/MM-puppeteer"
 
 [[repo]]
@@ -143,6 +183,27 @@ url = "https://github.com/immutable/pglogrepl"
 
 [[repo]]
 url = "https://github.com/immutable/platform-contracts"
+
+[[repo]]
+url = "https://github.com/immutable/poly-core-contracts"
+
+[[repo]]
+url = "https://github.com/immutable/sample-passport-unity-game"
+
+[[repo]]
+url = "https://github.com/immutable/sample-unreal-game"
+
+[[repo]]
+url = "https://github.com/immutable/seaport"
+
+[[repo]]
+url = "https://github.com/immutable/seaport-1.4"
+
+[[repo]]
+url = "https://github.com/immutable/seaport-core"
+
+[[repo]]
+url = "https://github.com/immutable/seaport-js"
 
 [[repo]]
 url = "https://github.com/immutable/serverless-go-starter"
@@ -163,13 +224,13 @@ url = "https://github.com/immutable/software-intern"
 url = "https://github.com/immutable/solidity-docgen"
 
 [[repo]]
-url = "https://github.com/immutable/starknet-sc-block"
-
-[[repo]]
 url = "https://github.com/immutable/StarkNetCourseContent"
 
 [[repo]]
 url = "https://github.com/immutable/swiper"
+
+[[repo]]
+url = "https://github.com/immutable/terraform-aws-bastion"
 
 [[repo]]
 url = "https://github.com/immutable/terraform-aws-ecs-app"
@@ -181,13 +242,46 @@ url = "https://github.com/immutable/terraform-kubernetes-external-dns-aws"
 url = "https://github.com/immutable/terrafrom-aws-populate_nlb_tg_with_rds"
 
 [[repo]]
+url = "https://github.com/immutable/ts-immutable-sdk"
+
+[[repo]]
+url = "https://github.com/immutable/unity-immutable-sdk"
+
+[[repo]]
+url = "https://github.com/immutable/unreal-immutable-sdk"
+
+[[repo]]
 url = "https://github.com/immutable/WalletConnectSwift"
 
 [[repo]]
 url = "https://github.com/immutable/web3.js"
 
 [[repo]]
+url = "https://github.com/immutable/web3.js.4.x"
+
+[[repo]]
+url = "https://github.com/immutable/web3.js.old"
+
+[[repo]]
+url = "https://github.com/immutable/xk6-ethereum"
+
+[[repo]]
+url = "https://github.com/immutable/zkevm-boilerplate"
+
+[[repo]]
+url = "https://github.com/immutable/zkevm-contracts"
+
+[[repo]]
 url = "https://github.com/Itsdarkhere/SN_ANG_Frontend"
 
 [[repo]]
+url = "https://github.com/NiftyLeague/NiftySmartContracts"
+
+[[repo]]
+url = "https://github.com/pineappleworkshop/pw-imx-explore"
+
+[[repo]]
 url = "https://github.com/Pixel-Map/MMORPGMaker-MZ-Server"
+
+[[repo]]
+url = "https://github.com/TEK-Web3/universe"

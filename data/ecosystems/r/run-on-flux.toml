@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/RunOnFlux"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/RunOnFlux/appsmonitor"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/aptrepo"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/astar-node"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/balance-checker"
@@ -31,13 +37,22 @@ url = "https://github.com/RunOnFlux/bitcore-message"
 url = "https://github.com/RunOnFlux/bitcore-node"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/bitgo-utxo-lib"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/blockbook"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/blockbook-0.40"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/blockbook-docker"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/bootstrap_mirror_server"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/celo-blockchain"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/chainweb-data"
@@ -55,7 +70,16 @@ url = "https://github.com/RunOnFlux/dash_insight_explorer-docker"
 url = "https://github.com/RunOnFlux/dashnode-docker"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/docker-electrumx"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/docker-minecraft-server"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/electrumx"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/electrumx-1"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/ergo"
@@ -73,22 +97,22 @@ url = "https://github.com/RunOnFlux/ergo-graphql-docker"
 url = "https://github.com/RunOnFlux/fironode-docker"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/fluka"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/flutter_base"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/flux"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/flux-aave-interface"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-domain-manager"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-dopex-site"
-
-[[repo]]
-url = "https://github.com/RunOnFlux/flux-ergo-db-docker"
-
-[[repo]]
-url = "https://github.com/RunOnFlux/flux-ergo-graphql"
-
-[[repo]]
-url = "https://github.com/RunOnFlux/flux-ergo-graphql-docker"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-eth-bsc"
@@ -113,6 +137,9 @@ url = "https://github.com/RunOnFlux/flux-osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-pangolindex-interface"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/flux-pdns"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/flux-rosetta-server"
@@ -142,10 +169,10 @@ url = "https://github.com/RunOnFlux/flux-uniswap-interface"
 url = "https://github.com/RunOnFlux/flux-yearn-finance-v3"
 
 [[repo]]
-url = "https://github.com/RunOnFlux/fluxapi"
+url = "https://github.com/RunOnFlux/Flux_503"
 
 [[repo]]
-url = "https://github.com/RunOnFlux/fluxapidocs"
+url = "https://github.com/RunOnFlux/fluxcon"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/fluxcontrol"
@@ -172,6 +199,9 @@ url = "https://github.com/RunOnFlux/fluxjsdocs"
 url = "https://github.com/RunOnFlux/FLUXmultisig"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/fluxnode-light"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/fluxnode-multitool"
 
 [[repo]]
@@ -187,13 +217,19 @@ url = "https://github.com/RunOnFlux/fluxstatsdocs"
 url = "https://github.com/RunOnFlux/fluxstorage"
 
 [[repo]]
-url = "https://github.com/RunOnFlux/fluxstore"
-
-[[repo]]
 url = "https://github.com/RunOnFlux/FluxVault"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/folding-at-home-docker-arm"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/fusiondocs"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/go-algorand"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/go-algorand2"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/holder-snapshot"
@@ -203,6 +239,12 @@ url = "https://github.com/RunOnFlux/insight-api"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/insight-ui"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/iron-fish-docker"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/jetpack-landing-page"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/kadena-distribution-public"
@@ -220,7 +262,7 @@ url = "https://github.com/RunOnFlux/nat-upnp"
 url = "https://github.com/RunOnFlux/nat-upnp-ts"
 
 [[repo]]
-url = "https://github.com/RunOnFlux/node-nat-upnp"
+url = "https://github.com/RunOnFlux/neoxanode-docker"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/node-stratum-pool"
@@ -241,10 +283,40 @@ url = "https://github.com/RunOnFlux/press"
 url = "https://github.com/RunOnFlux/raven_insight_explorer-docker"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/react-native-step-indicator"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/runonfluxio"
 
 [[repo]]
+url = "https://github.com/RunOnFlux/service-monitor"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/ssp-key"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/ssp-relay"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/ssp-wallet"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/streamr-network"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/titan-node-manager-ui"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/utxo-lib"
+
+[[repo]]
 url = "https://github.com/RunOnFlux/website"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/wp-apache"
+
+[[repo]]
+url = "https://github.com/RunOnFlux/wp-nginx"
 
 [[repo]]
 url = "https://github.com/RunOnFlux/ZelHash-reference-miner"

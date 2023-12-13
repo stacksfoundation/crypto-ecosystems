@@ -52,6 +52,9 @@ url = "https://github.com/opensquare-network/dotreasury"
 url = "https://github.com/opensquare-network/edgtreasury"
 
 [[repo]]
+url = "https://github.com/opensquare-network/eslint-config"
+
+[[repo]]
 url = "https://github.com/opensquare-network/General-Grants-Program"
 
 [[repo]]
@@ -65,6 +68,12 @@ url = "https://github.com/opensquare-network/icons"
 
 [[repo]]
 url = "https://github.com/opensquare-network/ipfs"
+
+[[repo]]
+url = "https://github.com/opensquare-network/ipfs-play"
+
+[[repo]]
+url = "https://github.com/opensquare-network/ipfs-server"
 
 [[repo]]
 url = "https://github.com/opensquare-network/open-generator"
@@ -83,6 +92,9 @@ url = "https://github.com/opensquare-network/paid-qa"
 
 [[repo]]
 url = "https://github.com/opensquare-network/papers"
+
+[[repo]]
+url = "https://github.com/opensquare-network/parity-governance-ui"
 
 [[repo]]
 url = "https://github.com/opensquare-network/patract-open-platform-program"
@@ -118,7 +130,7 @@ url = "https://github.com/opensquare-network/provider-options"
 url = "https://github.com/opensquare-network/qa-spec"
 
 [[repo]]
-url = "https://github.com/opensquare-network/react-idenicon"
+url = "https://github.com/opensquare-network/react-cmdk"
 
 [[repo]]
 url = "https://github.com/opensquare-network/rfps"

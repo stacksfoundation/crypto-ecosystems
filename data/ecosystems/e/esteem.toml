@@ -7,148 +7,145 @@ github_organizations = ["https://github.com/esteemapp"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ecency/apps"
+
+[[repo]]
+url = "https://github.com/ecency/busy"
+
+[[repo]]
+url = "https://github.com/ecency/dhive"
+
+[[repo]]
+url = "https://github.com/ecency/ecency-mobile"
+
+[[repo]]
+url = "https://github.com/ecency/esi"
+
+[[repo]]
+url = "https://github.com/ecency/esteem"
+
+[[repo]]
+url = "https://github.com/ecency/esteem-desktop"
+
+[[repo]]
+url = "https://github.com/ecency/esteem-lib"
+
+[[repo]]
+url = "https://github.com/ecency/esteem-monitor"
+
+[[repo]]
+url = "https://github.com/ecency/esteem-surfer"
+
+[[repo]]
+url = "https://github.com/ecency/esteem-university"
+
+[[repo]]
+url = "https://github.com/ecency/esteem.app"
+
+[[repo]]
+url = "https://github.com/ecency/estmto"
+
+[[repo]]
+url = "https://github.com/ecency/esync"
+
+[[repo]]
+url = "https://github.com/ecency/golosuy"
+
+[[repo]]
+url = "https://github.com/ecency/hive2elastic"
+
+[[repo]]
+url = "https://github.com/ecency/hivemind"
+
+[[repo]]
+url = "https://github.com/ecency/iconv-lite"
+
+[[repo]]
+url = "https://github.com/ecency/image-proxy"
+
+[[repo]]
+url = "https://github.com/ecency/lineman"
+
+[[repo]]
+url = "https://github.com/ecency/media-kit"
+
+[[repo]]
+url = "https://github.com/ecency/pick"
+
+[[repo]]
+url = "https://github.com/ecency/react-native"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-actionsheet"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-autocomplete-input"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-code-push"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-datepicker"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-modal-dropdown"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-modal-popover"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-multi-slider"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-render-html"
+
+[[repo]]
+url = "https://github.com/ecency/React-Native-Scale-Slider"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-scrollable-tab-view"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-slider"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-swiper"
+
+[[repo]]
+url = "https://github.com/ecency/react-native-tags"
+
+[[repo]]
+url = "https://github.com/ecency/render-helper"
+
+[[repo]]
+url = "https://github.com/ecency/steem-js"
+
+[[repo]]
+url = "https://github.com/ecency/steemapi"
+
+[[repo]]
+url = "https://github.com/ecency/steemauth"
+
+[[repo]]
+url = "https://github.com/ecency/steemjsapi"
+
+[[repo]]
+url = "https://github.com/ecency/steemlookup"
+
+[[repo]]
+url = "https://github.com/ecency/steemmonitor"
+
+[[repo]]
+url = "https://github.com/ecency/steempoll"
+
+[[repo]]
 url = "https://github.com/esteem8app/esteem8app.github.io"
 
 [[repo]]
 url = "https://github.com/esteemapp/api.steemjs.com"
 
 [[repo]]
-url = "https://github.com/esteemapp/apps"
-
-[[repo]]
-url = "https://github.com/esteemapp/busy"
-
-[[repo]]
-url = "https://github.com/esteemapp/dhive"
-
-[[repo]]
-url = "https://github.com/esteemapp/dsteem"
-
-[[repo]]
-url = "https://github.com/esteemapp/esi"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-desktop"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-lib"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-media"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-mobile"
-
-[[repo]]
 url = "https://github.com/esteemapp/esteem-mobile-ui"
 
 [[repo]]
-url = "https://github.com/esteemapp/esteem-monitor"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-render-helpers"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-surfer"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem-university"
-
-[[repo]]
-url = "https://github.com/esteemapp/esteem.app"
-
-[[repo]]
-url = "https://github.com/esteemapp/estmto"
-
-[[repo]]
-url = "https://github.com/esteemapp/esync"
-
-[[repo]]
-url = "https://github.com/esteemapp/golosuy"
-
-[[repo]]
-url = "https://github.com/esteemapp/hive2elastic"
-
-[[repo]]
-url = "https://github.com/esteemapp/hivemind"
-
-[[repo]]
-url = "https://github.com/esteemapp/iconv-lite"
-
-[[repo]]
-url = "https://github.com/esteemapp/image-proxy"
-
-[[repo]]
 url = "https://github.com/esteemapp/imagehoster"
-
-[[repo]]
-url = "https://github.com/esteemapp/lineman"
-
-[[repo]]
-url = "https://github.com/esteemapp/pick"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-actionsheet"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-autocomplete-input"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-code-push"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-datepicker"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-modal-dropdown"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-modal-popover"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-multi-slider"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-render-html"
-
-[[repo]]
-url = "https://github.com/esteemapp/React-Native-Scale-Slider"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-scrollable-tab-view"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-slider"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-swiper"
-
-[[repo]]
-url = "https://github.com/esteemapp/react-native-tags"
-
-[[repo]]
-url = "https://github.com/esteemapp/steem-js"
-
-[[repo]]
-url = "https://github.com/esteemapp/steemapi"
-
-[[repo]]
-url = "https://github.com/esteemapp/steemauth"
-
-[[repo]]
-url = "https://github.com/esteemapp/steemjsapi"
-
-[[repo]]
-url = "https://github.com/esteemapp/steemlookup"
-
-[[repo]]
-url = "https://github.com/esteemapp/steemmonitor"
-
-[[repo]]
-url = "https://github.com/esteemapp/steempoll"

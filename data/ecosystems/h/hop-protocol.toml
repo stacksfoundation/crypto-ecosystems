@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/hop-protocol"]
 url = "https://github.com/hop-protocol/contracts"
 
 [[repo]]
+url = "https://github.com/hop-protocol/contracts-v2"
+
+[[repo]]
 url = "https://github.com/hop-protocol/docs"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/hop-protocol/explorer"
 
 [[repo]]
 url = "https://github.com/hop-protocol/fee-refund"
+
+[[repo]]
+url = "https://github.com/hop-protocol/go-webhook-server"
 
 [[repo]]
 url = "https://github.com/hop-protocol/goerli-test-merkle-rewards-data"
@@ -34,7 +40,7 @@ url = "https://github.com/hop-protocol/hop-airdrop"
 url = "https://github.com/hop-protocol/hop-galaxy-op-subgraphs"
 
 [[repo]]
-url = "https://github.com/hop-protocol/hop-volume"
+url = "https://github.com/hop-protocol/lambda-bonder-transaction-validation"
 
 [[repo]]
 url = "https://github.com/hop-protocol/landing-page"
@@ -50,9 +56,6 @@ url = "https://github.com/hop-protocol/merkle-rewards"
 
 [[repo]]
 url = "https://github.com/hop-protocol/merkle-rewards-subgraph"
-
-[[repo]]
-url = "https://github.com/hop-protocol/op-fee-refund"
 
 [[repo]]
 url = "https://github.com/hop-protocol/optimism-refund-merkle-rewards"
@@ -71,3 +74,12 @@ url = "https://github.com/hop-protocol/sushiswap-interface"
 
 [[repo]]
 url = "https://github.com/hop-protocol/tla-spec"
+
+[[repo]]
+url = "https://github.com/hop-protocol/user-docs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/v2-docs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/v2-monorepo"

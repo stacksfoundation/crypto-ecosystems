@@ -13,6 +13,12 @@ url = "https://github.com/BendDAO/assets"
 url = "https://github.com/BendDAO/bend-apecoin-staking"
 
 [[repo]]
+url = "https://github.com/BendDAO/bend-apestaking-v1"
+
+[[repo]]
+url = "https://github.com/BendDAO/bend-apestaking-v2"
+
+[[repo]]
 url = "https://github.com/BendDAO/bend-brand-logo-assets"
 
 [[repo]]
@@ -37,9 +43,6 @@ url = "https://github.com/BendDAO/bend-ifo"
 url = "https://github.com/BendDAO/bend-incentive"
 
 [[repo]]
-url = "https://github.com/BendDAO/bend-js"
-
-[[repo]]
 url = "https://github.com/BendDAO/bend-js-lending"
 
 [[repo]]
@@ -49,7 +52,13 @@ url = "https://github.com/BendDAO/bend-lending-periphery"
 url = "https://github.com/BendDAO/bend-lending-protocol"
 
 [[repo]]
+url = "https://github.com/BendDAO/bend-nft-wrappers"
+
+[[repo]]
 url = "https://github.com/BendDAO/bend-open-meeting"
+
+[[repo]]
+url = "https://github.com/BendDAO/bend-protocol-subgraph"
 
 [[repo]]
 url = "https://github.com/BendDAO/benddao-frontend-locales"
@@ -64,4 +73,10 @@ url = "https://github.com/BendDAO/contract-metadata"
 url = "https://github.com/BendDAO/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/BendDAO/delegation-registry"
+
+[[repo]]
 url = "https://github.com/BendDAO/token-profile"
+
+[[repo]]
+url = "https://github.com/BendDAO/yield-server"

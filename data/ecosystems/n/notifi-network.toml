@@ -7,7 +7,19 @@ github_organizations = ["https://github.com/notifi-network"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/notifi-network/cosmos-signature-test-bench"
+
+[[repo]]
+url = "https://github.com/notifi-network/docs"
+
+[[repo]]
+url = "https://github.com/notifi-network/elvarg"
+
+[[repo]]
 url = "https://github.com/notifi-network/governance-ui"
+
+[[repo]]
+url = "https://github.com/notifi-network/grafana-demo-helm-chart"
 
 [[repo]]
 url = "https://github.com/notifi-network/metaplex"
@@ -22,6 +34,9 @@ url = "https://github.com/notifi-network/notifi-aptos-example"
 url = "https://github.com/notifi-network/notifi-monke-dao"
 
 [[repo]]
+url = "https://github.com/notifi-network/notifi-network.github.io"
+
+[[repo]]
 url = "https://github.com/notifi-network/notifi-sdk-ts"
 
 [[repo]]
@@ -32,3 +47,6 @@ url = "https://github.com/notifi-network/notifi-svelte-sample"
 
 [[repo]]
 url = "https://github.com/notifi-network/notifi-vue-sample"
+
+[[repo]]
+url = "https://github.com/notifi-network/osmosis-frontend"

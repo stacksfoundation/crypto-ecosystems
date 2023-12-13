@@ -7,13 +7,34 @@ github_organizations = ["https://github.com/openbook-dex"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/openbook-dex/anchor"
+
+[[repo]]
+url = "https://github.com/openbook-dex/openbook-candles"
+
+[[repo]]
+url = "https://github.com/openbook-dex/openbook-cranker"
+
+[[repo]]
 url = "https://github.com/openbook-dex/openbook-dex-ui"
 
 [[repo]]
 url = "https://github.com/openbook-dex/openbook-ts"
 
 [[repo]]
+url = "https://github.com/openbook-dex/openbook-v2"
+
+[[repo]]
+url = "https://github.com/openbook-dex/openbook-v2-simulation"
+
+[[repo]]
+url = "https://github.com/openbook-dex/openbook-v2-ui"
+
+[[repo]]
 url = "https://github.com/openbook-dex/program"
 
 [[repo]]
 url = "https://github.com/openbook-dex/resources"
+
+[[repo]]
+url = "https://github.com/openbook-dex/scripts-v2"

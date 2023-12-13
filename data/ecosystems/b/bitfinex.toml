@@ -151,6 +151,9 @@ url = "https://github.com/bitfinexcom/bfx-facs-sftp"
 url = "https://github.com/bitfinexcom/bfx-facs-store-s3"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/bfx-facs-ttlcache-fs"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/bfx-facs-util-shard"
 
 [[repo]]
@@ -292,6 +295,9 @@ url = "https://github.com/bitfinexcom/bfx-util-js"
 url = "https://github.com/bitfinexcom/bfx-util-net-js"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/bfx-wp-crypto-map"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/bfx-wrk-api"
 
 [[repo]]
@@ -383,9 +389,6 @@ url = "https://github.com/bitfinexcom/dazaar-payment"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/dazaar-payment-eos"
-
-[[repo]]
-url = "https://github.com/bitfinexcom/dazaar-payment-erc20"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/dazaar-payment-eth"
@@ -523,6 +526,9 @@ url = "https://github.com/bitfinexcom/ledger-ethfx"
 url = "https://github.com/bitfinexcom/lib-js-proto-binary"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/lib-js-util-base"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/lib-js-util-currencies"
 
 [[repo]]
@@ -548,6 +554,9 @@ url = "https://github.com/bitfinexcom/lib-js-util-shard"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/lib-js-util-symbol"
+
+[[repo]]
+url = "https://github.com/bitfinexcom/lib-js-util-task-queue"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/lib-util-err-js"
@@ -581,6 +590,9 @@ url = "https://github.com/bitfinexcom/nodebb-plugin-write-api"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/nodemailer-openpgp"
+
+[[repo]]
+url = "https://github.com/bitfinexcom/password-encrypted-container"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/pesto-rb"

@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/theabyssportal"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/theabyssportal/DAICO-Smart-Contract"
+url = "https://github.com/abyssfinance/abyss-daico"
 
 [[repo]]
 url = "https://github.com/theabyssportal/Old-Smart-Contract"

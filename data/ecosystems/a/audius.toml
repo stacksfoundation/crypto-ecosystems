@@ -13,9 +13,6 @@ url = "https://github.com/AudiusProject/api-docs"
 url = "https://github.com/AudiusProject/audius-claim-distribution"
 
 [[repo]]
-url = "https://github.com/AudiusProject/audius-cli"
-
-[[repo]]
 url = "https://github.com/AudiusProject/audius-client"
 
 [[repo]]
@@ -38,6 +35,10 @@ url = "https://github.com/AudiusProject/audius-poc-contract"
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-protocol"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/AudiusProject/audius-protocol-ci"
 
 [[repo]]
 url = "https://github.com/AudiusProject/audius-protocol-zellic"
@@ -70,6 +71,9 @@ url = "https://github.com/AudiusProject/axios"
 url = "https://github.com/AudiusProject/bedtime"
 
 [[repo]]
+url = "https://github.com/AudiusProject/blockscout-frontend"
+
+[[repo]]
 url = "https://github.com/AudiusProject/cartographer"
 
 [[repo]]
@@ -80,6 +84,9 @@ url = "https://github.com/AudiusProject/docker-compose-wait"
 
 [[repo]]
 url = "https://github.com/AudiusProject/docs.audius.org"
+
+[[repo]]
+url = "https://github.com/AudiusProject/dot-slash-audius"
 
 [[repo]]
 url = "https://github.com/AudiusProject/dotfiles"
@@ -118,10 +125,10 @@ url = "https://github.com/AudiusProject/hedgehog-demo"
 url = "https://github.com/AudiusProject/hns-resolver"
 
 [[repo]]
-url = "https://github.com/AudiusProject/homebrew-audius-cli"
+url = "https://github.com/AudiusProject/homebrew-audius-terminal-player"
 
 [[repo]]
-url = "https://github.com/AudiusProject/homebrew-audius-terminal-player"
+url = "https://github.com/AudiusProject/nethermind"
 
 [[repo]]
 url = "https://github.com/AudiusProject/protocol-dashboard"
@@ -134,6 +141,9 @@ url = "https://github.com/AudiusProject/react-native-music-control"
 
 [[repo]]
 url = "https://github.com/AudiusProject/solana-web3.js"
+
+[[repo]]
+url = "https://github.com/AudiusProject/sshuttle"
 
 [[repo]]
 url = "https://github.com/AudiusProject/stems"

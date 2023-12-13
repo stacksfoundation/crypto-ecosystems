@@ -7,16 +7,16 @@ github_organizations = ["https://github.com/sportx-bet"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/sportx-bet/slate"
+url = "https://github.com/sx-bet/slate"
 
 [[repo]]
-url = "https://github.com/sportx-bet/smart-contracts"
+url = "https://github.com/sx-bet/smart-contracts"
 
 [[repo]]
-url = "https://github.com/sportx-bet/sportx-go"
+url = "https://github.com/sx-bet/sportx-go"
 
 [[repo]]
-url = "https://github.com/sportx-bet/sportx-js"
+url = "https://github.com/sx-bet/sportx-js"
 
 [[repo]]
-url = "https://github.com/sportx-bet/timelock-contracts"
+url = "https://github.com/sx-bet/timelock-contracts"

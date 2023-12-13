@@ -7,10 +7,22 @@ github_organizations = ["https://github.com/bianjieai"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bianjieai/avata-abis"
+
+[[repo]]
 url = "https://github.com/bianjieai/avata-auth"
 
 [[repo]]
 url = "https://github.com/bianjieai/avata-demos"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-go"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-java"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-php"
 
 [[repo]]
 url = "https://github.com/bianjieai/bsn-docs"
@@ -31,10 +43,22 @@ url = "https://github.com/bianjieai/bsnhub-service-relayer"
 url = "https://github.com/bianjieai/chainlink"
 
 [[repo]]
+url = "https://github.com/bianjieai/cometbft"
+
+[[repo]]
 url = "https://github.com/bianjieai/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/bianjieai/cosmos-sync"
+
+[[repo]]
+url = "https://github.com/bianjieai/cosmos-vrf"
+
+[[repo]]
+url = "https://github.com/bianjieai/cosmos-vrf-provider"
+
+[[repo]]
+url = "https://github.com/bianjieai/cosmos-wallet-ibest"
 
 [[repo]]
 url = "https://github.com/bianjieai/ddc-go"
@@ -88,12 +112,6 @@ url = "https://github.com/bianjieai/irismod"
 url = "https://github.com/bianjieai/irita"
 
 [[repo]]
-url = "https://github.com/bianjieai/irita-explorer"
-
-[[repo]]
-url = "https://github.com/bianjieai/irita-explorer-backend"
-
-[[repo]]
 url = "https://github.com/bianjieai/irita-link-adapter"
 
 [[repo]]
@@ -107,9 +125,6 @@ url = "https://github.com/bianjieai/irita-sdk-js"
 
 [[repo]]
 url = "https://github.com/bianjieai/irita-signer-java"
-
-[[repo]]
-url = "https://github.com/bianjieai/irita-sync"
 
 [[repo]]
 url = "https://github.com/bianjieai/irita.bianjie.ai"
@@ -137,6 +152,9 @@ url = "https://github.com/bianjieai/opb-sdk-go"
 
 [[repo]]
 url = "https://github.com/bianjieai/opb-sdk-java"
+
+[[repo]]
+url = "https://github.com/bianjieai/OSSRH-88911"
 
 [[repo]]
 url = "https://github.com/bianjieai/rainbow.one"
@@ -184,7 +202,13 @@ url = "https://github.com/bianjieai/tibc-solidity"
 url = "https://github.com/bianjieai/vscode-ext-irita-wasm"
 
 [[repo]]
+url = "https://github.com/bianjieai/vue-json-pretty"
+
+[[repo]]
 url = "https://github.com/bianjieai/wasmd"
+
+[[repo]]
+url = "https://github.com/bianjieai/wenchang.bianjie.ai"
 
 [[repo]]
 url = "https://github.com/bianjieai/www.bianjie.ai"

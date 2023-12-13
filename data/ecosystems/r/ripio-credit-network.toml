@@ -7,4 +7,4 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/ripio/rcn-token"
+url = "https://github.com/rcnfinance/rcn-token"

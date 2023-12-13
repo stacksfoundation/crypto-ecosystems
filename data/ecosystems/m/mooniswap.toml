@@ -7,16 +7,16 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/CryptoManiacsZone/mooniswap"
+url = "https://github.com/1inch/mooniswap"
 
 [[repo]]
-url = "https://github.com/CryptoManiacsZone/mooniswap-info"
+url = "https://github.com/1inch/mooniswap-info"
 
 [[repo]]
-url = "https://github.com/CryptoManiacsZone/mooniswap-interface"
+url = "https://github.com/1inch/mooniswap-interface"
 
 [[repo]]
-url = "https://github.com/CryptoManiacsZone/mooniswap-sdk"
+url = "https://github.com/1inch/mooniswap-sdk"
 
 [[repo]]
-url = "https://github.com/CryptoManiacsZone/mooniswap-v2-subgraph"
+url = "https://github.com/1inch/mooniswap-subgraph"

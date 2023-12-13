@@ -52,13 +52,13 @@ url = "https://github.com/dappforce/subsocial-flutter-auth"
 url = "https://github.com/dappforce/subsocial-js"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-node"
-
-[[repo]]
 url = "https://github.com/dappforce/subsocial-offchain"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-react-native"
+
+[[repo]]
+url = "https://github.com/dappforce/subsocial-solochain"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-starter"

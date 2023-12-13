@@ -7,52 +7,52 @@ github_organizations = ["https://github.com/membrana-io"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/membrana-io/assets"
+url = "https://github.com/mbn-platform/assets"
 
 [[repo]]
-url = "https://github.com/membrana-io/Contracts"
+url = "https://github.com/mbn-platform/Contracts"
 
 [[repo]]
-url = "https://github.com/membrana-io/docs"
+url = "https://github.com/mbn-platform/docs"
 
 [[repo]]
-url = "https://github.com/membrana-io/ekvs"
+url = "https://github.com/mbn-platform/ekvs"
 
 [[repo]]
-url = "https://github.com/membrana-io/EP"
+url = "https://github.com/mbn-platform/EP"
 
 [[repo]]
-url = "https://github.com/membrana-io/eth-contract-metadata"
+url = "https://github.com/mbn-platform/eth-contract-metadata"
 
 [[repo]]
-url = "https://github.com/membrana-io/eth-tools"
+url = "https://github.com/mbn-platform/eth-tools"
 
 [[repo]]
-url = "https://github.com/membrana-io/ethereum"
+url = "https://github.com/mbn-platform/ethereum"
 
 [[repo]]
-url = "https://github.com/membrana-io/Frontend"
+url = "https://github.com/mbn-platform/Frontend"
 
 [[repo]]
-url = "https://github.com/membrana-io/landing"
+url = "https://github.com/mbn-platform/landing"
 
 [[repo]]
-url = "https://github.com/membrana-io/MembranaLanding"
+url = "https://github.com/mbn-platform/MembranaLanding"
 
 [[repo]]
-url = "https://github.com/membrana-io/MembranaOracle"
+url = "https://github.com/mbn-platform/MembranaOracle"
 
 [[repo]]
-url = "https://github.com/membrana-io/presale"
+url = "https://github.com/mbn-platform/presale"
 
 [[repo]]
-url = "https://github.com/membrana-io/sdk"
+url = "https://github.com/mbn-platform/sdk"
 
 [[repo]]
-url = "https://github.com/membrana-io/token"
+url = "https://github.com/mbn-platform/token"
 
 [[repo]]
-url = "https://github.com/membrana-io/UI"
+url = "https://github.com/mbn-platform/UI"
 
 [[repo]]
-url = "https://github.com/membrana-io/Whitepaper"
+url = "https://github.com/mbn-platform/Whitepaper"

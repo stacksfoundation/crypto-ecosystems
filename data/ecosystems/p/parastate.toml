@@ -13,13 +13,31 @@ url = "https://github.com/ParaState/apps"
 url = "https://github.com/ParaState/bulk-token-transfer"
 
 [[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-180_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-30_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-90_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-na_cliff-na_vesting-na"
+
+[[repo]]
 url = "https://github.com/ParaState/claim-portal"
 
 [[repo]]
 url = "https://github.com/ParaState/decentralized-applications"
 
 [[repo]]
+url = "https://github.com/ParaState/favicon-host"
+
+[[repo]]
 url = "https://github.com/ParaState/frontier"
+
+[[repo]]
+url = "https://github.com/ParaState/git_resources"
 
 [[repo]]
 url = "https://github.com/ParaState/Grants-Program"
@@ -34,7 +52,13 @@ url = "https://github.com/ParaState/parachain-projects-info"
 url = "https://github.com/ParaState/SafeStake"
 
 [[repo]]
+url = "https://github.com/ParaState/SafeStake-audit-test-env"
+
+[[repo]]
 url = "https://github.com/ParaState/SafeStake-backend"
+
+[[repo]]
+url = "https://github.com/ParaState/SafeStake-Discord-faucet"
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-explorer"
@@ -52,7 +76,16 @@ url = "https://github.com/ParaState/SafeStake-Testnet-Alerts"
 url = "https://github.com/ParaState/SafeStake-testnet-debug"
 
 [[repo]]
+url = "https://github.com/ParaState/SafeStake-Twitter-Faucet"
+
+[[repo]]
 url = "https://github.com/ParaState/SafeStakeOperator"
+
+[[repo]]
+url = "https://github.com/ParaState/simple-staking-smart-contract"
+
+[[repo]]
+url = "https://github.com/ParaState/simple-staking-user-interface"
 
 [[repo]]
 url = "https://github.com/ParaState/Snapshot-Governance"

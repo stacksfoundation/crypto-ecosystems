@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/Stride-Labs"]
 url = "https://github.com/Stride-Labs/.github"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/assetlists"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/astroport-token-lists"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/audits"
 
 [[repo]]
@@ -25,10 +31,16 @@ url = "https://github.com/Stride-Labs/cast"
 url = "https://github.com/Stride-Labs/chain-registry"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/chainlist"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/cosmjs"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/cosmos-sdk-old"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/cosmosutils"
@@ -37,7 +49,13 @@ url = "https://github.com/Stride-Labs/cosmosutils"
 url = "https://github.com/Stride-Labs/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/evmos"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/evmosjs"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/explorer"
@@ -49,16 +67,25 @@ url = "https://github.com/Stride-Labs/faucet"
 url = "https://github.com/Stride-Labs/gaia"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/gaia-lsm"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/gex"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/ibc-go"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/ica-oracle"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/icq"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/ignite-cli"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/injective-sdk-go"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/interchain-accounts-demo"
@@ -70,13 +97,28 @@ url = "https://github.com/Stride-Labs/interchain-queries"
 url = "https://github.com/Stride-Labs/interchain-security"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/lens"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/lens-fork"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/liquidity-staking-module"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/liquidity-staking-module-1"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/mainnet"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/multisig-ui"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/osmosis"
@@ -85,7 +127,16 @@ url = "https://github.com/Stride-Labs/osmosis"
 url = "https://github.com/Stride-Labs/osmosis-frontend"
 
 [[repo]]
+url = "https://github.com/Stride-Labs/osmosis-rust"
+
+[[repo]]
 url = "https://github.com/Stride-Labs/relayer"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/st-scaling-factor"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/station-assets"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/stride"
@@ -97,7 +148,13 @@ url = "https://github.com/Stride-Labs/stride-ics23-patch"
 url = "https://github.com/Stride-Labs/stridejs"
 
 [[repo]]
-url = "https://github.com/Stride-Labs/testnet"
+url = "https://github.com/Stride-Labs/testnets"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/v4-chain"
+
+[[repo]]
+url = "https://github.com/Stride-Labs/vesting"
 
 [[repo]]
 url = "https://github.com/Stride-Labs/yield-server"

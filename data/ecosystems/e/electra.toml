@@ -7,133 +7,16 @@ github_organizations = ["https://github.com/Electra-project"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Electra-project/athena"
-
-[[repo]]
-url = "https://github.com/Electra-project/batm_public"
-
-[[repo]]
-url = "https://github.com/Electra-project/blockbook"
-
-[[repo]]
-url = "https://github.com/Electra-project/coins"
-
-[[repo]]
-url = "https://github.com/Electra-project/contribution-guidelines"
-
-[[repo]]
-url = "https://github.com/Electra-project/documents"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-analytics"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Android"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-api"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-api-doc"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-api-wip"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-archive"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-assets"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-auth"
-
-[[repo]]
 url = "https://github.com/Electra-project/electra-bay"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Bootstrap"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-cli"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-coffee"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-core"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-design"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-desktop"
 
 [[repo]]
 url = "https://github.com/Electra-project/electra-desktop-test"
 
 [[repo]]
-url = "https://github.com/Electra-project/electra-docker"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Extension"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-improvement-proposals"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-ios"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-js"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-js-example-hard"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-js-test"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Media-Kit"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-mobile"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Open-Paper"
-
-[[repo]]
 url = "https://github.com/Electra-project/electra-pay"
 
 [[repo]]
-url = "https://github.com/Electra-project/Electra-Social-Pay"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-socialpay"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-styleguide"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-tools"
-
-[[repo]]
-url = "https://github.com/Electra-project/electra-universe"
-
-[[repo]]
-url = "https://github.com/Electra-project/Electra-Whitepaper"
-
-[[repo]]
 url = "https://github.com/Electra-project/Electrapay"
-
-[[repo]]
-url = "https://github.com/Electra-project/electrapay-api"
-
-[[repo]]
-url = "https://github.com/Electra-project/electrapay-api-doc"
 
 [[repo]]
 url = "https://github.com/Electra-project/electrapay-js"
@@ -157,34 +40,145 @@ url = "https://github.com/Electra-project/electrapay-web"
 url = "https://github.com/Electra-project/electrapay-woocommerce-plugin"
 
 [[repo]]
-url = "https://github.com/Electra-project/electrumx"
-
-[[repo]]
-url = "https://github.com/Electra-project/explorer"
-
-[[repo]]
-url = "https://github.com/Electra-project/keepkey-firmware"
-
-[[repo]]
-url = "https://github.com/Electra-project/ledger-app-btc"
-
-[[repo]]
-url = "https://github.com/Electra-project/ledger-app-eca"
-
-[[repo]]
-url = "https://github.com/Electra-project/ledger-live-common"
-
-[[repo]]
-url = "https://github.com/Electra-project/nist5"
-
-[[repo]]
-url = "https://github.com/Electra-project/nist5_hash"
-
-[[repo]]
 url = "https://github.com/Electra-project/notification-service"
 
 [[repo]]
-url = "https://github.com/Electra-project/storage"
+url = "https://github.com/electracoin-ECA/athena"
 
 [[repo]]
-url = "https://github.com/Electra-project/translectra"
+url = "https://github.com/electracoin-ECA/batm_public"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/blockbook"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/coins"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/contribution-guidelines"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/documents"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-analytics"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-Android"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-api"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-api-doc"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-api-wip"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-archive"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-assets"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-auth"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-Bootstrap"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-cli"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-coffee"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-core"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-design"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-desktop"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-docker"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-Extension"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-improvement-proposals"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-ios"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-js"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-js-example-hard"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-js-test"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-Media-Kit"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-mobile"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-open-paper"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-socialpay"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-styleguide"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-tools"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electra-universe"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/Electra-Whitepaper"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electrapay-api-doc"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/electrumx"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/explorer"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/keepkey-firmware"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/ledger-app-btc"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/ledger-app-eca"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/ledger-live-common"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/nist5"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/nist5_hash"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/storage"
+
+[[repo]]
+url = "https://github.com/electracoin-ECA/translectra"
+
+[[repo]]
+url = "https://github.com/ruannelloyd/electrapay-api"

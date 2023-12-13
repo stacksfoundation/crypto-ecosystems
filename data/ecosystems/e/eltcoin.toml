@@ -22,6 +22,12 @@ url = "https://github.com/eltcoin/eltwallet"
 url = "https://github.com/eltcoin/eltwallet_website"
 
 [[repo]]
+url = "https://github.com/eltcoin/ESSID-Contracts"
+
+[[repo]]
+url = "https://github.com/eltcoin/ESSID-Research"
+
+[[repo]]
 url = "https://github.com/eltcoin/ios-wallet"
 
 [[repo]]

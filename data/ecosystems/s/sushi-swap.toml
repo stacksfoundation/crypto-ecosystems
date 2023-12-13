@@ -1,11 +1,62 @@
 # Ecosystem Level Information
 title = "Sushi Swap"
 
-sub_ecosystems = []
+sub_ecosystems = ["Materia Dex"]
 
 github_organizations = ["https://github.com/sushiswap"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/0xdavinchee/farmer"
+
+[[repo]]
+url = "https://github.com/6eer/uniswap-sushiswap-arbitrage-bot"
+
+[[repo]]
+url = "https://github.com/Anish-Agnihotri/punk-nftx-meebit-arb"
+
+[[repo]]
+url = "https://github.com/backbonecabal/sushi-sdk"
+
+[[repo]]
+url = "https://github.com/benleim/pathfinder"
+
+[[repo]]
+url = "https://github.com/Cori1109/sushiswap"
+
+[[repo]]
+url = "https://github.com/Cori1109/sushiswap-exchange"
+
+[[repo]]
+url = "https://github.com/Genius2021/Aave-sushiswap-uniswap-flashloan"
+
+[[repo]]
+url = "https://github.com/kaymen99/aave-flashloan-arbitrage"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/miso-subgraph"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/openmev-router-docs"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/sushi-doc-portal"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/sushi-sh"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/sushiswap-api"
+
+[[repo]]
+url = "https://github.com/sambacha/simple-sushiswap-sdk"
+
+[[repo]]
+url = "https://github.com/sambacha/sushiswap-touchbar"
+
+[[repo]]
+url = "https://github.com/shoyunft/airdrop"
+
 [[repo]]
 url = "https://github.com/sushiswap/.github"
 
@@ -121,16 +172,10 @@ url = "https://github.com/sushiswap/limit-order"
 url = "https://github.com/sushiswap/limit-order-relayer"
 
 [[repo]]
-url = "https://github.com/sushiswap/LimitOrderV2"
-
-[[repo]]
 url = "https://github.com/sushiswap/LimitOrderV2-sdk"
 
 [[repo]]
 url = "https://github.com/sushiswap/list"
-
-[[repo]]
-url = "https://github.com/sushiswap/lists"
 
 [[repo]]
 url = "https://github.com/sushiswap/logos"
@@ -140,6 +185,9 @@ url = "https://github.com/sushiswap/lsd-contracts"
 
 [[repo]]
 url = "https://github.com/sushiswap/market-lists"
+
+[[repo]]
+url = "https://github.com/sushiswap/masterchef"
 
 [[repo]]
 url = "https://github.com/sushiswap/meiji"
@@ -163,6 +211,9 @@ url = "https://github.com/sushiswap/miso-random-nft"
 url = "https://github.com/sushiswap/Mochi"
 
 [[repo]]
+url = "https://github.com/sushiswap/paraswap-dex-lib"
+
+[[repo]]
 url = "https://github.com/sushiswap/protocol-v2"
 
 [[repo]]
@@ -176,9 +227,6 @@ url = "https://github.com/sushiswap/sdk"
 
 [[repo]]
 url = "https://github.com/sushiswap/shoyu"
-
-[[repo]]
-url = "https://github.com/sushiswap/shoyu-airdrop"
 
 [[repo]]
 url = "https://github.com/sushiswap/sips"
@@ -208,10 +256,16 @@ url = "https://github.com/sushiswap/sushi-docs"
 url = "https://github.com/sushiswap/sushi-interface-private"
 
 [[repo]]
+url = "https://github.com/sushiswap/sushi-operations"
+
+[[repo]]
 url = "https://github.com/sushiswap/sushi-oracle"
 
 [[repo]]
 url = "https://github.com/sushiswap/sushi-partner-portal"
+
+[[repo]]
+url = "https://github.com/sushiswap/sushi-peripherals"
 
 [[repo]]
 url = "https://github.com/sushiswap/sushi-vesting"
@@ -230,6 +284,7 @@ url = "https://github.com/sushiswap/sushibackup"
 
 [[repo]]
 url = "https://github.com/sushiswap/sushiswap"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/sushiswap/sushiswap-analytics"
@@ -242,9 +297,6 @@ url = "https://github.com/sushiswap/sushiswap-classic-exchange"
 
 [[repo]]
 url = "https://github.com/sushiswap/sushiswap-exchange"
-
-[[repo]]
-url = "https://github.com/sushiswap/sushiswap-frontend"
 
 [[repo]]
 url = "https://github.com/sushiswap/sushiswap-interface"
@@ -289,6 +341,12 @@ url = "https://github.com/sushiswap/sushiswapV1"
 url = "https://github.com/sushiswap/sushiXswap"
 
 [[repo]]
+url = "https://github.com/sushiswap/sushixswap-v2"
+
+[[repo]]
+url = "https://github.com/sushiswap/sushiXswapV2"
+
+[[repo]]
 url = "https://github.com/sushiswap/token-lists"
 
 [[repo]]
@@ -298,10 +356,22 @@ url = "https://github.com/sushiswap/translations"
 url = "https://github.com/sushiswap/trident"
 
 [[repo]]
+url = "https://github.com/sushiswap/trident-core"
+
+[[repo]]
 url = "https://github.com/sushiswap/typescript-foundation"
 
 [[repo]]
 url = "https://github.com/sushiswap/unwindooor"
+
+[[repo]]
+url = "https://github.com/sushiswap/v2-core"
+
+[[repo]]
+url = "https://github.com/sushiswap/v3-core"
+
+[[repo]]
+url = "https://github.com/sushiswap/v3-periphery"
 
 [[repo]]
 url = "https://github.com/sushiswap/veSUSHI"
@@ -317,3 +387,9 @@ url = "https://github.com/sushiswap/xsushi-exchange-rate"
 
 [[repo]]
 url = "https://github.com/TacoswapCRD/tacoswap-contracts"
+
+[[repo]]
+url = "https://github.com/thaobacoor/keyring-swap"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/trading-strategy"

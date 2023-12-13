@@ -19,6 +19,9 @@ url = "https://github.com/bouncefinance/bounce-auction-token"
 url = "https://github.com/bouncefinance/bounce-contract-v2"
 
 [[repo]]
+url = "https://github.com/bouncefinance/bounce-contract-v3"
+
+[[repo]]
 url = "https://github.com/bouncefinance/bounce-kyc"
 
 [[repo]]
@@ -31,16 +34,43 @@ url = "https://github.com/bouncefinance/bounce-market-manage"
 url = "https://github.com/bouncefinance/bounce-network"
 
 [[repo]]
+url = "https://github.com/bouncefinance/bounce-sdk"
+
+[[repo]]
+url = "https://github.com/bouncefinance/bounce-sdk-v2"
+
+[[repo]]
+url = "https://github.com/bouncefinance/bounce-v2-web"
+
+[[repo]]
+url = "https://github.com/bouncefinance/Bounce-v3-old"
+
+[[repo]]
+url = "https://github.com/bouncefinance/bounce-v4-landingpage"
+
+[[repo]]
+url = "https://github.com/bouncefinance/bounce-v4-web"
+
+[[repo]]
+url = "https://github.com/bouncefinance/bounce_docs"
+
+[[repo]]
 url = "https://github.com/bouncefinance/Bounce_LBP"
 
 [[repo]]
 url = "https://github.com/bouncefinance/Bounce_V3"
 
 [[repo]]
+url = "https://github.com/bouncefinance/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/bouncefinance/fangible-assets"
 
 [[repo]]
 url = "https://github.com/bouncefinance/Fangible_V2_API"
+
+[[repo]]
+url = "https://github.com/bouncefinance/foundo-landingpage"
 
 [[repo]]
 url = "https://github.com/bouncefinance/MultiSigWallet"

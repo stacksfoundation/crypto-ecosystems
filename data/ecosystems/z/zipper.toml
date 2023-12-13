@@ -46,6 +46,9 @@ url = "https://github.com/zippiehq/bls-wasm"
 url = "https://github.com/zippiehq/brotli.js"
 
 [[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada"
+
+[[repo]]
 url = "https://github.com/zippiehq/cidhook"
 
 [[repo]]
@@ -226,6 +229,9 @@ url = "https://github.com/zippiehq/react-sortable-hoc"
 url = "https://github.com/zippiehq/react-wallet-example"
 
 [[repo]]
+url = "https://github.com/zippiehq/ref-fvm"
+
+[[repo]]
 url = "https://github.com/zippiehq/reproducible-docker-builds"
 
 [[repo]]
@@ -256,6 +262,9 @@ url = "https://github.com/zippiehq/sparkler-example"
 url = "https://github.com/zippiehq/theme-scripts"
 
 [[repo]]
+url = "https://github.com/zippiehq/third-party-auth-example"
+
+[[repo]]
 url = "https://github.com/zippiehq/vault"
 
 [[repo]]
@@ -277,6 +286,9 @@ url = "https://github.com/zippiehq/vCards-js"
 url = "https://github.com/zippiehq/vdf_js"
 
 [[repo]]
+url = "https://github.com/zippiehq/verify-nitro-attestation"
+
+[[repo]]
 url = "https://github.com/zippiehq/vue-qrcode"
 
 [[repo]]
@@ -287,6 +299,9 @@ url = "https://github.com/zippiehq/wallet"
 
 [[repo]]
 url = "https://github.com/zippiehq/wasi-truebit"
+
+[[repo]]
+url = "https://github.com/zippiehq/wasm2evm-2"
 
 [[repo]]
 url = "https://github.com/zippiehq/web-worker"

@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/nation3"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/linkedmd/linked-md-repo"
+
+[[repo]]
+url = "https://github.com/linkedmd/linkedmd"
+
+[[repo]]
 url = "https://github.com/nation3/.github"
 
 [[repo]]
@@ -25,16 +31,22 @@ url = "https://github.com/nation3/citizen-directory"
 url = "https://github.com/nation3/coordinape"
 
 [[repo]]
-url = "https://github.com/nation3/court"
+url = "https://github.com/nation3/court-app"
 
 [[repo]]
 url = "https://github.com/nation3/cred-bot"
+
+[[repo]]
+url = "https://github.com/nation3/docs"
 
 [[repo]]
 url = "https://github.com/nation3/dune-projects"
 
 [[repo]]
 url = "https://github.com/nation3/email-tweetdrop"
+
+[[repo]]
+url = "https://github.com/nation3/foundations"
 
 [[repo]]
 url = "https://github.com/nation3/gov"
@@ -49,25 +61,19 @@ url = "https://github.com/nation3/gov-app-template"
 url = "https://github.com/nation3/gov-proposals"
 
 [[repo]]
-url = "https://github.com/nation3/governance"
+url = "https://github.com/nation3/jurisdiction"
 
 [[repo]]
 url = "https://github.com/nation3/law"
 
 [[repo]]
-url = "https://github.com/nation3/linked-markdown"
-
-[[repo]]
-url = "https://github.com/nation3/linked-markdown-pm"
-
-[[repo]]
-url = "https://github.com/nation3/linked-md"
-
-[[repo]]
-url = "https://github.com/nation3/linked-md-repo"
+url = "https://github.com/nation3/law-registry"
 
 [[repo]]
 url = "https://github.com/nation3/mobile-passport"
+
+[[repo]]
+url = "https://github.com/nation3/n3-law-registry"
 
 [[repo]]
 url = "https://github.com/nation3/n3bi"
@@ -76,7 +82,16 @@ url = "https://github.com/nation3/n3bi"
 url = "https://github.com/nation3/nation-drop"
 
 [[repo]]
+url = "https://github.com/nation3/nation3-arbitrator-squid"
+
+[[repo]]
+url = "https://github.com/nation3/nation3-jurisdiction-squid"
+
+[[repo]]
 url = "https://github.com/nation3/nation3-template"
+
+[[repo]]
+url = "https://github.com/nation3/nation3-voting"
 
 [[repo]]
 url = "https://github.com/nation3/nationcred"
@@ -91,9 +106,6 @@ url = "https://github.com/nation3/nationcred-datasets"
 url = "https://github.com/nation3/nationcred-instance"
 
 [[repo]]
-url = "https://github.com/nation3/proposal-builder"
-
-[[repo]]
 url = "https://github.com/nation3/redirects"
 
 [[repo]]
@@ -103,10 +115,28 @@ url = "https://github.com/nation3/sc-address-bot"
 url = "https://github.com/nation3/shared"
 
 [[repo]]
+url = "https://github.com/nation3/smtp-server"
+
+[[repo]]
 url = "https://github.com/nation3/snapshot-spaces"
 
 [[repo]]
+url = "https://github.com/nation3/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/nation3/sourcecred"
+
+[[repo]]
+url = "https://github.com/nation3/sourcecred-instance"
+
+[[repo]]
+url = "https://github.com/nation3/sourcecred-template-instance"
+
+[[repo]]
 url = "https://github.com/nation3/token-supply"
+
+[[repo]]
+url = "https://github.com/nation3/ve-voting-plugin"
 
 [[repo]]
 url = "https://github.com/nation3/website"

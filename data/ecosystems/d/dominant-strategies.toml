@@ -1,0 +1,157 @@
+# Ecosystem Level Information
+title = "Dominant Strategies"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/dominant-strategies"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/dominant-strategies/.github"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/blockscout"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/bn256"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/bootnode-url-tool"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/discv4-dns-lists"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/eth-hd-keyring"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/go-metrics"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/go-quai"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/go-quai-libp2p"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/go-quai-stratum"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/go-randomx"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/gpu-miner"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/hardhat-example"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/KeyringController"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/kibana"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/log15"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/network-visualizer"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/nvidia-miner"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/pprof_ram_monitor"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-accounts"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-blockscout"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-bootnode-util"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-cli-forwarder"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-cpu-miner"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-devp2p"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-explorer"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-gpu-miner"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-gpu-miner-back"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-gpu-miner-temp"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-hardhat"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-helper"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-kibana"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-manager"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-node-cli-tool"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-nvidia-miner"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-sample-dapp"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-snap"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-stats"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-transactor"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quai-web3.js"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quaikey-util"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quaipay"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quais-5.js"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/quais-test"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/RandomX"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/SolidityX"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/SolidityX-Contracts"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/swarm_tools"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/synpress-flask"
+
+[[repo]]
+url = "https://github.com/dominant-strategies/tx-spammer"

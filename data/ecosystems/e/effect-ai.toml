@@ -22,9 +22,6 @@ url = "https://github.com/effectai/dao-pancake-fees"
 url = "https://github.com/effectai/dapp-boilerplate"
 
 [[repo]]
-url = "https://github.com/effectai/dApp-Bolierplate"
-
-[[repo]]
 url = "https://github.com/effectai/dApp-Image-Labeler"
 
 [[repo]]
@@ -40,25 +37,25 @@ url = "https://github.com/effectai/duplo"
 url = "https://github.com/effectai/effect-dao"
 
 [[repo]]
-url = "https://github.com/effectai/effect-dashboard"
-
-[[repo]]
 url = "https://github.com/effectai/effect-force-templates"
 
 [[repo]]
 url = "https://github.com/effectai/effect-js"
 
 [[repo]]
-url = "https://github.com/effectai/effect-network"
+url = "https://github.com/effectai/effect-mobile"
 
 [[repo]]
-url = "https://github.com/effectai/effect-network-eos"
+url = "https://github.com/effectai/effect-network"
 
 [[repo]]
 url = "https://github.com/effectai/effect-network-neo"
 
 [[repo]]
 url = "https://github.com/effectai/effect-network-website"
+
+[[repo]]
+url = "https://github.com/effectai/effect-py"
 
 [[repo]]
 url = "https://github.com/effectai/effect-socials"
@@ -76,6 +73,9 @@ url = "https://github.com/effectai/eos-airdrops"
 url = "https://github.com/effectai/eos-cljs"
 
 [[repo]]
+url = "https://github.com/effectai/force-bot"
+
+[[repo]]
 url = "https://github.com/effectai/force-frontend"
 
 [[repo]]
@@ -85,7 +85,13 @@ url = "https://github.com/effectai/force-frontend-new"
 url = "https://github.com/effectai/force-frontend-prd"
 
 [[repo]]
+url = "https://github.com/effectai/Force_Bot"
+
+[[repo]]
 url = "https://github.com/effectai/genesis-distribution"
+
+[[repo]]
+url = "https://github.com/effectai/grant-framework"
 
 [[repo]]
 url = "https://github.com/effectai/hackathon-boilerplate"
@@ -94,7 +100,10 @@ url = "https://github.com/effectai/hackathon-boilerplate"
 url = "https://github.com/effectai/hackathon-submission-repo"
 
 [[repo]]
-url = "https://github.com/effectai/hackathon_submission_repo"
+url = "https://github.com/effectai/HuggingFace_Data_Augmentation"
+
+[[repo]]
+url = "https://github.com/effectai/labelbox-task-scripts"
 
 [[repo]]
 url = "https://github.com/effectai/neo-clojure-clr"
@@ -107,6 +116,12 @@ url = "https://github.com/effectai/neon-wallet"
 
 [[repo]]
 url = "https://github.com/effectai/neural-pepe-dapp"
+
+[[repo]]
+url = "https://github.com/effectai/pipeline-templates"
+
+[[repo]]
+url = "https://github.com/effectai/stl"
 
 [[repo]]
 url = "https://github.com/effectai/user-docs"

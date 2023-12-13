@@ -7,6 +7,21 @@ github_organizations = ["https://github.com/weichain"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Hydra-Chain/hydraswap-token-list"
+
+[[repo]]
+url = "https://github.com/Hydra-Chain/safe-react"
+
+[[repo]]
+url = "https://github.com/jelly-swap/jelly-eth-htlc"
+
+[[repo]]
+url = "https://github.com/jelly-swap/jelly-tron-htlc"
+
+[[repo]]
+url = "https://github.com/liquality/near-htlc-contracts"
+
+[[repo]]
 url = "https://github.com/weichain/Artion-Client"
 
 [[repo]]
@@ -17,9 +32,6 @@ url = "https://github.com/weichain/Artion-Server"
 
 [[repo]]
 url = "https://github.com/weichain/Artion-trackers"
-
-[[repo]]
-url = "https://github.com/weichain/atomic-swap-ui"
 
 [[repo]]
 url = "https://github.com/weichain/atomicagent"
@@ -55,31 +67,16 @@ url = "https://github.com/weichain/expedition"
 url = "https://github.com/weichain/Gnosis-Safe"
 
 [[repo]]
-url = "https://github.com/weichain/hummingbot"
-
-[[repo]]
 url = "https://github.com/weichain/hydradex-info"
-
-[[repo]]
-url = "https://github.com/weichain/hydraswap-token-list"
-
-[[repo]]
-url = "https://github.com/weichain/jelly-ae-htlc"
-
-[[repo]]
-url = "https://github.com/weichain/jelly-eth-htlc"
-
-[[repo]]
-url = "https://github.com/weichain/jelly-tron-htlc"
 
 [[repo]]
 url = "https://github.com/weichain/liquality-near-playground"
 
 [[repo]]
-url = "https://github.com/weichain/near-htlc-contracts"
+url = "https://github.com/weichain/quanterall-motion-defi-course"
 
 [[repo]]
-url = "https://github.com/weichain/quanterall-motion-defi-course"
+url = "https://github.com/weichain/react-storefront"
 
 [[repo]]
 url = "https://github.com/weichain/routing-api-maisubnet"
@@ -94,10 +91,13 @@ url = "https://github.com/weichain/safe-deployments"
 url = "https://github.com/weichain/safe-infrastructure"
 
 [[repo]]
-url = "https://github.com/weichain/safe-react"
+url = "https://github.com/weichain/safe-transaction-service"
 
 [[repo]]
-url = "https://github.com/weichain/safe-transaction-service"
+url = "https://github.com/weichain/saleor"
+
+[[repo]]
+url = "https://github.com/weichain/saleor-dashboard"
 
 [[repo]]
 url = "https://github.com/weichain/simple-fe-task"
@@ -136,40 +136,40 @@ url = "https://github.com/weichain/wallet"
 url = "https://github.com/weichain/web-core"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-ae"
+url = "https://github.com/weidex-team/atomic-swap-ui"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-ae-deployer"
+url = "https://github.com/weidex-team/hummingbot"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-ae-htlc"
+url = "https://github.com/weidex-team/jelly-ae-htlc"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-chart-datafeeder"
+url = "https://github.com/weidex-team/weidex-ae"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-contract-wrapper"
+url = "https://github.com/weidex-team/weidex-ae-deployer"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-eth"
+url = "https://github.com/weidex-team/weidex-chart-datafeeder"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-eth-htlc"
+url = "https://github.com/weidex-team/weidex-contract-wrapper"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-eth-v2"
+url = "https://github.com/weidex-team/weidex-eth"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-event-listener-eth"
+url = "https://github.com/weidex-team/weidex-eth-v2"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-mq-gateway"
+url = "https://github.com/weidex-team/weidex-event-listener-eth"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-trezor-signer-ethers"
+url = "https://github.com/weidex-team/weidex-mq-gateway"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-tron-htlc"
+url = "https://github.com/weidex-team/weidex-trezor-signer-ethers"
 
 [[repo]]
-url = "https://github.com/weichain/weidex-validator-eth"
+url = "https://github.com/weidex-team/weidex-validator-eth"

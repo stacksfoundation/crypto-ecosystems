@@ -22,10 +22,16 @@ url = "https://github.com/nomic-io/demo"
 url = "https://github.com/nomic-io/deterministic-json"
 
 [[repo]]
+url = "https://github.com/nomic-io/docs"
+
+[[repo]]
 url = "https://github.com/nomic-io/ed"
 
 [[repo]]
 url = "https://github.com/nomic-io/htlc"
+
+[[repo]]
+url = "https://github.com/nomic-io/ibc-rs"
 
 [[repo]]
 url = "https://github.com/nomic-io/jpfs"
@@ -76,6 +82,9 @@ url = "https://github.com/nomic-io/node-merk"
 url = "https://github.com/nomic-io/nomic"
 
 [[repo]]
+url = "https://github.com/nomic-io/nomic-bitcoin-js"
+
+[[repo]]
 url = "https://github.com/nomic-io/nomic-telegram-bot"
 
 [[repo]]
@@ -92,6 +101,9 @@ url = "https://github.com/nomic-io/peer-channel"
 
 [[repo]]
 url = "https://github.com/nomic-io/rust-bitcoin-script"
+
+[[repo]]
+url = "https://github.com/nomic-io/rust-bitcoincore-rpc-async"
 
 [[repo]]
 url = "https://github.com/nomic-io/shea"

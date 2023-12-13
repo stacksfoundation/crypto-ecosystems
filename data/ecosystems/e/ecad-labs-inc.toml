@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ecadlabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ecadlabs/ansible-role-celestia-node"
+
+[[repo]]
 url = "https://github.com/ecadlabs/ansible-role-tezos-baker"
 
 [[repo]]
@@ -19,10 +22,16 @@ url = "https://github.com/ecadlabs/auth"
 url = "https://github.com/ecadlabs/auth-client"
 
 [[repo]]
+url = "https://github.com/ecadlabs/axios-fetch-adapter"
+
+[[repo]]
 url = "https://github.com/ecadlabs/beacon-test-dapp"
 
 [[repo]]
 url = "https://github.com/ecadlabs/BestDappEver-Candidate-two"
+
+[[repo]]
+url = "https://github.com/ecadlabs/blst"
 
 [[repo]]
 url = "https://github.com/ecadlabs/crabindex"
@@ -40,6 +49,9 @@ url = "https://github.com/ecadlabs/deno-node-common-utils"
 url = "https://github.com/ecadlabs/docusaurus-feedback"
 
 [[repo]]
+url = "https://github.com/ecadlabs/e2e-taq-test"
+
+[[repo]]
 url = "https://github.com/ecadlabs/ecadlabs-cla"
 
 [[repo]]
@@ -47,6 +59,9 @@ url = "https://github.com/ecadlabs/ecadworkspace.ca"
 
 [[repo]]
 url = "https://github.com/ecadlabs/erpnext_xero_connect"
+
+[[repo]]
+url = "https://github.com/ecadlabs/es-blst"
 
 [[repo]]
 url = "https://github.com/ecadlabs/examples"
@@ -59,6 +74,15 @@ url = "https://github.com/ecadlabs/george-cloney"
 
 [[repo]]
 url = "https://github.com/ecadlabs/go-tezos"
+
+[[repo]]
+url = "https://github.com/ecadlabs/go-tezos-keygen"
+
+[[repo]]
+url = "https://github.com/ecadlabs/goblst"
+
+[[repo]]
+url = "https://github.com/ecadlabs/gotez"
 
 [[repo]]
 url = "https://github.com/ecadlabs/hdw"
@@ -80,6 +104,9 @@ url = "https://github.com/ecadlabs/offline-tezos-ops"
 
 [[repo]]
 url = "https://github.com/ecadlabs/policies"
+
+[[repo]]
+url = "https://github.com/ecadlabs/pretty"
 
 [[repo]]
 url = "https://github.com/ecadlabs/proposal-vote"

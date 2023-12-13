@@ -58,10 +58,16 @@ url = "https://github.com/valist-io/go-ipfs-git"
 url = "https://github.com/valist-io/homebrew-valist"
 
 [[repo]]
+url = "https://github.com/valist-io/IPFS-lit-valist"
+
+[[repo]]
 url = "https://github.com/valist-io/keygen"
 
 [[repo]]
 url = "https://github.com/valist-io/leo"
+
+[[repo]]
+url = "https://github.com/valist-io/mixpanel-sync"
 
 [[repo]]
 url = "https://github.com/valist-io/near-api-go"
@@ -127,13 +133,13 @@ url = "https://github.com/valist-io/valist-opengsn"
 url = "https://github.com/valist-io/valist-subgraph"
 
 [[repo]]
-url = "https://github.com/valist-io/valist-web"
-
-[[repo]]
 url = "https://github.com/valist-io/wagmi"
 
 [[repo]]
 url = "https://github.com/valist-io/wagmi-magic-connector"
+
+[[repo]]
+url = "https://github.com/valist-io/web3-game-assets-tut"
 
 [[repo]]
 url = "https://github.com/valist-io/web3.unity"

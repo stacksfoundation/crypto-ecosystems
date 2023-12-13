@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/moonshotcollective"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/BuidlGuidl/SpeedRunEthereum"
+
+[[repo]]
 url = "https://github.com/moonshotcollective/.github"
 
 [[repo]]
@@ -95,9 +98,6 @@ url = "https://github.com/moonshotcollective/recruiter.party"
 
 [[repo]]
 url = "https://github.com/moonshotcollective/retfund-manual"
-
-[[repo]]
-url = "https://github.com/moonshotcollective/scaffold-directory"
 
 [[repo]]
 url = "https://github.com/moonshotcollective/scaffold-eth"

@@ -13,6 +13,9 @@ url = "https://github.com/balancednetwork/app-icx"
 url = "https://github.com/balancednetwork/assets"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-backend"
+
+[[repo]]
 url = "https://github.com/balancednetwork/balanced-backend-v2"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/balancednetwork/balanced-network-interface"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-poc"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-rust-contracts"
 
 [[repo]]
 url = "https://github.com/balancednetwork/BIP-info-list"

@@ -19,6 +19,9 @@ url = "https://github.com/beethovenxfi/balancer-backend"
 url = "https://github.com/beethovenxfi/balancer-cli"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/balancer-deployments"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/balancer-js"
 
 [[repo]]
@@ -31,13 +34,13 @@ url = "https://github.com/beethovenxfi/balancer-sor"
 url = "https://github.com/beethovenxfi/balancer-subgraph-v2"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/balancer-toolkit"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/balancer-v2-monorepo"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/balpy"
-
-[[repo]]
-url = "https://github.com/beethovenxfi/beetehoenx-discord-cli"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/beethovenx-app-coming-soon"
@@ -91,6 +94,12 @@ url = "https://github.com/beethovenxfi/chakra-ui-steps"
 url = "https://github.com/beethovenxfi/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/defillama-server"
+
+[[repo]]
+url = "https://github.com/beethovenxfi/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/discord-price-bot"
 
 [[repo]]
@@ -106,10 +115,19 @@ url = "https://github.com/beethovenxfi/finance-scripts"
 url = "https://github.com/beethovenxfi/frontend-v2"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/gauges-subgraph"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/gauges-subgraph-optimism"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/linear-pools"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/linear-team-vesting"
+
+[[repo]]
+url = "https://github.com/beethovenxfi/marketing-site"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/masterchef-txs"
@@ -124,7 +142,13 @@ url = "https://github.com/beethovenxfi/pools-api"
 url = "https://github.com/beethovenxfi/Reliquary"
 
 [[repo]]
+url = "https://github.com/beethovenxfi/scaffold-balancer"
+
+[[repo]]
 url = "https://github.com/beethovenxfi/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/beethovenxfi/solidity-examples"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/stage-gauge-txs"
@@ -134,6 +158,9 @@ url = "https://github.com/beethovenxfi/user-bpt-balances-subgraph"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/v3-info"
+
+[[repo]]
+url = "https://github.com/beethovenxfi/vesper-contracts"
 
 [[repo]]
 url = "https://github.com/beethovenxfi/yearn-exporter"

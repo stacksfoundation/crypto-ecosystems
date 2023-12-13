@@ -16,6 +16,9 @@ url = "https://github.com/perpetual-protocol/assets"
 url = "https://github.com/perpetual-protocol/configurable-rights-pool"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/examples"
 
 [[repo]]
@@ -70,9 +73,6 @@ url = "https://github.com/perpetual-protocol/perp-lite"
 url = "https://github.com/perpetual-protocol/perp-maker"
 
 [[repo]]
-url = "https://github.com/perpetual-protocol/perp-oracle"
-
-[[repo]]
 url = "https://github.com/perpetual-protocol/perp-oracle-contract"
 
 [[repo]]
@@ -85,7 +85,7 @@ url = "https://github.com/perpetual-protocol/Perp-Press-Kit"
 url = "https://github.com/perpetual-protocol/perp-referral-contracts"
 
 [[repo]]
-url = "https://github.com/perpetual-protocol/perp-sdk"
+url = "https://github.com/perpetual-protocol/perp-v1-buyback"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-v2-referral-dashboard"
@@ -112,6 +112,9 @@ url = "https://github.com/perpetual-protocol/snapshot-spaces"
 url = "https://github.com/perpetual-protocol/snapshot.js"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/uniswap-v3-pools"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/use-ethereum"
 
 [[repo]]
@@ -122,3 +125,6 @@ url = "https://github.com/perpetual-protocol/voting-escrow"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/ygift-ui"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/yield-server"

@@ -19,6 +19,9 @@ url = "https://github.com/ProjectOpenSea/anchorpy"
 url = "https://github.com/ProjectOpenSea/apischema"
 
 [[repo]]
+url = "https://github.com/ProjectOpenSea/aws-privateca-issuer"
+
+[[repo]]
 url = "https://github.com/ProjectOpenSea/boundary-chart"
 
 [[repo]]
@@ -34,7 +37,7 @@ url = "https://github.com/ProjectOpenSea/CoinGecko-Java"
 url = "https://github.com/ProjectOpenSea/cryptotickets"
 
 [[repo]]
-url = "https://github.com/ProjectOpenSea/devcon-workshop"
+url = "https://github.com/ProjectOpenSea/developer-docs"
 
 [[repo]]
 url = "https://github.com/ProjectOpenSea/discord-moderator"
@@ -43,10 +46,10 @@ url = "https://github.com/ProjectOpenSea/discord-moderator"
 url = "https://github.com/ProjectOpenSea/domain-registry"
 
 [[repo]]
-url = "https://github.com/ProjectOpenSea/embeddable-nfts"
+url = "https://github.com/ProjectOpenSea/dynamic-traits"
 
 [[repo]]
-url = "https://github.com/ProjectOpenSea/embeddable_nfts"
+url = "https://github.com/ProjectOpenSea/embeddable-nfts"
 
 [[repo]]
 url = "https://github.com/ProjectOpenSea/eslint-plugin-relay"
@@ -133,6 +136,15 @@ url = "https://github.com/ProjectOpenSea/pyexiv2"
 url = "https://github.com/ProjectOpenSea/pytest-django"
 
 [[repo]]
+url = "https://github.com/ProjectOpenSea/pytest-xml-report"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/redeemables"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/relay"
+
+[[repo]]
 url = "https://github.com/ProjectOpenSea/SDWebImageSVGNativeCoder"
 
 [[repo]]
@@ -145,6 +157,12 @@ url = "https://github.com/ProjectOpenSea/seadrop"
 url = "https://github.com/ProjectOpenSea/seaport"
 
 [[repo]]
+url = "https://github.com/ProjectOpenSea/seaport-core"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/seaport-generic-adapter"
+
+[[repo]]
 url = "https://github.com/ProjectOpenSea/seaport-gossip"
 
 [[repo]]
@@ -152,6 +170,12 @@ url = "https://github.com/ProjectOpenSea/seaport-js"
 
 [[repo]]
 url = "https://github.com/ProjectOpenSea/seaport-order-validator"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/seaport-sol"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/seaport-types"
 
 [[repo]]
 url = "https://github.com/ProjectOpenSea/seaport.py"
@@ -163,6 +187,18 @@ url = "https://github.com/ProjectOpenSea/search-ui"
 url = "https://github.com/ProjectOpenSea/ships-log"
 
 [[repo]]
+url = "https://github.com/ProjectOpenSea/shipyard"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/shipyard-core"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/shipyard-example-project"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/SIPs"
+
+[[repo]]
 url = "https://github.com/ProjectOpenSea/stream-js"
 
 [[repo]]
@@ -172,7 +208,25 @@ url = "https://github.com/ProjectOpenSea/terraform-aws-eks"
 url = "https://github.com/ProjectOpenSea/truffle-contract"
 
 [[repo]]
+url = "https://github.com/ProjectOpenSea/unleash-proxy-client-swift"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/uSockets"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/uWebSockets"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/uWebSockets.js"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/WalletConnectSwiftV2"
+
+[[repo]]
 url = "https://github.com/ProjectOpenSea/web3.py"
+
+[[repo]]
+url = "https://github.com/ProjectOpenSea/weth-converter"
 
 [[repo]]
 url = "https://github.com/ProjectOpenSea/wyvern-js"

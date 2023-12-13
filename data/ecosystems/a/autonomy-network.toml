@@ -13,6 +13,9 @@ url = "https://github.com/Autonomy-Network/aNFT"
 url = "https://github.com/Autonomy-Network/apeswap-frontend"
 
 [[repo]]
+url = "https://github.com/Autonomy-Network/astroport-subquery"
+
+[[repo]]
 url = "https://github.com/Autonomy-Network/Auto-Hedge"
 
 [[repo]]
@@ -71,6 +74,9 @@ url = "https://github.com/Autonomy-Network/Uniswap"
 
 [[repo]]
 url = "https://github.com/Autonomy-Network/uniV2-limits-stops"
+
+[[repo]]
+url = "https://github.com/Autonomy-Network/V3AutoHedge"
 
 [[repo]]
 url = "https://github.com/Autonomy-Network/wallet"

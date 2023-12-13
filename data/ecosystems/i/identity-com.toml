@@ -28,6 +28,9 @@ url = "https://github.com/identity-com/cruiser_tutorial"
 url = "https://github.com/identity-com/cryptid"
 
 [[repo]]
+url = "https://github.com/identity-com/did-bnb"
+
+[[repo]]
 url = "https://github.com/identity-com/did-common-typescript"
 
 [[repo]]
@@ -101,9 +104,6 @@ url = "https://github.com/identity-com/sol-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/identity-com/solana"
-
-[[repo]]
-url = "https://github.com/identity-com/solana_generator"
 
 [[repo]]
 url = "https://github.com/identity-com/token-list"

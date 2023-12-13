@@ -13,6 +13,9 @@ url = "https://github.com/metagamehub/API-Docs"
 url = "https://github.com/metagamehub/atf-shop"
 
 [[repo]]
+url = "https://github.com/metagamehub/centauri"
+
+[[repo]]
 url = "https://github.com/metagamehub/chrome-ext"
 
 [[repo]]
@@ -31,7 +34,16 @@ url = "https://github.com/metagamehub/dcl-edit-examples"
 url = "https://github.com/metagamehub/dcl-edit-testing"
 
 [[repo]]
+url = "https://github.com/metagamehub/dcl-live-sessions"
+
+[[repo]]
 url = "https://github.com/metagamehub/dcl-slides"
+
+[[repo]]
+url = "https://github.com/metagamehub/DclComunityGame"
+
+[[repo]]
+url = "https://github.com/metagamehub/fitchin"
 
 [[repo]]
 url = "https://github.com/metagamehub/Hackathon_Bot"
@@ -58,6 +70,9 @@ url = "https://github.com/metagamehub/MGH-APP-V2.0"
 url = "https://github.com/metagamehub/MGH-tools"
 
 [[repo]]
+url = "https://github.com/metagamehub/MGH-WebLanding"
+
+[[repo]]
 url = "https://github.com/metagamehub/MGH-Website"
 
 [[repo]]
@@ -68,6 +83,3 @@ url = "https://github.com/metagamehub/Token-API"
 
 [[repo]]
 url = "https://github.com/metagamehub/Tokenomics-Contracts"
-
-[[repo]]
-url = "https://github.com/thedac-space/mgh-website"

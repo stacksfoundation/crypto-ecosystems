@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/cocrafts", "https://github.com/Metac
 
 # Repositories
 [[repo]]
+url = "https://github.com/cocrafts/alloy"
+
+[[repo]]
 url = "https://github.com/cocrafts/bench"
+
+[[repo]]
+url = "https://github.com/cocrafts/carbon-contract"
+
+[[repo]]
+url = "https://github.com/cocrafts/carbon-marketplace"
 
 [[repo]]
 url = "https://github.com/cocrafts/card"
@@ -19,7 +28,13 @@ url = "https://github.com/cocrafts/docs"
 url = "https://github.com/cocrafts/engines"
 
 [[repo]]
+url = "https://github.com/cocrafts/gasilon"
+
+[[repo]]
 url = "https://github.com/cocrafts/kernel"
+
+[[repo]]
+url = "https://github.com/cocrafts/mallet"
 
 [[repo]]
 url = "https://github.com/cocrafts/marketplace"
@@ -34,6 +49,9 @@ url = "https://github.com/cocrafts/metacraft-ui"
 url = "https://github.com/cocrafts/nerdtools"
 
 [[repo]]
+url = "https://github.com/cocrafts/saiyan"
+
+[[repo]]
 url = "https://github.com/cocrafts/solana-programs"
 
 [[repo]]
@@ -41,6 +59,9 @@ url = "https://github.com/cocrafts/under-realm"
 
 [[repo]]
 url = "https://github.com/cocrafts/visualizer"
+
+[[repo]]
+url = "https://github.com/cocrafts/walless"
 
 [[repo]]
 url = "https://github.com/cocrafts/whitepaper"

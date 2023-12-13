@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/vertcoin"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/coinfoundry/miningcore"
+url = "https://github.com/oliverw/miningcore"
 
 [[repo]]
 url = "https://github.com/vertcoin-project/vertcoin-core"

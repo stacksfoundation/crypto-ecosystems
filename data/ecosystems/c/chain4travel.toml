@@ -7,13 +7,25 @@ github_organizations = ["https://github.com/chain4travel"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/chain4travel/.github"
+
+[[repo]]
 url = "https://github.com/chain4travel/avalanche-explorer"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-block-explorer"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-block-explorer-old"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-builder"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-docs"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-genesis-generation"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-k8s-testnet-creator"
@@ -26,6 +38,9 @@ url = "https://github.com/chain4travel/camino-media-kit"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-monitoring"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-network-foundation-website"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-network-runner"
@@ -49,7 +64,13 @@ url = "https://github.com/chain4travel/camino-postman-collection"
 url = "https://github.com/chain4travel/camino-rosetta"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-signavault"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-simple-wallet"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-strapi"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-subnet-cli"
@@ -58,10 +79,16 @@ url = "https://github.com/chain4travel/camino-subnet-cli"
 url = "https://github.com/chain4travel/camino-suite"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-suite-voting"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-testing"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-timestampvm"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-tokenlink"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-wallet"
@@ -82,6 +109,9 @@ url = "https://github.com/chain4travel/caminoethvm"
 url = "https://github.com/chain4travel/caminogo"
 
 [[repo]]
+url = "https://github.com/chain4travel/caminogo-utils"
+
+[[repo]]
 url = "https://github.com/chain4travel/caminojs"
 
 [[repo]]
@@ -95,6 +125,9 @@ url = "https://github.com/chain4travel/chains"
 
 [[repo]]
 url = "https://github.com/chain4travel/controllers"
+
+[[repo]]
+url = "https://github.com/chain4travel/decode-travel-website"
 
 [[repo]]
 url = "https://github.com/chain4travel/Fantom-PWA-Explorer"

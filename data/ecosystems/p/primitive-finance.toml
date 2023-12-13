@@ -10,13 +10,34 @@ github_organizations = ["https://github.com/primitivefinance"]
 url = "https://github.com/primitivefinance/.github"
 
 [[repo]]
+url = "https://github.com/primitivefinance/aika"
+
+[[repo]]
 url = "https://github.com/primitivefinance/arbiter"
+
+[[repo]]
+url = "https://github.com/primitivefinance/arbiter-copy"
+
+[[repo]]
+url = "https://github.com/primitivefinance/arbiter-portfolio-sim"
+
+[[repo]]
+url = "https://github.com/primitivefinance/arbiter-template"
 
 [[repo]]
 url = "https://github.com/primitivefinance/Arbitrum-Transaction-Data-Analysis"
 
 [[repo]]
+url = "https://github.com/primitivefinance/arbmod"
+
+[[repo]]
 url = "https://github.com/primitivefinance/bounties"
+
+[[repo]]
+url = "https://github.com/primitivefinance/brand"
+
+[[repo]]
+url = "https://github.com/primitivefinance/CFMMRouter.py"
 
 [[repo]]
 url = "https://github.com/primitivefinance/copperfield"
@@ -31,13 +52,31 @@ url = "https://github.com/primitivefinance/DefiLlama-Adapters"
 url = "https://github.com/primitivefinance/discord-bot"
 
 [[repo]]
+url = "https://github.com/primitivefinance/DisputeGameSimulations"
+
+[[repo]]
+url = "https://github.com/primitivefinance/ethers-rs"
+
+[[repo]]
+url = "https://github.com/primitivefinance/fee-generation-py"
+
+[[repo]]
+url = "https://github.com/primitivefinance/fvm.ts"
+
+[[repo]]
 url = "https://github.com/primitivefinance/hardhat-foundry"
 
 [[repo]]
 url = "https://github.com/primitivefinance/hardhat-marmite"
 
 [[repo]]
+url = "https://github.com/primitivefinance/m3-rs"
+
+[[repo]]
 url = "https://github.com/primitivefinance/metadata-api"
+
+[[repo]]
+url = "https://github.com/primitivefinance/nugu"
 
 [[repo]]
 url = "https://github.com/primitivefinance/open-research-questions"
@@ -49,16 +88,25 @@ url = "https://github.com/primitivefinance/PIPs"
 url = "https://github.com/primitivefinance/pool-analytics"
 
 [[repo]]
-url = "https://github.com/primitivefinance/primitive-contracts"
+url = "https://github.com/primitivefinance/portfolio"
 
 [[repo]]
-url = "https://github.com/primitivefinance/primitive-documentation"
+url = "https://github.com/primitivefinance/portfolio-erc20-wrapper"
+
+[[repo]]
+url = "https://github.com/primitivefinance/portfolio-examples-solidity"
+
+[[repo]]
+url = "https://github.com/primitivefinance/portfolio-rs"
+
+[[repo]]
+url = "https://github.com/primitivefinance/portfolio-ts"
+
+[[repo]]
+url = "https://github.com/primitivefinance/portfolio_simulations"
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-dodoc"
-
-[[repo]]
-url = "https://github.com/primitivefinance/primitive-examples"
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-frontend"
@@ -70,19 +118,7 @@ url = "https://github.com/primitivefinance/primitive-frontend-depreciated"
 url = "https://github.com/primitivefinance/primitive-frontend-old"
 
 [[repo]]
-url = "https://github.com/primitivefinance/primitive-house"
-
-[[repo]]
-url = "https://github.com/primitivefinance/primitive-interface"
-
-[[repo]]
 url = "https://github.com/primitivefinance/primitive-protocol"
-
-[[repo]]
-url = "https://github.com/primitivefinance/primitive-sdk"
-
-[[repo]]
-url = "https://github.com/primitivefinance/primitive-subgraph"
 
 [[repo]]
 url = "https://github.com/primitivefinance/primitive-token-lists"
@@ -91,10 +127,10 @@ url = "https://github.com/primitivefinance/primitive-token-lists"
 url = "https://github.com/primitivefinance/primitive-ui"
 
 [[repo]]
-url = "https://github.com/primitivefinance/primitive-v1-amm"
+url = "https://github.com/primitivefinance/proto-sim-portfolio"
 
 [[repo]]
-url = "https://github.com/primitivefinance/primitive-v1-connectors"
+url = "https://github.com/primitivefinance/pso-sol"
 
 [[repo]]
 url = "https://github.com/primitivefinance/Research"
@@ -121,9 +157,6 @@ url = "https://github.com/primitivefinance/rmm-manager"
 url = "https://github.com/primitivefinance/rmm-math"
 
 [[repo]]
-url = "https://github.com/primitivefinance/rmm-research"
-
-[[repo]]
 url = "https://github.com/primitivefinance/rmm-sdk"
 
 [[repo]]
@@ -136,7 +169,13 @@ url = "https://github.com/primitivefinance/RMM01-Simulations"
 url = "https://github.com/primitivefinance/rmms-py"
 
 [[repo]]
+url = "https://github.com/primitivefinance/security"
+
+[[repo]]
 url = "https://github.com/primitivefinance/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/primitivefinance/solstat"
 
 [[repo]]
 url = "https://github.com/primitivefinance/soulbound"
@@ -173,3 +212,6 @@ url = "https://github.com/primitivefinance/v1-sdk"
 
 [[repo]]
 url = "https://github.com/primitivefinance/v1-subgraph"
+
+[[repo]]
+url = "https://github.com/primitivefinance/visualization-rs"

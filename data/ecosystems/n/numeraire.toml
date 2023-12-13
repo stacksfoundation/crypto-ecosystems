@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/numerai"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/erasureprotocol/NMR"
+
+[[repo]]
 url = "https://github.com/numerai/aip"
 
 [[repo]]
@@ -25,9 +28,6 @@ url = "https://github.com/numerai/compound-eureka"
 url = "https://github.com/numerai/compute-lite"
 
 [[repo]]
-url = "https://github.com/numerai/contract"
-
-[[repo]]
 url = "https://github.com/numerai/docs"
 
 [[repo]]
@@ -40,6 +40,9 @@ url = "https://github.com/numerai/docs-jp"
 url = "https://github.com/numerai/docs-ru"
 
 [[repo]]
+url = "https://github.com/numerai/elixir_agent"
+
+[[repo]]
 url = "https://github.com/numerai/example-scripts"
 
 [[repo]]
@@ -49,7 +52,13 @@ url = "https://github.com/numerai/faq"
 url = "https://github.com/numerai/glide.sh"
 
 [[repo]]
+url = "https://github.com/numerai/hello-numerai"
+
+[[repo]]
 url = "https://github.com/numerai/heroku-buildpack-polymer"
+
+[[repo]]
+url = "https://github.com/numerai/new_relic_absinthe"
 
 [[repo]]
 url = "https://github.com/numerai/notebooks"
@@ -58,19 +67,19 @@ url = "https://github.com/numerai/notebooks"
 url = "https://github.com/numerai/numerai-cli"
 
 [[repo]]
-url = "https://github.com/numerai/numerai-compute-cli"
+url = "https://github.com/numerai/numerai-compute-webserver"
 
 [[repo]]
-url = "https://github.com/numerai/numerai-compute-webserver"
+url = "https://github.com/numerai/numerai-predict"
+
+[[repo]]
+url = "https://github.com/numerai/numerai-tools"
 
 [[repo]]
 url = "https://github.com/numerai/numerai.github.io"
 
 [[repo]]
 url = "https://github.com/numerai/NumerAPI"
-
-[[repo]]
-url = "https://github.com/numerai/numerapi-1"
 
 [[repo]]
 url = "https://github.com/numerai/numerox"
@@ -89,6 +98,9 @@ url = "https://github.com/numerai/pyxero"
 
 [[repo]]
 url = "https://github.com/numerai/qrcode"
+
+[[repo]]
+url = "https://github.com/numerai/quant-club"
 
 [[repo]]
 url = "https://github.com/numerai/Rnumerai"

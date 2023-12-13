@@ -22,6 +22,9 @@ url = "https://github.com/beefyfinance/beefy-app-heco"
 url = "https://github.com/beefyfinance/beefy-audits"
 
 [[repo]]
+url = "https://github.com/beefyfinance/beefy-bi"
+
+[[repo]]
 url = "https://github.com/beefyfinance/beefy-blog"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/beefyfinance/beefy-contracts"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-cowllector"
+
+[[repo]]
+url = "https://github.com/beefyfinance/beefy-cowllector-v2"
 
 [[repo]]
 url = "https://github.com/beefyfinance/beefy-cred"
@@ -94,6 +100,9 @@ url = "https://github.com/beefyfinance/beefy-vote-api"
 url = "https://github.com/beefyfinance/beefy-vote-strategies"
 
 [[repo]]
+url = "https://github.com/beefyfinance/beefy-zk"
+
+[[repo]]
 url = "https://github.com/beefyfinance/beefyfinance.github.io"
 
 [[repo]]
@@ -107,6 +116,9 @@ url = "https://github.com/beefyfinance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/beefyfinance/ethers-multicall"
+
+[[repo]]
+url = "https://github.com/beefyfinance/moderator-board"
 
 [[repo]]
 url = "https://github.com/beefyfinance/moonpot-app"

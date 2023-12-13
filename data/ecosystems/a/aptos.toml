@@ -3,25 +3,46 @@ title = "Aptos"
 
 sub_ecosystems = [
   "Abel Finance",
+  "AnimeSwap",
   "Apscan",
   "APT ID",
+  "Aptin Labs",
+  "AptinLabs",
+  "Aptos Passport",
   "Aptos Rabbit",
+  "Aptosis",
+  "AptStats",
   "AUX Exchange",
+  "BlockEden.xyz",
+  "BlockPi Network",
+  "Bware Labs",
+  "Chainbase",
   "Ditto Finance",
   "Econia Labs",
   "Enchanter Finance",
   "Ferum",
   "Fewcha",
   "HippoSpace (HippoSwap)",
+  "Koizumi",
+  "Laminar",
   "Martian DAO",
   "Module Labs",
   "Mokshya Protocol",
+  "Momentum Safe",
+  "Movement",
   "OmniBTC",
+  "Patronus",
   "Pentagon",
   "Pontem Network",
   "Sea Protocol",
   "Seam Money",
+  "sentio.xyz",
+  "Snotra",
+  "Souffl3",
   "SpikaApp",
+  "Thala Labs",
+  "Umi",
+  "ZettaBlock",
 ]
 
 github_organizations = [
@@ -31,6 +52,12 @@ github_organizations = [
 ]
 
 # Repositories
+[[repo]]
+url = "https://github.com/0xbe1/aptos-core"
+
+[[repo]]
+url = "https://github.com/0xcapsules/noot-docs"
+
 [[repo]]
 url = "https://github.com/0xhawk/minilending"
 
@@ -50,19 +77,34 @@ url = "https://github.com/aptos-foundation/AIPs"
 url = "https://github.com/aptos-foundation/ecosystem-projects"
 
 [[repo]]
+url = "https://github.com/aptos-foundation/mainnet-proposals"
+
+[[repo]]
 url = "https://github.com/aptos-foundation/node-tools"
+
+[[repo]]
+url = "https://github.com/aptos-foundation/registry-projects"
 
 [[repo]]
 url = "https://github.com/aptos-labs/actions"
 
 [[repo]]
+url = "https://github.com/aptos-labs/actions-old"
+
+[[repo]]
 url = "https://github.com/aptos-labs/aip"
 
 [[repo]]
-url = "https://github.com/aptos-labs/aips"
+url = "https://github.com/aptos-labs/AIPs"
 
 [[repo]]
 url = "https://github.com/aptos-labs/ait3-governance"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptogotchi"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptogotchi-intermediate"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-ait1"
@@ -74,19 +116,44 @@ url = "https://github.com/aptos-labs/aptos-ait2"
 url = "https://github.com/aptos-labs/aptos-ait3"
 
 [[repo]]
+url = "https://github.com/aptos-labs/aptos-ansible"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-canvas"
+
+[[repo]]
 url = "https://github.com/aptos-labs/aptos-core"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-core-1"
 
 [[repo]]
-url = "https://github.com/aptos-labs/aptos-genesis-waypoint"
+url = "https://github.com/aptos-labs/aptos-indexer-processors"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-multi-region-bench"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-names-contracts"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-networks"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-previewnet"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-rosetta"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-tournament"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-ts-sdk"
+
+[[repo]]
+url = "https://github.com/aptos-labs/Aptos-Unity-SDK"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-wallet-adapter"
@@ -107,7 +174,31 @@ url = "https://github.com/aptos-labs/bors"
 url = "https://github.com/aptos-labs/bulletproofs"
 
 [[repo]]
+url = "https://github.com/aptos-labs/cad-aptos-cli"
+
+[[repo]]
+url = "https://github.com/aptos-labs/cad-boilerplate"
+
+[[repo]]
+url = "https://github.com/aptos-labs/cad-node-boilerplate"
+
+[[repo]]
+url = "https://github.com/aptos-labs/cad-todolist"
+
+[[repo]]
+url = "https://github.com/aptos-labs/chaos-mesh"
+
+[[repo]]
+url = "https://github.com/aptos-labs/create-aptos-app"
+
+[[repo]]
+url = "https://github.com/aptos-labs/create-aptos-dapp"
+
+[[repo]]
 url = "https://github.com/aptos-labs/diesel"
+
+[[repo]]
+url = "https://github.com/aptos-labs/ecosystem-projects"
 
 [[repo]]
 url = "https://github.com/aptos-labs/explorer"
@@ -119,13 +210,25 @@ url = "https://github.com/aptos-labs/governance"
 url = "https://github.com/aptos-labs/governance-proposals"
 
 [[repo]]
+url = "https://github.com/aptos-labs/graffio"
+
+[[repo]]
+url = "https://github.com/aptos-labs/hong-bao"
+
+[[repo]]
+url = "https://github.com/aptos-labs/ic-plugin-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/aptos-labs/identity-connect-docs"
+
+[[repo]]
+url = "https://github.com/aptos-labs/iris3"
+
+[[repo]]
 url = "https://github.com/aptos-labs/ledger-app-aptos"
 
 [[repo]]
 url = "https://github.com/aptos-labs/lz4-rs"
-
-[[repo]]
-url = "https://github.com/aptos-labs/mainnet-proposals"
 
 [[repo]]
 url = "https://github.com/aptos-labs/merlin"
@@ -137,10 +240,19 @@ url = "https://github.com/aptos-labs/move"
 url = "https://github.com/aptos-labs/openapi-typescript-codegen"
 
 [[repo]]
+url = "https://github.com/aptos-labs/passkey-rs"
+
+[[repo]]
+url = "https://github.com/aptos-labs/petra-plugin-wallet-adapter"
+
+[[repo]]
 url = "https://github.com/aptos-labs/petra-wallet"
 
 [[repo]]
 url = "https://github.com/aptos-labs/petra-wallet-types"
+
+[[repo]]
+url = "https://github.com/aptos-labs/runner-images"
 
 [[repo]]
 url = "https://github.com/aptos-labs/rust-rocksdb"
@@ -149,10 +261,19 @@ url = "https://github.com/aptos-labs/rust-rocksdb"
 url = "https://github.com/aptos-labs/serde-reflection"
 
 [[repo]]
+url = "https://github.com/aptos-labs/setup-buildx-action"
+
+[[repo]]
 url = "https://github.com/aptos-labs/synclinear"
 
 [[repo]]
 url = "https://github.com/aptos-labs/test-repo"
+
+[[repo]]
+url = "https://github.com/aptos-labs/todolist-dapp-tutorial"
+
+[[repo]]
+url = "https://github.com/aptos-labs/token"
 
 [[repo]]
 url = "https://github.com/aptos-labs/ts-sdk-doc"
@@ -161,7 +282,13 @@ url = "https://github.com/aptos-labs/ts-sdk-doc"
 url = "https://github.com/aptos-labs/wallet-adapter-plugin-template"
 
 [[repo]]
+url = "https://github.com/aptos-labs/webauthn-rs"
+
+[[repo]]
 url = "https://github.com/aptos-labs/whitepaper"
+
+[[repo]]
+url = "https://github.com/aptos-labs/x25519-dalek"
 
 [[repo]]
 url = "https://github.com/aptosis/aptest"
@@ -182,22 +309,85 @@ url = "https://github.com/AptosPassport/aptpp-js"
 url = "https://github.com/aranoverse/move-launch-pad"
 
 [[repo]]
+url = "https://github.com/axelarnetwork/axelar-cgp-aptos"
+
+[[repo]]
+url = "https://github.com/axelarnetwork/axelar-local-dev"
+
+[[repo]]
+url = "https://github.com/bracketloader/wormhole"
+
+[[repo]]
+url = "https://github.com/capsule-craft/aptos-staking"
+
+[[repo]]
+url = "https://github.com/capsule-craft/noot-standard"
+
+[[repo]]
+url = "https://github.com/capsule-craft/OpenRails"
+
+[[repo]]
+url = "https://github.com/capsule-craft/phantom-deeplink-utils"
+
+[[repo]]
+url = "https://github.com/capsule-craft/sui-playground"
+
+[[repo]]
+url = "https://github.com/catze-labs/aptoplay-web"
+
+[[repo]]
+url = "https://github.com/codestates-beb/BEB-07-final-DidYouEat"
+
+[[repo]]
 url = "https://github.com/coming-chat/go-aptos-sdk"
 
 [[repo]]
 url = "https://github.com/concordia-fi/rational_math"
 
 [[repo]]
+url = "https://github.com/crustio/crust"
+
+[[repo]]
 url = "https://github.com/DeployDAO/aptos-deployer"
 
 [[repo]]
+url = "https://github.com/Desig-Labs/supported-chains"
+
+[[repo]]
+url = "https://github.com/dialectlabs/react"
+
+[[repo]]
+url = "https://github.com/DivineDimension/Contracts"
+
+[[repo]]
+url = "https://github.com/DreamDateWorld-DDW/DDW_APP"
+
+[[repo]]
+url = "https://github.com/Elements-Studio/starswap-core-aptos"
+
+[[repo]]
 url = "https://github.com/Enchanter-Finance/enchanter-magic-party"
+
+[[repo]]
+url = "https://github.com/Firebond-xyz/Tatrix-"
+
+[[repo]]
+url = "https://github.com/gregshen0925/inbond"
+
+[[repo]]
+url = "https://github.com/himanshu4327/alien"
 
 [[repo]]
 url = "https://github.com/hybridx-exchange/hybridx-aptos"
 
 [[repo]]
 url = "https://github.com/kepler-homes/kepler-aptos-contract"
+
+[[repo]]
+url = "https://github.com/LayerZero-Labs/LayerZero-Aptos-Contract"
+
+[[repo]]
+url = "https://github.com/LucCrypto/aptos-core"
 
 [[repo]]
 url = "https://github.com/machikado-network/machikado.network"
@@ -212,6 +402,12 @@ url = "https://github.com/mak925/aptos-swap"
 url = "https://github.com/mark-antony1/move-baseline"
 
 [[repo]]
+url = "https://github.com/mathwallet/AptosSwift"
+
+[[repo]]
+url = "https://github.com/mayan-finance/swap-sdk"
+
+[[repo]]
 url = "https://github.com/Moooover/single-staking-move"
 
 [[repo]]
@@ -221,10 +417,22 @@ url = "https://github.com/move-dao/movedao"
 url = "https://github.com/Move-Stream/movecontract"
 
 [[repo]]
+url = "https://github.com/movebit/aptos-core"
+
+[[repo]]
 url = "https://github.com/natedotv2/send-defi"
 
 [[repo]]
-url = "https://github.com/NonceGeek/DID-Solution-In-Move"
+url = "https://github.com/nightly-labs/aptos-template"
+
+[[repo]]
+url = "https://github.com/nightly-labs/aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/NonceGeek/MoveDID"
+
+[[repo]]
+url = "https://github.com/notifi-network/notifi-aptos-example"
 
 [[repo]]
 url = "https://github.com/notifi-network/notifi-sdk-ts"
@@ -233,40 +441,46 @@ url = "https://github.com/notifi-network/notifi-sdk-ts"
 url = "https://github.com/open-rails/aptos-core"
 
 [[repo]]
-url = "https://github.com/open-rails/aptos-staking"
-
-[[repo]]
 url = "https://github.com/open-rails/Docs"
-
-[[repo]]
-url = "https://github.com/open-rails/noot-docs"
-
-[[repo]]
-url = "https://github.com/open-rails/noot-standard"
-
-[[repo]]
-url = "https://github.com/open-rails/OpenRails"
-
-[[repo]]
-url = "https://github.com/open-rails/phantom-deeplink-utils"
 
 [[repo]]
 url = "https://github.com/open-rails/solana-php-sdk"
 
 [[repo]]
-url = "https://github.com/open-rails/sui-playground"
+url = "https://github.com/open-rails/swiper"
 
 [[repo]]
-url = "https://github.com/open-rails/swiper"
+url = "https://github.com/pancakeswap/pancake-contracts-move"
 
 [[repo]]
 url = "https://github.com/pentagonxyz/xyk-amm-move"
 
 [[repo]]
+url = "https://github.com/portto/aptos-go-sdk"
+
+[[repo]]
+url = "https://github.com/pyth-network/pyth-crosschain"
+
+[[repo]]
 url = "https://github.com/qwertey6/aptillians"
 
 [[repo]]
+url = "https://github.com/rooch-network/rooch"
+
+[[repo]]
+url = "https://github.com/scholar-zhiwei/nft-website-move"
+
+[[repo]]
+url = "https://github.com/sherry-x/aptos-core"
+
+[[repo]]
 url = "https://github.com/snowflake-so/move-cron-parser"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starcoin-framework"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starmask-extension"
 
 [[repo]]
 url = "https://github.com/switchboard-xyz/switchboard-aptos-public"
@@ -275,10 +489,28 @@ url = "https://github.com/switchboard-xyz/switchboard-aptos-public"
 url = "https://github.com/taranchik/aptos-blockchain-oracle"
 
 [[repo]]
+url = "https://github.com/tolgaand/aptosfaucet"
+
+[[repo]]
 url = "https://github.com/topcoder1208/aptos-test-vault"
+
+[[repo]]
+url = "https://github.com/trustwallet/aptos-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/ultima-fi/rational_math"
 
 [[repo]]
+url = "https://github.com/usdc-snu-aptos/ourchive"
+
+[[repo]]
+url = "https://github.com/vgao1996/aptos-core"
+
+[[repo]]
+url = "https://github.com/yonnie-park/DID-You-Eat"
+
+[[repo]]
 url = "https://github.com/zeeis/smart-contract"
+
+[[repo]]
+url = "https://github.com/zeroknowledgeTeam/dittos"

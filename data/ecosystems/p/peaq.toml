@@ -19,7 +19,22 @@ url = "https://github.com/peaqnetwork/apps"
 url = "https://github.com/peaqnetwork/blockscout"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/bosch-iot-suites-examples"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/bosch-xdk-integration"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/chains"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/core"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/cumulus"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/docker_image_standalone"
@@ -34,13 +49,28 @@ url = "https://github.com/peaqnetwork/evm"
 url = "https://github.com/peaqnetwork/example-did-interfacing"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/fork-off-substrate"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/frontier"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/Grants-Program"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/Intergration-with-AI-Agents"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/Intergration-with-Fecth-AI-Agents"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/Intergration-with-Fetch-AI-Agents"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/jsonrpsee"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/mangata-node"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/nodejs-websocket-example"
@@ -61,13 +91,37 @@ url = "https://github.com/peaqnetwork/peaq-bc-test"
 url = "https://github.com/peaqnetwork/peaq-did-raspberry-pi"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/peaq-did-raspberry-pi-poc"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/peaq-did-specifications"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/peaq-did-standard-mobi-cpl"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/peaq-frame-ext"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-homeassistant-core"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-intergration-air-quality"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-intergration-air-qulaity"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-js"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-multi-chain-ID"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/peaq-network-charmev"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-network-did-proto-format"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/peaq-network-ev-charging-message-format"
@@ -94,6 +148,9 @@ url = "https://github.com/peaqnetwork/peaq-node-builder"
 url = "https://github.com/peaqnetwork/peaq-pallet-did"
 
 [[repo]]
+url = "https://github.com/peaqnetwork/peaq-pallet-mor"
+
+[[repo]]
 url = "https://github.com/peaqnetwork/peaq-pallet-rbac"
 
 [[repo]]
@@ -101,6 +158,15 @@ url = "https://github.com/peaqnetwork/peaq-pallet-transaction"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/peaq-pay"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-py"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-rpi-server"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/peaq-rpi-server-build"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/peaq-security-assement-reports"
@@ -113,6 +179,9 @@ url = "https://github.com/peaqnetwork/polkadot"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/RBAC"
+
+[[repo]]
+url = "https://github.com/peaqnetwork/rmrk-substrate"
 
 [[repo]]
 url = "https://github.com/peaqnetwork/squid-archive-setup"

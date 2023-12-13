@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/alexgo-io"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/alexgo-io/alex-bridge-contracts"
+
+[[repo]]
 url = "https://github.com/alexgo-io/alex-dao"
 
 [[repo]]
@@ -14,6 +17,12 @@ url = "https://github.com/alexgo-io/alex-dao-proposals"
 
 [[repo]]
 url = "https://github.com/alexgo-io/alex-mocknet"
+
+[[repo]]
+url = "https://github.com/alexgo-io/alex-sdk"
+
+[[repo]]
+url = "https://github.com/alexgo-io/alex-sdk-example"
 
 [[repo]]
 url = "https://github.com/alexgo-io/alex-v1"
@@ -31,10 +40,28 @@ url = "https://github.com/alexgo-io/alex.js"
 url = "https://github.com/alexgo-io/alexgo.io"
 
 [[repo]]
+url = "https://github.com/alexgo-io/b20-trading-bot"
+
+[[repo]]
+url = "https://github.com/alexgo-io/bitcoin-oracle"
+
+[[repo]]
+url = "https://github.com/alexgo-io/brc20-indexer-contracts"
+
+[[repo]]
+url = "https://github.com/alexgo-io/brc20-indexer-v1"
+
+[[repo]]
 url = "https://github.com/alexgo-io/bridge-launch-governance"
 
 [[repo]]
 url = "https://github.com/alexgo-io/cdn"
+
+[[repo]]
+url = "https://github.com/alexgo-io/clarity-codegen"
+
+[[repo]]
+url = "https://github.com/alexgo-io/crypto-ecosystems"
 
 [[repo]]
 url = "https://github.com/alexgo-io/DefiLlama-Adapters"
@@ -43,19 +70,34 @@ url = "https://github.com/alexgo-io/DefiLlama-Adapters"
 url = "https://github.com/alexgo-io/defillama-server"
 
 [[repo]]
-url = "https://github.com/alexgo-io/executor-dao"
-
-[[repo]]
 url = "https://github.com/alexgo-io/explorer"
 
 [[repo]]
 url = "https://github.com/alexgo-io/laplace-swagger"
 
 [[repo]]
+url = "https://github.com/alexgo-io/npm-cjs"
+
+[[repo]]
 url = "https://github.com/alexgo-io/stacks-blockchain-api"
+
+[[repo]]
+url = "https://github.com/alexgo-io/stacks-node-mainnet"
+
+[[repo]]
+url = "https://github.com/alexgo-io/stacks-puppet-node"
+
+[[repo]]
+url = "https://github.com/alexgo-io/stacks-pyth-bridge"
+
+[[repo]]
+url = "https://github.com/alexgo-io/stacks-subnets"
 
 [[repo]]
 url = "https://github.com/alexgo-io/stacks.js"
 
 [[repo]]
 url = "https://github.com/alexgo-io/stx-atomic-swap"
+
+[[repo]]
+url = "https://github.com/alexgo-io/xverse-stacks-transaction-sponsor"

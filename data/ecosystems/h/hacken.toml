@@ -7,13 +7,19 @@ github_organizations = ["https://github.com/hknio"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/hknio/aurora-relayer-indexer"
+url = "https://github.com/hknio/.github"
 
 [[repo]]
 url = "https://github.com/hknio/aurora-relayer-indexer-01be3b9"
 
 [[repo]]
 url = "https://github.com/hknio/Awesome-EOS-Security"
+
+[[repo]]
+url = "https://github.com/hknio/beta-por"
+
+[[repo]]
+url = "https://github.com/hknio/blockchain-common-attack-techniques"
 
 [[repo]]
 url = "https://github.com/hknio/bvss"
@@ -25,6 +31,15 @@ url = "https://github.com/hknio/Chainlink-Oracle"
 url = "https://github.com/hknio/clusterfuzz"
 
 [[repo]]
+url = "https://github.com/hknio/Compare_Tool"
+
+[[repo]]
+url = "https://github.com/hknio/Diff_Calculator"
+
+[[repo]]
+url = "https://github.com/hknio/enKrypt"
+
+[[repo]]
 url = "https://github.com/hknio/ethereum-etl"
 
 [[repo]]
@@ -32,6 +47,9 @@ url = "https://github.com/hknio/ethereum-org-website"
 
 [[repo]]
 url = "https://github.com/hknio/goloop-havah-c38d6c76"
+
+[[repo]]
+url = "https://github.com/hknio/haas-sparkmagic"
 
 [[repo]]
 url = "https://github.com/hknio/Hacken-Oracle"
@@ -49,6 +67,27 @@ url = "https://github.com/hknio/Minima-5535be2ae463"
 url = "https://github.com/hknio/near-sample"
 
 [[repo]]
+url = "https://github.com/hknio/nearcore"
+
+[[repo]]
+url = "https://github.com/hknio/pdf-lib"
+
+[[repo]]
+url = "https://github.com/hknio/plcu"
+
+[[repo]]
+url = "https://github.com/hknio/rca"
+
+[[repo]]
+url = "https://github.com/hknio/Render_estimation"
+
+[[repo]]
+url = "https://github.com/hknio/rocket-token"
+
+[[repo]]
+url = "https://github.com/hknio/rpc-json-testing"
+
+[[repo]]
 url = "https://github.com/hknio/sample_solidity_project"
 
 [[repo]]
@@ -58,4 +97,10 @@ url = "https://github.com/hknio/SCSDG"
 url = "https://github.com/hknio/serializers_fuzz_tests"
 
 [[repo]]
+url = "https://github.com/hknio/test-repo"
+
+[[repo]]
 url = "https://github.com/hknio/token-registry"
+
+[[repo]]
+url = "https://github.com/hknio/zkmerkle-proof-of-solvency-debt-bug"

@@ -13,10 +13,16 @@ url = "https://github.com/hyperledger-labs/acapy-java-client"
 url = "https://github.com/hyperledger-labs/aries-fabric-wrapper"
 
 [[repo]]
+url = "https://github.com/hyperledger-labs/aries-sdk-mendix"
+
+[[repo]]
 url = "https://github.com/hyperledger-labs/avalon-sdk-py"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/bdls"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/benchmarking-cross-chain-bridges"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/besu-operator"
@@ -29,9 +35,6 @@ url = "https://github.com/hyperledger-labs/blockchain-carbon-accounting"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/blockchain-explorer"
-
-[[repo]]
-url = "https://github.com/hyperledger-labs/blockchain-integration-framework"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/blockchain-verifier"
@@ -47,6 +50,48 @@ url = "https://github.com/hyperledger-labs/business-partner-agent-chart"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/byzantine-config"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-docker"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-health-issuer-controller"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-health-issuer-ui"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-mobile-agent"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-mobile-secondary-verifier-agent"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-primary-verifier-controller"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-primary-verifier-ui"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-secondary-verifier-controller"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea-secondary-verifier-ui"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cardea.app"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cc-tools"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cc-tools-demo"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/cc-tools-doc"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/cckit"
@@ -70,6 +115,15 @@ url = "https://github.com/hyperledger-labs/crypto-lib"
 url = "https://github.com/hyperledger-labs/dancap"
 
 [[repo]]
+url = "https://github.com/hyperledger-labs/did-webs-resolver"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/documentation-template"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/Electrodo.Docs"
+
+[[repo]]
 url = "https://github.com/hyperledger-labs/eThaler"
 
 [[repo]]
@@ -80,6 +134,9 @@ url = "https://github.com/hyperledger-labs/fabex"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/fablo"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/fabric-ansible-collection"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/fabric-block-archiving"
@@ -95,6 +152,9 @@ url = "https://github.com/hyperledger-labs/fabric-chaincode-ocaml"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/fabric-chaincode-wasm"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/fabric-channeled-add-ons-gen"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/fabric-chrome-extension"
@@ -148,6 +208,9 @@ url = "https://github.com/hyperledger-labs/go-perun"
 url = "https://github.com/hyperledger-labs/governance"
 
 [[repo]]
+url = "https://github.com/hyperledger-labs/harmonia"
+
+[[repo]]
 url = "https://github.com/hyperledger-labs/HL-StarterKit"
 
 [[repo]]
@@ -155,9 +218,6 @@ url = "https://github.com/hyperledger-labs/hlf-connector"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/hlf-operator"
-
-[[repo]]
-url = "https://github.com/hyperledger-labs/homebrew-solang"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/HyperFabGames"
@@ -185,6 +245,9 @@ url = "https://github.com/hyperledger-labs/learning-tokens"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/Media-Tracking-Platform-to-Tackle-Online-Piracy"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/microfab"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/milk-donor"
@@ -217,6 +280,9 @@ url = "https://github.com/hyperledger-labs/nft-auction"
 url = "https://github.com/hyperledger-labs/nft-community-footprint"
 
 [[repo]]
+url = "https://github.com/hyperledger-labs/open-enterprise-agent"
+
+[[repo]]
 url = "https://github.com/hyperledger-labs/orion-sdk-go"
 
 [[repo]]
@@ -227,6 +293,9 @@ url = "https://github.com/hyperledger-labs/patient-consent"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/payments-performance-test-harness"
+
+[[repo]]
+url = "https://github.com/hyperledger-labs/pdo-contracts"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/PerformanceSandBox"
@@ -256,6 +325,9 @@ url = "https://github.com/hyperledger-labs/perun-node"
 url = "https://github.com/hyperledger-labs/perun-proposals"
 
 [[repo]]
+url = "https://github.com/hyperledger-labs/perun-rs"
+
+[[repo]]
 url = "https://github.com/hyperledger-labs/pluggable-hcs"
 
 [[repo]]
@@ -275,9 +347,6 @@ url = "https://github.com/hyperledger-labs/sawtooth-poet2"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/Scorex"
-
-[[repo]]
-url = "https://github.com/hyperledger-labs/solang"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/solang-vscode"
@@ -302,9 +371,6 @@ url = "https://github.com/hyperledger-labs/umbra"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/university-course"
-
-[[repo]]
-url = "https://github.com/hyperledger-labs/voters"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/weaver-dlt-interoperability"
@@ -332,3 +398,18 @@ url = "https://github.com/hyperledger-labs/yui-relayer"
 
 [[repo]]
 url = "https://github.com/hyperledger-labs/z-mix"
+
+[[repo]]
+url = "https://github.com/hyperledger/bevel-operator-fabric"
+
+[[repo]]
+url = "https://github.com/hyperledger/cacti"
+
+[[repo]]
+url = "https://github.com/hyperledger/cactus"
+
+[[repo]]
+url = "https://github.com/hyperledger/homebrew-solang"
+
+[[repo]]
+url = "https://github.com/hyperledger/solang"

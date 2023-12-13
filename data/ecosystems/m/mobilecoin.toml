@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/mobilecoinofficial"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mobilecoinfoundation/mc-oblivious"
+
+[[repo]]
+url = "https://github.com/mobilecoinfoundation/mobilecoin"
+
+[[repo]]
+url = "https://github.com/mobilecoinfoundation/rust-mbedtls"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/AEADs"
 
 [[repo]]
@@ -25,16 +34,31 @@ url = "https://github.com/mobilecoinofficial/android-sdk"
 url = "https://github.com/mobilecoinofficial/auxin"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/awesome-apps"
+url = "https://github.com/mobilecoinofficial/awesome-mobilecoin"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/awesome-mobilecoin"
+url = "https://github.com/mobilecoinofficial/axelar-amplifier"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/axelar-grpc-protobuf"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/bigdecimal-rs"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/block-explorer"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/bytes"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/cadence_go"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/cbor"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/cc-rs"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/cmake-rs"
@@ -64,6 +88,9 @@ url = "https://github.com/mobilecoinofficial/diesel"
 url = "https://github.com/mobilecoinofficial/displaydoc"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/docker-rust-sgx-base"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/ed25519-dalek"
 
 [[repo]]
@@ -88,6 +115,9 @@ url = "https://github.com/mobilecoinofficial/full-service-library"
 url = "https://github.com/mobilecoinofficial/full-service-mirror"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/gh-actions"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/gha-docker-helpers"
 
 [[repo]]
@@ -95,6 +125,12 @@ url = "https://github.com/mobilecoinofficial/gha-k8s-toolbox"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/gha-workflow-dispatch"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/git-hooks"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/grapevine"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/greg-signald"
@@ -115,23 +151,31 @@ url = "https://github.com/mobilecoinofficial/hyper"
 url = "https://github.com/mobilecoinofficial/json"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/jwt-compact"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/kube-leader-election"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/ledger-mob"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/libmobilecoin"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/libmobilecoin-ios-artifacts"
+url = "https://github.com/mobilecoinofficial/libmobilecoin-apple-artifacts"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/libmobilecoin-archive"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/loom"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/mc-oblivious"
+url = "https://github.com/mobilecoinofficial/macos_ui"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/mobilecoin"
-tags = ["Protocol"]
+url = "https://github.com/mobilecoinofficial/mc-bomb"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/mobilecoin-incinerator"
@@ -149,22 +193,37 @@ url = "https://github.com/mobilecoinofficial/mobilecoin-python-cli"
 url = "https://github.com/mobilecoinofficial/MobileCoin-Swift"
 
 [[repo]]
-url = "https://github.com/mobilecoinofficial/mobilecoind-mirror"
-
-[[repo]]
 url = "https://github.com/mobilecoinofficial/MobileCoinPressKit"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/mobot"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/moby-live-release"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/moby-obs"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/msgpack-rust"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/obs-websocket-dotnet"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/OBSwiftSocket"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/opentelemetry-rust"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/prometheus-pg-exporter"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/prost"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/protoc-gen-http-swift"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/protoc-grpcio"
@@ -195,9 +254,6 @@ url = "https://github.com/mobilecoinofficial/rusqlite"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/rust-bitcode"
-
-[[repo]]
-url = "https://github.com/mobilecoinofficial/rust-mbedtls"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/rust-trezor-crypto"
@@ -231,6 +287,12 @@ url = "https://github.com/mobilecoinofficial/tf-mc-testnet-consensus-network"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/thrift"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/tofn"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/tofnd"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/traits"

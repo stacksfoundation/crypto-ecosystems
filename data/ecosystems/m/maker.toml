@@ -10,10 +10,25 @@ github_organizations = ["https://github.com/makerdao"]
 url = "https://github.com/burningtree/awesome-makerdao"
 
 [[repo]]
-url = "https://github.com/carlfarterson/automated-cdp"
+url = "https://github.com/daifoundation/dai-plugin-eth2dai-instant"
 
 [[repo]]
-url = "https://github.com/codevet/daipay"
+url = "https://github.com/daifoundation/dai-plugin-maker-otc"
+
+[[repo]]
+url = "https://github.com/daifoundation/maker-otc"
+
+[[repo]]
+url = "https://github.com/daifoundation/maker-otc-orderbook-killer"
+
+[[repo]]
+url = "https://github.com/daifoundation/maker-otc-support-methods"
+
+[[repo]]
+url = "https://github.com/daifoundation/oasis-direct-proxy"
+
+[[repo]]
+url = "https://github.com/defisapiens/decentrapay"
 
 [[repo]]
 url = "https://github.com/diffusioncon/DAI-Daddy-MakerDAO"
@@ -22,13 +37,13 @@ url = "https://github.com/diffusioncon/DAI-Daddy-MakerDAO"
 url = "https://github.com/efemero/cdp-equalizer"
 
 [[repo]]
-url = "https://github.com/euclideanlabs/maker-portfolio"
-
-[[repo]]
 url = "https://github.com/frostiq/makerdao-superdashboard"
 
 [[repo]]
 url = "https://github.com/gcarq/cdpnotify"
+
+[[repo]]
+url = "https://github.com/hansenlin/maker-portfolio"
 
 [[repo]]
 url = "https://github.com/joemccann/api-maker-dao"
@@ -103,9 +118,6 @@ url = "https://github.com/makerdao/audit-2"
 url = "https://github.com/makerdao/audits"
 
 [[repo]]
-url = "https://github.com/makerdao/autoline-keeper"
-
-[[repo]]
 url = "https://github.com/makerdao/awesome-makerdao"
 
 [[repo]]
@@ -178,19 +190,10 @@ url = "https://github.com/makerdao/dai-explorer"
 url = "https://github.com/makerdao/dai-plugin-config"
 
 [[repo]]
-url = "https://github.com/makerdao/dai-plugin-eth2dai-direct"
-
-[[repo]]
-url = "https://github.com/makerdao/dai-plugin-eth2dai-instant"
-
-[[repo]]
 url = "https://github.com/makerdao/dai-plugin-governance"
 
 [[repo]]
 url = "https://github.com/makerdao/dai-plugin-ledger-web"
-
-[[repo]]
-url = "https://github.com/makerdao/dai-plugin-maker-otc"
 
 [[repo]]
 url = "https://github.com/makerdao/dai-plugin-portis"
@@ -307,6 +310,9 @@ url = "https://github.com/makerdao/dss"
 url = "https://github.com/makerdao/dss-add-ilk-spell"
 
 [[repo]]
+url = "https://github.com/makerdao/dss-allocator"
+
+[[repo]]
 url = "https://github.com/makerdao/dss-auth-viz"
 
 [[repo]]
@@ -331,13 +337,13 @@ url = "https://github.com/makerdao/dss-chain-log"
 url = "https://github.com/makerdao/dss-charter"
 
 [[repo]]
+url = "https://github.com/makerdao/dss-conduits"
+
+[[repo]]
 url = "https://github.com/makerdao/dss-cron"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-crop-join"
-
-[[repo]]
-url = "https://github.com/makerdao/dss-darkfix"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-darkspell"
@@ -362,6 +368,9 @@ url = "https://github.com/makerdao/dss-exec-lib"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-exigency"
+
+[[repo]]
+url = "https://github.com/makerdao/dss-flappers"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-flash"
@@ -389,6 +398,9 @@ url = "https://github.com/makerdao/dss-kiln"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-lerp"
+
+[[repo]]
+url = "https://github.com/makerdao/dss-lite-psm"
 
 [[repo]]
 url = "https://github.com/makerdao/dss-onboard-ilk-helper"
@@ -424,13 +436,10 @@ url = "https://github.com/makerdao/dss-vest"
 url = "https://github.com/makerdao/dss-ward"
 
 [[repo]]
-url = "https://github.com/makerdao/dss-wormhole"
+url = "https://github.com/makerdao/endgame-docs"
 
 [[repo]]
 url = "https://github.com/makerdao/esm"
-
-[[repo]]
-url = "https://github.com/makerdao/ethba"
 
 [[repo]]
 url = "https://github.com/makerdao/ethba-feed-slides"
@@ -473,9 +482,6 @@ url = "https://github.com/makerdao/feed-repeater-cli"
 
 [[repo]]
 url = "https://github.com/makerdao/feed-slides"
-
-[[repo]]
-url = "https://github.com/makerdao/feeds"
 
 [[repo]]
 url = "https://github.com/makerdao/feeds-old"
@@ -553,6 +559,9 @@ url = "https://github.com/makerdao/ilk-registry"
 url = "https://github.com/makerdao/integration-examples"
 
 [[repo]]
+url = "https://github.com/makerdao/intro-docs"
+
+[[repo]]
 url = "https://github.com/makerdao/JoinFab"
 
 [[repo]]
@@ -607,7 +616,7 @@ url = "https://github.com/makerdao/keg-dashboard"
 url = "https://github.com/makerdao/klab"
 
 [[repo]]
-url = "https://github.com/makerdao/l2-dss"
+url = "https://github.com/makerdao/line-mom"
 
 [[repo]]
 url = "https://github.com/makerdao/line-spell"
@@ -646,23 +655,20 @@ url = "https://github.com/makerdao/maker-lpc"
 url = "https://github.com/makerdao/maker-market-matcher"
 
 [[repo]]
-url = "https://github.com/makerdao/maker-otc"
-
-[[repo]]
-url = "https://github.com/makerdao/maker-otc-orderbook-killer"
-
-[[repo]]
-url = "https://github.com/makerdao/maker-otc-support-methods"
-
-[[repo]]
 url = "https://github.com/makerdao/maker-user"
 tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/makerdao/makerdao-mips"
 
 [[repo]]
 url = "https://github.com/makerdao/MakerDAO-SourceCred-bot"
 
 [[repo]]
 url = "https://github.com/makerdao/makerDAO-splash"
+
+[[repo]]
+url = "https://github.com/makerdao/makerdao-status"
 
 [[repo]]
 url = "https://github.com/makerdao/makerpkgs"
@@ -678,9 +684,6 @@ url = "https://github.com/makerdao/Matching_Market"
 
 [[repo]]
 url = "https://github.com/makerdao/mcd-cdp-handler"
-
-[[repo]]
-url = "https://github.com/makerdao/mcd-cdp-portal"
 
 [[repo]]
 url = "https://github.com/makerdao/mcd-changelog"
@@ -770,16 +773,10 @@ url = "https://github.com/makerdao/nix-docker-image"
 url = "https://github.com/makerdao/nixpkgs"
 
 [[repo]]
-url = "https://github.com/makerdao/nixpkgs-pin"
-
-[[repo]]
 url = "https://github.com/makerdao/oasis-api"
 
 [[repo]]
 url = "https://github.com/makerdao/oasis-deploy-scripts"
-
-[[repo]]
-url = "https://github.com/makerdao/oasis-direct-proxy"
 
 [[repo]]
 url = "https://github.com/makerdao/oasis-landing"
@@ -854,6 +851,9 @@ url = "https://github.com/makerdao/poker-old"
 url = "https://github.com/makerdao/price-feed"
 
 [[repo]]
+url = "https://github.com/makerdao/protego"
+
+[[repo]]
 url = "https://github.com/makerdao/protocol-metadata"
 
 [[repo]]
@@ -890,6 +890,9 @@ url = "https://github.com/makerdao/quantitative-analysis"
 url = "https://github.com/makerdao/redeem"
 
 [[repo]]
+url = "https://github.com/makerdao/rwa-toolkit"
+
+[[repo]]
 url = "https://github.com/makerdao/sai"
 
 [[repo]]
@@ -924,6 +927,9 @@ url = "https://github.com/makerdao/scd-cdp-portal-chinese"
 
 [[repo]]
 url = "https://github.com/makerdao/scd-mcd-migration"
+
+[[repo]]
+url = "https://github.com/makerdao/sdai"
 
 [[repo]]
 url = "https://github.com/makerdao/services-core"
@@ -974,6 +980,15 @@ url = "https://github.com/makerdao/starknet-dai-bridge"
 url = "https://github.com/makerdao/starknet-dss"
 
 [[repo]]
+url = "https://github.com/makerdao/starknet-dss-bridge-tests"
+
+[[repo]]
+url = "https://github.com/makerdao/starknet-spells-goerli"
+
+[[repo]]
+url = "https://github.com/makerdao/starknet-spells-mainnet"
+
+[[repo]]
 url = "https://github.com/makerdao/starknet-teleport-keeper"
 
 [[repo]]
@@ -998,9 +1013,6 @@ url = "https://github.com/makerdao/terraform-aws-vpc-peering"
 url = "https://github.com/makerdao/testchain"
 
 [[repo]]
-url = "https://github.com/makerdao/testchain-backendgateway"
-
-[[repo]]
 url = "https://github.com/makerdao/testchain-client"
 
 [[repo]]
@@ -1010,13 +1022,7 @@ url = "https://github.com/makerdao/testchain-deployment"
 url = "https://github.com/makerdao/testchain-dockerservice"
 
 [[repo]]
-url = "https://github.com/makerdao/testchain-dss-deployment-scripts"
-
-[[repo]]
 url = "https://github.com/makerdao/testchain-medians"
-
-[[repo]]
-url = "https://github.com/makerdao/testchain-pause-proxy-actions"
 
 [[repo]]
 url = "https://github.com/makerdao/testchain-stack-helloworld"
@@ -1044,6 +1050,9 @@ url = "https://github.com/makerdao/token-faucet"
 
 [[repo]]
 url = "https://github.com/makerdao/token-options"
+
+[[repo]]
+url = "https://github.com/makerdao/token-tests"
 
 [[repo]]
 url = "https://github.com/makerdao/token-wrapper"
@@ -1086,6 +1095,9 @@ url = "https://github.com/makerdao/vdb-postgraphile"
 
 [[repo]]
 url = "https://github.com/makerdao/vdb-transformer-utilities"
+
+[[repo]]
+url = "https://github.com/makerdao/vote-breakdown-bot"
 
 [[repo]]
 url = "https://github.com/makerdao/vote-delegate"
@@ -1208,7 +1220,10 @@ url = "https://github.com/OasisDEX/web3-react"
 url = "https://github.com/OasisDEX/xDex"
 
 [[repo]]
-url = "https://github.com/paradoxDAO/cdper"
+url = "https://github.com/paskals/cdper"
+
+[[repo]]
+url = "https://github.com/pegahcarter/automated-cdp"
 
 [[repo]]
 url = "https://github.com/scocoyash/Splitwise-Dapp"

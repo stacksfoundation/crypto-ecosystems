@@ -7,6 +7,21 @@ github_organizations = ["https://github.com/starcoinorg"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/movefuns/move-js"
+
+[[repo]]
+url = "https://github.com/movefuns/movefuns"
+
+[[repo]]
+url = "https://github.com/movefuns/movetool"
+
+[[repo]]
+url = "https://github.com/movefuns/web3startrek"
+
+[[repo]]
+url = "https://github.com/NonceGeek/MoveDID"
+
+[[repo]]
 url = "https://github.com/starcoinorg/.github"
 
 [[repo]]
@@ -35,9 +50,6 @@ url = "https://github.com/starcoinorg/dao-api"
 
 [[repo]]
 url = "https://github.com/starcoinorg/dapp-demo"
-
-[[repo]]
-url = "https://github.com/starcoinorg/dapps"
 
 [[repo]]
 url = "https://github.com/starcoinorg/diem"
@@ -115,6 +127,9 @@ url = "https://github.com/starcoinorg/sips"
 url = "https://github.com/starcoinorg/slips"
 
 [[repo]]
+url = "https://github.com/starcoinorg/smolstc"
+
+[[repo]]
 url = "https://github.com/starcoinorg/starauction-core"
 
 [[repo]]
@@ -128,6 +143,9 @@ url = "https://github.com/starcoinorg/starcoin-airdrop-api"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-airdrop-service"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starcoin-builder"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-cookbook"
@@ -172,9 +190,6 @@ url = "https://github.com/starcoinorg/starcoin-faucet-worker"
 url = "https://github.com/starcoinorg/starcoin-framework"
 
 [[repo]]
-url = "https://github.com/starcoinorg/starcoin-framework-commons"
-
-[[repo]]
 url = "https://github.com/starcoinorg/starcoin-go"
 
 [[repo]]
@@ -188,6 +203,9 @@ url = "https://github.com/starcoinorg/starcoin-indexer"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-java"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starcoin-jsdk-monorepo"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-nameservice-domain-validator"
@@ -295,9 +313,6 @@ url = "https://github.com/starcoinorg/starswap-v3-sdk"
 url = "https://github.com/starcoinorg/starswap-web3"
 
 [[repo]]
-url = "https://github.com/starcoinorg/startrek"
-
-[[repo]]
 url = "https://github.com/starcoinorg/stc-block-tracker"
 
 [[repo]]
@@ -331,6 +346,9 @@ url = "https://github.com/starcoinorg/stc-multisign-keyring"
 url = "https://github.com/starcoinorg/stc-onekey-keyring"
 
 [[repo]]
+url = "https://github.com/starcoinorg/stc-onekey-keyring-dev"
+
+[[repo]]
 url = "https://github.com/starcoinorg/stc-query"
 
 [[repo]]
@@ -362,9 +380,6 @@ url = "https://github.com/starcoinorg/usbsolver"
 
 [[repo]]
 url = "https://github.com/starcoinorg/volunteer"
-
-[[repo]]
-url = "https://github.com/starcoinorg/web3startrek"
 
 [[repo]]
 url = "https://github.com/starcoinorg/website"

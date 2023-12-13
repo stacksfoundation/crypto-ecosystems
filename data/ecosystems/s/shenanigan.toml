@@ -25,6 +25,9 @@ url = "https://github.com/ShenaniganDApp/community"
 url = "https://github.com/ShenaniganDApp/contracts"
 
 [[repo]]
+url = "https://github.com/ShenaniganDApp/DAO-H3"
+
+[[repo]]
 url = "https://github.com/ShenaniganDApp/dathlete-nft"
 
 [[repo]]
@@ -53,6 +56,9 @@ url = "https://github.com/ShenaniganDApp/infoBot"
 
 [[repo]]
 url = "https://github.com/ShenaniganDApp/operations"
+
+[[repo]]
+url = "https://github.com/ShenaniganDApp/PANTS"
 
 [[repo]]
 url = "https://github.com/ShenaniganDApp/ParticleAccelerator"

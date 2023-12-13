@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/AmbireTech"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AmbireTech/aa-passkeys-wallet"
+
+[[repo]]
 url = "https://github.com/AmbireTech/adex-adview-manager"
 
 [[repo]]
@@ -70,6 +73,12 @@ url = "https://github.com/AmbireTech/ambire-common"
 url = "https://github.com/AmbireTech/ambire-constants"
 
 [[repo]]
+url = "https://github.com/AmbireTech/ambire-deploy-contracts"
+
+[[repo]]
+url = "https://github.com/AmbireTech/ambire-wallet-schnorr-tests"
+
+[[repo]]
 url = "https://github.com/AmbireTech/assets"
 
 [[repo]]
@@ -85,10 +94,19 @@ url = "https://github.com/AmbireTech/cowprotocol-services"
 url = "https://github.com/AmbireTech/cowswap-impl-1271"
 
 [[repo]]
+url = "https://github.com/AmbireTech/ddkim-verification"
+
+[[repo]]
 url = "https://github.com/AmbireTech/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/AmbireTech/eip-6492"
+
+[[repo]]
 url = "https://github.com/AmbireTech/eip1271-fix-snapshot.js"
+
+[[repo]]
+url = "https://github.com/AmbireTech/EIPs"
 
 [[repo]]
 url = "https://github.com/AmbireTech/eth-contract-metadata"
@@ -127,6 +145,12 @@ url = "https://github.com/AmbireTech/MultiSigWallet"
 url = "https://github.com/AmbireTech/openzeppelin-contracts"
 
 [[repo]]
+url = "https://github.com/AmbireTech/rpc-proxy"
+
+[[repo]]
+url = "https://github.com/AmbireTech/safe-apps-sdk"
+
+[[repo]]
 url = "https://github.com/AmbireTech/signature-validator"
 
 [[repo]]
@@ -134,6 +158,12 @@ url = "https://github.com/AmbireTech/snapshot-hub-1271-impl"
 
 [[repo]]
 url = "https://github.com/AmbireTech/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/AmbireTech/solidity-dkim"
+
+[[repo]]
+url = "https://github.com/AmbireTech/solidity-dkim-1"
 
 [[repo]]
 url = "https://github.com/AmbireTech/subgraph-v2"
@@ -166,10 +196,16 @@ url = "https://github.com/AmbireTech/uniswap-solidity"
 url = "https://github.com/AmbireTech/uniswap-token-list"
 
 [[repo]]
+url = "https://github.com/AmbireTech/universal-router-sdk"
+
+[[repo]]
 url = "https://github.com/AmbireTech/wallet"
 
 [[repo]]
 url = "https://github.com/AmbireTech/wallet-dapp-catalog"
+
+[[repo]]
+url = "https://github.com/AmbireTech/wallet-login-sdk"
 
 [[repo]]
 url = "https://github.com/AmbireTech/wc-batch-transaction-aave"
@@ -194,9 +230,6 @@ url = "https://github.com/AmbireTech/wc-send-batch-tx-quickswap-interface"
 
 [[repo]]
 url = "https://github.com/AmbireTech/wc-send-batch-tx-synthetix-dashboard"
-
-[[repo]]
-url = "https://github.com/AmbireTech/wc-send-batch-tx-uniswap-interface"
 
 [[repo]]
 url = "https://github.com/AmbireTech/wc-send-batch-tx-yearn-finance-v3"

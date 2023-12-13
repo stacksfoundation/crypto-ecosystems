@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/lcnem"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/lcnem/botany"
+url = "https://github.com/CauchyE/telescope"
 
 [[repo]]
 url = "https://github.com/lcnem/cosmos-client-ts"
@@ -22,9 +22,6 @@ url = "https://github.com/lcnem/identity"
 url = "https://github.com/lcnem/ioux"
 
 [[repo]]
-url = "https://github.com/lcnem/jpyx"
-
-[[repo]]
 url = "https://github.com/lcnem/node-toller"
 
 [[repo]]
@@ -37,10 +34,13 @@ url = "https://github.com/lcnem/proximax-pegzone"
 url = "https://github.com/lcnem/pxb-client-ts"
 
 [[repo]]
-url = "https://github.com/lcnem/telescope"
-
-[[repo]]
 url = "https://github.com/lcnem/ticket-p2p"
 
 [[repo]]
 url = "https://github.com/lcnem/trust"
+
+[[repo]]
+url = "https://github.com/UnUniFi/chain"
+
+[[repo]]
+url = "https://github.com/UnUniFi/utils"

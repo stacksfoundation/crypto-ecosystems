@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/pancakeswap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/pancakeswap/airdrop-v3-users"
+
+[[repo]]
 url = "https://github.com/pancakeswap/bsctokenlists-org"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/pancakeswap/cake-supply-api"
 
 [[repo]]
 url = "https://github.com/pancakeswap/eslint-config-pancake"
+
+[[repo]]
+url = "https://github.com/pancakeswap/eslint-plugin-address"
 
 [[repo]]
 url = "https://github.com/pancakeswap/gasprice"
@@ -31,6 +37,12 @@ url = "https://github.com/pancakeswap/initial-farm-offering"
 url = "https://github.com/pancakeswap/lottery-contract"
 
 [[repo]]
+url = "https://github.com/pancakeswap/on-ramp-client-side-api"
+
+[[repo]]
+url = "https://github.com/pancakeswap/onRampClientSideApi"
+
+[[repo]]
 url = "https://github.com/pancakeswap/pancake-api"
 
 [[repo]]
@@ -44,9 +56,6 @@ url = "https://github.com/pancakeswap/pancake-farm"
 
 [[repo]]
 url = "https://github.com/pancakeswap/pancake-frontend"
-
-[[repo]]
-url = "https://github.com/pancakeswap/pancake-info"
 
 [[repo]]
 url = "https://github.com/pancakeswap/pancake-info-api"
@@ -76,9 +85,6 @@ url = "https://github.com/pancakeswap/pancake-subgraph"
 url = "https://github.com/pancakeswap/pancake-swap-core"
 
 [[repo]]
-url = "https://github.com/pancakeswap/pancake-swap-interface"
-
-[[repo]]
 url = "https://github.com/pancakeswap/pancake-swap-interface-v1"
 
 [[repo]]
@@ -106,10 +112,10 @@ url = "https://github.com/pancakeswap/pancake-uikit"
 url = "https://github.com/pancakeswap/pancake-v2-subgraph"
 
 [[repo]]
-url = "https://github.com/pancakeswap/PancakeSwap-Design"
+url = "https://github.com/pancakeswap/pancake-v3-contracts"
 
 [[repo]]
-url = "https://github.com/pancakeswap/pancakeswap-sdk"
+url = "https://github.com/pancakeswap/PancakeSwap-Design"
 
 [[repo]]
 url = "https://github.com/pancakeswap/pancakeswap-sdk-v1"
@@ -118,10 +124,13 @@ url = "https://github.com/pancakeswap/pancakeswap-sdk-v1"
 url = "https://github.com/pancakeswap/pancakeswap-sdk-v2"
 
 [[repo]]
-url = "https://github.com/pancakeswap/pancakeswap-v2-subgraph"
+url = "https://github.com/pancakeswap/permit2"
 
 [[repo]]
 url = "https://github.com/pancakeswap/Revelation-Hackathon-Bounties"
+
+[[repo]]
+url = "https://github.com/pancakeswap/smart-router-example"
 
 [[repo]]
 url = "https://github.com/pancakeswap/snapshot"
@@ -137,6 +146,9 @@ url = "https://github.com/pancakeswap/snapshot.js"
 
 [[repo]]
 url = "https://github.com/pancakeswap/swap-orders-lib"
+
+[[repo]]
+url = "https://github.com/pancakeswap/syrup-pool-data-api"
 
 [[repo]]
 url = "https://github.com/pancakeswap/token-list"

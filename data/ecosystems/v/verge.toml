@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/vergecurrency"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/vergecurrency/.github"
+
+[[repo]]
 url = "https://github.com/vergecurrency/BitcoinKit"
 
 [[repo]]
@@ -14,9 +17,6 @@ url = "https://github.com/vergecurrency/bitcore"
 
 [[repo]]
 url = "https://github.com/vergecurrency/bitsquare"
-
-[[repo]]
-url = "https://github.com/vergecurrency/blue-app-btc"
 
 [[repo]]
 url = "https://github.com/vergecurrency/btcd"
@@ -29,6 +29,9 @@ url = "https://github.com/vergecurrency/btcutil"
 
 [[repo]]
 url = "https://github.com/vergecurrency/ccminer"
+
+[[repo]]
+url = "https://github.com/vergecurrency/coinslib"
 
 [[repo]]
 url = "https://github.com/vergecurrency/CoreBitcoin"
@@ -80,6 +83,9 @@ url = "https://github.com/vergecurrency/go-x17"
 
 [[repo]]
 url = "https://github.com/vergecurrency/insight-api"
+
+[[repo]]
+url = "https://github.com/vergecurrency/ISO20022"
 
 [[repo]]
 url = "https://github.com/vergecurrency/JavaInsightClient"
@@ -191,6 +197,9 @@ url = "https://github.com/vergecurrency/verge-ios"
 url = "https://github.com/vergecurrency/verge-online-brand"
 
 [[repo]]
+url = "https://github.com/vergecurrency/verge-paperwallet"
+
+[[repo]]
 url = "https://github.com/vergecurrency/verge-price-ticker"
 
 [[repo]]
@@ -201,9 +210,6 @@ url = "https://github.com/vergecurrency/verge-python3"
 
 [[repo]]
 url = "https://github.com/vergecurrency/verge-quasar-wallet"
-
-[[repo]]
-url = "https://github.com/vergecurrency/verge-ruby"
 
 [[repo]]
 url = "https://github.com/vergecurrency/verge-ruby-client"
@@ -221,7 +227,13 @@ url = "https://github.com/vergecurrency/vergecurrency.com"
 url = "https://github.com/vergecurrency/vergejs-lib"
 
 [[repo]]
+url = "https://github.com/vergecurrency/VergeX"
+
+[[repo]]
 url = "https://github.com/vergecurrency/vIOS"
+
+[[repo]]
+url = "https://github.com/vergecurrency/vips"
 
 [[repo]]
 url = "https://github.com/vergecurrency/vWallet"

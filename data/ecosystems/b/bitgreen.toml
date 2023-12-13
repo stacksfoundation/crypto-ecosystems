@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/bitgreen", "https://github.com/bitgr
 
 # Repositories
 [[repo]]
+url = "https://github.com/bitcoin-green/discord_airdrop"
+
+[[repo]]
+url = "https://github.com/bitcoin-green/FatH-frontend"
+
+[[repo]]
+url = "https://github.com/bitcoin-green/FoldingAtHome-Rewards"
+
+[[repo]]
 url = "https://github.com/bitgreen-official/bitgreen"
 
 [[repo]]
@@ -25,12 +34,6 @@ url = "https://github.com/bitgreen/bitg-address-signer"
 url = "https://github.com/bitgreen/bitg-airdrop-verifier"
 
 [[repo]]
-url = "https://github.com/bitgreen/bitg-node"
-
-[[repo]]
-url = "https://github.com/bitgreen/bitg-swap-tool"
-
-[[repo]]
 url = "https://github.com/bitgreen/bitgreen-node"
 
 [[repo]]
@@ -40,13 +43,19 @@ url = "https://github.com/bitgreen/bitgreen-node1"
 url = "https://github.com/bitgreen/browser-wallet"
 
 [[repo]]
-url = "https://github.com/bitgreen/discord_airdrop"
+url = "https://github.com/bitgreen/carbon-api"
 
 [[repo]]
-url = "https://github.com/bitgreen/FatH-frontend"
+url = "https://github.com/bitgreen/carbon-api-dashboard"
 
 [[repo]]
-url = "https://github.com/bitgreen/FoldingAtHome-Rewards"
+url = "https://github.com/bitgreen/carbon-dashboard"
+
+[[repo]]
+url = "https://github.com/bitgreen/EIP-712"
+
+[[repo]]
+url = "https://github.com/bitgreen/explorer"
 
 [[repo]]
 url = "https://github.com/bitgreen/Grants-Program"
@@ -56,6 +65,9 @@ url = "https://github.com/bitgreen/GraphicAssets"
 
 [[repo]]
 url = "https://github.com/bitgreen/node-cache-engine"
+
+[[repo]]
+url = "https://github.com/bitgreen/payment-gateway"
 
 [[repo]]
 url = "https://github.com/bitgreen/teslapi"

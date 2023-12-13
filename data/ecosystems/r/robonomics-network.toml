@@ -40,6 +40,9 @@ url = "https://github.com/airalab/airalab.io"
 url = "https://github.com/airalab/airapkgs"
 
 [[repo]]
+url = "https://github.com/airalab/airrohr-firmware-flasher"
+
+[[repo]]
 url = "https://github.com/airalab/ansible-robonomics-network"
 
 [[repo]]
@@ -79,16 +82,10 @@ url = "https://github.com/airalab/dapp-de-simulation"
 url = "https://github.com/airalab/dapp-railway-game"
 
 [[repo]]
-url = "https://github.com/airalab/dapp-robonomics.network"
-
-[[repo]]
 url = "https://github.com/airalab/dapp-validator-simple"
 
 [[repo]]
 url = "https://github.com/airalab/dapp.robonomics.network"
-
-[[repo]]
-url = "https://github.com/airalab/de_direct"
 
 [[repo]]
 url = "https://github.com/airalab/devcon5"
@@ -116,9 +113,6 @@ url = "https://github.com/airalab/gacka-chu-provider"
 
 [[repo]]
 url = "https://github.com/airalab/gaka-chu-dapp"
-
-[[repo]]
-url = "https://github.com/airalab/gaka-chu.online"
 
 [[repo]]
 url = "https://github.com/airalab/get-robonomics-network"
@@ -208,6 +202,12 @@ url = "https://github.com/airalab/robonomics-3"
 url = "https://github.com/airalab/robonomics-4"
 
 [[repo]]
+url = "https://github.com/airalab/robonomics-5"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-6"
+
+[[repo]]
 url = "https://github.com/airalab/robonomics-client-cpp"
 
 [[repo]]
@@ -215,9 +215,6 @@ url = "https://github.com/airalab/robonomics-grant-program"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-grant-results"
-
-[[repo]]
-url = "https://github.com/airalab/robonomics-grants-program"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-hass-utils"
@@ -259,6 +256,9 @@ url = "https://github.com/airalab/robonomics.academy"
 url = "https://github.com/airalab/robonomics.cloud"
 
 [[repo]]
+url = "https://github.com/airalab/robonomics.cloud-some-old-dapp"
+
+[[repo]]
 url = "https://github.com/airalab/robonomics.events"
 
 [[repo]]
@@ -298,6 +298,9 @@ url = "https://github.com/airalab/RoSeMAN"
 url = "https://github.com/airalab/sensors-connectivity"
 
 [[repo]]
+url = "https://github.com/airalab/sensors-software"
+
+[[repo]]
 url = "https://github.com/airalab/sensors.robonomics.network"
 
 [[repo]]
@@ -305,9 +308,6 @@ url = "https://github.com/airalab/spot-sdk.education"
 
 [[repo]]
 url = "https://github.com/airalab/substrate"
-
-[[repo]]
-url = "https://github.com/airalab/substrate-node-robonomics"
 
 [[repo]]
 url = "https://github.com/airalab/substrate-ros"
@@ -340,4 +340,10 @@ url = "https://github.com/airalab/xcm-robobank-prototype"
 url = "https://github.com/airalab/xrt-lp-rewards"
 
 [[repo]]
+url = "https://github.com/DistributedSky/drone_passport_agent"
+
+[[repo]]
 url = "https://github.com/merklebot/telescope.merklebot.com"
+
+[[repo]]
+url = "https://github.com/Multi-Agent-io/gaka-chu.online"

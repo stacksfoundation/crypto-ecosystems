@@ -7,10 +7,13 @@ github_organizations = ["https://github.com/orca-so"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/orca-so/anchor-gen"
+
+[[repo]]
 url = "https://github.com/orca-so/aquafarm-sdk"
 
 [[repo]]
-url = "https://github.com/orca-so/common-sdk"
+url = "https://github.com/orca-so/duckdb-async"
 
 [[repo]]
 url = "https://github.com/orca-so/orca-sdks"
@@ -26,6 +29,9 @@ url = "https://github.com/orca-so/solana-program-library"
 
 [[repo]]
 url = "https://github.com/orca-so/stablecurve"
+
+[[repo]]
+url = "https://github.com/orca-so/taipei-hh-2023"
 
 [[repo]]
 url = "https://github.com/orca-so/token-list"

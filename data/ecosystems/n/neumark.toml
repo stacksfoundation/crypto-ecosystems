@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/Neufund"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dethcrypto/TypeChain"
+
+[[repo]]
 url = "https://github.com/Neufund/authentication-client"
 
 [[repo]]
 url = "https://github.com/Neufund/authentication-server"
-
-[[repo]]
-url = "https://github.com/Neufund/commit.neufund.org"
 
 [[repo]]
 url = "https://github.com/Neufund/connexion"
@@ -188,9 +188,6 @@ url = "https://github.com/Neufund/truffle-deployer"
 
 [[repo]]
 url = "https://github.com/Neufund/truffle-flattener"
-
-[[repo]]
-url = "https://github.com/Neufund/TypeChain"
 
 [[repo]]
 url = "https://github.com/Neufund/walletconnect-example-dapp"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/aave", "https://github.com/ExtraCred
 
 # Repositories
 [[repo]]
+url = "https://github.com/aave/aave-address-book"
+
+[[repo]]
 url = "https://github.com/aave/aave-addresses"
 
 [[repo]]
@@ -16,6 +19,12 @@ url = "https://github.com/aave/aave-api"
 url = "https://github.com/aave/aave-asset-listing"
 
 [[repo]]
+url = "https://github.com/aave/aave-debt-swap"
+
+[[repo]]
+url = "https://github.com/aave/aave-gho-aip"
+
+[[repo]]
 url = "https://github.com/aave/aave-gitcoin-hackaton-2019"
 
 [[repo]]
@@ -23,6 +32,12 @@ url = "https://github.com/aave/aave-grants-update-and-renewal"
 
 [[repo]]
 url = "https://github.com/aave/aave-js"
+
+[[repo]]
+url = "https://github.com/aave/aave-proposals"
+
+[[repo]]
+url = "https://github.com/aave/aave-proposals-aip"
 
 [[repo]]
 url = "https://github.com/aave/aave-protocol"
@@ -60,6 +75,9 @@ url = "https://github.com/aave/aave-v3-deploy"
 
 [[repo]]
 url = "https://github.com/aave/aave-v3-periphery"
+
+[[repo]]
+url = "https://github.com/aave/Aave-Vault"
 
 [[repo]]
 url = "https://github.com/aave/aavenomics"
@@ -104,6 +122,9 @@ url = "https://github.com/aave/deposit-borrow-box"
 url = "https://github.com/aave/dlp-docs-abi"
 
 [[repo]]
+url = "https://github.com/aave/docs-gho"
+
+[[repo]]
 url = "https://github.com/aave/docs-v2"
 
 [[repo]]
@@ -120,6 +141,21 @@ url = "https://github.com/aave/flashloan-box"
 
 [[repo]]
 url = "https://github.com/aave/genesis-migration"
+
+[[repo]]
+url = "https://github.com/aave/gho-aip"
+
+[[repo]]
+url = "https://github.com/aave/gho-brand-assets"
+
+[[repo]]
+url = "https://github.com/aave/gho-bug-bounty"
+
+[[repo]]
+url = "https://github.com/aave/gho-core"
+
+[[repo]]
+url = "https://github.com/aave/gho-interface"
 
 [[repo]]
 url = "https://github.com/aave/gho-public"
@@ -140,19 +176,10 @@ url = "https://github.com/aave/governance-v2-subgraph"
 url = "https://github.com/aave/incentives-controller"
 
 [[repo]]
-url = "https://github.com/aave/incentives-proposal"
-
-[[repo]]
 url = "https://github.com/aave/interface"
 
 [[repo]]
-url = "https://github.com/aave/lens-api-examples"
-
-[[repo]]
-url = "https://github.com/aave/lens-brand-kit"
-
-[[repo]]
-url = "https://github.com/aave/lens-protocol"
+url = "https://github.com/aave/interface-data"
 
 [[repo]]
 url = "https://github.com/aave/liquidation-ui"
@@ -178,9 +205,6 @@ url = "https://github.com/aave/protocol-subgraphs"
 [[repo]]
 url = "https://github.com/aave/protocol-v2"
 tags = ["Protocol"]
-
-[[repo]]
-url = "https://github.com/aave/protocol-v2-subgraph"
 
 [[repo]]
 url = "https://github.com/aave/risk-v3"
@@ -216,7 +240,19 @@ url = "https://github.com/aave/v3-retroactive-funding"
 url = "https://github.com/aave/walletconnect-connector"
 
 [[repo]]
+url = "https://github.com/Certora/static-a-token-v3"
+
+[[repo]]
 url = "https://github.com/ExtraCredit-Team/ExtraCredit"
 
 [[repo]]
 url = "https://github.com/ExtraCredit-Team/extracredit-landing"
+
+[[repo]]
+url = "https://github.com/lens-protocol/api-examples"
+
+[[repo]]
+url = "https://github.com/lens-protocol/brand-kit"
+
+[[repo]]
+url = "https://github.com/lens-protocol/core"

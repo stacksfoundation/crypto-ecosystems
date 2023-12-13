@@ -3,9 +3,219 @@ title = "Ocean Protocol"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/oceanprotocol"]
+github_organizations = ["https://github.com/deltaDAO", "https://github.com/oceanprotocol"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/deltaDAO/.github"
+
+[[repo]]
+url = "https://github.com/deltaDAO/awesome-dao"
+
+[[repo]]
+url = "https://github.com/deltaDAO/backend_setup_guide"
+
+[[repo]]
+url = "https://github.com/deltaDAO/blockscout"
+
+[[repo]]
+url = "https://github.com/deltaDAO/contracts"
+
+[[repo]]
+url = "https://github.com/deltaDAO/dockerhub-proxy"
+
+[[repo]]
+url = "https://github.com/deltaDAO/files"
+
+[[repo]]
+url = "https://github.com/deltaDAO/flux2-kustomize-helm-example"
+
+[[repo]]
+url = "https://github.com/deltaDAO/flux2-multi-tenancy"
+
+[[repo]]
+url = "https://github.com/deltaDAO/GAIA-X-Mobile-Catalogue"
+
+[[repo]]
+url = "https://github.com/deltaDAO/gaia-x-snapshot"
+
+[[repo]]
+url = "https://github.com/deltaDAO/gaia-x-testnet-statistics"
+
+[[repo]]
+url = "https://github.com/deltaDAO/gaia-x-testnet-statistics-api"
+
+[[repo]]
+url = "https://github.com/deltaDAO/kubernetes-ocean-stack-flux"
+
+[[repo]]
+url = "https://github.com/deltaDAO/market-foreverontheblockchain"
+
+[[repo]]
+url = "https://github.com/deltaDAO/mvg-catalogue"
+
+[[repo]]
+url = "https://github.com/deltaDAO/mvg-hackathon-overview"
+
+[[repo]]
+url = "https://github.com/deltaDAO/mvg-portal"
+
+[[repo]]
+url = "https://github.com/deltaDAO/nautilus"
+
+[[repo]]
+url = "https://github.com/deltaDAO/nautilus-examples"
+
+[[repo]]
+url = "https://github.com/deltaDAO/normalize-microservice"
+
+[[repo]]
+url = "https://github.com/deltaDAO/Ocean-Market"
+
+[[repo]]
+url = "https://github.com/deltaDAO/Ocean-Protocol-Use-Cases"
+
+[[repo]]
+url = "https://github.com/deltaDAO/ocean.js"
+
+[[repo]]
+url = "https://github.com/deltaDAO/ocean.py"
+
+[[repo]]
+url = "https://github.com/deltaDAO/operator-engine"
+
+[[repo]]
+url = "https://github.com/deltaDAO/operator-service"
+
+[[repo]]
+url = "https://github.com/deltaDAO/pandoras-box"
+
+[[repo]]
+url = "https://github.com/deltaDAO/pod-configuration"
+
+[[repo]]
+url = "https://github.com/deltaDAO/pod-publishing"
+
+[[repo]]
+url = "https://github.com/deltaDAO/pontus-x-docs"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-euprogigant"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-fmdm"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-moveID"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-peaq"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-rws"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-safeFBDC"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-sbb"
+
+[[repo]]
+url = "https://github.com/deltaDAO/portal-udl"
+
+[[repo]]
+url = "https://github.com/deltaDAO/provider"
+
+[[repo]]
+url = "https://github.com/deltaDAO/Self-Description-Lifecycle-Management"
+
+[[repo]]
+url = "https://github.com/deltaDAO/self-description-signer"
+
+[[repo]]
+url = "https://github.com/deltaDAO/self-description-signing-api"
+
+[[repo]]
+url = "https://github.com/deltaDAO/self-description-signing-app"
+
+[[repo]]
+url = "https://github.com/deltaDAO/SelfDescriptions"
+
+[[repo]]
+url = "https://github.com/deltaDAO/simple-block-history-visualization"
+
+[[repo]]
+url = "https://github.com/deltaDAO/vp-registry"
+
+[[repo]]
+url = "https://github.com/deltaDAO/waltid-issuer-portal"
+
+[[repo]]
+url = "https://github.com/deltaDAO/waltid-verifier-portal"
+
+[[repo]]
+url = "https://github.com/deltaDAO/waltid-web-wallet"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/blockscout"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/bounties"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/bounties-api"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/bridge-ui"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/brizo"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/commons"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/echidna"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/list-datapartners"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/mantaray"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/mantaray_jupyter"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/mantaray_utilities"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/Nautilus"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/parity-ethereum"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/poa-bridge-contracts"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/react-demo"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/react-tutorial"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/test-algorithm"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/token-bridge"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/token-bridge-validator"
+
+[[repo]]
+url = "https://github.com/oceanprotocol-archive/webtasks"
+
 [[repo]]
 url = "https://github.com/oceanprotocol/.github"
 
@@ -28,25 +238,13 @@ url = "https://github.com/oceanprotocol/art"
 url = "https://github.com/oceanprotocol/barge"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/blockscout"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/bondingCurvesUX"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/bounties"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/bounties-api"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/bridge-ui"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/BrightID-Registry"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/brizo"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/c2d-examples"
@@ -55,7 +253,7 @@ url = "https://github.com/oceanprotocol/c2d-examples"
 url = "https://github.com/oceanprotocol/c2d_barge"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/cdt-algorithms"
+url = "https://github.com/oceanprotocol/circulating-supply-api"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/cloud-storage-providers"
@@ -65,9 +263,6 @@ url = "https://github.com/oceanprotocol/common-utils-java"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/common-utils-py"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/commons"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/community-numbers"
@@ -85,7 +280,16 @@ url = "https://github.com/oceanprotocol/dao-treasury-manager"
 url = "https://github.com/oceanprotocol/DAOBot"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/data-challenges"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/datascience"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/dbs-ui-lib"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/dbs.js"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/dbs_arweave"
@@ -94,13 +298,16 @@ url = "https://github.com/oceanprotocol/dbs_arweave"
 url = "https://github.com/oceanprotocol/dbs_filecoin"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/dbs_ipfs"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/decentralized_storage_backend"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/dev-ocean"
+url = "https://github.com/oceanprotocol/demo-dbs-ui"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/devjobs"
+url = "https://github.com/oceanprotocol/dev-ocean"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/df-issues"
@@ -121,9 +328,6 @@ url = "https://github.com/oceanprotocol/df-web"
 url = "https://github.com/oceanprotocol/dfblocks"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/dfpy-sql-backend"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/dmca"
 
 [[repo]]
@@ -134,9 +338,6 @@ url = "https://github.com/oceanprotocol/docs"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/dori"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/echidna"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/ens-proxy"
@@ -157,6 +358,9 @@ url = "https://github.com/oceanprotocol/faucet"
 url = "https://github.com/oceanprotocol/faucet-old"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/fetch"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/fileinfo"
 
 [[repo]]
@@ -167,6 +371,9 @@ url = "https://github.com/oceanprotocol/github-projects"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/graph-node"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/insights"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/ipfs"
@@ -187,22 +394,10 @@ url = "https://github.com/oceanprotocol/keeper-experimental"
 url = "https://github.com/oceanprotocol/keeper-py-lib"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/list-datapartners"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/list-purgatory"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/lungfish"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/mantaray"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/mantaray_jupyter"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/mantaray_utilities"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/market"
@@ -220,9 +415,6 @@ url = "https://github.com/oceanprotocol/market2"
 url = "https://github.com/oceanprotocol/marketplace-launchpad"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/multi-repo-issue"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/MultiSigWallet"
 
 [[repo]]
@@ -238,16 +430,7 @@ url = "https://github.com/oceanprotocol/musicmap"
 url = "https://github.com/oceanprotocol/nautilina"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/Nautilus"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/negative-label-lists"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/ocean"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/ocean-bounties"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/ocean-cli"
@@ -268,9 +451,6 @@ url = "https://github.com/oceanprotocol/ocean-files"
 url = "https://github.com/oceanprotocol/ocean-lib-py2"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/ocean-react-demo"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/ocean-remark"
 
 [[repo]]
@@ -287,6 +467,9 @@ url = "https://github.com/oceanprotocol/ocean.js"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/ocean.js-cli"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/ocean.js-react-native-wrapper"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/ocean.js2"
@@ -355,7 +538,40 @@ url = "https://github.com/oceanprotocol/osmosis-on-premise-driver"
 url = "https://github.com/oceanprotocol/papers"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/parity-ethereum"
+url = "https://github.com/oceanprotocol/pdr-art"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-backend"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-model-simple"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-predictoor"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-predictoors"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-publisher"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-sapphire-wrapper"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-trader"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-trueval"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-utils"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-web"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/pdr-websocket"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/Plecos"
@@ -370,7 +586,7 @@ url = "https://github.com/oceanprotocol/pleuston"
 url = "https://github.com/oceanprotocol/pm"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/poa-bridge-contracts"
+url = "https://github.com/oceanprotocol/pm-s2"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/pod-configuration"
@@ -382,16 +598,16 @@ url = "https://github.com/oceanprotocol/pod-publishing"
 url = "https://github.com/oceanprotocol/predict-eth"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/predict-eth-data-sources"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/predict-eth-judge"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/price-fetch-server"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/provider"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/provider-py"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/proxy-server"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/pybundlr"
@@ -406,10 +622,19 @@ url = "https://github.com/oceanprotocol/react"
 url = "https://github.com/oceanprotocol/react-demo"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/react-tutorial"
+url = "https://github.com/oceanprotocol/readthedocs"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/readthedocs"
+url = "https://github.com/oceanprotocol/s2-data-challenges"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/saphire-rpc-proxy"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/sapphire.py"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/sapphirepy"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/scripts"
@@ -439,6 +664,12 @@ url = "https://github.com/oceanprotocol/squid-js"
 url = "https://github.com/oceanprotocol/squid-py"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/staged-recipes"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/stats"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/status"
 
 [[repo]]
@@ -451,22 +682,13 @@ url = "https://github.com/oceanprotocol/status-frontend"
 url = "https://github.com/oceanprotocol/status-monitoring-service"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/status-service"
-
-[[repo]]
 url = "https://github.com/oceanprotocol/storj-aea"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/subgraph-fetch-price"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/test-algorithm"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/testdatasets"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/token-bridge"
+url = "https://github.com/oceanprotocol/ticketing"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/token-bridge-contracts"
@@ -475,16 +697,10 @@ url = "https://github.com/oceanprotocol/token-bridge-contracts"
 url = "https://github.com/oceanprotocol/token-bridge-ui"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/token-bridge-validator"
+url = "https://github.com/oceanprotocol/token-gating-template"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/tokenspice"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/tokenspice0.1"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/tokenspice2"
+url = "https://github.com/oceanprotocol/tokengated-next-chatgpt"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/tuna"
@@ -493,10 +709,34 @@ url = "https://github.com/oceanprotocol/tuna"
 url = "https://github.com/oceanprotocol/tweetbot"
 
 [[repo]]
+url = "https://github.com/oceanprotocol/uploader-ui"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader-ui-lib"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader.js"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader_arweave"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader_backend"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader_filecoin"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/uploader_ipfs"
+
+[[repo]]
 url = "https://github.com/oceanprotocol/use-dark-mode"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/use-persisted-state"
+
+[[repo]]
+url = "https://github.com/oceanprotocol/user-queries"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/v4-migration-lib"
@@ -508,13 +748,16 @@ url = "https://github.com/oceanprotocol/versions"
 url = "https://github.com/oceanprotocol/vw-cli"
 
 [[repo]]
-url = "https://github.com/oceanprotocol/webtasks"
-
-[[repo]]
-url = "https://github.com/oceanprotocol/whitepaper"
+url = "https://github.com/oceanprotocol/waves"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/wiki"
 
 [[repo]]
 url = "https://github.com/oceanprotocol/wrappedGX"
+
+[[repo]]
+url = "https://github.com/tokenspice/tokenspice"
+
+[[repo]]
+url = "https://github.com/tokenspice/tokenspice0.1"

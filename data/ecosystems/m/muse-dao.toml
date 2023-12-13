@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/verynifty"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/verynifty/6551.js"
+
+[[repo]]
 url = "https://github.com/verynifty/arbitrager"
 
 [[repo]]
@@ -46,16 +49,28 @@ url = "https://github.com/verynifty/ethcmd"
 url = "https://github.com/verynifty/ethereum-proxy-multi-rpc"
 
 [[repo]]
+url = "https://github.com/verynifty/etherpage"
+
+[[repo]]
 url = "https://github.com/verynifty/ethworld-game-solidity"
 
 [[repo]]
+url = "https://github.com/verynifty/fastdapp"
+
+[[repo]]
 url = "https://github.com/verynifty/flashloan-demo"
+
+[[repo]]
+url = "https://github.com/verynifty/gatekeeper"
 
 [[repo]]
 url = "https://github.com/verynifty/headhunter"
 
 [[repo]]
 url = "https://github.com/verynifty/home"
+
+[[repo]]
+url = "https://github.com/verynifty/hot-chain-maps"
 
 [[repo]]
 url = "https://github.com/verynifty/hot-chain-svg"
@@ -85,6 +100,9 @@ url = "https://github.com/verynifty/musedao-contribution"
 url = "https://github.com/verynifty/nft-data"
 
 [[repo]]
+url = "https://github.com/verynifty/nft-data-backend"
+
+[[repo]]
 url = "https://github.com/verynifty/nft-fetch-metadata"
 
 [[repo]]
@@ -107,6 +125,12 @@ url = "https://github.com/verynifty/NFT20-flashloan"
 
 [[repo]]
 url = "https://github.com/verynifty/nft20.js"
+
+[[repo]]
+url = "https://github.com/verynifty/ordinals-collections"
+
+[[repo]]
+url = "https://github.com/verynifty/ordinals-js"
 
 [[repo]]
 url = "https://github.com/verynifty/punkfomo.com"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/NEST-Protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/NEST-Protocol/assets"
+
+[[repo]]
 url = "https://github.com/NEST-Protocol/kusTokenList"
 
 [[repo]]
@@ -47,15 +50,6 @@ url = "https://github.com/NEST-Protocol/NEST-oracle-V2"
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/NEST-oracle-V3"
-
-[[repo]]
-url = "https://github.com/NEST-Protocol/NEST-oracle-V3-miner"
-
-[[repo]]
-url = "https://github.com/NEST-Protocol/NEST-oracle-V3-verifier"
-
-[[repo]]
-url = "https://github.com/NEST-Protocol/NEST-oracle-V3-web"
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/NEST-oracle-V3.5"
@@ -115,10 +109,22 @@ url = "https://github.com/NEST-Protocol/NEST-Website-CMS"
 url = "https://github.com/NEST-Protocol/NEST-Workspace"
 
 [[repo]]
-url = "https://github.com/NEST-Protocol/NESTRedEnvelopesBot"
+url = "https://github.com/NEST-Protocol/NESTCraft-Playground"
 
 [[repo]]
-url = "https://github.com/NEST-Protocol/nips"
+url = "https://github.com/NEST-Protocol/NESTFi-Dune-Queries"
+
+[[repo]]
+url = "https://github.com/NEST-Protocol/NESTFi-Sentio-Datasource"
+
+[[repo]]
+url = "https://github.com/NEST-Protocol/NESTFiBot"
+
+[[repo]]
+url = "https://github.com/NEST-Protocol/NESTFiBot-Web"
+
+[[repo]]
+url = "https://github.com/NEST-Protocol/NESTRedEnvelopesBot"
 
 [[repo]]
 url = "https://github.com/NEST-Protocol/oracle-kline-demo"

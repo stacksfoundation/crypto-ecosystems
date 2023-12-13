@@ -7,7 +7,52 @@ github_organizations = ["https://github.com/demergent-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/demergent-labs/agent-js"
+
+[[repo]]
+url = "https://github.com/demergent-labs/agent-js-candid"
+
+[[repo]]
 url = "https://github.com/demergent-labs/azle"
+
+[[repo]]
+url = "https://github.com/demergent-labs/azle-syn"
+
+[[repo]]
+url = "https://github.com/demergent-labs/azle-uuid"
+
+[[repo]]
+url = "https://github.com/demergent-labs/azle_hello_world"
+
+[[repo]]
+url = "https://github.com/demergent-labs/blog"
+
+[[repo]]
+url = "https://github.com/demergent-labs/boa"
+
+[[repo]]
+url = "https://github.com/demergent-labs/candid"
+
+[[repo]]
+url = "https://github.com/demergent-labs/canister-profiling"
+
+[[repo]]
+url = "https://github.com/demergent-labs/cdk_framework"
+
+[[repo]]
+url = "https://github.com/demergent-labs/deregistry"
+
+[[repo]]
+url = "https://github.com/demergent-labs/ic-sqlite-plugin"
+
+[[repo]]
+url = "https://github.com/demergent-labs/ic-stats"
+
+[[repo]]
+url = "https://github.com/demergent-labs/ic-strategy-planning"
+
+[[repo]]
+url = "https://github.com/demergent-labs/ic-wasi-polyfill"
 
 [[repo]]
 url = "https://github.com/demergent-labs/ic_chainlink_data_feeds"
@@ -16,13 +61,34 @@ url = "https://github.com/demergent-labs/ic_chainlink_data_feeds"
 url = "https://github.com/demergent-labs/ICRC-1"
 
 [[repo]]
+url = "https://github.com/demergent-labs/internet-identity"
+
+[[repo]]
 url = "https://github.com/demergent-labs/kybra"
 
 [[repo]]
+url = "https://github.com/demergent-labs/kybra_hello_world"
+
+[[repo]]
 url = "https://github.com/demergent-labs/multisig_vault"
+
+[[repo]]
+url = "https://github.com/demergent-labs/open-source-tokens"
+
+[[repo]]
+url = "https://github.com/demergent-labs/portal"
+
+[[repo]]
+url = "https://github.com/demergent-labs/RustPython"
+
+[[repo]]
+url = "https://github.com/demergent-labs/stable-fs"
 
 [[repo]]
 url = "https://github.com/demergent-labs/sudograph"
 
 [[repo]]
 url = "https://github.com/demergent-labs/test_kybra"
+
+[[repo]]
+url = "https://github.com/demergent-labs/typescript-bootcamp"

@@ -88,7 +88,13 @@ url = "https://github.com/chainlayer/kava-tools"
 url = "https://github.com/chainlayer/launch"
 
 [[repo]]
+url = "https://github.com/chainlayer/lava-docs"
+
+[[repo]]
 url = "https://github.com/chainlayer/ocrstats"
+
+[[repo]]
+url = "https://github.com/chainlayer/okp4-awesome"
 
 [[repo]]
 url = "https://github.com/chainlayer/post-mortems"
@@ -119,6 +125,9 @@ url = "https://github.com/chainlayer/testnets-1"
 
 [[repo]]
 url = "https://github.com/chainlayer/testnets-2"
+
+[[repo]]
+url = "https://github.com/chainlayer/validator-exit-pre-signer"
 
 [[repo]]
 url = "https://github.com/chainlayer/validator-profiles"

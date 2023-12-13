@@ -13,7 +13,19 @@ url = "https://github.com/overlay-market/brownie"
 url = "https://github.com/overlay-market/ChainMonitoring"
 
 [[repo]]
+url = "https://github.com/overlay-market/coinbase-nft-floor-price"
+
+[[repo]]
 url = "https://github.com/overlay-market/council"
+
+[[repo]]
+url = "https://github.com/overlay-market/escrow-ovl"
+
+[[repo]]
+url = "https://github.com/overlay-market/Incentives"
+
+[[repo]]
+url = "https://github.com/overlay-market/inverse-market-scenario-builder"
 
 [[repo]]
 url = "https://github.com/overlay-market/landing"
@@ -31,6 +43,15 @@ url = "https://github.com/overlay-market/markets"
 url = "https://github.com/overlay-market/markets-api"
 
 [[repo]]
+url = "https://github.com/overlay-market/merkle-airdrop"
+
+[[repo]]
+url = "https://github.com/overlay-market/MerkleDistributor"
+
+[[repo]]
+url = "https://github.com/overlay-market/oi-balancer"
+
+[[repo]]
 url = "https://github.com/overlay-market/OIPs"
 
 [[repo]]
@@ -38,6 +59,9 @@ url = "https://github.com/overlay-market/overlay-analytics"
 
 [[repo]]
 url = "https://github.com/overlay-market/overlay-app"
+
+[[repo]]
+url = "https://github.com/overlay-market/overlay-app-deprecated"
 
 [[repo]]
 url = "https://github.com/overlay-market/overlay-docs"
@@ -64,18 +88,6 @@ url = "https://github.com/overlay-market/overlay-sourcecred-contributions"
 url = "https://github.com/overlay-market/overlay-taskboard"
 
 [[repo]]
-url = "https://github.com/overlay-market/overlay-v1-core"
-
-[[repo]]
-url = "https://github.com/overlay-market/overlay-v1-periphery"
-
-[[repo]]
-url = "https://github.com/overlay-market/overlay-v1-sdk"
-
-[[repo]]
-url = "https://github.com/overlay-market/overlay-v1-subgraph"
-
-[[repo]]
 url = "https://github.com/overlay-market/overlay-workflows"
 
 [[repo]]
@@ -94,10 +106,22 @@ url = "https://github.com/overlay-market/planckcats-subgraph"
 url = "https://github.com/overlay-market/pystable"
 
 [[repo]]
+url = "https://github.com/overlay-market/Referral"
+
+[[repo]]
+url = "https://github.com/overlay-market/siwa"
+
+[[repo]]
 url = "https://github.com/overlay-market/splits-contracts"
 
 [[repo]]
 url = "https://github.com/overlay-market/staking"
+
+[[repo]]
+url = "https://github.com/overlay-market/test-migration-challenge"
+
+[[repo]]
+url = "https://github.com/overlay-market/twitter-sentiment"
 
 [[repo]]
 url = "https://github.com/overlay-market/v0-core"
@@ -115,6 +139,9 @@ url = "https://github.com/overlay-market/v0-subgraph"
 url = "https://github.com/overlay-market/v1-core"
 
 [[repo]]
+url = "https://github.com/overlay-market/v1-core-foundry"
+
+[[repo]]
 url = "https://github.com/overlay-market/v1-liquidator"
 
 [[repo]]
@@ -128,3 +155,6 @@ url = "https://github.com/overlay-market/v1-vaults"
 
 [[repo]]
 url = "https://github.com/overlay-market/v3-staker"
+
+[[repo]]
+url = "https://github.com/overlay-market/yearn-workflows"

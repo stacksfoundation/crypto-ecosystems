@@ -5,13 +5,17 @@ sub_ecosystems = [
   "3em",
   "ar.io",
   "ArVerify",
+  "Bundlr",
+  "DB3",
   "decent.land",
   "everFinance",
   "KYVE",
+  "Permafacts",
   "Pianity",
   "Sarcophagus",
   "Textury",
   "Verto",
+  "WeaveDB",
 ]
 
 github_organizations = [
@@ -22,6 +26,12 @@ github_organizations = [
 
 # Repositories
 [[repo]]
+url = "https://github.com/angrymouse/tradeable-mintable-smartweave-nft"
+
+[[repo]]
+url = "https://github.com/arconnectio/ArConnect"
+
+[[repo]]
 url = "https://github.com/ardriveapp/ardrive-web"
 
 [[repo]]
@@ -29,6 +39,7 @@ url = "https://github.com/ArweaveTeam/archain-client"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/arweave"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/arweave-apps"
@@ -40,13 +51,13 @@ url = "https://github.com/ArweaveTeam/arweave-auto-dpl-1"
 url = "https://github.com/ArweaveTeam/arweave-bundles"
 
 [[repo]]
-url = "https://github.com/ArweaveTeam/arweave-data"
-
-[[repo]]
 url = "https://github.com/ArweaveTeam/arweave-deploy"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/arweave-js"
+
+[[repo]]
+url = "https://github.com/ArweaveTeam/arweave-org"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/arweave-php"
@@ -82,7 +93,13 @@ url = "https://github.com/ArweaveTeam/ebloom"
 url = "https://github.com/ArweaveTeam/erlang-keccakf1600"
 
 [[repo]]
+url = "https://github.com/ArweaveTeam/erlang-rocksdb"
+
+[[repo]]
 url = "https://github.com/ArweaveTeam/esqlite"
+
+[[repo]]
+url = "https://github.com/ArweaveTeam/examples"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/gateway"
@@ -97,10 +114,16 @@ url = "https://github.com/ArweaveTeam/gitstamp"
 url = "https://github.com/ArweaveTeam/injectable-archiver"
 
 [[repo]]
+url = "https://github.com/ArweaveTeam/jiffy"
+
+[[repo]]
 url = "https://github.com/ArweaveTeam/prometheus-cowboy"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/prometheus.erl"
+
+[[repo]]
+url = "https://github.com/ArweaveTeam/prometheus_process_collector"
 
 [[repo]]
 url = "https://github.com/ArweaveTeam/prometheus_ranch"
@@ -139,6 +162,15 @@ url = "https://github.com/CalebEverett/arloader"
 url = "https://github.com/CommunityXYZ/community-js"
 
 [[repo]]
+url = "https://github.com/FAIR-Protocol/decentralized-inference"
+
+[[repo]]
+url = "https://github.com/jfbeats/ArweaveWalletConnector"
+
+[[repo]]
+url = "https://github.com/littledivy/deno_swc"
+
+[[repo]]
 url = "https://github.com/nestdotland/.github"
 
 [[repo]]
@@ -157,9 +189,6 @@ url = "https://github.com/nestdotland/assets"
 url = "https://github.com/nestdotland/cdn"
 
 [[repo]]
-url = "https://github.com/nestdotland/cli"
-
-[[repo]]
 url = "https://github.com/nestdotland/db"
 
 [[repo]]
@@ -167,12 +196,6 @@ url = "https://github.com/nestdotland/deno-cliffy"
 
 [[repo]]
 url = "https://github.com/nestdotland/deno-import-intellisense"
-
-[[repo]]
-url = "https://github.com/nestdotland/deno_swc"
-
-[[repo]]
-url = "https://github.com/nestdotland/design"
 
 [[repo]]
 url = "https://github.com/nestdotland/docs"
@@ -191,9 +214,6 @@ url = "https://github.com/nestdotland/gql"
 
 [[repo]]
 url = "https://github.com/nestdotland/hacktoberfest"
-
-[[repo]]
-url = "https://github.com/nestdotland/hacktoberfest-2020"
 
 [[repo]]
 url = "https://github.com/nestdotland/hatcher"
@@ -241,13 +261,13 @@ url = "https://github.com/nestdotland/x"
 url = "https://github.com/nestdotland/yolk"
 
 [[repo]]
+url = "https://github.com/nextdotid/proof_server"
+
+[[repo]]
 url = "https://github.com/swole-protocol/swole-protocol-web"
 
 [[repo]]
 url = "https://github.com/th8ta/AMS"
-
-[[repo]]
-url = "https://github.com/th8ta/ArConnect"
 
 [[repo]]
 url = "https://github.com/th8ta/arconnect-examples"
@@ -293,3 +313,12 @@ url = "https://github.com/th8ta/vallo"
 
 [[repo]]
 url = "https://github.com/th8ta/wallet-miner"
+
+[[repo]]
+url = "https://github.com/three-em/3em"
+
+[[repo]]
+url = "https://github.com/usherlabs/logstore-mirror"
+
+[[repo]]
+url = "https://github.com/warp-contracts/warp-dre-node"

@@ -22,16 +22,10 @@ url = "https://github.com/pontem-network/aptos-coin-list"
 url = "https://github.com/pontem-network/aptos-core"
 
 [[repo]]
-url = "https://github.com/pontem-network/aptos-mask"
-
-[[repo]]
 url = "https://github.com/pontem-network/aptos-native-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/pontem-network/aptos-snap"
-
-[[repo]]
-url = "https://github.com/pontem-network/aptos-swap-lp"
 
 [[repo]]
 url = "https://github.com/pontem-network/aptos-swap-ui"
@@ -49,7 +43,13 @@ url = "https://github.com/pontem-network/bootstrap"
 url = "https://github.com/pontem-network/bridge"
 
 [[repo]]
+url = "https://github.com/pontem-network/Cannon-rs"
+
+[[repo]]
 url = "https://github.com/pontem-network/codespan"
+
+[[repo]]
+url = "https://github.com/pontem-network/coin-sample"
 
 [[repo]]
 url = "https://github.com/pontem-network/coins-registry"
@@ -70,13 +70,13 @@ url = "https://github.com/pontem-network/dia-node"
 url = "https://github.com/pontem-network/diem"
 
 [[repo]]
-url = "https://github.com/pontem-network/diem-stdlib"
-
-[[repo]]
 url = "https://github.com/pontem-network/docs"
 
 [[repo]]
 url = "https://github.com/pontem-network/dove"
+
+[[repo]]
+url = "https://github.com/pontem-network/dude"
 
 [[repo]]
 url = "https://github.com/pontem-network/eth2move-samples"
@@ -89,6 +89,9 @@ url = "https://github.com/pontem-network/explorer-gui"
 
 [[repo]]
 url = "https://github.com/pontem-network/faucet"
+
+[[repo]]
+url = "https://github.com/pontem-network/gcp-autodeploy-template"
 
 [[repo]]
 url = "https://github.com/pontem-network/get-aptos"
@@ -104,6 +107,9 @@ url = "https://github.com/pontem-network/get-solc"
 
 [[repo]]
 url = "https://github.com/pontem-network/Grant-Milestone-Delivery"
+
+[[repo]]
+url = "https://github.com/pontem-network/harvest"
 
 [[repo]]
 url = "https://github.com/pontem-network/hdkey"
@@ -136,6 +142,18 @@ url = "https://github.com/pontem-network/liquidswap-lp"
 url = "https://github.com/pontem-network/liquidswap-sdk"
 
 [[repo]]
+url = "https://github.com/pontem-network/liquidswap-widget"
+
+[[repo]]
+url = "https://github.com/pontem-network/liquidswap_v05"
+
+[[repo]]
+url = "https://github.com/pontem-network/magi"
+
+[[repo]]
+url = "https://github.com/pontem-network/magic"
+
+[[repo]]
 url = "https://github.com/pontem-network/move"
 
 [[repo]]
@@ -160,16 +178,19 @@ url = "https://github.com/pontem-network/move-parachain"
 url = "https://github.com/pontem-network/move-stdlib"
 
 [[repo]]
-url = "https://github.com/pontem-network/move-tools"
-
-[[repo]]
-url = "https://github.com/pontem-network/multi-swap-lp"
-
-[[repo]]
 url = "https://github.com/pontem-network/nimbus"
 
 [[repo]]
+url = "https://github.com/pontem-network/nitro"
+
+[[repo]]
+url = "https://github.com/pontem-network/op-up"
+
+[[repo]]
 url = "https://github.com/pontem-network/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/pontem-network/optimism"
 
 [[repo]]
 url = "https://github.com/pontem-network/overflowing-math"
@@ -196,6 +217,9 @@ url = "https://github.com/pontem-network/pont-stdlib"
 url = "https://github.com/pontem-network/pontem"
 
 [[repo]]
+url = "https://github.com/pontem-network/pontem-ide"
+
+[[repo]]
 url = "https://github.com/pontem-network/pontem-swap-ui"
 
 [[repo]]
@@ -211,13 +235,22 @@ url = "https://github.com/pontem-network/pontem-wallet-demo"
 url = "https://github.com/pontem-network/pontem-wallet-docs"
 
 [[repo]]
+url = "https://github.com/pontem-network/qodana-move"
+
+[[repo]]
 url = "https://github.com/pontem-network/resources"
+
+[[repo]]
+url = "https://github.com/pontem-network/reth"
 
 [[repo]]
 url = "https://github.com/pontem-network/rip_str"
 
 [[repo]]
 url = "https://github.com/pontem-network/RMRK"
+
+[[repo]]
+url = "https://github.com/pontem-network/sp-docs"
 
 [[repo]]
 url = "https://github.com/pontem-network/sp-move-vm"

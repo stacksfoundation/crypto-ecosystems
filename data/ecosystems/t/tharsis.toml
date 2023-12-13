@@ -7,6 +7,27 @@ github_organizations = ["https://github.com/tharsis"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/evmos/awesome"
+
+[[repo]]
+url = "https://github.com/evmos/claims_fixer"
+
+[[repo]]
+url = "https://github.com/evmos/ethermint"
+
+[[repo]]
+url = "https://github.com/evmos/evmos"
+
+[[repo]]
+url = "https://github.com/evmos/evmosjs"
+
+[[repo]]
+url = "https://github.com/evmos/mainnet"
+
+[[repo]]
+url = "https://github.com/evmos/testnets"
+
+[[repo]]
 url = "https://github.com/tharsis/airdrop-dashboard"
 
 [[repo]]
@@ -14,9 +35,6 @@ url = "https://github.com/tharsis/app-evmos"
 
 [[repo]]
 url = "https://github.com/tharsis/assetlists"
-
-[[repo]]
-url = "https://github.com/tharsis/awesome"
 
 [[repo]]
 url = "https://github.com/tharsis/bdjuno"
@@ -34,22 +52,13 @@ url = "https://github.com/tharsis/chain-registry"
 url = "https://github.com/tharsis/chains"
 
 [[repo]]
-url = "https://github.com/tharsis/claims_fixer"
-
-[[repo]]
 url = "https://github.com/tharsis/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/tharsis/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/tharsis/ethermint"
-
-[[repo]]
 url = "https://github.com/tharsis/evm-json-rpc-spec"
-
-[[repo]]
-url = "https://github.com/tharsis/evmos"
 
 [[repo]]
 url = "https://github.com/tharsis/evmos-airdrop-dashboard"
@@ -61,16 +70,10 @@ url = "https://github.com/tharsis/evmos-faucet-backend"
 url = "https://github.com/tharsis/evmos-landing-page"
 
 [[repo]]
-url = "https://github.com/tharsis/evmosjs"
-
-[[repo]]
 url = "https://github.com/tharsis/gnosis-py"
 
 [[repo]]
 url = "https://github.com/tharsis/keplr-wallet"
-
-[[repo]]
-url = "https://github.com/tharsis/mainnet"
 
 [[repo]]
 url = "https://github.com/tharsis/olympus"
@@ -95,9 +98,6 @@ url = "https://github.com/tharsis/socket"
 
 [[repo]]
 url = "https://github.com/tharsis/sourcify"
-
-[[repo]]
-url = "https://github.com/tharsis/testnets"
 
 [[repo]]
 url = "https://github.com/tharsis/tharsis.github.io"

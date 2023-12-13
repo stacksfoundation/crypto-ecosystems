@@ -46,13 +46,22 @@ url = "https://github.com/bitdao-io/powerpool-governance"
 url = "https://github.com/bitdao-io/protocol-Info"
 
 [[repo]]
+url = "https://github.com/bitdao-io/public-api"
+
+[[repo]]
 url = "https://github.com/bitdao-io/safe-contracts"
+
+[[repo]]
+url = "https://github.com/bitdao-io/safe-deployments"
 
 [[repo]]
 url = "https://github.com/bitdao-io/sigma-core"
 
 [[repo]]
 url = "https://github.com/bitdao-io/sybil-interface"
+
+[[repo]]
+url = "https://github.com/windranger-io/auction-contracts"
 
 [[repo]]
 url = "https://github.com/windranger-io/awesome-dao"
@@ -67,6 +76,9 @@ url = "https://github.com/windranger-io/edudao-landing"
 url = "https://github.com/windranger-io/graph-node"
 
 [[repo]]
+url = "https://github.com/windranger-io/mantle-cms"
+
+[[repo]]
 url = "https://github.com/windranger-io/node-plantuml"
 
 [[repo]]
@@ -76,7 +88,19 @@ url = "https://github.com/windranger-io/openzeppelin-contracts"
 url = "https://github.com/windranger-io/public-docs"
 
 [[repo]]
+url = "https://github.com/windranger-io/public-goods"
+
+[[repo]]
 url = "https://github.com/windranger-io/react-next-template"
+
+[[repo]]
+url = "https://github.com/windranger-io/safe-core-sdk"
+
+[[repo]]
+url = "https://github.com/windranger-io/safe-deployments"
+
+[[repo]]
+url = "https://github.com/windranger-io/safe-wallet-web"
 
 [[repo]]
 url = "https://github.com/windranger-io/snapshot-strategies"

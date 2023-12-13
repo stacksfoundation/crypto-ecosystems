@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/internxt"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/internxt/analytics"
-
-[[repo]]
 url = "https://github.com/internxt/auth-service"
 
 [[repo]]
 url = "https://github.com/internxt/auth-web"
+
+[[repo]]
+url = "https://github.com/internxt/automation"
 
 [[repo]]
 url = "https://github.com/internxt/bitcore-ecies"
@@ -26,9 +26,6 @@ url = "https://github.com/internxt/bitcore-message"
 
 [[repo]]
 url = "https://github.com/internxt/Bridge"
-
-[[repo]]
-url = "https://github.com/internxt/CLI"
 
 [[repo]]
 url = "https://github.com/internxt/complex"
@@ -52,6 +49,9 @@ url = "https://github.com/internxt/disposable"
 url = "https://github.com/internxt/drive-desktop"
 
 [[repo]]
+url = "https://github.com/internxt/drive-desktop-macos"
+
+[[repo]]
 url = "https://github.com/internxt/drive-mobile"
 
 [[repo]]
@@ -70,9 +70,6 @@ url = "https://github.com/internxt/eslint-config-internxt"
 url = "https://github.com/internxt/integration"
 
 [[repo]]
-url = "https://github.com/internxt/internxt-data"
-
-[[repo]]
 url = "https://github.com/internxt/internxt-data-tools"
 
 [[repo]]
@@ -80,6 +77,9 @@ url = "https://github.com/internxt/INXT"
 
 [[repo]]
 url = "https://github.com/internxt/inxt-analytics"
+
+[[repo]]
+url = "https://github.com/internxt/inxt-js"
 
 [[repo]]
 url = "https://github.com/internxt/inxt.js"
@@ -119,9 +119,6 @@ url = "https://github.com/internxt/node-lib"
 
 [[repo]]
 url = "https://github.com/internxt/node-lib-exec"
-
-[[repo]]
-url = "https://github.com/internxt/node-libinxt"
 
 [[repo]]
 url = "https://github.com/internxt/notifications"
@@ -172,10 +169,19 @@ url = "https://github.com/internxt/service-storage-models"
 url = "https://github.com/internxt/sips"
 
 [[repo]]
+url = "https://github.com/internxt/swift-core"
+
+[[repo]]
 url = "https://github.com/internxt/teams-front"
 
 [[repo]]
 url = "https://github.com/internxt/teams-server"
+
+[[repo]]
+url = "https://github.com/internxt/test-auto-notify"
+
+[[repo]]
+url = "https://github.com/internxt/webdav-server"
 
 [[repo]]
 url = "https://github.com/internxt/website"
@@ -185,21 +191,3 @@ url = "https://github.com/internxt/websiteold"
 
 [[repo]]
 url = "https://github.com/internxt/X-Cloud"
-
-[[repo]]
-url = "https://github.com/internxt/X-Cloud-Desktop"
-
-[[repo]]
-url = "https://github.com/internxt/X-Cloud-Mobile"
-
-[[repo]]
-url = "https://github.com/internxt/X-Cloud-Server"
-
-[[repo]]
-url = "https://github.com/internxt/X-Cloud-Web"
-
-[[repo]]
-url = "https://github.com/internxt/X-Core"
-
-[[repo]]
-url = "https://github.com/internxt/xcore-daemon"

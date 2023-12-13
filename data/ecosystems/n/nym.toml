@@ -16,7 +16,13 @@ url = "https://github.com/nymtech/autocomplete"
 url = "https://github.com/nymtech/bdjuno"
 
 [[repo]]
+url = "https://github.com/nymtech/big-dipper-2.0-cosmos"
+
+[[repo]]
 url = "https://github.com/nymtech/bity-interface"
+
+[[repo]]
+url = "https://github.com/nymtech/CensorshipMeasurements"
 
 [[repo]]
 url = "https://github.com/nymtech/coconut"
@@ -28,10 +34,16 @@ url = "https://github.com/nymtech/cosmos-chain-registry"
 url = "https://github.com/nymtech/cosmos-rust"
 
 [[repo]]
+url = "https://github.com/nymtech/cosmwasm-state-testing"
+
+[[repo]]
 url = "https://github.com/nymtech/demo-mixnet-chat-client"
 
 [[repo]]
 url = "https://github.com/nymtech/demo-mixnet-electron-chat"
+
+[[repo]]
+url = "https://github.com/nymtech/dev-portal"
 
 [[repo]]
 url = "https://github.com/nymtech/developer-tutorials"
@@ -40,16 +52,28 @@ url = "https://github.com/nymtech/developer-tutorials"
 url = "https://github.com/nymtech/docs"
 
 [[repo]]
+url = "https://github.com/nymtech/ephemera"
+
+[[repo]]
+url = "https://github.com/nymtech/helios-nym"
+
+[[repo]]
 url = "https://github.com/nymtech/keplr-chain-registry"
+
+[[repo]]
+url = "https://github.com/nymtech/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/nymtech/ledger-covid-passport"
 
 [[repo]]
+url = "https://github.com/nymtech/ledger-live"
+
+[[repo]]
 url = "https://github.com/nymtech/lioness-rs"
 
 [[repo]]
-url = "https://github.com/nymtech/loopix-messaging"
+url = "https://github.com/nymtech/metamask-extension-test"
 
 [[repo]]
 url = "https://github.com/nymtech/network-requester-connectivity-check"
@@ -62,9 +86,6 @@ url = "https://github.com/nymtech/nym"
 
 [[repo]]
 url = "https://github.com/nymtech/nym-client"
-
-[[repo]]
-url = "https://github.com/nymtech/nym-directory"
 
 [[repo]]
 url = "https://github.com/nymtech/nym-metrics-server"
@@ -94,9 +115,6 @@ url = "https://github.com/nymtech/nymd"
 url = "https://github.com/nymtech/nyxd"
 
 [[repo]]
-url = "https://github.com/nymtech/product-team"
-
-[[repo]]
 url = "https://github.com/nymtech/qt-validator-client-demo"
 
 [[repo]]
@@ -116,6 +134,9 @@ url = "https://github.com/nymtech/sphinx"
 
 [[repo]]
 url = "https://github.com/nymtech/sphinx-bench"
+
+[[repo]]
+url = "https://github.com/nymtech/tauri_lib"
 
 [[repo]]
 url = "https://github.com/nymtech/team-core"

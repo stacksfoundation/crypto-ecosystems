@@ -19,6 +19,9 @@ url = "https://github.com/NFTGalaxy/eip1155-subgraph"
 url = "https://github.com/NFTGalaxy/galaxy-nft-holder-feb-10"
 
 [[repo]]
+url = "https://github.com/NFTGalaxy/gqlgen"
+
+[[repo]]
 url = "https://github.com/NFTGalaxy/oauth2"
 
 [[repo]]
@@ -32,6 +35,9 @@ url = "https://github.com/NFTGalaxy/snapshot-sol-cool-2022"
 
 [[repo]]
 url = "https://github.com/NFTGalaxy/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/NFTGalaxy/vuex"
 
 [[repo]]
 url = "https://github.com/NFTGalaxy/workshops"

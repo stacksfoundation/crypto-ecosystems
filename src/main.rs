@@ -24,12 +24,20 @@ enum Cli {
 
         /// JSON File to export the list of repos
         output_path: String,
+
+        /// Include only repository files
+        #[structopt(short, long)]
+        only_repos: bool,
     },
 }
 
 #[derive(Debug)]
 enum ValidationError {
     MissingSubecosystem { parent: String, child: String },
+
+    DuplicateRepoUrl(String),
+
+    TitleError(String),
 }
 
 impl Display for ValidationError {
@@ -37,6 +45,12 @@ impl Display for ValidationError {
         match self {
             ValidationError::MissingSubecosystem { parent, child } => {
                 write!(f, "Invalid subecosystem for {} -> {}", parent, child)
+            }
+            ValidationError::DuplicateRepoUrl(url) => {
+                write!(f, "Duplicate repo URL: {}", url)
+            }
+            ValidationError::TitleError(file) => {
+                write!(f, "Title with leading/trailing space found in file: {}. Please remove the space(s) from your title.", file)
             }
         }
     }
@@ -55,6 +69,7 @@ struct Repo {
     pub url: String,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub tags: Option<Vec<String>>,
+    pub missing: Option<bool>,
 }
 
 #[derive(Debug, Error)]
@@ -82,13 +97,17 @@ fn get_toml_files(dir: &Path) -> Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
-fn parse_toml_files(paths: &[PathBuf]) -> Result<EcosystemMap> {
+fn parse_toml_files(paths: &[PathBuf]) -> Result<(EcosystemMap, Vec<ValidationError>)> {
     let mut ecosystems: HashMap<String, Ecosystem> = HashMap::new();
+    let mut errors = Vec::new();
     for toml_path in paths {
         let contents = read_to_string(toml_path)?;
         match toml::from_str::<Ecosystem>(&contents) {
             Ok(ecosystem) => {
                 let title = ecosystem.title.clone();
+                if title.trim() != title {
+                    errors.push(ValidationError::TitleError(toml_path.display().to_string()));
+                }
                 ecosystems.insert(title, ecosystem);
             }
             Err(err) => {
@@ -99,14 +118,18 @@ fn parse_toml_files(paths: &[PathBuf]) -> Result<EcosystemMap> {
             }
         }
     }
-    Ok(ecosystems)
+    Ok((ecosystems, errors))
 }
 
 fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
-    let mut tagmap: HashMap<String, u32> = HashMap::new();
-    let mut repo_set = HashSet::new();
     let mut errors = vec![];
+    let mut repo_set = HashSet::new();
+    let mut tagmap: HashMap<String, u32> = HashMap::new();
+    let mut missing_count = 0;
+
     for ecosystem in ecosystem_map.values() {
+        let mut seen_repos = HashSet::new();
+
         if let Some(ref sub_ecosystems) = ecosystem.sub_ecosystems {
             for sub in sub_ecosystems {
                 if !ecosystem_map.contains_key(sub) {
@@ -117,8 +140,19 @@ fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
                 }
             }
         }
+
         if let Some(ref repos) = ecosystem.repo {
             for repo in repos {
+                let lowercase_url = repo.url.to_lowercase();
+                if seen_repos.contains(&lowercase_url) {
+                    errors.push(ValidationError::DuplicateRepoUrl(repo.url.clone()));
+                } else {
+                    seen_repos.insert(lowercase_url);
+                }
+
+                if let Some(true) = repo.missing {
+                    missing_count += 1;
+                }
                 repo_set.insert(repo.url.clone());
                 if let Some(tags) = &repo.tags {
                     for tag in tags {
@@ -129,25 +163,29 @@ fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
             }
         }
     }
+
     if errors.len() == 0 {
         println!(
-            "Validated {} ecosystems and {} repos",
+            "Validated {} ecosystems and {} repos ({} missing)",
             ecosystem_map.len(),
             repo_set.len(),
+            missing_count,
         );
         println!("\nTags");
         for (tag, count) in tagmap {
             println!("\t{}: {}", tag, count);
         }
     }
+
     errors
 }
 
 fn validate(data_path: String) -> Result<()> {
     let toml_files = get_toml_files(Path::new(&data_path))?;
     match parse_toml_files(&toml_files) {
-        Ok(ecosystem_map) => {
-            let errors = validate_ecosystems(&ecosystem_map);
+        Ok((ecosystem_map, title_errors)) => {
+            let mut errors = validate_ecosystems(&ecosystem_map);
+            errors.extend(title_errors);
             if errors.len() > 0 {
                 for err in errors {
                     println!("{}", err);
@@ -163,13 +201,32 @@ fn validate(data_path: String) -> Result<()> {
     Ok(())
 }
 
-fn export(data_path: String, output_path: String) -> Result<()> {
+fn export(data_path: String, output_path: String, only_repos: bool) -> Result<()> {
     let toml_files = get_toml_files(Path::new(&data_path))?;
     match parse_toml_files(&toml_files) {
-        Ok(ecosystem_map) => {
-            let errors = validate_ecosystems(&ecosystem_map);
+        Ok((ecosystem_map, title_errors)) => {
+            let mut errors = validate_ecosystems(&ecosystem_map);
+            errors.extend(title_errors);
             if errors.len() > 0 {
+                for err in errors {
+                    println!("{}", err);
+                }
                 std::process::exit(-1);
+            }
+            if only_repos {
+                let mut repo_set: HashMap<&String, Vec<String>> = HashMap::new();
+                for ecosystem in ecosystem_map.values() {
+                    if let Some(ref repositories) = ecosystem.repo {
+                        for repo in repositories {
+                            repo_set
+                                .entry(&ecosystem.title)
+                                .or_insert(Vec::new())
+                                .push(repo.url.clone());
+                        }
+                    }
+                }
+                serde_json::to_writer_pretty(File::create(output_path)?, &repo_set)?;
+                return Ok(());
             }
             serde_json::to_writer_pretty(File::create(output_path)?, &ecosystem_map)?;
         }
@@ -190,7 +247,8 @@ fn main() -> Result<()> {
         Cli::Export {
             data_path,
             output_path,
-        } => export(data_path, output_path)?,
+            only_repos,
+        } => export(data_path, output_path, only_repos)?,
     }
     Ok(())
 }

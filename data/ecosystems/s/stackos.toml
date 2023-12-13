@@ -1,0 +1,34 @@
+# Ecosystem Level Information
+title = "StackOS"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/StacksOS"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/StacksOS/app"
+
+[[repo]]
+url = "https://github.com/StacksOS/dao"
+
+[[repo]]
+url = "https://github.com/StacksOS/daos"
+
+[[repo]]
+url = "https://github.com/StacksOS/executor-dao"
+
+[[repo]]
+url = "https://github.com/StacksOS/hooks"
+
+[[repo]]
+url = "https://github.com/StacksOS/mega"
+
+[[repo]]
+url = "https://github.com/StacksOS/megadao-client"
+
+[[repo]]
+url = "https://github.com/StacksOS/templates"
+
+[[repo]]
+url = "https://github.com/StacksOS/utils"

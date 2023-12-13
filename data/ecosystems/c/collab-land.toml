@@ -7,10 +7,37 @@ github_organizations = ["https://github.com/abridged"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/abridged/CAIPs"
+
+[[repo]]
+url = "https://github.com/abridged/codeofconduct"
+
+[[repo]]
+url = "https://github.com/abridged/collab-communities"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-action-express"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-action-fastapi"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-chatgpt-action"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-dall-e-action"
+
+[[repo]]
 url = "https://github.com/abridged/collabland-dev"
 
 [[repo]]
+url = "https://github.com/abridged/collabland-dev-action"
+
+[[repo]]
 url = "https://github.com/abridged/collabland-dev-internal"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-hello-action"
 
 [[repo]]
 url = "https://github.com/abridged/collabland-issue-tracker"
@@ -19,13 +46,13 @@ url = "https://github.com/abridged/collabland-issue-tracker"
 url = "https://github.com/abridged/collabland-overview"
 
 [[repo]]
-url = "https://github.com/abridged/collabland-public"
-
-[[repo]]
 url = "https://github.com/abridged/collabland-roadmap"
 
 [[repo]]
 url = "https://github.com/abridged/collabland-staking-contracts"
+
+[[repo]]
+url = "https://github.com/abridged/collabland-token-price-action"
 
 [[repo]]
 url = "https://github.com/abridged/collabland-tutorials"

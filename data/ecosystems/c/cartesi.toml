@@ -19,6 +19,12 @@ url = "https://github.com/cartesi/cargo-check-version"
 url = "https://github.com/cartesi/cips"
 
 [[repo]]
+url = "https://github.com/cartesi/compute"
+
+[[repo]]
+url = "https://github.com/cartesi/compute-tutorials"
+
+[[repo]]
 url = "https://github.com/cartesi/crates-index"
 
 [[repo]]
@@ -43,6 +49,9 @@ url = "https://github.com/cartesi/creepts-mappack"
 url = "https://github.com/cartesi/dapp-incubation-program"
 
 [[repo]]
+url = "https://github.com/cartesi/dave"
+
+[[repo]]
 url = "https://github.com/cartesi/demo"
 
 [[repo]]
@@ -58,7 +67,13 @@ url = "https://github.com/cartesi/descartes-v2"
 url = "https://github.com/cartesi/dispatcher"
 
 [[repo]]
+url = "https://github.com/cartesi/docker-node"
+
+[[repo]]
 url = "https://github.com/cartesi/docs"
+
+[[repo]]
+url = "https://github.com/cartesi/docs-contrib"
 
 [[repo]]
 url = "https://github.com/cartesi/ethsigner"
@@ -67,10 +82,22 @@ url = "https://github.com/cartesi/ethsigner"
 url = "https://github.com/cartesi/eventeum"
 
 [[repo]]
+url = "https://github.com/cartesi/experiments"
+
+[[repo]]
+url = "https://github.com/cartesi/explorer"
+
+[[repo]]
+url = "https://github.com/cartesi/genext2fs"
+
+[[repo]]
 url = "https://github.com/cartesi/grpc-interfaces"
 
 [[repo]]
 url = "https://github.com/cartesi/grpc-rust"
+
+[[repo]]
+url = "https://github.com/cartesi/hackathon"
 
 [[repo]]
 url = "https://github.com/cartesi/hardhat-deploy"
@@ -83,6 +110,9 @@ url = "https://github.com/cartesi/hardhat-verify-deployments"
 
 [[repo]]
 url = "https://github.com/cartesi/helm-charts"
+
+[[repo]]
+url = "https://github.com/cartesi/honeypot"
 
 [[repo]]
 url = "https://github.com/cartesi/host-server-manager"
@@ -142,6 +172,9 @@ url = "https://github.com/cartesi/offchain-utils"
 url = "https://github.com/cartesi/openapi-interfaces"
 
 [[repo]]
+url = "https://github.com/cartesi/opensbi"
+
+[[repo]]
 url = "https://github.com/cartesi/parity-ethereum"
 
 [[repo]]
@@ -152,6 +185,9 @@ url = "https://github.com/cartesi/poker"
 
 [[repo]]
 url = "https://github.com/cartesi/pos-dlib"
+
+[[repo]]
+url = "https://github.com/cartesi/python"
 
 [[repo]]
 url = "https://github.com/cartesi/riscv-pk"
@@ -166,13 +202,28 @@ url = "https://github.com/cartesi/riscv-tests"
 url = "https://github.com/cartesi/rollups"
 
 [[repo]]
+url = "https://github.com/cartesi/rollups-contracts"
+
+[[repo]]
 url = "https://github.com/cartesi/rollups-deployment"
 
 [[repo]]
 url = "https://github.com/cartesi/rollups-examples"
 
 [[repo]]
+url = "https://github.com/cartesi/rollups-explorer"
+
+[[repo]]
+url = "https://github.com/cartesi/rollups-explorer-api"
+
+[[repo]]
+url = "https://github.com/cartesi/rollups-node"
+
+[[repo]]
 url = "https://github.com/cartesi/rust-web3"
+
+[[repo]]
+url = "https://github.com/cartesi/server-manager"
 
 [[repo]]
 url = "https://github.com/cartesi/snapshot-strategies"
@@ -200,3 +251,9 @@ url = "https://github.com/cartesi/tx-manager"
 
 [[repo]]
 url = "https://github.com/cartesi/TypeChain"
+
+[[repo]]
+url = "https://github.com/cartesi/unofficial-builds"
+
+[[repo]]
+url = "https://github.com/sunodo/sunodo"

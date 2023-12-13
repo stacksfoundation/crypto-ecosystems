@@ -7,52 +7,49 @@ github_organizations = ["https://github.com/VeFi-Network"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/VeFi-Network/Airdrops"
+url = "https://github.com/Vefi-Ecosystem/Airdrops"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/assets"
+url = "https://github.com/Vefi-Ecosystem/assets"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/dex-smart-contracts"
+url = "https://github.com/Vefi-Ecosystem/dex-smart-contracts-core"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/dex-smart-contracts-core"
+url = "https://github.com/Vefi-Ecosystem/ecosystem-website"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/ecosystem-website"
+url = "https://github.com/Vefi-Ecosystem/Official-Website"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/Official-Website"
+url = "https://github.com/Vefi-Ecosystem/Token-Vesting"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/Token-Vesting"
+url = "https://github.com/Vefi-Ecosystem/vefi-exchange-mobile"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-exchange-mobile"
+url = "https://github.com/Vefi-Ecosystem/vefi-exchange-streams-and-sockets"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-exchange-streams-and-sockets"
+url = "https://github.com/Vefi-Ecosystem/vefi-exchange-web"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-exchange-web"
+url = "https://github.com/Vefi-Ecosystem/vefi-multisender"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-multisender"
+url = "https://github.com/Vefi-Ecosystem/vefi-nft-marketplace"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-nft-marketplace"
+url = "https://github.com/Vefi-Ecosystem/vefi-nft-smart-contracts"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-nft-smart-contracts"
+url = "https://github.com/Vefi-Ecosystem/vefi-telegram-bot"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/vefi-telegram-bot"
+url = "https://github.com/Vefi-Ecosystem/vefi-token"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/VeFi-Token"
+url = "https://github.com/Vefi-Ecosystem/vefi-wallet"
 
 [[repo]]
-url = "https://github.com/VeFi-Network/VeFi-Wallet"
-
-[[repo]]
-url = "https://github.com/VeFi-Network/vefi-wallet-processes"
+url = "https://github.com/Vefi-Ecosystem/vefi-wallet-processes"

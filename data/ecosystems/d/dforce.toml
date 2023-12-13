@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/dforce-network"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dforce-network/AMM"
+
+[[repo]]
 url = "https://github.com/dforce-network/arbitrum-dai-bridge"
+
+[[repo]]
+url = "https://github.com/dforce-network/community"
 
 [[repo]]
 url = "https://github.com/dforce-network/contracts"
@@ -16,10 +22,16 @@ url = "https://github.com/dforce-network/contracts"
 url = "https://github.com/dforce-network/DeFi-Pulse-Adapters"
 
 [[repo]]
+url = "https://github.com/dforce-network/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/dforce-network/delegation"
 
 [[repo]]
 url = "https://github.com/dforce-network/dForceLending"
+
+[[repo]]
+url = "https://github.com/dforce-network/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/dforce-network/DIP001"
@@ -53,6 +65,9 @@ url = "https://github.com/dforce-network/optimism-dai-bridge"
 
 [[repo]]
 url = "https://github.com/dforce-network/peggedassets-server"
+
+[[repo]]
+url = "https://github.com/dforce-network/pyth-crosschain"
 
 [[repo]]
 url = "https://github.com/dforce-network/recruitment"

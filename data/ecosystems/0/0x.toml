@@ -59,6 +59,12 @@ url = "https://github.com/0xProject/0x-monorepo"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/0xProject/0x-nextjs-demo-app"
+
+[[repo]]
+url = "https://github.com/0xProject/0x-parser"
+
+[[repo]]
 url = "https://github.com/0xProject/0x-protocol-specification"
 
 [[repo]]
@@ -137,9 +143,6 @@ url = "https://github.com/0xProject/EIPs"
 url = "https://github.com/0xProject/ep-subgraph"
 
 [[repo]]
-url = "https://github.com/0xProject/erc721-website"
-
-[[repo]]
 url = "https://github.com/0xProject/eth-contract-metadata"
 
 [[repo]]
@@ -173,9 +176,6 @@ url = "https://github.com/0xProject/fast-abi"
 url = "https://github.com/0xProject/ganache-core"
 
 [[repo]]
-url = "https://github.com/0xProject/getting-started-with-asset-swapper"
-
-[[repo]]
 url = "https://github.com/0xProject/gitpkg"
 
 [[repo]]
@@ -197,7 +197,16 @@ url = "https://github.com/0xProject/go-ws-transport"
 url = "https://github.com/0xProject/goleveldb"
 
 [[repo]]
+url = "https://github.com/0xProject/joe-v2"
+
+[[repo]]
+url = "https://github.com/0xProject/joe-v2_1"
+
+[[repo]]
 url = "https://github.com/0xProject/karpenter"
+
+[[repo]]
+url = "https://github.com/0xProject/ks-elastic-sc"
 
 [[repo]]
 url = "https://github.com/0xProject/ledger-node-js-api"
@@ -212,7 +221,13 @@ url = "https://github.com/0xProject/lerna"
 url = "https://github.com/0xProject/marketplace-benchmarks"
 
 [[repo]]
+url = "https://github.com/0xProject/matcha-flagged-tokens"
+
+[[repo]]
 url = "https://github.com/0xProject/matcha-pricing-preview-generator"
+
+[[repo]]
+url = "https://github.com/0xProject/matcha-unsupported-tokens"
 
 [[repo]]
 url = "https://github.com/0xProject/mesh-mock-graphql-api"
@@ -269,6 +284,9 @@ url = "https://github.com/0xProject/qunit"
 url = "https://github.com/0xProject/quote-server"
 
 [[repo]]
+url = "https://github.com/0xProject/rantum"
+
+[[repo]]
 url = "https://github.com/0xProject/react-highlight"
 
 [[repo]]
@@ -309,9 +327,6 @@ url = "https://github.com/0xProject/sql-datastore"
 
 [[repo]]
 url = "https://github.com/0xProject/standard-relayer-api"
-
-[[repo]]
-url = "https://github.com/0xProject/starkcrypto"
 
 [[repo]]
 url = "https://github.com/0xProject/sutro"
@@ -414,3 +429,6 @@ url = "https://github.com/0xProject/zexe"
 
 [[repo]]
 url = "https://github.com/0xProject/zrx-buyer"
+
+[[repo]]
+url = "https://github.com/tomhschmidt/erc721-website"

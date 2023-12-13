@@ -16,7 +16,19 @@ url = "https://github.com/dappuniversity/advanced-dapp-ui"
 url = "https://github.com/dappuniversity/AI-Generated-NFT-Collection"
 
 [[repo]]
+url = "https://github.com/dappuniversity/ai_frontend"
+
+[[repo]]
 url = "https://github.com/dappuniversity/ai_nft"
+
+[[repo]]
+url = "https://github.com/dappuniversity/ai_nft_generator"
+
+[[repo]]
+url = "https://github.com/dappuniversity/airdrop_hunter"
+
+[[repo]]
+url = "https://github.com/dappuniversity/Auditing-with-security-tools-slither-and-echinda"
 
 [[repo]]
 url = "https://github.com/dappuniversity/blockchain-api"
@@ -52,6 +64,12 @@ url = "https://github.com/dappuniversity/dapp_template_v1"
 url = "https://github.com/dappuniversity/dapp_token"
 
 [[repo]]
+url = "https://github.com/dappuniversity/dappazon"
+
+[[repo]]
+url = "https://github.com/dappuniversity/dappcord"
+
+[[repo]]
 url = "https://github.com/dappuniversity/dbank"
 
 [[repo]]
@@ -83,6 +101,9 @@ url = "https://github.com/dappuniversity/dvideo"
 
 [[repo]]
 url = "https://github.com/dappuniversity/ecrecover"
+
+[[repo]]
+url = "https://github.com/dappuniversity/eip_2981_example"
 
 [[repo]]
 url = "https://github.com/dappuniversity/election"
@@ -121,7 +142,16 @@ url = "https://github.com/dappuniversity/eth_wallet"
 url = "https://github.com/dappuniversity/ethers_examples"
 
 [[repo]]
+url = "https://github.com/dappuniversity/Foundry-Tutorial"
+
+[[repo]]
 url = "https://github.com/dappuniversity/freelance-project-template"
+
+[[repo]]
+url = "https://github.com/dappuniversity/frontrunning"
+
+[[repo]]
+url = "https://github.com/dappuniversity/Frontrunning-attack-tutorial"
 
 [[repo]]
 url = "https://github.com/dappuniversity/governance"
@@ -244,10 +274,16 @@ url = "https://github.com/dappuniversity/starter_kit_2"
 url = "https://github.com/dappuniversity/supply_chain"
 
 [[repo]]
+url = "https://github.com/dappuniversity/swapper"
+
+[[repo]]
 url = "https://github.com/dappuniversity/token_sale"
 
 [[repo]]
 url = "https://github.com/dappuniversity/token_sniping_bot"
+
+[[repo]]
+url = "https://github.com/dappuniversity/tokenmaster"
 
 [[repo]]
 url = "https://github.com/dappuniversity/trading-bot"

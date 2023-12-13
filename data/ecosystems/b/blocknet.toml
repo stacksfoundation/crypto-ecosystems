@@ -28,10 +28,7 @@ url = "https://github.com/blocknetdx/blockbook"
 url = "https://github.com/blocknetdx/blockchain-configuration-files"
 
 [[repo]]
-url = "https://github.com/BlocknetDX/BlockDX"
-
-[[repo]]
-url = "https://github.com/BlocknetDX/blockdx-ui"
+url = "https://github.com/blocknetdx/BlockDX"
 
 [[repo]]
 url = "https://github.com/blocknetdx/blockdx-website"
@@ -41,6 +38,12 @@ url = "https://github.com/BlocknetDX/blocknet"
 
 [[repo]]
 url = "https://github.com/BlocknetDX/blocknet-blockchain-bootstrap"
+
+[[repo]]
+url = "https://github.com/blocknetdx/blocknet-build"
+
+[[repo]]
+url = "https://github.com/blocknetdx/blocknet-detached-sigs"
 
 [[repo]]
 url = "https://github.com/blocknetdx/blocknet-docs"
@@ -68,6 +71,9 @@ url = "https://github.com/blocknetdx/btcd"
 
 [[repo]]
 url = "https://github.com/blocknetdx/cc-api-check"
+
+[[repo]]
+url = "https://github.com/blocknetdx/cc-daemon"
 
 [[repo]]
 url = "https://github.com/blocknetdx/CrossChain-Bridge"
@@ -109,19 +115,16 @@ url = "https://github.com/blocknetdx/exrproxy-env-scripts"
 url = "https://github.com/blocknetdx/gitbook-docs"
 
 [[repo]]
+url = "https://github.com/blocknetdx/gitian.sigs"
+
+[[repo]]
 url = "https://github.com/blocknetdx/go-xrouter"
 
 [[repo]]
 url = "https://github.com/blocknetdx/indexer"
 
 [[repo]]
-url = "https://github.com/blocknetdx/libtradingbot"
-
-[[repo]]
 url = "https://github.com/blocknetdx/libxrouter-sampleproj-cpp"
-
-[[repo]]
-url = "https://github.com/blocknetdx/litewallet"
 
 [[repo]]
 url = "https://github.com/blocknetdx/multichain"
@@ -136,6 +139,9 @@ url = "https://github.com/blocknetdx/python-bitcoinlib"
 url = "https://github.com/blocknetdx/python-blocknetdxrpc"
 
 [[repo]]
+url = "https://github.com/blocknetdx/snode-utxo-consensus"
+
+[[repo]]
 url = "https://github.com/blocknetdx/Stealth"
 
 [[repo]]
@@ -146,6 +152,9 @@ url = "https://github.com/blocknetdx/utxo-plugin"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xlite"
+
+[[repo]]
+url = "https://github.com/blocknetdx/xlite-daemon"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xlitewallet.com"
@@ -160,13 +169,10 @@ url = "https://github.com/blocknetdx/xquery-dashboard-backend"
 url = "https://github.com/blocknetdx/xquery-enduser-dashboard"
 
 [[repo]]
-url = "https://github.com/blocknetdx/xquery-v2"
+url = "https://github.com/blocknetdx/XQuery-v1-archive"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xquery-v2-testing"
-
-[[repo]]
-url = "https://github.com/blocknetdx/xr-eth-payment"
 
 [[repo]]
 url = "https://github.com/blocknetdx/xr-eth-payment-proxy-api"

@@ -13,10 +13,16 @@ url = "https://github.com/taurusgroup/0x-launch-kit-frontend"
 url = "https://github.com/taurusgroup/audit-trail-plugin"
 
 [[repo]]
+url = "https://github.com/taurusgroup/avalanchego"
+
+[[repo]]
 url = "https://github.com/taurusgroup/bchutil"
 
 [[repo]]
 url = "https://github.com/taurusgroup/bitcoind"
+
+[[repo]]
+url = "https://github.com/taurusgroup/bor"
 
 [[repo]]
 url = "https://github.com/taurusgroup/btcec"
@@ -26,6 +32,9 @@ url = "https://github.com/taurusgroup/cardano-db-sync"
 
 [[repo]]
 url = "https://github.com/taurusgroup/CMTAT-1"
+
+[[repo]]
+url = "https://github.com/taurusgroup/coreth"
 
 [[repo]]
 url = "https://github.com/taurusgroup/electron-prebuilt-compile"
@@ -52,10 +61,19 @@ url = "https://github.com/taurusgroup/go-opera"
 url = "https://github.com/taurusgroup/go-tezos"
 
 [[repo]]
+url = "https://github.com/taurusgroup/heimdall"
+
+[[repo]]
 url = "https://github.com/taurusgroup/ltcd"
 
 [[repo]]
 url = "https://github.com/taurusgroup/multi-party-sig"
+
+[[repo]]
+url = "https://github.com/taurusgroup/near-lake-indexer"
+
+[[repo]]
+url = "https://github.com/taurusgroup/promptui"
 
 [[repo]]
 url = "https://github.com/taurusgroup/pulsar-client-go"
@@ -74,6 +92,9 @@ url = "https://github.com/taurusgroup/tezos"
 
 [[repo]]
 url = "https://github.com/taurusgroup/tezos-reward-distributor"
+
+[[repo]]
+url = "https://github.com/taurusgroup/tg-azure-marketplace"
 
 [[repo]]
 url = "https://github.com/taurusgroup/ton"

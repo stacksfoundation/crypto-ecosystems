@@ -7,6 +7,108 @@ github_organizations = ["https://github.com/XYOracleNetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/xy-graveyard/config-tslint"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/dapp-scsc-solidity"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/sdk-base-android"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/sdk-base-swift"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/sdk-ble-flutter"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/sdk-bletcpbridge-swift"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/sdk-geoserver-nodejs"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/tool-github-nodejs"
+
+[[repo]]
+url = "https://github.com/xy-graveyard/xyo-world-rfc"
+
+[[repo]]
+url = "https://github.com/xycorp/sdk-ui-android"
+
+[[repo]]
+url = "https://github.com/xylabs/tool-domains-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/app-bridgeclient-react"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/app-reference-react"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/app-xyo-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/client-xyo-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-archivist-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-base-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-core-c"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-core-kotlin"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-core-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-core-swift"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-dache-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-diviner-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-objectmodel-kotlin"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-objectmodel-swift"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-xyo-android"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-xyo-flutter"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-xyo-swift"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-xyobleinterface-android"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/sdk-xyobleinterface-swift"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/spec-coreobjectmodel-tex"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/tool-dapper-react"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/tool-dapploy-nodejs"
+
+[[repo]]
+url = "https://github.com/XYOracleNetwork-v1/web-developer.xyo.network-react"
+
+[[repo]]
 url = "https://github.com/XYOracleNetwork/api-archivist-nodejs"
 
 [[repo]]
@@ -31,19 +133,10 @@ url = "https://github.com/XYOracleNetwork/api-xyo-nodejs"
 url = "https://github.com/XYOracleNetwork/app-archivist-nodejs"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/app-bridgeclient-react"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/app-geouserclient-mobile"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/app-reference-react"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/app-saverasheed-react"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/app-xyo-nodejs"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/app-xyo-sample-android"
@@ -52,22 +145,13 @@ url = "https://github.com/XYOracleNetwork/app-xyo-sample-android"
 url = "https://github.com/XYOracleNetwork/app-xyosimulator-android"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/client-xyo-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/config-tslint"
+url = "https://github.com/XYOracleNetwork/dapp-gas-price"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/dapp-saverasheed-solidity"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/dapp-scsc-solidity"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/demo-payondelivery-solidity"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/documentation"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/eslint-config"
@@ -79,31 +163,13 @@ url = "https://github.com/XYOracleNetwork/geo-probabilistic-proof-of-location"
 url = "https://github.com/XYOracleNetwork/issues"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/mod-ble-android"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/mod-tcp-kotlin"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/papers-xyonetwork"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-archivist-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-base-android"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-base-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-base-swift"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-ble-android"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-ble-flutter"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-ble-nodejs"
@@ -112,52 +178,13 @@ url = "https://github.com/XYOracleNetwork/sdk-ble-nodejs"
 url = "https://github.com/XYOracleNetwork/sdk-ble-swift"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-bletcpbridge-swift"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-bridge-kotlin"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-core-android"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-core-c"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-core-kotlin"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-core-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-core-swift"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-dache-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-diviner-nodejs"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-geo-nodejs"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-geoserver-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-objectmodel-kotlin"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-objectmodel-swift"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-sentinel-kotlin"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-ui-android"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-xyo-android"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-xyo-client-android"
@@ -169,9 +196,6 @@ url = "https://github.com/XYOracleNetwork/sdk-xyo-client-js"
 url = "https://github.com/XYOracleNetwork/sdk-xyo-client-swift"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-xyo-flutter"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-xyo-js"
 
 [[repo]]
@@ -181,16 +205,7 @@ url = "https://github.com/XYOracleNetwork/sdk-xyo-mongo-js"
 url = "https://github.com/XYOracleNetwork/sdk-xyo-react-js"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-xyo-swift"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-xyo-typechain"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-xyobleinterface-android"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/sdk-xyobleinterface-swift"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/sdk-xyosimulator-nodejs"
@@ -199,31 +214,16 @@ url = "https://github.com/XYOracleNetwork/sdk-xyosimulator-nodejs"
 url = "https://github.com/XYOracleNetwork/sdk-xyosolidity-solidity"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/spec-coreobjectmodel-tex"
-
-[[repo]]
 url = "https://github.com/XYOracleNetwork/spec-opensourcetemplates-md"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/tool-dapper-react"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/tool-dapploy-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/tool-domains-nodejs"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/tool-github-nodejs"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/web-developer-portal-3.0"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/web-developer.xyo.network-react"
+url = "https://github.com/XYOracleNetwork/web-portal-react"
 
 [[repo]]
-url = "https://github.com/XYOracleNetwork/web-portal-react"
+url = "https://github.com/XYOracleNetwork/web-xyo.network-docusaurus"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/xyo-foundation"
@@ -236,6 +236,3 @@ url = "https://github.com/XYOracleNetwork/xyo-solidity"
 
 [[repo]]
 url = "https://github.com/XYOracleNetwork/xyo-version-1"
-
-[[repo]]
-url = "https://github.com/XYOracleNetwork/xyo-world-rfc"

@@ -28,16 +28,16 @@ url = "https://github.com/ray-network/cardano-verified-projects-list"
 url = "https://github.com/ray-network/cardano-verified-tokens-list"
 
 [[repo]]
+url = "https://github.com/ray-network/cardano-web3-js"
+
+[[repo]]
 url = "https://github.com/ray-network/cardano-web3.js"
 
 [[repo]]
-url = "https://github.com/ray-network/cardanolist"
+url = "https://github.com/ray-network/cardanolist-data"
 
 [[repo]]
 url = "https://github.com/ray-network/cardanolist-home"
-
-[[repo]]
-url = "https://github.com/ray-network/cardanolist-io"
 
 [[repo]]
 url = "https://github.com/ray-network/cloudflare-workers"
@@ -49,7 +49,10 @@ url = "https://github.com/ray-network/docs"
 url = "https://github.com/ray-network/foundation-home"
 
 [[repo]]
-url = "https://github.com/ray-network/minterr"
+url = "https://github.com/ray-network/foundation-website"
+
+[[repo]]
+url = "https://github.com/ray-network/koios-tiny-client"
 
 [[repo]]
 url = "https://github.com/ray-network/minterr-app"
@@ -58,43 +61,16 @@ url = "https://github.com/ray-network/minterr-app"
 url = "https://github.com/ray-network/minterr-contracts"
 
 [[repo]]
-url = "https://github.com/ray-network/minterr-home"
-
-[[repo]]
-url = "https://github.com/ray-network/minterr-io"
-
-[[repo]]
-url = "https://github.com/ray-network/minterr-io-contracts"
-
-[[repo]]
 url = "https://github.com/ray-network/pigz-home"
 
 [[repo]]
 url = "https://github.com/ray-network/ray-cordova-wrapper"
 
 [[repo]]
-url = "https://github.com/ray-network/ray-home"
-
-[[repo]]
 url = "https://github.com/ray-network/ray-home-x"
 
 [[repo]]
-url = "https://github.com/ray-network/ray-kickstart-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-nft-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-stake"
-
-[[repo]]
 url = "https://github.com/ray-network/ray-swap-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-wallet"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-wallet-chrome-wrapper"
 
 [[repo]]
 url = "https://github.com/ray-network/ray-wallet-cordova-wrapper"
@@ -103,19 +79,25 @@ url = "https://github.com/ray-network/ray-wallet-cordova-wrapper"
 url = "https://github.com/ray-network/raydata-home"
 
 [[repo]]
-url = "https://github.com/ray-network/raydata-io"
-
-[[repo]]
 url = "https://github.com/ray-network/raygraph-home"
 
 [[repo]]
-url = "https://github.com/ray-network/raygraph-io"
+url = "https://github.com/ray-network/raygraph-kupmios"
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-output"
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-token-images-cdn"
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-verified-tokens"
 
 [[repo]]
 url = "https://github.com/ray-network/raynetwork-home"
 
 [[repo]]
-url = "https://github.com/ray-network/raynetwork-io"
+url = "https://github.com/ray-network/raynetwork-website"
 
 [[repo]]
 url = "https://github.com/ray-network/raypad-contracts"
@@ -124,34 +106,16 @@ url = "https://github.com/ray-network/raypad-contracts"
 url = "https://github.com/ray-network/raypad-home"
 
 [[repo]]
-url = "https://github.com/ray-network/raypad-io"
-
-[[repo]]
-url = "https://github.com/ray-network/raypad-io-contracts"
-
-[[repo]]
 url = "https://github.com/ray-network/raystake-home"
 
 [[repo]]
-url = "https://github.com/ray-network/raystake-io"
-
-[[repo]]
 url = "https://github.com/ray-network/raystart-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raystart-io"
 
 [[repo]]
 url = "https://github.com/ray-network/rayswap-contracts"
 
 [[repo]]
 url = "https://github.com/ray-network/rayswap-home"
-
-[[repo]]
-url = "https://github.com/ray-network/rayswap-io"
-
-[[repo]]
-url = "https://github.com/ray-network/rayswap-io-contracts"
 
 [[repo]]
 url = "https://github.com/ray-network/raywallet-app"
@@ -161,9 +125,3 @@ url = "https://github.com/ray-network/raywallet-app-chrome-extension"
 
 [[repo]]
 url = "https://github.com/ray-network/raywallet-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raywallet-io-app"
-
-[[repo]]
-url = "https://github.com/ray-network/raywallet-io-app-chrome-extension"

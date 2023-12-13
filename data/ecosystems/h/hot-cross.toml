@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/hotcrosscom"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hotcrosscom/aptos-core"
+
+[[repo]]
 url = "https://github.com/hotcrosscom/assets"
 
 [[repo]]
@@ -29,6 +32,12 @@ url = "https://github.com/hotcrosscom/graph-node"
 
 [[repo]]
 url = "https://github.com/hotcrosscom/readthedocs.org"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/selfchain-explorer"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/selfchain-genesis"
 
 [[repo]]
 url = "https://github.com/hotcrosscom/snapshot"

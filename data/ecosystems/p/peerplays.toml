@@ -13,25 +13,7 @@ url = "https://github.com/PBSA/block-explorer"
 url = "https://github.com/PBSA/BookiePro"
 
 [[repo]]
-url = "https://github.com/PBSA/bookiepro.com"
-
-[[repo]]
-url = "https://github.com/PBSA/bookiesports"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-auto"
-
-[[repo]]
 url = "https://github.com/PBSA/bos-dataproxy"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-incidents"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-mint"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-sync"
 
 [[repo]]
 url = "https://github.com/PBSA/community-project-docs"
@@ -106,9 +88,6 @@ url = "https://github.com/PBSA/peerplaysjs-lib"
 url = "https://github.com/PBSA/peerplaysjs-ws"
 
 [[repo]]
-url = "https://github.com/PBSA/python-peerplays"
-
-[[repo]]
 url = "https://github.com/PBSA/StreamersEdge"
 
 [[repo]]
@@ -116,3 +95,24 @@ url = "https://github.com/PBSA/Technical-Documents"
 
 [[repo]]
 url = "https://github.com/PBSA/testnet"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bookiepro.com"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bookiesports"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-auto"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-incidents"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-mint"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-sync"
+
+[[repo]]
+url = "https://github.com/peerplays-network/python-peerplays"

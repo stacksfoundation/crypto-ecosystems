@@ -19,13 +19,22 @@ url = "https://github.com/OpenZeppelin/cairo-contracts"
 url = "https://github.com/OpenZeppelin/chai-bn"
 
 [[repo]]
-url = "https://github.com/OpenZeppelin/code-style"
-
-[[repo]]
 url = "https://github.com/OpenZeppelin/compound-assets-listing"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/compound-governance-proposal-behavior"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/compound-monitoring"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/compound-re-enable-dsr-proposal"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/compound-security-policies"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/configs"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/contract-bots-gang"
@@ -43,6 +52,9 @@ url = "https://github.com/OpenZeppelin/cto.openzeppelin.com"
 url = "https://github.com/OpenZeppelin/damn-vulnerable-defi"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/defender-as-code"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/defender-autotask-examples"
 
 [[repo]]
@@ -58,16 +70,22 @@ url = "https://github.com/OpenZeppelin/defender-docs"
 url = "https://github.com/OpenZeppelin/defender-example-metatx-relay"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/defender-sdk"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/defender-serverless"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/defender-serverless-workshop"
 
 [[repo]]
-url = "https://github.com/OpenZeppelin/discourse-highlightjs-langs"
+url = "https://github.com/OpenZeppelin/defender-templates"
 
 [[repo]]
-url = "https://github.com/OpenZeppelin/docs-preview-script"
+url = "https://github.com/OpenZeppelin/demo-hardhat-deploy-wide-monitoring"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/discourse-highlightjs-langs"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/docs-utils"
@@ -86,6 +104,9 @@ url = "https://github.com/OpenZeppelin/ethereumjs-vm-coverage"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/ethernaut"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/ethernaut-leaderboard"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/EVM-Integration-tests"
@@ -139,6 +160,9 @@ url = "https://github.com/OpenZeppelin/netlify-redirects"
 url = "https://github.com/OpenZeppelin/nile"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/nile-rs"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-contract-loader"
 
 [[repo]]
@@ -146,9 +170,6 @@ url = "https://github.com/OpenZeppelin/openzeppelin-contracts"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-contracts-docs"
-
-[[repo]]
-url = "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable"
@@ -161,9 +182,6 @@ url = "https://github.com/OpenZeppelin/openzeppelin-gsn-provider"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-labs"
-
-[[repo]]
-url = "https://github.com/OpenZeppelin/openzeppelin-loader"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-network.js"
@@ -211,6 +229,9 @@ url = "https://github.com/OpenZeppelin/openzeppelin.org"
 url = "https://github.com/OpenZeppelin/oz-devops"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/proposal143"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/proxy-explorer"
 
 [[repo]]
@@ -220,13 +241,22 @@ url = "https://github.com/OpenZeppelin/research-cryptography"
 url = "https://github.com/OpenZeppelin/resolver-engine"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/safe-contracts-context"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/sample-crosschain-env"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/sample-crowdsale-starter"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/sandbox-smart-contracts"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/SCSVS"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/sgp"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/slack.openzeppelin.org"
@@ -259,9 +289,6 @@ url = "https://github.com/OpenZeppelin/tabookey-gasless"
 url = "https://github.com/OpenZeppelin/tech-coaching"
 
 [[repo]]
-url = "https://github.com/OpenZeppelin/test-env"
-
-[[repo]]
 url = "https://github.com/OpenZeppelin/token-vesting-ui"
 
 [[repo]]
@@ -269,6 +296,9 @@ url = "https://github.com/OpenZeppelin/token-vouching"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/upgrades-safe-app"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/w3sa-public"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/web3-gsn-faucet-provider"

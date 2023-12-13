@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/AztecProtocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AztecProtocol/AZIPs"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/AZTEC"
 tags = ["Protocol"]
 
@@ -23,7 +26,13 @@ url = "https://github.com/AztecProtocol/aztec-connect"
 url = "https://github.com/AztecProtocol/aztec-connect-bridges"
 
 [[repo]]
-url = "https://github.com/AztecProtocol/aztec-connect-starter"
+url = "https://github.com/AztecProtocol/aztec-connect-contracts"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-connect-cpp"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-connect-explorer"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/aztec-crypto-js"
@@ -38,10 +47,43 @@ url = "https://github.com/AztecProtocol/aztec-frontend-boilerplate"
 url = "https://github.com/AztecProtocol/aztec-ganache-starter-kit"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/aztec-nr"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-packages"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/aztec-sdk-starter"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/aztec-security"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-v1"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-v1-loan-dapp"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-v1-specification"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-v2-escape-hatch-server"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-verifier-contract-tests"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec-verifier-contracts"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec3-circuits"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec3-l1-contracts"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/aztec3-packages"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/azteccli"
@@ -53,7 +95,13 @@ url = "https://github.com/AztecProtocol/aztecv2-escape-hatch-server"
 url = "https://github.com/AztecProtocol/barretenberg"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/bb.js"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/bn"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/build-system"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/burner-wallet"
@@ -65,7 +113,7 @@ url = "https://github.com/AztecProtocol/confidential-tokens"
 url = "https://github.com/AztecProtocol/consolerr"
 
 [[repo]]
-url = "https://github.com/AztecProtocol/defi-bridge-hackathon"
+url = "https://github.com/AztecProtocol/dev-bb.js"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/dev-connect-workshop"
@@ -92,13 +140,10 @@ url = "https://github.com/AztecProtocol/EIPs"
 url = "https://github.com/AztecProtocol/eth-faucet"
 
 [[repo]]
-url = "https://github.com/AztecProtocol/eth-global-starter-kit"
-
-[[repo]]
-url = "https://github.com/AztecProtocol/eth-india-starter-kit"
-
-[[repo]]
 url = "https://github.com/AztecProtocol/evmone"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/foundation"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/guacamole-ui"
@@ -122,7 +167,16 @@ url = "https://github.com/AztecProtocol/libff"
 url = "https://github.com/AztecProtocol/loan-dapp-starter-kit"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/msgpack-c"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/multi-semantic-release"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/noir-public-oracle"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/nym-aztec"
 
 [[repo]]
 url = "https://github.com/AztecProtocol/Oliver"
@@ -149,6 +203,12 @@ url = "https://github.com/AztecProtocol/rollup-encoder"
 url = "https://github.com/AztecProtocol/rpc-endpoint"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/sandbox-version-manager"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/sandbox-website"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/sdk-starter-kit"
 
 [[repo]]
@@ -164,7 +224,37 @@ url = "https://github.com/AztecProtocol/solidity-coverage"
 url = "https://github.com/AztecProtocol/specification"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/wallet-ui"
+
+[[repo]]
+url = "https://github.com/AztecProtocol/WebGLM"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/weierstrudel"
 
 [[repo]]
+url = "https://github.com/AztecProtocol/zk-money"
+
+[[repo]]
 url = "https://github.com/AztecProtocol/zkether"
+
+[[repo]]
+url = "https://github.com/BattleZips/BattleZips-Noir"
+
+[[repo]]
+url = "https://github.com/colinnielsen/ecrecover-noir"
+
+[[repo]]
+url = "https://github.com/Ethan-000/halo2_backend"
+
+[[repo]]
+url = "https://github.com/Miyamura80/ZKMicrophone"
+
+[[repo]]
+url = "https://github.com/resurgencelabs/types"
+
+[[repo]]
+url = "https://github.com/SetProtocol/noir-rsa"
+
+[[repo]]
+url = "https://github.com/tonk-gg/dappicom"

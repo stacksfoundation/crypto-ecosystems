@@ -13,9 +13,6 @@ url = "https://github.com/goldcoin/bitaddress.org"
 url = "https://github.com/goldcoin/gitian.sigs.GLC"
 
 [[repo]]
-url = "https://github.com/goldcoin/gitian.sigs.GLD"
-
-[[repo]]
 url = "https://github.com/goldcoin/goldcoin"
 
 [[repo]]
@@ -23,6 +20,9 @@ url = "https://github.com/goldcoin/goldcoin-0.7.5"
 
 [[repo]]
 url = "https://github.com/goldcoin/goldcoin-1"
+
+[[repo]]
+url = "https://github.com/goldcoin/goldcoin-25.x"
 
 [[repo]]
 url = "https://github.com/goldcoin/goldcoin-android"

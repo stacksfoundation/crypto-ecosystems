@@ -10,7 +10,19 @@ github_organizations = ["https://github.com/quasar-finance"]
 url = "https://github.com/quasar-finance/binary-release"
 
 [[repo]]
+url = "https://github.com/quasar-finance/chain-details"
+
+[[repo]]
 url = "https://github.com/quasar-finance/chain-registry"
+
+[[repo]]
+url = "https://github.com/quasar-finance/cosmos-multisig-ui"
+
+[[repo]]
+url = "https://github.com/quasar-finance/cw-dex-router"
+
+[[repo]]
+url = "https://github.com/quasar-finance/cw-vault-standard"
 
 [[repo]]
 url = "https://github.com/quasar-finance/gaia"
@@ -25,10 +37,25 @@ url = "https://github.com/quasar-finance/hermes-logs"
 url = "https://github.com/quasar-finance/ibc-go"
 
 [[repo]]
+url = "https://github.com/quasar-finance/interchain-accounts-demo"
+
+[[repo]]
 url = "https://github.com/quasar-finance/interchain-query-demo"
 
 [[repo]]
+url = "https://github.com/quasar-finance/mockibc"
+
+[[repo]]
+url = "https://github.com/quasar-finance/networks"
+
+[[repo]]
 url = "https://github.com/quasar-finance/osmosis"
+
+[[repo]]
+url = "https://github.com/quasar-finance/osmosis-frontend"
+
+[[repo]]
+url = "https://github.com/quasar-finance/osmosis-rust"
 
 [[repo]]
 url = "https://github.com/quasar-finance/packet-forward-middleware"
@@ -37,10 +64,25 @@ url = "https://github.com/quasar-finance/packet-forward-middleware"
 url = "https://github.com/quasar-finance/pingpub-explorer"
 
 [[repo]]
+url = "https://github.com/quasar-finance/qsr-osmo-frontend"
+
+[[repo]]
+url = "https://github.com/quasar-finance/quasar"
+
+[[repo]]
+url = "https://github.com/quasar-finance/quasar-preview"
+
+[[repo]]
 url = "https://github.com/quasar-finance/questnet"
 
 [[repo]]
 url = "https://github.com/quasar-finance/relayer"
 
 [[repo]]
+url = "https://github.com/quasar-finance/slips"
+
+[[repo]]
 url = "https://github.com/quasar-finance/wasmd"
+
+[[repo]]
+url = "https://github.com/quasar-finance/web3-load-balancer-configuration"

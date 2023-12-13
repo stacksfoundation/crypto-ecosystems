@@ -13,7 +13,13 @@ url = "https://github.com/Taraxa-project/chains"
 url = "https://github.com/Taraxa-project/consenlabs-token-profile"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/contracts-testing"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/design-assets"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/echo"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/explorer"
@@ -22,16 +28,31 @@ url = "https://github.com/Taraxa-project/explorer"
 url = "https://github.com/Taraxa-project/foundry-example"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/go-ethereum"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/grocksdb"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/hype"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/monorepo-template"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/nestjs-websocket"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/sandbox"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/snapshot.js"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/tara-erc20"
@@ -47,6 +68,12 @@ url = "https://github.com/Taraxa-project/taraxa-documentation"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/taraxa-evm"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/taraxa-go-client"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/taraxa-indexer"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/taraxa-js"
@@ -67,6 +94,9 @@ url = "https://github.com/Taraxa-project/taraxa-platform"
 url = "https://github.com/Taraxa-project/taraxa-py"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/taraxa-snapshotter"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/taraxa-ui"
 
 [[repo]]
@@ -77,6 +107,9 @@ url = "https://github.com/Taraxa-project/taraxa-vrf"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/taraxa-whitepapers"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/TIP"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/wagmi-references"

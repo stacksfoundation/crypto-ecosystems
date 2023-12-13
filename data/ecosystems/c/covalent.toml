@@ -7,13 +7,13 @@ github_organizations = ["https://github.com/covalenthq"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/covalenthq/assets"
-
-[[repo]]
 url = "https://github.com/covalenthq/bbolt"
 
 [[repo]]
 url = "https://github.com/covalenthq/bsp-agent"
+
+[[repo]]
+url = "https://github.com/covalenthq/bsp-finalizer"
 
 [[repo]]
 url = "https://github.com/covalenthq/bsp-geth"
@@ -26,6 +26,9 @@ url = "https://github.com/covalenthq/covalent-docs"
 
 [[repo]]
 url = "https://github.com/covalenthq/covalent-gitcoin-bounties"
+
+[[repo]]
+url = "https://github.com/covalenthq/debezium"
 
 [[repo]]
 url = "https://github.com/covalenthq/dex-dashboard-template"
@@ -49,9 +52,6 @@ url = "https://github.com/covalenthq/erigon"
 url = "https://github.com/covalenthq/erigon-lib"
 
 [[repo]]
-url = "https://github.com/covalenthq/go-ethereum"
-
-[[repo]]
 url = "https://github.com/covalenthq/go-ethereum-fork"
 
 [[repo]]
@@ -67,6 +67,9 @@ url = "https://github.com/covalenthq/imageproxy"
 url = "https://github.com/covalenthq/ipfs-pinner"
 
 [[repo]]
+url = "https://github.com/covalenthq/lenspath"
+
+[[repo]]
 url = "https://github.com/covalenthq/lumberjack"
 
 [[repo]]
@@ -79,19 +82,16 @@ url = "https://github.com/covalenthq/mix-release-ingestor"
 url = "https://github.com/covalenthq/mix-release-ingestor-test"
 
 [[repo]]
-url = "https://github.com/covalenthq/mq-store-agent"
-
-[[repo]]
 url = "https://github.com/covalenthq/multisender"
 
 [[repo]]
 url = "https://github.com/covalenthq/nft-dashboard-template"
 
 [[repo]]
-url = "https://github.com/covalenthq/nft-market-cap"
+url = "https://github.com/covalenthq/nft-market-demo"
 
 [[repo]]
-url = "https://github.com/covalenthq/nft-market-demo"
+url = "https://github.com/covalenthq/operator-onboarding-docs"
 
 [[repo]]
 url = "https://github.com/covalenthq/orbital"
@@ -109,6 +109,9 @@ url = "https://github.com/covalenthq/price-tracker-chrome-extension"
 url = "https://github.com/covalenthq/rskj"
 
 [[repo]]
+url = "https://github.com/covalenthq/rudder"
+
+[[repo]]
 url = "https://github.com/covalenthq/solana"
 
 [[repo]]
@@ -124,9 +127,6 @@ url = "https://github.com/covalenthq/token-assets"
 url = "https://github.com/covalenthq/token-list"
 
 [[repo]]
-url = "https://github.com/covalenthq/Wallet-Dashboard-Demo"
-
-[[repo]]
 url = "https://github.com/covalenthq/web3-components"
 
 [[repo]]
@@ -134,9 +134,6 @@ url = "https://github.com/covalenthq/Web3-Components-Demo"
 
 [[repo]]
 url = "https://github.com/covalenthq/web3-resources"
-
-[[repo]]
-url = "https://github.com/covalenthq/web3-templates"
 
 [[repo]]
 url = "https://github.com/covalenthq/web3-trivia-template"

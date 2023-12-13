@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/fungible-systems"]
 url = "https://github.com/fungible-systems/bird-count"
 
 [[repo]]
+url = "https://github.com/fungible-systems/bns-x"
+
+[[repo]]
+url = "https://github.com/fungible-systems/chainhook"
+
+[[repo]]
 url = "https://github.com/fungible-systems/clarigen"
 
 [[repo]]
@@ -35,6 +41,9 @@ url = "https://github.com/fungible-systems/hasura-graphql-metadata-db-only"
 
 [[repo]]
 url = "https://github.com/fungible-systems/hestia"
+
+[[repo]]
+url = "https://github.com/fungible-systems/hub"
 
 [[repo]]
 url = "https://github.com/fungible-systems/jotai-query-toolkit"
@@ -67,9 +76,6 @@ url = "https://github.com/fungible-systems/micro-stacks-nextjs"
 url = "https://github.com/fungible-systems/micro-stacks-nextjs-example"
 
 [[repo]]
-url = "https://github.com/fungible-systems/micro-stacks-react"
-
-[[repo]]
 url = "https://github.com/fungible-systems/micro-stacks-remix-example"
 
 [[repo]]
@@ -95,6 +101,9 @@ url = "https://github.com/fungible-systems/noble-hashes"
 
 [[repo]]
 url = "https://github.com/fungible-systems/noble-secp256k1"
+
+[[repo]]
+url = "https://github.com/fungible-systems/nouns-builder"
 
 [[repo]]
 url = "https://github.com/fungible-systems/nox.sh"

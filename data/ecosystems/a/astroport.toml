@@ -13,9 +13,6 @@ url = "https://github.com/astroport-fi/aips"
 url = "https://github.com/astroport-fi/anchor-bAsset-contracts"
 
 [[repo]]
-url = "https://github.com/astroport-fi/astro-audits"
-
-[[repo]]
 url = "https://github.com/astroport-fi/astro-generator-proxy-contracts"
 
 [[repo]]
@@ -28,12 +25,6 @@ url = "https://github.com/astroport-fi/astro-stableswap-research"
 url = "https://github.com/astroport-fi/astro-zap"
 
 [[repo]]
-url = "https://github.com/astroport-fi/astro-zap"
-
-[[repo]]
-url = "https://github.com/astroport-fi/astroport"
-
-[[repo]]
 url = "https://github.com/astroport-fi/astroport-audits"
 
 [[repo]]
@@ -43,13 +34,16 @@ url = "https://github.com/astroport-fi/astroport-bootstrapping"
 url = "https://github.com/astroport-fi/astroport-changelog"
 
 [[repo]]
+url = "https://github.com/astroport-fi/astroport-classic-api"
+
+[[repo]]
+url = "https://github.com/astroport-fi/astroport-classic-frontend"
+
+[[repo]]
 url = "https://github.com/astroport-fi/astroport-core"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-dca"
-
-[[repo]]
-url = "https://github.com/astroport-fi/astroport-documentation"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-governance"
@@ -67,7 +61,7 @@ url = "https://github.com/astroport-fi/astroport-lbport"
 url = "https://github.com/astroport-fi/astroport-legal-docs"
 
 [[repo]]
-url = "https://github.com/astroport-fi/astroport-periphery"
+url = "https://github.com/astroport-fi/astroport-math"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-sims"
@@ -79,19 +73,25 @@ url = "https://github.com/astroport-fi/astroport-token-lists"
 url = "https://github.com/astroport-fi/astroport-web-text"
 
 [[repo]]
-url = "https://github.com/astroport-fi/astrozap"
+url = "https://github.com/astroport-fi/astroport_ibc"
+
+[[repo]]
+url = "https://github.com/astroport-fi/blog"
 
 [[repo]]
 url = "https://github.com/astroport-fi/cw-bigint"
 
 [[repo]]
+url = "https://github.com/astroport-fi/cw-multi-test"
+
+[[repo]]
 url = "https://github.com/astroport-fi/dfunk_contracts"
 
 [[repo]]
-url = "https://github.com/astroport-fi/lockdrop-frontend"
+url = "https://github.com/astroport-fi/docs"
 
 [[repo]]
-url = "https://github.com/astroport-fi/lockdrop-nft"
+url = "https://github.com/astroport-fi/lockdrop-frontend"
 
 [[repo]]
 url = "https://github.com/astroport-fi/react-terra"
@@ -107,3 +107,6 @@ url = "https://github.com/astroport-fi/terraswap"
 
 [[repo]]
 url = "https://github.com/astroport-fi/token-lists"
+
+[[repo]]
+url = "https://github.com/astroport-fi/valkyrieprotocol"

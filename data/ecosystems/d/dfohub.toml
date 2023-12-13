@@ -28,40 +28,16 @@ url = "https://github.com/b-u-i-d-l/buidlswitch"
 url = "https://github.com/b-u-i-d-l/dfo-deployer-centralized"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/dfo-hub"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/dfo-hub-docs"
 
 [[repo]]
 url = "https://github.com/b-u-i-d-l/dfo-hub-functionality-proposal-plugin"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/dfo-hub-sdk"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/dfo-protocol"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/dfo-protocol-docs"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/EIPs"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/eth-emergency-mode"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/eth-item-token-standard"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/ethArt"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/ethereansOS_Explainer"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/ethItem"
 
 [[repo]]
 url = "https://github.com/b-u-i-d-l/ethItem-docs"
@@ -79,22 +55,10 @@ url = "https://github.com/b-u-i-d-l/ganache-browser"
 url = "https://github.com/b-u-i-d-l/ITEMswap"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/js-framework"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/metamask-extension"
 
 [[repo]]
 url = "https://github.com/b-u-i-d-l/quickscope-bot"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/responsible-defi"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/ROBE"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/robe-deployer"
 
 [[repo]]
 url = "https://github.com/b-u-i-d-l/sphinxcontrib-soliditydomain"
@@ -103,25 +67,58 @@ url = "https://github.com/b-u-i-d-l/sphinxcontrib-soliditydomain"
 url = "https://github.com/b-u-i-d-l/staking"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/super-saiyan-token"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/truffle-flattener-wrapper"
-
-[[repo]]
-url = "https://github.com/b-u-i-d-l/unifi"
 
 [[repo]]
 url = "https://github.com/b-u-i-d-l/unifi-docs"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/unimergency"
-
-[[repo]]
 url = "https://github.com/b-u-i-d-l/update-procedures"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/Where-Is-My-Dragon"
+url = "https://github.com/EthereansOS/ethart-deprecated"
 
 [[repo]]
-url = "https://github.com/b-u-i-d-l/WIMD-uniswap"
+url = "https://github.com/EthereansOS/Ethereum-Emergency-Mode"
+
+[[repo]]
+url = "https://github.com/EthereansOS/EthOS-Explainer"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Interfaces-Framework"
+
+[[repo]]
+url = "https://github.com/EthereansOS/ITEMS-Interface"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Organizations-Core"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Organizations-documentation"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Organizations-Interface"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Organizations-SDK"
+
+[[repo]]
+url = "https://github.com/EthereansOS/Responsible-DeFi-Guidelines"
+
+[[repo]]
+url = "https://github.com/EthereansOS/ROBE-Core"
+
+[[repo]]
+url = "https://github.com/EthereansOS/ROBE-Interface"
+
+[[repo]]
+url = "https://github.com/EthereansOS/super-saiyan-token"
+
+[[repo]]
+url = "https://github.com/EthereansOS/unifihub-deprecated"
+
+[[repo]]
+url = "https://github.com/EthereansOS/unimergency"
+
+[[repo]]
+url = "https://github.com/EthereansOS/WIMD-Interface"

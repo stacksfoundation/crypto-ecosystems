@@ -16,9 +16,6 @@ url = "https://github.com/dialectlabs/cli"
 url = "https://github.com/dialectlabs/dart-cardinal-twitter"
 
 [[repo]]
-url = "https://github.com/dialectlabs/dart-protocol"
-
-[[repo]]
 url = "https://github.com/dialectlabs/dart-sdk"
 
 [[repo]]
@@ -32,6 +29,9 @@ url = "https://github.com/dialectlabs/data-service"
 
 [[repo]]
 url = "https://github.com/dialectlabs/dialect"
+
+[[repo]]
+url = "https://github.com/dialectlabs/digital-asset-rpc-infrastructure"
 
 [[repo]]
 url = "https://github.com/dialectlabs/governance-api"
@@ -89,6 +89,18 @@ url = "https://github.com/dialectlabs/raydium-frontend"
 
 [[repo]]
 url = "https://github.com/dialectlabs/react"
+
+[[repo]]
+url = "https://github.com/dialectlabs/react-native-fast-image"
+
+[[repo]]
+url = "https://github.com/dialectlabs/react-native-ios-context-menu"
+
+[[repo]]
+url = "https://github.com/dialectlabs/react-native-ui-lib"
+
+[[repo]]
+url = "https://github.com/dialectlabs/react-native-video"
 
 [[repo]]
 url = "https://github.com/dialectlabs/realms-monitoring-service"

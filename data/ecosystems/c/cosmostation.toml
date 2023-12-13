@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/cosmostation"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/cosmostation/aptos-kotlin"
+
+[[repo]]
+url = "https://github.com/cosmostation/aptos-swift"
+
+[[repo]]
+url = "https://github.com/cosmostation/archway-networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/assets"
 
 [[repo]]
@@ -19,7 +28,13 @@ url = "https://github.com/cosmostation/BitcoinKit"
 url = "https://github.com/cosmostation/bridge-launch-governance"
 
 [[repo]]
+url = "https://github.com/cosmostation/celestia-networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/chainlist"
+
+[[repo]]
+url = "https://github.com/cosmostation/charon-distributed-validator-node"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmos-client"
@@ -40,6 +55,9 @@ url = "https://github.com/cosmostation/cosmosjs-tutorial"
 url = "https://github.com/cosmostation/cosmostation-android"
 
 [[repo]]
+url = "https://github.com/cosmostation/cosmostation-chrome-extension"
+
+[[repo]]
 url = "https://github.com/cosmostation/cosmostation-chrome-extension-client"
 
 [[repo]]
@@ -53,6 +71,9 @@ url = "https://github.com/cosmostation/cosmostation-ios"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-mobile"
+
+[[repo]]
+url = "https://github.com/cosmostation/cosmostation-wallet-docs"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-wc-modal"
@@ -70,7 +91,13 @@ url = "https://github.com/cosmostation/CosmWasmJS"
 url = "https://github.com/cosmostation/defistation-web"
 
 [[repo]]
+url = "https://github.com/cosmostation/docs"
+
+[[repo]]
 url = "https://github.com/cosmostation/docs-site"
+
+[[repo]]
+url = "https://github.com/cosmostation/dydx-networks"
 
 [[repo]]
 url = "https://github.com/cosmostation/gaia"
@@ -85,7 +112,22 @@ url = "https://github.com/cosmostation/genesisTransactions-1"
 url = "https://github.com/cosmostation/goc2022-relayer-evidence"
 
 [[repo]]
+url = "https://github.com/cosmostation/gogoproto"
+
+[[repo]]
+url = "https://github.com/cosmostation/gon-evidence"
+
+[[repo]]
 url = "https://github.com/cosmostation/HDWallet"
+
+[[repo]]
+url = "https://github.com/cosmostation/hw-transport-android-ble"
+
+[[repo]]
+url = "https://github.com/cosmostation/hw-transport-ios-ble"
+
+[[repo]]
+url = "https://github.com/cosmostation/ibc_proto_converted"
 
 [[repo]]
 url = "https://github.com/cosmostation/ics-testnets-cosmostation"
@@ -104,6 +146,9 @@ url = "https://github.com/cosmostation/keystation"
 
 [[repo]]
 url = "https://github.com/cosmostation/ki-networks"
+
+[[repo]]
+url = "https://github.com/cosmostation/kyve-networks"
 
 [[repo]]
 url = "https://github.com/cosmostation/launch"
@@ -136,13 +181,28 @@ url = "https://github.com/cosmostation/mintscan-binance-dex-backend"
 url = "https://github.com/cosmostation/mintscan-binance-dex-frontend"
 
 [[repo]]
+url = "https://github.com/cosmostation/mintscan-milestones"
+
+[[repo]]
+url = "https://github.com/cosmostation/mintscan-wallet-supports"
+
+[[repo]]
+url = "https://github.com/cosmostation/namada-testnets"
+
+[[repo]]
 url = "https://github.com/cosmostation/networks"
 
 [[repo]]
 url = "https://github.com/cosmostation/networks-1"
 
 [[repo]]
+url = "https://github.com/cosmostation/noble-networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/OIPs"
+
+[[repo]]
+url = "https://github.com/cosmostation/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/cosmostation/passage-mainnet-fork"
@@ -154,6 +214,12 @@ url = "https://github.com/cosmostation/pegzone"
 url = "https://github.com/cosmostation/proto_collections"
 
 [[repo]]
+url = "https://github.com/cosmostation/protobuf"
+
+[[repo]]
+url = "https://github.com/cosmostation/quasar-gentx"
+
+[[repo]]
 url = "https://github.com/cosmostation/relayer"
 
 [[repo]]
@@ -161,6 +227,12 @@ url = "https://github.com/cosmostation/something-special"
 
 [[repo]]
 url = "https://github.com/cosmostation/space-station"
+
+[[repo]]
+url = "https://github.com/cosmostation/splash"
+
+[[repo]]
+url = "https://github.com/cosmostation/splash-docs"
 
 [[repo]]
 url = "https://github.com/cosmostation/steward-registry"
@@ -172,10 +244,16 @@ url = "https://github.com/cosmostation/suikotlin"
 url = "https://github.com/cosmostation/suiswift"
 
 [[repo]]
+url = "https://github.com/cosmostation/super-rotary-phone"
+
+[[repo]]
 url = "https://github.com/cosmostation/swift-sdk"
 
 [[repo]]
 url = "https://github.com/cosmostation/tendermint"
+
+[[repo]]
+url = "https://github.com/cosmostation/terra-sdk"
 
 [[repo]]
 url = "https://github.com/cosmostation/testnet"
@@ -193,7 +271,13 @@ url = "https://github.com/cosmostation/wallet-connect-kotlin"
 url = "https://github.com/cosmostation/wallet-connect-swift"
 
 [[repo]]
+url = "https://github.com/cosmostation/wallet-registry"
+
+[[repo]]
 url = "https://github.com/cosmostation/walletconnect-v2-web-examples"
+
+[[repo]]
+url = "https://github.com/cosmostation/wallets"
 
 [[repo]]
 url = "https://github.com/cosmostation/wc-example"

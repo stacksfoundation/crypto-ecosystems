@@ -34,6 +34,12 @@ url = "https://github.com/fetchai/apps-wallet-chrome-extension"
 url = "https://github.com/fetchai/assets"
 
 [[repo]]
+url = "https://github.com/fetchai/atomix_ledger_subquery"
+
+[[repo]]
+url = "https://github.com/fetchai/babble"
+
+[[repo]]
 url = "https://github.com/fetchai/bdjuno"
 
 [[repo]]
@@ -142,9 +148,6 @@ url = "https://github.com/fetchai/jenesis"
 url = "https://github.com/fetchai/jenesis-templates"
 
 [[repo]]
-url = "https://github.com/fetchai/keplr-extension"
-
-[[repo]]
 url = "https://github.com/fetchai/ledger"
 tags = ["Protocol"]
 
@@ -221,9 +224,6 @@ url = "https://github.com/fetchai/pydoc-markdown"
 url = "https://github.com/fetchai/pyOEF"
 
 [[repo]]
-url = "https://github.com/fetchai/relayer"
-
-[[repo]]
 url = "https://github.com/fetchai/research-dvrf"
 
 [[repo]]
@@ -261,6 +261,12 @@ url = "https://github.com/fetchai/tools-pocketbook"
 
 [[repo]]
 url = "https://github.com/fetchai/tutorial-aea-weatherstation"
+
+[[repo]]
+url = "https://github.com/fetchai/uAgents"
+
+[[repo]]
+url = "https://github.com/fetchai/uAgents-examples"
 
 [[repo]]
 url = "https://github.com/fetchai/wallet-browser-extension"

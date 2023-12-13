@@ -10,16 +10,64 @@ github_organizations = ["https://github.com/skip-mev"]
 url = "https://github.com/skip-mev/big-dipper-2.0"
 
 [[repo]]
+url = "https://github.com/skip-mev/block-sdk"
+
+[[repo]]
 url = "https://github.com/skip-mev/blue-tendermint"
 
 [[repo]]
-url = "https://github.com/skip-mev/bots"
+url = "https://github.com/skip-mev/chain-registry"
+
+[[repo]]
+url = "https://github.com/skip-mev/comdex"
 
 [[repo]]
 url = "https://github.com/skip-mev/config"
 
 [[repo]]
+url = "https://github.com/skip-mev/cosmos-omnibus"
+
+[[repo]]
+url = "https://github.com/skip-mev/cw-plus"
+
+[[repo]]
 url = "https://github.com/skip-mev/deli-shop"
+
+[[repo]]
+url = "https://github.com/skip-mev/docs"
+
+[[repo]]
+url = "https://github.com/skip-mev/duality"
+
+[[repo]]
+url = "https://github.com/skip-mev/dydx-cometbft"
+
+[[repo]]
+url = "https://github.com/skip-mev/dydx-v4"
+
+[[repo]]
+url = "https://github.com/skip-mev/evmos"
+
+[[repo]]
+url = "https://github.com/skip-mev/governor"
+
+[[repo]]
+url = "https://github.com/skip-mev/ibc-dot-fun"
+
+[[repo]]
+url = "https://github.com/skip-mev/interchaintest"
+
+[[repo]]
+url = "https://github.com/skip-mev/juno"
+
+[[repo]]
+url = "https://github.com/skip-mev/loadtest"
+
+[[repo]]
+url = "https://github.com/skip-mev/mempool-checker"
+
+[[repo]]
+url = "https://github.com/skip-mev/mev-cometbft"
 
 [[repo]]
 url = "https://github.com/skip-mev/mev-tendermint"
@@ -28,10 +76,55 @@ url = "https://github.com/skip-mev/mev-tendermint"
 url = "https://github.com/skip-mev/osmosis-protorev"
 
 [[repo]]
+url = "https://github.com/skip-mev/pob"
+
+[[repo]]
+url = "https://github.com/skip-mev/protorev-py"
+
+[[repo]]
+url = "https://github.com/skip-mev/relayer"
+
+[[repo]]
+url = "https://github.com/skip-mev/searcher-tendermint"
+
+[[repo]]
+url = "https://github.com/skip-mev/skip-api-contracts"
+
+[[repo]]
+url = "https://github.com/skip-mev/skip-frontend"
+
+[[repo]]
 url = "https://github.com/skip-mev/skip-go"
 
 [[repo]]
 url = "https://github.com/skip-mev/skip-py"
 
 [[repo]]
+url = "https://github.com/skip-mev/skip-router-sdk"
+
+[[repo]]
 url = "https://github.com/skip-mev/skipjs"
+
+[[repo]]
+url = "https://github.com/skip-mev/skipper"
+
+[[repo]]
+url = "https://github.com/skip-mev/stargaze-anywhere"
+
+[[repo]]
+url = "https://github.com/skip-mev/terra-core"
+
+[[repo]]
+url = "https://github.com/skip-mev/terraform-aws-vpc"
+
+[[repo]]
+url = "https://github.com/skip-mev/tm-load-test"
+
+[[repo]]
+url = "https://github.com/skip-mev/traefik-jsonrpc-filter"
+
+[[repo]]
+url = "https://github.com/skip-mev/traefik-path-filter"
+
+[[repo]]
+url = "https://github.com/skip-mev/vote-ext-oracle-demo"

@@ -49,12 +49,6 @@ url = "https://github.com/marscoin/liteaddress.org"
 url = "https://github.com/marscoin/litecoin-faucet"
 
 [[repo]]
-url = "https://github.com/marscoin/Litesight"
-
-[[repo]]
-url = "https://github.com/marscoin/Litesight-api"
-
-[[repo]]
 url = "https://github.com/marscoin/loafwallet-android"
 
 [[repo]]
@@ -67,6 +61,9 @@ url = "https://github.com/marscoin/loafwallet-ios"
 url = "https://github.com/marscoin/marscoin"
 
 [[repo]]
+url = "https://github.com/marscoin/marscoin-seeder"
+
+[[repo]]
 url = "https://github.com/marscoin/marscoinj"
 
 [[repo]]
@@ -74,6 +71,15 @@ url = "https://github.com/marscoin/marscoinstats"
 
 [[repo]]
 url = "https://github.com/marscoin/marscointip"
+
+[[repo]]
+url = "https://github.com/marscoin/Marscore"
+
+[[repo]]
+url = "https://github.com/marscoin/marscore-lib"
+
+[[repo]]
+url = "https://github.com/marscoin/marskit"
 
 [[repo]]
 url = "https://github.com/marscoin/marsposbal2csv"
@@ -94,7 +100,16 @@ url = "https://github.com/marscoin/martianrepublic"
 url = "https://github.com/marscoin/massive"
 
 [[repo]]
+url = "https://github.com/marscoin/mempool"
+
+[[repo]]
+url = "https://github.com/marscoin/mining-pools"
+
+[[repo]]
 url = "https://github.com/marscoin/multimars"
+
+[[repo]]
+url = "https://github.com/marscoin/node-buffers"
 
 [[repo]]
 url = "https://github.com/marscoin/pebas"

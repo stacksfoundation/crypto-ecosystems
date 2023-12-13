@@ -16,7 +16,22 @@ url = "https://github.com/blockscout/absinthe_plug"
 url = "https://github.com/blockscout/actix-prost"
 
 [[repo]]
+url = "https://github.com/blockscout/alpine-elixir"
+
+[[repo]]
+url = "https://github.com/blockscout/alpine-elixir-phoenix"
+
+[[repo]]
+url = "https://github.com/blockscout/alpine-erlang"
+
+[[repo]]
+url = "https://github.com/blockscout/asset"
+
+[[repo]]
 url = "https://github.com/blockscout/blockscout"
+
+[[repo]]
+url = "https://github.com/blockscout/blockscout-api-v2-swagger"
 
 [[repo]]
 url = "https://github.com/blockscout/blockscout-ci-cd"
@@ -40,10 +55,25 @@ url = "https://github.com/blockscout/docs"
 url = "https://github.com/blockscout/eth"
 
 [[repo]]
+url = "https://github.com/blockscout/eth-vegeta"
+
+[[repo]]
+url = "https://github.com/blockscout/frontend"
+
+[[repo]]
+url = "https://github.com/blockscout/frontend-configs"
+
+[[repo]]
+url = "https://github.com/blockscout/helm-charts"
+
+[[repo]]
 url = "https://github.com/blockscout/sol-to-uml"
 
 [[repo]]
 url = "https://github.com/blockscout/solc-bin"
+
+[[repo]]
+url = "https://github.com/blockscout/terraform-aws-polygon-technology-edge"
 
 [[repo]]
 url = "https://github.com/blockscout/terraform-for-supernet"
@@ -56,3 +86,6 @@ url = "https://github.com/blockscout/verification"
 
 [[repo]]
 url = "https://github.com/blockscout/verified-smart-contracts"
+
+[[repo]]
+url = "https://github.com/blockscout/websocket_client"

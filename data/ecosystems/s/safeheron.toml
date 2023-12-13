@@ -13,6 +13,12 @@ url = "https://github.com/Safeheron/bip39"
 url = "https://github.com/Safeheron/crypto-bip32-cpp"
 
 [[repo]]
+url = "https://github.com/Safeheron/crypto-bip32-js"
+
+[[repo]]
+url = "https://github.com/Safeheron/crypto-bip39-cpp"
+
+[[repo]]
 url = "https://github.com/Safeheron/crypto-bn-cpp"
 
 [[repo]]
@@ -64,10 +70,25 @@ url = "https://github.com/Safeheron/crypto-zkp-js"
 url = "https://github.com/Safeheron/ed25519-donna"
 
 [[repo]]
+url = "https://github.com/Safeheron/integer-factorization"
+
+[[repo]]
 url = "https://github.com/Safeheron/Keystone-cold-app"
 
 [[repo]]
+url = "https://github.com/Safeheron/master-key-derive-js"
+
+[[repo]]
+url = "https://github.com/Safeheron/mpc-flow-cpp"
+
+[[repo]]
 url = "https://github.com/Safeheron/mpcsnap"
+
+[[repo]]
+url = "https://github.com/Safeheron/multi-party-ecdsa-cpp"
+
+[[repo]]
+url = "https://github.com/Safeheron/openssl"
 
 [[repo]]
 url = "https://github.com/Safeheron/safeheron-api-sdk-go"
@@ -77,6 +98,9 @@ url = "https://github.com/Safeheron/safeheron-api-sdk-java"
 
 [[repo]]
 url = "https://github.com/Safeheron/safeheron-api-sdk-js"
+
+[[repo]]
+url = "https://github.com/Safeheron/safeheron-api-sdk-python"
 
 [[repo]]
 url = "https://github.com/Safeheron/safeheron-crypto-suites-cpp"

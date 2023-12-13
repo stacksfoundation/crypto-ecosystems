@@ -67,6 +67,9 @@ url = "https://github.com/FleekHQ/fleekon"
 url = "https://github.com/FleekHQ/gatsby-plugin-ipfs"
 
 [[repo]]
+url = "https://github.com/FleekHQ/gatsby-template"
+
+[[repo]]
 url = "https://github.com/FleekHQ/gitops-helm"
 
 [[repo]]
@@ -130,6 +133,9 @@ url = "https://github.com/FleekHQ/space-services"
 url = "https://github.com/FleekHQ/space-web"
 
 [[repo]]
+url = "https://github.com/FleekHQ/svelte"
+
+[[repo]]
 url = "https://github.com/FleekHQ/svelte-test"
 
 [[repo]]
@@ -140,6 +146,9 @@ url = "https://github.com/FleekHQ/textile"
 
 [[repo]]
 url = "https://github.com/FleekHQ/tflow"
+
+[[repo]]
+url = "https://github.com/FleekHQ/vercel-test"
 
 [[repo]]
 url = "https://github.com/FleekHQ/web3.js"

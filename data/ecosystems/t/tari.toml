@@ -71,6 +71,9 @@ url = "https://github.com/tari-labs/action-eslint"
 url = "https://github.com/tari-labs/actix-broker"
 
 [[repo]]
+url = "https://github.com/tari-labs/aptos-marketplace-contract"
+
+[[repo]]
 url = "https://github.com/tari-labs/block-explorer-frontend-2"
 
 [[repo]]
@@ -117,6 +120,9 @@ url = "https://github.com/tari-labs/pacman"
 url = "https://github.com/tari-labs/paperclip"
 
 [[repo]]
+url = "https://github.com/tari-labs/randomx-rs"
+
+[[repo]]
 url = "https://github.com/tari-labs/rust-playground"
 
 [[repo]]
@@ -132,6 +138,9 @@ url = "https://github.com/tari-labs/tari-crypto-android"
 url = "https://github.com/tari-labs/tari-crypto-ios"
 
 [[repo]]
+url = "https://github.com/tari-labs/tari-dot-com-1"
+
+[[repo]]
 url = "https://github.com/tari-labs/tari-university"
 
 [[repo]]
@@ -142,6 +151,9 @@ url = "https://github.com/tari-labs/widdershins"
 
 [[repo]]
 url = "https://github.com/tari-labs/yamux"
+
+[[repo]]
+url = "https://github.com/tari-labs/yat-steganography"
 
 [[repo]]
 url = "https://github.com/tari-project/action-buildlibs"
@@ -177,6 +189,9 @@ url = "https://github.com/tari-project/curve25519-dalek"
 url = "https://github.com/tari-project/daily-tests"
 
 [[repo]]
+url = "https://github.com/tari-project/dan-testing"
+
+[[repo]]
 url = "https://github.com/tari-project/deploy"
 
 [[repo]]
@@ -189,7 +204,13 @@ url = "https://github.com/tari-project/gh-pilot"
 url = "https://github.com/tari-project/github-action"
 
 [[repo]]
+url = "https://github.com/tari-project/ledger"
+
+[[repo]]
 url = "https://github.com/tari-project/lmdb-rs"
+
+[[repo]]
+url = "https://github.com/tari-project/log4rs"
 
 [[repo]]
 url = "https://github.com/tari-project/meta"
@@ -253,7 +274,16 @@ url = "https://github.com/tari-project/tari-common-ios"
 url = "https://github.com/tari-project/tari-config-generator"
 
 [[repo]]
+url = "https://github.com/tari-project/tari-connector"
+
+[[repo]]
 url = "https://github.com/tari-project/tari-crypto"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-crypto-ffi"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-crypto-wasm"
 
 [[repo]]
 url = "https://github.com/tari-project/tari-dan"
@@ -274,7 +304,7 @@ url = "https://github.com/tari-project/tari-launchpad"
 url = "https://github.com/tari-project/tari-scanner"
 
 [[repo]]
-url = "https://github.com/tari-project/tari-wallet-grpc-client"
+url = "https://github.com/tari-project/tari-snap"
 
 [[repo]]
 url = "https://github.com/tari-project/tari-web-extension"
@@ -290,6 +320,9 @@ url = "https://github.com/tari-project/tari_utilities"
 
 [[repo]]
 url = "https://github.com/tari-project/test-faucet"
+
+[[repo]]
+url = "https://github.com/tari-project/test-templates"
 
 [[repo]]
 url = "https://github.com/tari-project/tokio-socks"

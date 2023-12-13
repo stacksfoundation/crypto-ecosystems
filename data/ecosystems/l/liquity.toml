@@ -55,7 +55,13 @@ url = "https://github.com/liquity/dsa-resolvers"
 url = "https://github.com/liquity/echidna"
 
 [[repo]]
+url = "https://github.com/liquity/eth-phishing-detect"
+
+[[repo]]
 url = "https://github.com/liquity/eth-security-toolbox"
+
+[[repo]]
+url = "https://github.com/liquity/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/liquity/example-aave-v2-listing"
@@ -71,9 +77,6 @@ url = "https://github.com/liquity/liqbot"
 
 [[repo]]
 url = "https://github.com/liquity/liquity"
-
-[[repo]]
-url = "https://github.com/liquity/lqty-circulating-supply"
 
 [[repo]]
 url = "https://github.com/liquity/mev-job-board"

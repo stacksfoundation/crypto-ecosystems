@@ -13,6 +13,18 @@ url = "https://github.com/LP-Finance-Inc/airdrop"
 url = "https://github.com/LP-Finance-Inc/apricot.lp.finance"
 
 [[repo]]
+url = "https://github.com/LP-Finance-Inc/dapp-whitelist"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/docs.lp.finance"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/governance"
+
+[[repo]]
 url = "https://github.com/LP-Finance-Inc/governance-ui"
 
 [[repo]]
@@ -55,10 +67,16 @@ url = "https://github.com/LP-Finance-Inc/nlp-staking-cpi"
 url = "https://github.com/LP-Finance-Inc/saucier-whitepaper"
 
 [[repo]]
+url = "https://github.com/LP-Finance-Inc/sbv2-solana"
+
+[[repo]]
 url = "https://github.com/LP-Finance-Inc/shop.lp.finance"
 
 [[repo]]
 url = "https://github.com/LP-Finance-Inc/solend.lp.finance"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/space-station"
 
 [[repo]]
 url = "https://github.com/LP-Finance-Inc/swap-base"
@@ -71,3 +89,15 @@ url = "https://github.com/LP-Finance-Inc/token-image"
 
 [[repo]]
 url = "https://github.com/LP-Finance-Inc/token-list"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/twamm"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/twamm-crank"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/twamm-lite"
+
+[[repo]]
+url = "https://github.com/LP-Finance-Inc/twamm-registry"

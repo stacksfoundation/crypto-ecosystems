@@ -73,10 +73,16 @@ url = "https://github.com/Holo-Host/dummy-dna"
 url = "https://github.com/Holo-Host/dummy-ui"
 
 [[repo]]
+url = "https://github.com/Holo-Host/EIP-712"
+
+[[repo]]
 url = "https://github.com/Holo-Host/el-chat-qa"
 
 [[repo]]
 url = "https://github.com/Holo-Host/happ-template"
+
+[[repo]]
+url = "https://github.com/Holo-Host/hc-multiplexer"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hc-react-redux-framework"
@@ -193,6 +199,9 @@ url = "https://github.com/Holo-Host/holofuel-model"
 url = "https://github.com/Holo-Host/holofuel-python"
 
 [[repo]]
+url = "https://github.com/Holo-Host/holofuel-service-crates"
+
+[[repo]]
 url = "https://github.com/Holo-Host/holofuel-ui"
 
 [[repo]]
@@ -238,10 +247,16 @@ url = "https://github.com/Holo-Host/hpos-configure-holochain"
 url = "https://github.com/Holo-Host/hpos-seed"
 
 [[repo]]
+url = "https://github.com/Holo-Host/hpos-service-crates"
+
+[[repo]]
 url = "https://github.com/Holo-Host/hpos-update"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hpstatus"
+
+[[repo]]
+url = "https://github.com/Holo-Host/hrl-gateway-node"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hydra-testing-repo"
@@ -317,6 +332,9 @@ url = "https://github.com/Holo-Host/tryorama-rsm"
 
 [[repo]]
 url = "https://github.com/Holo-Host/ui-common-library"
+
+[[repo]]
+url = "https://github.com/Holo-Host/wasm-key-manager"
 
 [[repo]]
 url = "https://github.com/Holo-Host/web-sdk"

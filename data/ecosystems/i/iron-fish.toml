@@ -10,7 +10,7 @@ github_organizations = ["https://github.com/iron-fish"]
 url = "https://github.com/iron-fish/bellman"
 
 [[repo]]
-url = "https://github.com/iron-fish/bellman-neptune"
+url = "https://github.com/iron-fish/bellperson"
 
 [[repo]]
 url = "https://github.com/iron-fish/bfilter"
@@ -19,13 +19,16 @@ url = "https://github.com/iron-fish/bfilter"
 url = "https://github.com/iron-fish/block-explorer"
 
 [[repo]]
-url = "https://github.com/iron-fish/block-explorer-v2"
-
-[[repo]]
 url = "https://github.com/iron-fish/chain-explorer"
 
 [[repo]]
 url = "https://github.com/iron-fish/docker-compose"
+
+[[repo]]
+url = "https://github.com/iron-fish/FIPs"
+
+[[repo]]
+url = "https://github.com/iron-fish/FIPs-OLD"
 
 [[repo]]
 url = "https://github.com/iron-fish/graph-explorer"
@@ -40,10 +43,31 @@ url = "https://github.com/iron-fish/ironfish"
 url = "https://github.com/iron-fish/ironfish-api"
 
 [[repo]]
+url = "https://github.com/iron-fish/ironfish-tank"
+
+[[repo]]
+url = "https://github.com/iron-fish/ironfish-wallet-cli"
+
+[[repo]]
+url = "https://github.com/iron-fish/jubjub"
+
+[[repo]]
 url = "https://github.com/iron-fish/librustzcash"
 
 [[repo]]
 url = "https://github.com/iron-fish/neptune-bellman"
+
+[[repo]]
+url = "https://github.com/iron-fish/node-app"
+
+[[repo]]
+url = "https://github.com/iron-fish/perf-test"
+
+[[repo]]
+url = "https://github.com/iron-fish/pool-check"
+
+[[repo]]
+url = "https://github.com/iron-fish/proxy-example"
 
 [[repo]]
 url = "https://github.com/iron-fish/simple-peer"
@@ -56,6 +80,9 @@ url = "https://github.com/iron-fish/ui-kit"
 
 [[repo]]
 url = "https://github.com/iron-fish/wallet-app"
+
+[[repo]]
+url = "https://github.com/iron-fish/wallet-server"
 
 [[repo]]
 url = "https://github.com/iron-fish/website"

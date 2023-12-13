@@ -7,13 +7,16 @@ github_organizations = ["https://github.com/0xsequence"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/0xsequence/chainalysis"
+
+[[repo]]
 url = "https://github.com/0xsequence/collectible-lists"
 
 [[repo]]
-url = "https://github.com/0xsequence/contracts-boiler-plate"
+url = "https://github.com/0xsequence/contracts-boilerplate"
 
 [[repo]]
-url = "https://github.com/0xsequence/contracts-boilerplate"
+url = "https://github.com/0xsequence/contracts-library"
 
 [[repo]]
 url = "https://github.com/0xsequence/create3"
@@ -28,6 +31,9 @@ url = "https://github.com/0xsequence/demo-dapp-rainbowkit"
 url = "https://github.com/0xsequence/demo-dapp-wagmi"
 
 [[repo]]
+url = "https://github.com/0xsequence/demo-dapp-wagmi-next"
+
+[[repo]]
 url = "https://github.com/0xsequence/demo-dapp-web3-onboard"
 
 [[repo]]
@@ -37,7 +43,7 @@ url = "https://github.com/0xsequence/demo-dapp-web3-react"
 url = "https://github.com/0xsequence/demo-dapp-web3modal"
 
 [[repo]]
-url = "https://github.com/0xsequence/demo-unity-webgl-game"
+url = "https://github.com/0xsequence/demo-sequence-drop"
 
 [[repo]]
 url = "https://github.com/0xsequence/demo-unreal-game"
@@ -67,13 +73,22 @@ url = "https://github.com/0xsequence/ethkit"
 url = "https://github.com/0xsequence/go-ethauth"
 
 [[repo]]
+url = "https://github.com/0xsequence/go-opensea"
+
+[[repo]]
 url = "https://github.com/0xsequence/go-sequence"
 
 [[repo]]
 url = "https://github.com/0xsequence/go-tokendirectory"
 
 [[repo]]
-url = "https://github.com/0xsequence/item-purchase-contracts"
+url = "https://github.com/0xsequence/kit"
+
+[[repo]]
+url = "https://github.com/0xsequence/live-contracts"
+
+[[repo]]
+url = "https://github.com/0xsequence/marketplace-contracts"
 
 [[repo]]
 url = "https://github.com/0xsequence/nifty-contracts"
@@ -91,16 +106,25 @@ url = "https://github.com/0xsequence/niftyswap-docs"
 url = "https://github.com/0xsequence/niftyswap-feedback"
 
 [[repo]]
-url = "https://github.com/0xsequence/niftyup-contracts"
+url = "https://github.com/0xsequence/nitrocontrol"
+
+[[repo]]
+url = "https://github.com/0xsequence/payment-proxy"
 
 [[repo]]
 url = "https://github.com/0xsequence/public-roadmap"
+
+[[repo]]
+url = "https://github.com/0xsequence/quotacontrol"
 
 [[repo]]
 url = "https://github.com/0xsequence/rainbowkit-plugin"
 
 [[repo]]
 url = "https://github.com/0xsequence/reorgme"
+
+[[repo]]
+url = "https://github.com/0xsequence/sequence-debugger"
 
 [[repo]]
 url = "https://github.com/0xsequence/sequence.js"

@@ -71,16 +71,10 @@ url = "https://github.com/AElfProject/aelf-community"
 url = "https://github.com/AElfProject/aelf-community-activity"
 
 [[repo]]
-url = "https://github.com/AElfProject/aelf-consensus-playground"
-
-[[repo]]
 url = "https://github.com/AElfProject/aelf-contract-decompiler"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-contract-viewer"
-
-[[repo]]
-url = "https://github.com/AElfProject/aelf-decentralized-autonomous-organization"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-devops"
@@ -92,7 +86,16 @@ url = "https://github.com/AElfProject/aelf-dex"
 url = "https://github.com/AElfProject/aelf-examples"
 
 [[repo]]
+url = "https://github.com/AElfProject/aelf-examples-archive"
+
+[[repo]]
 url = "https://github.com/AElfProject/aelf-faucet-contract"
+
+[[repo]]
+url = "https://github.com/AElfProject/aelf-js-bridge"
+
+[[repo]]
+url = "https://github.com/AElfProject/aelf-ledger-wallet"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-lot-api"
@@ -104,7 +107,7 @@ url = "https://github.com/AElfProject/aelf-lottery"
 url = "https://github.com/AElfProject/aelf-map-subgraph"
 
 [[repo]]
-url = "https://github.com/AElfProject/aelf-oracle"
+url = "https://github.com/AElfProject/aelf-nextjs"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-oracle-page"
@@ -120,9 +123,6 @@ url = "https://github.com/AElfProject/aelf-quadratic-api"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-quadratic-funding-contract"
-
-[[repo]]
-url = "https://github.com/AElfProject/aelf-random-number-cases"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-random-number-cases-front"
@@ -143,22 +143,13 @@ url = "https://github.com/AElfProject/aelf-sdk.go"
 url = "https://github.com/AElfProject/aelf-sdk.java"
 
 [[repo]]
-url = "https://github.com/AElfProject/aelf-sdk.js"
-
-[[repo]]
 url = "https://github.com/AElfProject/aelf-sdk.php"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-sdk.py"
 
 [[repo]]
-url = "https://github.com/AElfProject/aelf-stablecoin"
-
-[[repo]]
 url = "https://github.com/AElfProject/aelf-strapi-cms"
-
-[[repo]]
-url = "https://github.com/AElfProject/aelf-swap"
 
 [[repo]]
 url = "https://github.com/AElfProject/aelf-token-bonus"
@@ -182,10 +173,16 @@ url = "https://github.com/AElfProject/aelf-web-proxy"
 url = "https://github.com/AElfProject/aelf-web-wallet"
 
 [[repo]]
+url = "https://github.com/AElfProject/aelf-web3.js"
+
+[[repo]]
 url = "https://github.com/AElfProject/aelf-webserver"
 
 [[repo]]
-url = "https://github.com/AElfProject/AElf.WebServer"
+url = "https://github.com/AElfProject/AElf.LinqToElasticSearch"
+
+[[repo]]
+url = "https://github.com/AElfProject/AElf.Orleans.Streams.Kafka"
 
 [[repo]]
 url = "https://github.com/AElfProject/AElfDocs"
@@ -269,6 +266,9 @@ url = "https://github.com/AElfProject/ethereum_scanner"
 url = "https://github.com/AElfProject/eventeum"
 
 [[repo]]
+url = "https://github.com/AElfProject/examples"
+
+[[repo]]
 url = "https://github.com/AElfProject/financing-platform"
 
 [[repo]]
@@ -296,6 +296,12 @@ url = "https://github.com/AElfProject/insight-api"
 url = "https://github.com/AElfProject/insight-ui"
 
 [[repo]]
+url = "https://github.com/AElfProject/ledger-live"
+
+[[repo]]
+url = "https://github.com/AElfProject/LedgerHQ-app-aelf"
+
+[[repo]]
 url = "https://github.com/AElfProject/market"
 
 [[repo]]
@@ -317,10 +323,10 @@ url = "https://github.com/AElfProject/Orleans.EventSourcing.Snapshot"
 url = "https://github.com/AElfProject/Parser"
 
 [[repo]]
-url = "https://github.com/AElfProject/random-number"
+url = "https://github.com/AElfProject/Sashimi"
 
 [[repo]]
-url = "https://github.com/AElfProject/Sashimi"
+url = "https://github.com/AElfProject/Secp256k1.Net"
 
 [[repo]]
 url = "https://github.com/AElfProject/signer"
@@ -341,6 +347,9 @@ url = "https://github.com/AElfProject/token-swap"
 url = "https://github.com/AElfProject/trader"
 
 [[repo]]
+url = "https://github.com/AElfProject/vault-plugin-secrets-elfsign"
+
+[[repo]]
 url = "https://github.com/AElfProject/wallet_android"
 
 [[repo]]
@@ -348,3 +357,21 @@ url = "https://github.com/AElfProject/wallet_ios"
 
 [[repo]]
 url = "https://github.com/AElfProject/webtoken"
+
+[[repo]]
+url = "https://github.com/EanCuznaivy/aelf-consensus-playground"
+
+[[repo]]
+url = "https://github.com/EanCuznaivy/aelf-decentralized-autonomous-organization"
+
+[[repo]]
+url = "https://github.com/hzz780/aelf-random-number-cases"
+
+[[repo]]
+url = "https://github.com/hzz780/aelf-stablecoin"
+
+[[repo]]
+url = "https://github.com/hzz780/aelf-swap"
+
+[[repo]]
+url = "https://github.com/PortAllProject/port-all-contracts"

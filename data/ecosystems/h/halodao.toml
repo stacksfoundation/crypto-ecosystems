@@ -7,94 +7,94 @@ github_organizations = ["https://github.com/HaloDAO"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/HaloDAO/amm-contracts"
-
-[[repo]]
-url = "https://github.com/HaloDAO/arbitrum"
-
-[[repo]]
-url = "https://github.com/HaloDAO/assets"
-
-[[repo]]
-url = "https://github.com/HaloDAO/contract-metadata"
-
-[[repo]]
-url = "https://github.com/HaloDAO/default-token-list"
-
-[[repo]]
-url = "https://github.com/HaloDAO/emp-tools"
-
-[[repo]]
-url = "https://github.com/HaloDAO/halo-rewards-archive"
-
-[[repo]]
-url = "https://github.com/HaloDAO/halo-rewards-v0"
-
-[[repo]]
 url = "https://github.com/HaloDAO/halo-rewards-v1"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-contract-addresses"
+url = "https://github.com/xave-finance/amm-contracts"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-documentation"
+url = "https://github.com/xave-finance/arbitrum"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-exchange"
+url = "https://github.com/xave-finance/assets"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-interface"
+url = "https://github.com/xave-finance/contract-metadata"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-interface-archive"
+url = "https://github.com/xave-finance/default-token-list"
 
 [[repo]]
-url = "https://github.com/HaloDAO/halodao-sdk"
+url = "https://github.com/xave-finance/emp-tools"
 
 [[repo]]
-url = "https://github.com/HaloDAO/lending-market-v1"
+url = "https://github.com/xave-finance/halo-rewards-archive"
 
 [[repo]]
-url = "https://github.com/HaloDAO/mochifi-web"
+url = "https://github.com/xave-finance/halo-rewards-v0"
 
 [[repo]]
-url = "https://github.com/HaloDAO/OLM"
+url = "https://github.com/xave-finance/halodao-contract-addresses"
 
 [[repo]]
-url = "https://github.com/HaloDAO/protocol"
+url = "https://github.com/xave-finance/halodao-documentation"
 
 [[repo]]
-url = "https://github.com/HaloDAO/protocol-v2-subgraph"
+url = "https://github.com/xave-finance/halodao-exchange"
 
 [[repo]]
-url = "https://github.com/HaloDAO/review-halo-bridge-handler-2021-08"
+url = "https://github.com/xave-finance/halodao-interface"
 
 [[repo]]
-url = "https://github.com/HaloDAO/review-halo-rewards-2021-08"
+url = "https://github.com/xave-finance/halodao-interface-archive"
 
 [[repo]]
-url = "https://github.com/HaloDAO/review-halo-token-bridge-2021-08"
+url = "https://github.com/xave-finance/halodao-sdk"
 
 [[repo]]
-url = "https://github.com/HaloDAO/review-halodao-rewards-2021-06"
+url = "https://github.com/xave-finance/lending-market-v1"
 
 [[repo]]
-url = "https://github.com/HaloDAO/rewards-dapp-template-06"
+url = "https://github.com/xave-finance/mochifi-web"
 
 [[repo]]
-url = "https://github.com/HaloDAO/snapshot-spaces"
+url = "https://github.com/xave-finance/OLM"
 
 [[repo]]
-url = "https://github.com/HaloDAO/snapshot.js"
+url = "https://github.com/xave-finance/protocol"
 
 [[repo]]
-url = "https://github.com/HaloDAO/UMIPs"
+url = "https://github.com/xave-finance/protocol-v2-subgraph"
 
 [[repo]]
-url = "https://github.com/HaloDAO/uniswap-v2-core"
+url = "https://github.com/xave-finance/review-halo-bridge-handler-2021-08"
 
 [[repo]]
-url = "https://github.com/HaloDAO/uniswap-v2-periphery"
+url = "https://github.com/xave-finance/review-halo-rewards-2021-08"
 
 [[repo]]
-url = "https://github.com/HaloDAO/xave-contract-addresses"
+url = "https://github.com/xave-finance/review-halo-token-bridge-2021-08"
+
+[[repo]]
+url = "https://github.com/xave-finance/review-halodao-rewards-2021-06"
+
+[[repo]]
+url = "https://github.com/xave-finance/rewards-dapp-template-06"
+
+[[repo]]
+url = "https://github.com/xave-finance/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/xave-finance/snapshot.js"
+
+[[repo]]
+url = "https://github.com/xave-finance/UMIPs"
+
+[[repo]]
+url = "https://github.com/xave-finance/uniswap-v2-core"
+
+[[repo]]
+url = "https://github.com/xave-finance/uniswap-v2-periphery"
+
+[[repo]]
+url = "https://github.com/xave-finance/xave-contract-addresses"

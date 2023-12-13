@@ -40,7 +40,13 @@ url = "https://github.com/ImpossibleFinance/chainlist"
 url = "https://github.com/ImpossibleFinance/chains"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/darkforest-local"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/dflobbies"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/EVM-Research"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/ido-pool"
@@ -53,6 +59,9 @@ url = "https://github.com/ImpossibleFinance/impossible-blog"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/impossible-farm"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/Impossible-finance-IDO"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/impossible-front-v1"
@@ -83,6 +92,9 @@ url = "https://github.com/ImpossibleFinance/impossiblechainlist"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/launchpad-contracts"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/multichain-framework-deprecated"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/pancake-swap-interface"

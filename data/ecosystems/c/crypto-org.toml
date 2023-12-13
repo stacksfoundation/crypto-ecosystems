@@ -37,6 +37,9 @@ url = "https://github.com/crypto-org-chain/chainlib-rs"
 url = "https://github.com/crypto-org-chain/chainlibpy"
 
 [[repo]]
+url = "https://github.com/crypto-org-chain/cometbft-db"
+
+[[repo]]
 url = "https://github.com/crypto-org-chain/cosmos-sdk"
 
 [[repo]]
@@ -94,7 +97,16 @@ url = "https://github.com/crypto-org-chain/ethermint"
 url = "https://github.com/crypto-org-chain/go-ethereum"
 
 [[repo]]
+url = "https://github.com/crypto-org-chain/go-ethereum-hdwallet"
+
+[[repo]]
 url = "https://github.com/crypto-org-chain/gravity-bridge"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/grocksdb"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/hermes"
 
 [[repo]]
 url = "https://github.com/crypto-org-chain/homebrew-chain-maind"
@@ -115,10 +127,16 @@ url = "https://github.com/crypto-org-chain/mainnet"
 url = "https://github.com/crypto-org-chain/nft-webtool"
 
 [[repo]]
+url = "https://github.com/crypto-org-chain/relayer"
+
+[[repo]]
 url = "https://github.com/crypto-org-chain/tendermint"
 
 [[repo]]
 url = "https://github.com/crypto-org-chain/testnets"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/tm-db"
 
 [[repo]]
 url = "https://github.com/crypto-org-chain/wasmd"

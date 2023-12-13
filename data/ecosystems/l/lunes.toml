@@ -7,19 +7,76 @@ github_organizations = ["https://github.com/Lunes-platform"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/lunes-legacy/Block-explorer"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/Brazilian_barcode"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/EmailTemplate"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/libpag"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/lnd-explorer"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/lunes-lib"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/lunes-purchase"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/LunesCash"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/lunesico"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/lunesJava"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/multicoin-address-validator"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/node-electrum-client"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/node-mautic"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/onpremise"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/serverless-plugin-final-config"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/tea-school"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/trello-burndown"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/Wallet-mobile"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/Wallet-web"
+
+[[repo]]
+url = "https://github.com/lunes-legacy/WalletGenerator"
+
+[[repo]]
 url = "https://github.com/Lunes-platform/.github"
+
+[[repo]]
+url = "https://github.com/lunes-platform/apps.node.dev"
 
 [[repo]]
 url = "https://github.com/lunes-platform/asset-icons"
 
 [[repo]]
 url = "https://github.com/lunes-platform/base"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/Block-explorer"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/Brazilian_barcode"
 
 [[repo]]
 url = "https://github.com/lunes-platform/cancel-leasing"
@@ -31,46 +88,19 @@ url = "https://github.com/Lunes-platform/Crypto-Liquidity-Making-Bot"
 url = "https://github.com/lunes-platform/ed25519-axolotl"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/EmailTemplate"
-
-[[repo]]
-url = "https://github.com/lunes-platform/full-node"
-
-[[repo]]
 url = "https://github.com/Lunes-platform/install_node"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/libpag"
 
 [[repo]]
 url = "https://github.com/Lunes-platform/litpay"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/lnd-explorer"
-
-[[repo]]
-url = "https://github.com/lunes-platform/lunes-axolotl"
-
-[[repo]]
 url = "https://github.com/lunes-platform/lunes-cli"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/lunes-js-api"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/lunes-lib"
-
-[[repo]]
-url = "https://github.com/lunes-platform/lunes-lite"
+url = "https://github.com/lunes-platform/lunes-nightly"
 
 [[repo]]
 url = "https://github.com/lunes-platform/lunes-node"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/lunes-purchase"
-
-[[repo]]
-url = "https://github.com/lunes-platform/lunes-wasm"
 
 [[repo]]
 url = "https://github.com/Lunes-platform/Lunes_Wallet"
@@ -79,22 +109,10 @@ url = "https://github.com/Lunes-platform/Lunes_Wallet"
 url = "https://github.com/lunes-platform/lunes_wasm"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/LunesCash"
-
-[[repo]]
-url = "https://github.com/lunes-platform/lunescrab"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/lunesico"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/lunesJava"
+url = "https://github.com/lunes-platform/lunesexplorer"
 
 [[repo]]
 url = "https://github.com/Lunes-platform/lunesjs"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/LunesNode"
 
 [[repo]]
 url = "https://github.com/Lunes-platform/LunesPy"
@@ -109,16 +127,7 @@ url = "https://github.com/lunes-platform/lunesui"
 url = "https://github.com/lunes-platform/lunesweb"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/multicoin-address-validator"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/node-electrum-client"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/node-mautic"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/onpremise"
+url = "https://github.com/lunes-platform/old-lunes-nightly"
 
 [[repo]]
 url = "https://github.com/lunes-platform/project-22"
@@ -130,12 +139,6 @@ url = "https://github.com/lunes-platform/public-images"
 url = "https://github.com/lunes-platform/python-ed25519-axolotl"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/serverless-plugin-final-config"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/tea-school"
-
-[[repo]]
 url = "https://github.com/lunes-platform/telescope"
 
 [[repo]]
@@ -145,19 +148,10 @@ url = "https://github.com/Lunes-platform/temp-page"
 url = "https://github.com/lunes-platform/testando-chave-gpg"
 
 [[repo]]
-url = "https://github.com/Lunes-platform/trello-burndown"
+url = "https://github.com/lunes-platform/TokenUp-BSC"
 
 [[repo]]
 url = "https://github.com/Lunes-platform/Wallet-landing"
 
 [[repo]]
 url = "https://github.com/lunes-platform/wallet-lite"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/Wallet-mobile"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/Wallet-web"
-
-[[repo]]
-url = "https://github.com/Lunes-platform/WalletGenerator"

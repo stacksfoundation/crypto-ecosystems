@@ -13,16 +13,25 @@ url = "https://github.com/signum-network/bounties"
 url = "https://github.com/signum-network/business-epics"
 
 [[repo]]
-url = "https://github.com/signum-network/CIPs"
+url = "https://github.com/signum-network/mobile-wallet"
+
+[[repo]]
+url = "https://github.com/signum-network/p0wa-wallet"
 
 [[repo]]
 url = "https://github.com/signum-network/phoenix"
+
+[[repo]]
+url = "https://github.com/signum-network/public-resources"
 
 [[repo]]
 url = "https://github.com/signum-network/RapiDoc"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-account-activator"
+
+[[repo]]
+url = "https://github.com/signum-network/signum-chain-walker"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-classic-wallet"
@@ -38,6 +47,9 @@ url = "https://github.com/signum-network/signum-node"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-node-health-check"
+
+[[repo]]
+url = "https://github.com/signum-network/signum-nostr-nip05"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-plotter"
@@ -56,6 +68,9 @@ url = "https://github.com/signum-network/signum-xt-wallet"
 
 [[repo]]
 url = "https://github.com/signum-network/signum-xt-wallet-fork"
+
+[[repo]]
+url = "https://github.com/signum-network/signum-xt-wallet-web-demo"
 
 [[repo]]
 url = "https://github.com/signum-network/signumj"

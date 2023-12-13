@@ -7,13 +7,46 @@ github_organizations = ["https://github.com/gitcoinco"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/gitcoinco/2022-Governor-upgrade"
+url = "https://github.com/gitcoinco/.github"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-contracts-v1"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-crosschain-poc"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-indexer"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-indexer-client"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-multi-round-checkout"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-v1-graph"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo_dashboard"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo_grant_stack_analytics"
+
+[[repo]]
+url = "https://github.com/gitcoinco/Alpha-Governor-Upgrade"
+
+[[repo]]
+url = "https://github.com/gitcoinco/alpha_round_data_retriever"
 
 [[repo]]
 url = "https://github.com/gitcoinco/android"
 
 [[repo]]
 url = "https://github.com/gitcoinco/avatar-builder"
+
+[[repo]]
+url = "https://github.com/gitcoinco/awesome-gitcoin-passports"
 
 [[repo]]
 url = "https://github.com/gitcoinco/bailoutmainst"
@@ -35,6 +68,9 @@ url = "https://github.com/gitcoinco/cerebro"
 
 [[repo]]
 url = "https://github.com/gitcoinco/cf_eyeo_example"
+
+[[repo]]
+url = "https://github.com/gitcoinco/chainsauce"
 
 [[repo]]
 url = "https://github.com/gitcoinco/code_fund_ads"
@@ -115,13 +151,16 @@ url = "https://github.com/gitcoinco/django-cacheops"
 url = "https://github.com/gitcoinco/downtownstimulus"
 
 [[repo]]
-url = "https://github.com/gitcoinco/dPopp"
-
-[[repo]]
 url = "https://github.com/gitcoinco/dPopp-reader"
 
 [[repo]]
+url = "https://github.com/gitcoinco/eas-proxy"
+
+[[repo]]
 url = "https://github.com/gitcoinco/EIPs"
+
+[[repo]]
+url = "https://github.com/gitcoinco/engineering"
 
 [[repo]]
 url = "https://github.com/gitcoinco/environment-ferretwell-staging"
@@ -145,10 +184,16 @@ url = "https://github.com/gitcoinco/ethical_advertising"
 url = "https://github.com/gitcoinco/ethindia"
 
 [[repo]]
+url = "https://github.com/gitcoinco/gh-workflows"
+
+[[repo]]
 url = "https://github.com/gitcoinco/GIPs"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitbook-KB"
+
+[[repo]]
+url = "https://github.com/gitcoinco/gitcoin-checker"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin-erc721"
@@ -184,16 +229,25 @@ url = "https://github.com/gitcoinco/governance-docs"
 url = "https://github.com/gitcoinco/grant-hub"
 
 [[repo]]
-url = "https://github.com/gitcoinco/grants-hub"
+url = "https://github.com/gitcoinco/grants-round"
 
 [[repo]]
-url = "https://github.com/gitcoinco/grants-round"
+url = "https://github.com/gitcoinco/grants-stack"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-api"
 
 [[repo]]
 url = "https://github.com/gitcoinco/grants1337"
 
 [[repo]]
 url = "https://github.com/gitcoinco/greenpill-party"
+
+[[repo]]
+url = "https://github.com/gitcoinco/gs-direct-grants"
+
+[[repo]]
+url = "https://github.com/gitcoinco/gtc"
 
 [[repo]]
 url = "https://github.com/gitcoinco/hacksummit"
@@ -203,6 +257,9 @@ url = "https://github.com/gitcoinco/hacktoberfest-2020"
 
 [[repo]]
 url = "https://github.com/gitcoinco/honeypot_money"
+
+[[repo]]
+url = "https://github.com/gitcoinco/id-staking"
 
 [[repo]]
 url = "https://github.com/gitcoinco/ios"
@@ -221,6 +278,12 @@ url = "https://github.com/gitcoinco/labs"
 
 [[repo]]
 url = "https://github.com/gitcoinco/lemonade-stand"
+
+[[repo]]
+url = "https://github.com/gitcoinco/linea-attestation-registry"
+
+[[repo]]
+url = "https://github.com/gitcoinco/lit-js-sdk"
 
 [[repo]]
 url = "https://github.com/gitcoinco/Marketing"
@@ -247,16 +310,19 @@ url = "https://github.com/gitcoinco/merkle_payouts"
 url = "https://github.com/gitcoinco/metagraph"
 
 [[repo]]
-url = "https://github.com/gitcoinco/NFTPOC"
+url = "https://github.com/gitcoinco/passport"
 
 [[repo]]
-url = "https://github.com/gitcoinco/passport"
+url = "https://github.com/gitcoinco/passport-components"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-docs"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-reader"
+
+[[repo]]
+url = "https://github.com/gitcoinco/passport-redash"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-scorer"
@@ -269,6 +335,18 @@ url = "https://github.com/gitcoinco/passport-sdk"
 
 [[repo]]
 url = "https://github.com/gitcoinco/PersonhoodPassport"
+
+[[repo]]
+url = "https://github.com/gitcoinco/pgn-docs"
+
+[[repo]]
+url = "https://github.com/gitcoinco/pgn-documentation"
+
+[[repo]]
+url = "https://github.com/gitcoinco/pluralistic.js"
+
+[[repo]]
+url = "https://github.com/gitcoinco/pnpm-docker"
 
 [[repo]]
 url = "https://github.com/gitcoinco/pop_api"
@@ -298,6 +376,9 @@ url = "https://github.com/gitcoinco/Schelling_Point"
 url = "https://github.com/gitcoinco/scorer"
 
 [[repo]]
+url = "https://github.com/gitcoinco/search-spike"
+
+[[repo]]
 url = "https://github.com/gitcoinco/signatures"
 
 [[repo]]
@@ -322,10 +403,19 @@ url = "https://github.com/gitcoinco/sourcecred"
 url = "https://github.com/gitcoinco/Splitter"
 
 [[repo]]
+url = "https://github.com/gitcoinco/statuses-bitmap"
+
+[[repo]]
 url = "https://github.com/gitcoinco/SVG_MultiColor_Exporter"
 
 [[repo]]
 url = "https://github.com/gitcoinco/sxsw"
+
+[[repo]]
+url = "https://github.com/gitcoinco/tracking-proxy"
+
+[[repo]]
+url = "https://github.com/gitcoinco/tulons-ts"
 
 [[repo]]
 url = "https://github.com/gitcoinco/web"

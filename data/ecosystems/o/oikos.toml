@@ -22,6 +22,9 @@ url = "https://github.com/oikos-cash/default-token-list"
 url = "https://github.com/oikos-cash/docs"
 
 [[repo]]
+url = "https://github.com/oikos-cash/drv-splash"
+
+[[repo]]
 url = "https://github.com/oikos-cash/exchange"
 
 [[repo]]
@@ -44,6 +47,9 @@ url = "https://github.com/oikos-cash/minter"
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos"
+
+[[repo]]
+url = "https://github.com/oikos-cash/oikos-assets"
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos-bsc"

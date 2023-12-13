@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/SagaCurrency"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/SagaCurrency/smart-contracts"
+url = "https://github.com/SogurCurrency/smart-contracts"
 
 [[repo]]
-url = "https://github.com/SagaCurrency/verify_voting_results"
+url = "https://github.com/SogurCurrency/verify_voting_results"
